@@ -1,0 +1,15 @@
+226  Chin Med J 2013;126 (2)  Original article    Genetic analyses of Chinese patients with digenic oculocutaneous  albinism    WEI Ai-hua, YANG Xiu-min, LIAN Shi and LI Wei    Keywords: oculocutaneous albinism; genetic testing; digenic mutation    Background    Oculocutaneous albinism (OCA) is a heterogeneous and autosomal recessive disorder in all populations  worldwide.
+The mutational spectra of OCA are population-specific.Some OCA patients carry mutations from different  OCA genes.
+In this study, we investigated the frequency of digenic mutations in Chinese OCA patients Methods    Genomic DNAs were extracted from the blood samples of 184 clinically diagnosed OCA patients and 120  unaffected subjects.
+The amplified DNA segments of the exons and exon-intron boundaries were screened for mutations  of TYR, OCA2, TYRP1, SLC45A2, and HPS1 by direct sequencing.
+To exclude the previously unidentified alleles from  polymorphisms, samples from 120 unaffected controls were sequenced for the same regions of variations Results    In all 184 patients, 134 had two pathologic mutations on one locus.
+Eleven cases had no apparent pathologic  mutations in any of the genes studied.
+Among the remaining 39 patients who had only one pathologic mutation, five  patients (2.7% in total) were found to carry the mutational alleles on a second locus in TYR, OCA2 or SLC45A2.
+Of the  five  digenic  OCA  patients,  four  patients  were  clinically  diagnosed  as  OCA2  and  one  patient  as  OCA1.
+ A  previous  unidentified allele p.G188D in SLC45A2 was identified, which was not present in the 120 unaffected controls.
+   Conclusions    The  identification  of  the  digenic  OCA  patients  suggests  the  synergistic  roles  among  TYR,  OCA2  and  SLC45A2 during melanin biosynthesis, which may cause OCA under digenic mutations.
+This information will be useful for  gene diagnosis and genetic counseling of OCA in China.
+     O  culocutaneous  albinism  (OCA)  is  a  heterogeneous  and  autosomal  recessive  disorder.
+ Its  worldwide  prevalence  is  approximately  one  out  of  17  000.1  It  manifests  as  a  reduction  or  complete  loss  of  melanin  in  the  skin,  hair,  and  eyes,  often  accompanied  with  eye  symptoms such as photophobia, strabismus, moderate to  severe visual impairment, and nystagmus.
+The definition  of OCA subtypes formerly based upon clinical phenotype  has moved towards a molecular classification based upon  the  identification  of  the  causative  genes.
+ OCA  has  been  identified  as  mutations  in  non-syndromic  OCA  genes  (TYR, OCA2, TYRP1  and SLC45A2)  or  syndromic  OCA  genes  (HPS1,  AP3B1,  HPS3,  HPS4,  HPS5,  HPS6,  DTNBP1, BLOC1S3, PLDN, LYST, MYO5A, RAB27A and  MLPH).2,3  Although  RAB38,  SILV  and  SLC24A5  are  suggestive  of  candidate  OCA  genes,  no  pathological  mutations have been reported in human OCA patients.4,5  More  candidate  OCA  genes  in  humans  are  likely  to  be  identified  as  implicated  by  additional  mouse  OCA  genes.6,7    The prevalence of OCA subtypes differs among different  populations.

@@ -1,0 +1,212 @@
+results thus confirmed that the introduction of R482H muta- tion in both a and b pump variants impaired their efficiency in maintaining basal Ca2⫹ levels, causing sustained Ca2⫹ retention in the cytoplasm Effect of the R482H Mutation on the Basal Activity of PMCA3 Assessed by Functional Complementation Assay in K616 Yeast Cells—To better evaluate the effect of the R482H mutation on pump basal activity, i.e.
+on the activity of the auto-inhibited state of the pump only exposed to the nM concentration of Ca2⫹ that prevails in the cytoplasm at rest, a yeast-based functional assay, which has been previously described, was employed (23) In this assay, the lethal phenotype of the K616 triple mutant FIGURE 2.
+Analysis of the expression of the exogenous pump variants and cytosolic Ca2ⴙ measurements in HeLa cells overexpressing the wt and the mutant PMCA3 isoforms.
+A and B, Western blotting.C and D, immunocytochemistry analysis showing the expression level and the intracellular distribution of the PMCA3 pump in HeLa cells expressing the wt and the mutant truncated (a) as well as full-length (b) variants.
+The PMCA3 was revealed by the mouse monoclonal antibody 5F10 in A and C, and by the rabbit polyclonal anti-PMCA3 antibody in B and D.
+E–H, cells were co-transfected with cytAEQ and the expression plasmid for the a (E-F ) or the b (G-H) wt as well as the mutated PMCA3 variants.
+Cytosolic Ca2⫹ transients (E–G) were recorded following 100 ␮M histamine stimulation.
+The average peak values are shown in (F-H).Bars in panels F and H represent mean [Ca2⫹] values upon stimulation (␮M ⫾ S.E.).
+***, p ⬍ 0.001; **, p ⬍ 0.01; *, p ⱕ 0.05.The number on the bars indicate the number of independent measurements out of six independent transfections JUNE 26, 2015 • VOLUME 290 • NUMBER 26 JOURNAL OF BIOLOGICAL CHEMISTRY 16137 D o w n l o a d e d     f r o m h t t p : / / w w w  j b c  o r g /   a t     U L B o n A p r i l     1 6 ,   2 0 1 8 PMCA3 Mutation and Cerebellar Ataxia FIGURE 3.
+Effect of the truncated and full length wt and mutant pump on the influx of Ca2ⴙ from the extracellular medium.HeLa cells were co- transfected with cytAEQ and the PMCA3 constructs, or transfected with cytAEQ only, pretreated with 1 ␮M thapsigargin and 100 ␮M histamine in a buffer containing 1 mM EGTA for 3 min and perfused in the presence of KRB/Ca2⫹ 3 mM to stimulate Ca2⫹ entry from the extracellular ambient.
+The Ca2⫹ transients in panel A for the PMCA3a isoform and in panel D for the b variant are characterized by a first peak and a plateau phase (as indicated).
+Enlargements of the plateau phases are shown in the insets.
+Panels B and E show the averaged peak [Ca2⫹] values obtained upon stimulation and panels C and F show the obtained averaged [Ca2⫹] values of the plateau.
+Bars represent means ⫾ S.E.obtained by averaging the values obtained in at least 18 independent measurements from six independent transfections for each condition.
+***, p ⬍ 0.001; ns, not significant yeast cells observed in Ca2⫹-free conditions can be rescued by the ectopic expression of active Ca2⫹ pumps.
+To test the sys- tem, two control PMCA3 mutants were generated: an ATPase- dead mutant in which the catalytic aspartate residue of the pump was replaced with an alanine (PMCA3b D465A), and a C-terminally truncated PMCA3 mutant lacking nearly the entire autoinhibitory C-terminal tail (the last 158 C-terminal residues, PMCA3-⌬Cter).
+The removal of the C-terminal tail renders the pump constitutively active, making this variant a suitable positive control in the assay Yeast K616 cells were transformed with the galactose-induc- ible plasmid pYES encoding the wt pump, or with the PMCA3b D465A, the PMCA3-⌬Cter, and the PMCA3b R482H pump variants.
+Fig.4A shows the growth controls of yeast trans- formed with the different PMCA3 constructs in a Ca2⫹-con- taining permissive medium (glucose ⫹ CaCl2) or in an induci- ble Ca2⫹-free medium (galactose ⫹ EGTA), and Fig.
+4B shows the Western blotting analysis of the PMCA3 pump protein expression levels As expected, the PMCA3b-⌬Cter mutant that lacked the C-terminal tail, and was thus constitutively active, was able to fully rescue the viability of K616 yeast cells in the Ca2⫹-de- pleted medium, whereas the wt PMCA3b, which was auto-in- hibited, did it only partially (Fig.
+4A).Again as expected, the ATPase-dead PMCA3b D465A mutant failed to rescue the via- bility of the K616 yeast cells (Fig.
+4A).Fig.
+4C shows the effect of the PMCA3b R482H mutant in comparison with the wt and the constitutively active PMCA3b-⌬Cter variant.
+The R482H mutant was clearly defective in the recovery of the viability of the K616 cells.
+The mutant pump did still permit some recovery of yeast viability, i.e.
+it evidently did not completely turn off the basal, unstimulated activity of the pump.
+This was in agree- ment with the results of the experiments on the overexpres- sion of the mutated pump in HeLa cells that had shown that the R482H PMCA3 mutant, even if defective, was still active The Western blot analysis of the total protein extracts from yeast cells grown in the galactose medium show that all PMCA3 constructs were expressed in yeast cells at compa- rable levels (Fig.
+4, B and D for the different PMCA3b vari- ants).
+The experiments in Fig.4 thus shows that the defect induced by the R482H mutation also affected the basal unstimulated activity of the pump In Silico Analysis of the Effects of the R482H Mutation on PMCA3 Pump Structure—In an attempt to understand the con- sequences of the R482H mutation on the structure of the pump, we decided to perform an in silico modeling study using the SERCA pump 3D structure in the Ca2⫹-free and Ca2⫹-bound states (PDB ID:3W5B) and (PDB ID: 1SU4) (Fig.
+5, A and D, respectively).
+The 3D structure defines the membrane sector of the pump containing 10 helices, and the three large cytosolic domains: the ATP binding N domain protruding into the cyto- sol between trans-membrane domains 4 and 5, the P domain that contains the catalytic Asp (blue dots), and the A domain (the actuator domain) that performs the de-phosphorylation of the catalytic Asp-P.
+During the reaction cycle, a series of con- formational transformations have been shown to occur in both the cytosolic and the membrane sectors of the SERCA pump, the most evident being the transition of the cytosolic portion from a compact arrangement in the Ca2⫹-free state (Fig.
+5A) to a looser state in its presence (Fig.
+5D).A finer analysis of the structure of the modeled PMCA3 pump identifies glutamate 530 as critical for short-range interactions with the Arg-482 16138 JOURNAL OF BIOLOGICAL CHEMISTRY VOLUME 290 • NUMBER 26 • JUNE 26, 2015 D o w n l o a d e d     f r o m h t t p : / / w w w  j b c  o r g /   a t     U L B o n A p r i l     1 6 ,   2 0 1 8 PMCA3 Mutation and Cerebellar Ataxia D o w n l o a d e d     f r o m h t t p : / / w w w  j b c  o r g /   a t     U L B o n A p r i l     1 6 ,   2 0 1 8 FIGURE 4.
+Functional complementation assay in K616 yeast cells.A, serial dilutions and B Western blotting analysis of yeast K616 cells transformed with pYES2-derived vectors carrying wild-type, D465A mutant, or the C-terminal truncated PMCA3 (PMCA⌬3Cter).
+Empty vector pYES2 (mock transfected) was used as negative control.
+C and D, same as A-B but yeast K616 cells are transformed with pYES2-derived vectors carrying wild-type, R482H mutant, or the PMCA⌬3Cter.
+Total protein lysates from yeast cells carrying the indicated pYES2-derived plasmids were probed with anti-PMCA antibody 5F10.Both mono- meric (*) and dimeric (**) PMCA3 forms were detected residue.
+In the wt PMCA3 pump in the Ca2⫹-free state, Arg- 482 is at a distance of 9.2 Å from Glu-530 (Fig.
+5B), the distance increasing to 11.6 Å if the position 482 is occupied by a histidine (Fig.
+5C).These distances obviously do not permit the interac- tion between the two residues.
+However, in the Ca2⫹-bound state (Fig.
+5, E and F), the guanidinium nitrogens of Arg-482 are now at a distance from both carboxylic oxygens of Glu-530 that permits interaction: 2.66 Å for each of them (Fig.
+5E).The inter- action could be critical for the stabilization of this portion of the PMCA3 pump in the Ca2⫹-bound state.
+However, when posi- tion 482 becomes occupied by a histidine (Fig.
+5F), its nitrogen lies at a distance of 4.5 Å and 4.3 Å from the oxygens of Glu-530, respectively.
+These increased distances could well reduce the stabilization of this portion of the pump in the Ca2⫹-bound state.
+The intrinsic pH-dependence of histidine might also have a role in the modulation of the stability of this portion of the pump molecule could perhaps be specifically associated to the ataxic pathology A peculiar property of PMCA pumps is the phenomenon of auto-inhibition in the resting, low Ca2⫹ state.
+It is produced by the binding of the C-terminal tail of the pump to its main body, and is relieved by the binding of calmodulin once Ca2⫹ in the ambient increases.
+Thus, mutations could positively or nega- tively affect the auto-inhibition process and/or inhibit the Ca2⫹ exporting function of the pump in the fully active state (24, 25) It should also be mentioned that the Ca2⫹ exporting function of the pump in cells in which the much more powerful Na⫹/Ca2⫹ exchanger predominates, e.g.
+in muscles and neurons, is of mar- ginal importance to the global regulation of cell Ca2⫹ (26), but is very important to the regulation of Ca2⫹ in the microdomains surrounding the cytosolic portion of the pump.
+The PMCA pump has been shown to be concentrated in the caveolae, which also contain enzyme supercomplexes that are essential for cell functions (27, 28).
+Neurons do not contain caveolae, but contain functionally equivalent structural microdomains, e.g the spines.
+Pump defects could thus have important conse- quences for the local regulation of intracellular Ca2⫹ signaling with very serious deleterious effects on the activity of the cell One last important point should be mentioned, as it may be significant to the role of PMCA pump defects in pathology.
+As it has become clear from the studies of hereditary hearing loss, the mutation in the ATP2B2 gene acted synergistically with a defect of CDH23 or MYO6 to induce the pathological pheno- type by a digenic disease-causing mechanism.
+In the proband described here, the defect of the PMCA3 pump is not isolated, as he also carries compound heterozygous mutations in LAMA1.
+Interestingly, his maternal grandfather carries the PMCA3 mutation and is apparently healthy, which raises ques- tions regarding incomplete penetrance secondary to genetic modifiers.
+We suggest that the PMCA3 mutation, may contrib- ute or enhance ataxic symptoms in the presence of the two LAMA1 mutations in our proband.
+Laminins are extracellular matrix proteins essential for basement membranes assembly Discussion Genetic defects of calcium pumps (the Golgi (SPCA) pump, the sarco(endo)plasmic reticulum (SERCA) pump, and the plasma membrane (PMCA) pump) are the cause of a number of diseases.
+The hereditary deafness caused by mutations of the PMCA2 isoform (7, 9) can be associated with ataxic symptoms (10, 11).
+An ataxia-causing defect was recently described in PMCA3 (12).
+The present contribution describes a second case of ataxia in which the proband carries a defect in the PMCA3 pump.
+The defect was evident in both the maximally activated Ca2⫹ exporting function of the pump and in its resting activity, in which the pump was expected to be largely auto-inhibited The overall malfunction of the enzyme in both the fully active and in the resting states was not surprising, as the mutation concerned a residue close to its active center.
+The in silico anal- ysis shown in Fig.
+5 has offered a plausible molecular rationale for the inhibitory effect of the mutation The finding of a second ataxic proband who carries an ATP2B3 mutation suggests that defects of the PMCA3 pump JUNE 26, 2015 • VOLUME 290 • NUMBER 26 JOURNAL OF BIOLOGICAL CHEMISTRY 16139 PMCA3 Mutation and Cerebellar Ataxia D o w n l o a d e d     f r o m h t t p : / / w w w  j b c  o r g /   a t     U L B o n A p r i l     FIGURE 5.
+Structural changes induced by the R482H mutation in the PMCA3 pump.A, Ca2⫹-free and D, Ca2⫹-bound structures of the wt (B and E) and R482H-mutated (C and F) PMCA3 pumps were built on the basis of the respective SERCA structures (PDB 3W5B and 1SU4, respectively).
+The blue dots represent the catalytic aspartate and the Arg-482 and the His-482 residues are shown as stick together with the Glu-530 residue.
+The N terminus and the C terminus of the pump are shown as orange and cyan dots, respectively 1 6 ,   2 0 1 8 (29), and LAMA1 is essential for mouse cerebellar develop- ment: its deficiency causes a decrease in the proliferation and migration of granule cells precursors and a marked reduction of dendritic processes in Purkinje cells (30).
+Mutations in PMCA3 and LAMA1 could thus work synergistically, and contribute to the disease phenotype of our proband.
+This is still a speculative suggestion since it cannot be excluded that the two LAMA1 mutations would be sufficient per se to cause the phenotype The malfunction of the systems that control Ca2⫹ could natu- rally be expected to have negative consequences for neurons, given the special importance of Ca2⫹ signaling to them.
+How- ever, the synergism between a defect of LAMA1 and that of a Ca2⫹-related protein is not as immediately obvious as that of the PMCA2 pump with Ca2⫹-related Cadherin-23 in heredi- tary deafness.
+It might be interesting that another laminin, ␤-2 laminin, has recently been shown to be involved in the process of maturation and Ca2⫹ sensitivity of voltage-gated Ca2⫹ chan- nels (31) Acknowledgments—Ethics Statement: The parents of the proband signed a Media Authorization for the Use and Disclosure Protected Health Information form approved by The Washington University School of Medicine Institutional Review Board.
+The authors declare that they have no conflicts of interest with the contents of this article References 1.
+Brini, M., Calì, T., Ottolini, D., and Carafoli, E.(2013) Intracellular calcium homeostasis and signaling.
+Metal Ions in Life Sciences 12, 119–168 2.
+Carafoli, E.(2007) The unusual history and unique properties of the cal- cium signal in New Comprehensive Biochemistry (Joachim, K., and Marek, 16140 JOURNAL OF BIOLOGICAL CHEMISTRY VOLUME 290 • NUMBER 26 • JUNE 26, 2015 3.
+Brini, M., Calì, T., Ottolini, D., and Carafoli, E.(2014) Neuronal calcium signaling: function and dysfunction.
+Cell Mol.Life Sci.
+15, 2787–2814 4.
+Brini, M., and Carafoli, E.(2009) Calcium pumps in health and disease Physiol.
+Rev.89, 1341–1378 M., eds), pp.
+3–22, Elsevier 5.
+Eakin, T.J., Antonelli, M.
+C., Malchiodi, E.L., Baskin, D.
+G., and Stahl, W.
+L.(1995) Localization of the plasma membrane Ca(2⫹)-ATPase iso- form PMCA3 in rat cerebellum, choroid plexus and hippocampus.
+Brain Res.
+Mol.Brain Res.
+29, 71–80 6.
+Dumont, R.A., Lins, U., Filoteo, A.
+G., Penniston, J.T., Kachar, B., and Gillespie, P.
+G.(2001) Plasma membrane Ca2⫹-ATPase isoform 2a is the PMCA of hair bundles.
+J.Neurosci.
+21, 5066–5078 7.
+Ficarella, R., Di Leva, F., Bortolozzi, M., Ortolano, S., Donaudy, F., Petrillo, M., Melchionda, S., Lelli, A., Domi, T., Fedrizzi, L., Lim, D., Shull, G.
+E., Gasparini, P., Brini, M., Mammano, F., and Carafoli, E.
+(2007) A functional study of plasma-membrane calcium-pump isoform 2 mutants causing digenic deafness.
+Proc.Natl.
+Acad.Sci.
+U.S.A.104, 1516–1521 8.
+Bortolozzi, M., Brini, M., Parkinson, N., Crispino, G., Scimemi, P., De Siati, R.
+D., Di Leva, F., Parker, A., Ortolano, S., Arslan, E., Brown, S.D., Carafoli, E., and Mammano, F.
+(2010) The novel PMCA2 pump mutation Tommy impairs cytosolic calcium clearance in hair cells and links to deafness in mice.
+J.Biol.
+Chem.285, 37693–37703 9.
+Schultz, J.M., Yang, Y., Caride, A.
+J., Filoteo, A.G., Penheiter, A.
+R., Lag- ziel, A., Morell, R.
+J., Mohiddin, S.A., Fananapazir, L., Madeo, A.
+C., Penniston, J.
+T., and Griffith, A.J.
+(2005) Modification of human hearing loss by plasma-membrane calcium pump PMCA2.
+N.Engl.
+J.Med.
+352, 1557–1564 10.
+Inoue, Y., Matsumura, Y., Inoue, K., Ichikawa, R., and Takayama, C.(1993) Abnormal synaptic architecture in the cerebellar cortex of a new dystonic mutant mouse, Wriggle Mouse Sagami.
+Neurosci.Res.
+16, 39–48 11.
+Empson, R.M., Turner, P.
+R., Nagaraja, R.Y., Beesley, P.
+W., and Knöpfel, T.
+(2010) Reduced expression of the Ca(2⫹) transporter protein PMCA2 slows Ca(2⫹) dynamics in mouse cerebellar Purkinje neurones and alters the precision of motor coordination.
+J.Physiol.
+588, 907–922 12.
+Zanni, G., Calì, T., Kalscheuer, V.M., Ottolini, D., Barresi, S., Lebrun, N., Montecchi-Palazzi, L., Hu, H., Chelly, J., Bertini, E., Brini, M., and Carafoli, E.
+(2012) Mutation of plasma membrane Ca2⫹ ATPase isoform 3 in a family with X-linked congenital cerebellar ataxia impairs Ca2⫹ homeo- stasis.
+Proc.Natl.
+Acad.Sci.
+U.S.A.109, 14514–14519 13.
+Aldinger, K.A., Mosca, S.
+J., Tétreault, M., Dempsey, J.C., Ishak, G.
+E., Hartley, T., Phelps, I.
+G., Lamont, R.E., O’Day, D.
+R., Basel, D., Gripp, K.
+W., Baker, L., Stephan, M.J., Bernier, F.
+P., Boycott, K.M., Majewski, J., University of Washington Center for Mendelian, G., Care4Rare, C., Par- boosingh, J.
+S., Innes, A.M., and Doherty, D.
+(2014) Mutations in LAMA1 cause cerebellar dysplasia and cysts with and without retinal dystrophy Am.
+J.Hum.
+Genet.95, 227–234 14.
+Brini, M., Marsault, R., Bastianutto, C., Alvarez, J., Pozzan, T., and Rizzuto, R.
+(1995) Transfected aequorin in the measurement of cytosolic Ca2⫹ concentration ([Ca2⫹]c).
+A critical evaluation.J.
+Biol.Chem.
+270, 9896–9903 15.
+Rizzuto, R., Brini, M., Bastianutto, C., Marsault, R., and Pozzan, T.(1995) Photoprotein-mediated measurement of calcium ion concentration in mitochondria of living cells.
+Methods Enzymol.260, 417–428 16.
+Cox, J.S., Chapman, R.
+E., and Walter, P.(1997) The unfolded protein PMCA3 Mutation and Cerebellar Ataxia response coordinates the production of endoplasmic reticulum protein and endoplasmic reticulum membrane.
+Mol.Biol.
+Cell 8, 1805–1814 17.
+Cunningham, K.W., and Fink, G.
+R.(1994) Calcineurin-dependent growth control in Saccharomyces cerevisiae mutants lacking PMC1, a ho- molog of plasma membrane Ca2⫹ ATPases.
+J.Cell Biol.
+124, 351–363 18.
+Baekgaard, L., Luoni, L., De Michelis, M.I., and Palmgren, M.
+G.(2006) The plant plasma membrane Ca2⫹ pump ACA8 contains overlapping as well as physically separated autoinhibitory and calmodulin-binding do- mains.
+J.Biol.
+Chem.281, 1058–1065 19.
+Gietz, R.D., and Woods, R.
+A.(2002) Transformation of yeast by lithium acetate/single-stranded carrier DNA/polyethylene glycol method.
+Meth- ods Enzymol.
+350, 87–96 20.
+Mao, P., Joshi, K., Li, J., Kim, S.H., Li, P., Santana-Santos, L., Luthra, S., Chandran, U.
+R., Benos, P.V., Smith, L., Wang, M., Hu, B., Cheng, S.
+Y., Sobol, R.
+W., and Nakano, I.(2013) Mesenchymal glioma stem cells are maintained by activated glycolytic metabolism involving aldehyde dehy- drogenase 1A3.
+Proc.Natl.
+Acad.Sci.
+U.S.A.110, 8644–8649 21.
+Brini, M., Bano, D., Manni, S., Rizzuto, R., and Carafoli, E.(2000) Effects of PMCA and SERCA pump overexpression on the kinetics of cell Ca(2⫹) signalling.
+EMBO J.19, 4926–4935 22.
+Brini, M., Coletto, L., Pierobon, N., Kraev, N., Guerini, D., and Carafoli, E (2003) A comparative functional analysis of plasma membrane Ca2⫹ pump isoforms in intact cells.
+J.Biol.
+Chem.278, 24500–24508 23.
+Ton, V.K., and Rao, R.
+(2004) Functional expression of heterologous pro- teins in yeast: insights into Ca2⫹ signaling and Ca2⫹-transporting AT- Pases.
+Am.J.
+Physiol.Cell Physiol 287, C580-C589 24.
+Enyedi, A., Vorherr, T., James, P., McCormick, D.J., Filoteo, A.
+G., Cara- foli, E., and Penniston, J.
+T.(1989) The calmodulin binding domain of the plasma membrane Ca2⫹ pump interacts both with calmodulin and with another part of the pump.
+J.Biol.
+Chem.264, 12313–12321 25.
+Verma, A.K., Enyedi, A., Filoteo, A.
+G., and Penniston, J.T.
+(1994) Regu- latory region of plasma membrane Ca2⫹ pump.
+28 residues suffice to bind calmodulin but more are needed for full auto-inhibition of the activity J.
+Biol.Chem.
+269, 1687–1691 26.
+Lopreiato, R., Giacomello, M., and Carafoli, E.(2014) The plasma mem- brane calcium pump: new ways to look at an old enzyme.
+J.Biol.
+Chem 289, 10261–10268 27.
+Fujimoto, T.(1993) Calcium pump of the plasma membrane is localized in caveolae.
+J.Cell Biol.
+120, 1147–1157 28.
+Hammes, A., Oberdorf-Maass, S., Rother, T., Nething, K., Gollnick, F., Linz, K.
+W., Meyer, R., Hu, K., Han, H., Gaudron, P., Ertl, G., Hoffmann, S., Ganten, U., Vetter, R., Schuh, K., Benkwitz, C., Zimmer, H.
+G., and Neyses, L.
+(1998) Overexpression of the sarcolemmal calcium pump in the myo- cardium of transgenic rats.
+Circulation Research 83, 877–888 29.
+Powell, S.K., and Kleinman, H.
+K.(1997) Neuronal laminins and their cellular receptors.
+Int.J.
+Biochem.Cell Biol.
+29, 401–414 30.
+Heng, C., Lefebvre, O., Klein, A., Edwards, M.M., Simon-Assmann, P., Orend, G., and Bagnard, D.
+(2011) Functional role of laminin ␣1 chain during cerebellum development.
+Cell Adhesion and Migration 5, 480–489 31.
+Chand, K.K., Lee, K.
+M., Schenning, M.P., Lavidis, N.
+A., and Noakes, P.G (2014) Loss of beta2-laminin alters calcium sensitivity and voltage-gated calcium channel maturation of neurotransmission at the neuromuscular junction.
+J Physiol.593, 245–265 D o w n l o a d e d     f r o m h t t p : / / w w w  j b c  o r g /   a t     U L B o n A p r i l     1 6 ,   2 0 1 8 JUNE 26, 2015 • VOLUME 290 • NUMBER 26 JOURNAL OF BIOLOGICAL CHEMISTRY 16141 A Novel Mutation in Isoform 3 of the Plasma Membrane Ca Cellular Ca  Pump Impairs  Homeostasis in a Patient with Cerebellar Ataxia and Laminin 2+ 2+ Subunit 1  Mutations Tito Calì, Raffaele Lopreiato, Joshua Shimony, Marisa Vineyard, Martina Frizzarin, Ginevra Zanni, Giuseppe Zanotti, Marisa Brini, Marwan Shinawi and Ernesto Carafoli J.

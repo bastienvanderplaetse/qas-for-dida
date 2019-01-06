@@ -1,0 +1,79 @@
+Abstract Mutations in the genes coding for connexin 26 (Cx26) and connexin 31 (Cx31) cause non-syndromic deaf- ness.
+Here, we provide evidence that mutations at these two connexin genes can interact to cause hearing loss in digenic heterozygotes in humans.
+We have screened 108 GJB2 het- erozygous  Chinese  patients  for  mutations  in  GJB3  by sequencing.
+ We  have  excluded  the  possibility  that  muta- tions in exon 1 of GJB2 and the deletion of GJB6 are the second  mutant  allele  in  these  Chinese  heterozygous  pro- bands.
+Two diVerent GJB3 mutations (N166S and A194T) occurring  in  compound  heterozygosity  with  the  235delC and  299delAT  of  GJB2  were  identiWed  in  three  unrelated families (235delC/N166S, 235delC/A194T and 299delAT/ A194T).
+Neither of these mutations in Cx31 was detected in DNA from 200 unrelated Chinese controls.
+Direct physi- cal  interaction  of  Cx26  with  Cx31  is  supported  by  data showing that Cx26 and Cx31 have overlapping expression patterns in the cochlea.
+In addition, by coimmunoprecipita- tion  of  mouse  cochlear  membrane  proteins,  we  identiWed the  presence  of  heteromeric  Cx26/Cx31  connexons X.-Z.
+Liu (&) · D.Yan · X.
+M.Ouyang · L.
+L.Du Department of Otolaryngology (D-48), University of Miami,  1666 NW 12th Avenue, Miami, FL 33136, USA e-mail: xliu@med.miami.edu Y.
+Yuan · Y.Fei · H.
+Yuan · X.Zhang · G.
+Wang ·  D.
+Y.Kang · P.
+Dai (&) Department of Otorhinolaryngology Head and Neck Surgery,  Institute of Otolaryngology, Chinese PLA General Hospital,  Beijing 100853, People’s Republic of China e-mail: daipu301@vip.sina.com E.
+H.Ding · W.
+Tang · Q.Chang · S.
+Ahmad · X.Lin Department of Otolaryngology,  Emory University School of Medicine,  Atlanta, GA 30322, USA Furthermore,  by  cotransfection  of  mCherry-tagged  Cx26 and GFP-tagged Cx31 in human embryonic kidney (HEK)- 293  cells,  we  demonstrated  that  the  two  connexins  were able  to  co-assemble  in  vitro  in  the  same  junction  plaque Together,  our  data  indicate  that  a  genetic  interaction between these two connexin genes can lead to hearing loss Introduction Hearing loss  is  one  of  the most common inherited disor- ders and is a highly heterogeneous sensory disorder.
+Until now, over 100 loci and 46 diVerent genes in which muta- tions cause monogenic non-syndromic sensorineural hear- ing loss, have been reported (http://webhost.ua.ac.be/hhh/ ).
+ Despite  this  heterogeneity,  in  many  populations,  up  to 50% of autosomal recessive non-syndromic sensorineural hearing loss (AR-NSNHL) is associated with mutations in the locus DFNB1 (MIM 220290) on chromosome 13q12, which  contains  the  two  connexin  (Cx)  genes  (GJB2  and GJB6).
+ Cxs  are  membrane-spanning  proteins  that  coas- semble into intercellular gap junction channels.
+Gap junc- tion  channels  mediate  electrical  and  biochemical communication between adjacent cells and play vital roles as  mediators  of  intercellular  molecular  signaling.
+ Cx- linked deafness highlights the key role of gap junctions in the  physiological  processes  of  hearing.
+ Colocalization  of Cxs with the gap junction system in the inner ear suggests a role in cochlear electrolyte homeostasis.
+During auditory transduction,  they  are  proposed  to  maintain  membrane potentials  by  regulating  the  Xow  of  potassium  ions between the sensory epithelia of the inner ear (Simon and Goodenough 1998; White and Paul 1999).
+To date, muta- tions in the genes encoding three of these Cxs (GJB2 for Cx26 (MIM 121011), GJB6 for Cx30 (MIM 604418), and 123 © 54 Hum Genet (2009) 125:53–62 GJB3 for Cx31 (MIM 603324) are known to result in hear- ing impairment (Kelsell et al.
+1997; Grifa et al.1999; Xia et al.
+1998).The defect in any two of the four alleles from GJB2 and GJB6 could result in hearing impairment.
+Thus, either  monogenic  or  digenic  inheritance  can  occur  with these  genes.
+ Among  individuals  with  DFNB1-associated AR-NSNHL, 98% are  estimated  to  carry two identiWable mutations in GJB2, whereas 2% are reported to have muta- tions  in  both  GJB2  and  GJB6  (Genetests  DFNB1,  http:// www.genetests.org/).
+ Mutations  in  GJB3  have  originally been  shown  to  underlie  an  autosomal  dominant  form  of non-syndromic  deafness  (DFNA2)  in  Chinese  patients (Xia  et al.
+ 1998). We  have  also  reported  an  autosomal recessive non-syndromic form of GJB3 mediated deafness in  this  population  (Liu  et al.
+ 2000). In  Spanish  patients, several  Cx31  variants  have  been  associated  with  a  syn- dromic form of neuropathy and hearing loss (Lopez-Bigas et al.
+2000, 2001).Variations in the Cx31 gene have also been  linked  to  non-syndromic  deafness  in  Brazilian patients (Alexandrino et al.
+2004).Mutations in the GJB3 gene  have  also  been  reported  to  cause  both  autosomal dominant and recessive skin diseases (Plantard et al.
+2003; Richard et al.
+1997, 1998, 2000) Nevertheless,  10–50%  of  patients  with  prelingual  non- syndromic  deafness  carry  a  single  heterozygous  recessive mutation  in  the  GJB2  gene.
+Although the  Wnding  that  the del(GJB6-D13S1830) mutation provided an explanation for the deafness in as many as 30–70% of aVected GJB2 hetero- zygotes  in  some  populations,  it  has  become  clear  that other  mutations,  both  within  DFNB1  and  elsewhere involved in epistatic interactions with GJB2, contribute sig- niWcantly to AR-NSNHL in most populations (Del Castillo et al.
+2003).Given the high prevalence of patients carrying only  one mutant allele in  GJB2  with apparent lack  of  the del(GJB6-D13S1830) and eVect of pathogenic mutations of GJB2 and GJB3 in Chinese patients with autosomal reces- sive  deafness,  we  initiated  a  study  to  determine  whether there is functional interaction between the GJB2 and GJB3 genes.
+We provide evidence that mutations in the Cx26 and Cx31  genes  can  interact  to  cause  hearing  loss  in  digenic heterozygotes Materials and methods Subjects and DNA samples Probands/families were ascertained through the nationwide epidemiologilcal survey in Beijing, China (Dai et al.
+2007) Informed consent was obtained from all of the participants The study protocol was approved by the Ethics Committee of the Chinese PLA General Hospital and from institutional 123 review  board  (IRB)  at  University  of  Miami.
+ In  total,  108 Chinese  families  aVected  with  non-syndromic  deafness without  obvious  dominant  inheritance  patterns  were included in this study.
+All the probands showed a congeni- tal,  bilateral,  severe  to  profound,  sensorineural  hearing impairment with normal hearing parents.
+The clinical his- tory  was  obtained  and  an  examination  was  conducted  on each  individual  by  one  of  the  investigators,  with  special emphasis on identifying potential environmental causes of hearing loss such as infections, trauma, and information on exposure  to  known  or  possible  ototoxic  drugs  or  for  evi- dence of syndromic forms of deafness.
+The hearing of all aVected and unaVected individuals in the present series was examined  using  pure  tone  audiometry.
+ Air  conduction thresholds  were  measured  at  250,  500 Hz,  1,  2,  4,  6  and 8 kHz.
+ Bone  conduction  thresholds  were  determined  to identify the type of hearing loss.
+Oto-immittance measure- ments were undertaken on all individuals and all were oto- scopically  examined.
+ In  addition,  200  Chinese  control individuals with normal hearing were also analyzed.
+DNA was  extracted  from  peripheral  blood  leukocytes  using  a commercially available kit Mutational analysis including  exon  1,  GJB6, After  exclusion  of  GJB2  SLC26A4, and the A1555G mutation in the 12SrRNA gene (MTRNR1)  as potential causes  of hearing loss in the 108 probands with only one GJB2 mutant allele, the full GJB3 coding region was analyzed.
+The coding exon (exon 2) and Xanking intronic regions of GJB2 gene were PCR ampliWed with forward primer 5⬘-TTGGTGTTTGCTCAGGAAGA-3⬘ and reverse primer 5⬘-GGCCTACAGGGGTTTCAAAT-3⬘ PCR  ampliWcation  of  Cx31  was  performed  using  the forward  5⬘-TACGATGGTTTTTCCTCTAATTCT-3⬘  and 5⬘-TTGCATAACTTAGTGAACTCAGAG-3⬘ reverse  primer sets based on the Cx31 sequence (BC012918).
+The PCR  products  were  puriWed  with  the  QIAquick  spin  col- umn puriWcation kit (Qiagen, Valencia, CA, USA).
+PuriWed amplicons were cycle sequenced by using the Big Dye Ter- minator Cycle Sequencing Kit (PE Biosystems) and run on an ABI 3100 automated DNA sequencer (Applied Biosys- tems,  Foster  City,  CA,  USA)  according  to  manufacturer recommendations  (PE  Biosystems).
+ DNA  sequence  varia- tions  were  identiWed  by  alignment  of  the  subject’s  DNA sequence  to  the  wild  type  sequences  AY280971  (GJB2) and BC012918 (GJB3) at the NCBI interface (http://www ncbi.nlm.nih.gov/blast/b12seq/b12.html).
+Numbering of the genes begins with the nucleotide A of the ATG start codon in exon 2 as cDNA position number 1.
+The sequences were analyzed using Genetool Lite software and the genes Gene- bank sequences Hum Genet (2009) 125:53–62 55 Immunolabeling of Cx31 in cochlear cryosections Cochleas were obtained from adult mice (strain CD-1) and cochlear cryosections were prepared as previously described (Sun et al.
+2005).Cochlear sections were blocked Wrst with bovine serum albumin (2%) plus the serum (20%) of the host animal to generate the secondary antibodies prior to incuba- ting  with  primary  antibodies  (1:200  dilution  in  PBS)  over- night  at  4°C.
+Anti-Cx31 (Rabbit IgG, Zymed  Laboratories, Southern  San  Francisco,  CA,  USA)  was  used  to  label  the cryosections.
+After washing in PBS three times the sections were incubated with secondary antibodies (1:500 dilution in PBS)  for  about  2 h  at  room  temperature.
+ Labeled  sections were  mounted  in  an  anti-fade  medium  (Molecular  Probes, Eugene,  OR,  USA)  and  examined  with  a  confocal  micro- scope (Zeiss LSM, Carl Zeiss USA, Shrewsbury, PA, USA) cells were grown at 37°C in an incubator (5% CO2, under a moist  atmosphere),  in  MEM  medium  supplemented  with penicillin and streptomycin (0.5% v/v  Wnal concentration) and  fetal  bovine  serum  (10%  v/v  Wnal  concentration;  all reagents  for  cell  culture  were  from  CellGro,  Mediatech, Herndon,  VA,  USA).
+ One  day  prior  to  transfection,  cells were  dissociated  by  trypsin-EDTA  for  2 min,  seeded  on glass coverslip in the culture medium and allow to grow up to 60–80% conXuence.
+Transfection with pCx31-eGFP-N1 was  performed  using  the  FuGene6  transfection  reagent (Roche Diagnostics Corp., Indianapolis, IN, USA) accord- ing  to  the  protocol  provided  by  the  manufacturer.
+ After 24 h  of  incubation,  culture  medium  was  replaced.
+ Func- tional assays were carried out at room temperature, 36–72 h after transfection Preparations and immunoprecipitation of gap junctions Results The  puriWed  gap  junctions  from  mouse  cochlear  tissues were  prepared  as  previously  described.
+ Primary  antibody against  Cxs26,  30  or  31  (Zymed  Laboratories,  Southern San Francisco, CA, USA) was added to the supernatant at 1:250 dilution and incubated overnight.
+Antibodies bound to  connexons  were  precipitated  by  protein  A-linked Sepharose beads using protocol as described earlier (Diez et al.
+1999).Individual connexin protein or immunoprecipi- tated protein complexes were separated by SDS-PAGE and detected  by  immunoblotting  using  speciWc  antibodies (1:1,000 dilution in blocking solution) at 4°C for 12–15 h using  protocol  previously  described  (Diez  et al.
+ 1999) Immunolabeled proteins were visualized by using enhanced chemiluminescence  (Super-Signal,  Pierce,  Rockford,  IL, USA) exposed to X-ray Wlms (Hyper Film, Amersham Bio- sciences, Piscataway, NJ, USA) Construction of the pCx31-eGFP-N1 clone The human Cx31 cDNA was epitope tagged at the carboxyl terminus  by  subcloning  into  the  green  Xuorescent  protein vector,  pEGFP-N1  (Clontech  Laboratories,  Inc.,  S.
+ San Francisco,  CA,  USA).
+ The  primers  (5⬘-GTCAGATCCG CTAGCATGGACTGGAAGACA-3⬘  and  5⬘-AAGCTTG AGCTCGAGGATGGGGGTCAGGTT-3⬘)  were  designed such that the PCR product contained NheI and XhoI restric- tion  enzyme  sites  for  subsequent  subcloning  into  the peGFP-N1 vector Expression analysis of wild-type and mutant human Cx31  in HEK 293 cells GJ-deWcient  HEK293  cells  (American  Type  Culture  Col- lection,  Manassas,  VA,  USA)  grown  to  80%.
+ HEK  293 Mutations at the gap junction proteins Cx26 and Cx31  can interact to cause non-syndromic deafness In total, 108 probands screened for mutations in the Cx26 gene were found to carry a single recessive mutant allele.
+In those  samples,  no  mutation  was  detected  on  the  second allele  either  in  Cx26-exon-1/splice  sites  or  in  GJB6.
+ To investigate  the  role  of  GJB3  variations  along  with  GJB2 mutations for a possible combinatory allelic disease inheri- tance, we have screened patients with heterozygous GJB2 mutations for variants in Cx31 by sequencing.
+Analysis of the entire coding region of the Cx31 gene revealed the pres- ence  of  two  diVerent  missense  mutations  (N166S  and A194T) occurring in compound heterozygosity along with the 235delC and 299delAT of GJB2 in three simplex fami- lies  (235delC/N166S,  235delC/A194T  and  299delAT/ A194T) In family A, a profoundly hearing impaired proband was found to be heterozygous for a novel A to G transition at nucleotide position 497 of GJB3, resulting in an asparagine into serine substitution in codon 166 (N166S) and for the 235delC  of  GJB2  (Fig.
+1b,  d). Genotyping  analysis revealed  that  the  GJB2/235delC  was  inherited  from  the unaVected  father  and  the  N166S  of  GJB3  was  inherited from the normal hearing mother (Fig.
+1a).In families F and K, a heterozygous missense mutation of a G-to-A transition at nucleotide 580 of GJB3 that causes A194T, was found in profoundly deaf probands, who were also heterozygous for GJB2/235delC  i)  and  GJB2/299-300delAT (Fig.
+1l,  n),  respectively. In  Family  F,  the  GJB2/235delC was inherited from the unaVected father and the A194T of GJB3  was  likely  inherited  from  the  normal  hearing deceased mother (Fig.
+1f).In Family K, genotyping analy- sis  revealed  that  the  father  transmitted  the  A194T/GJB3, (Fig.

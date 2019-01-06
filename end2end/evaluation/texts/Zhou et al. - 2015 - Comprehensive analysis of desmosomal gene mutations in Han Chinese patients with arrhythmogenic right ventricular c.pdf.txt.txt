@@ -1,0 +1,76 @@
+a b s t r a c t Article history: Received 2 October 2014 Accepted 18 February 2015 Available online 9 March 2015 Keywords: Arrhythmogenic right ventricular cardiomyopathy Han Chinese Desmosomal gene Mutation Echocardiography Left ventricle involvement Arrhythmogenic right ventricular cardiomyopathy (ARVC) is a cardiomyopathy that primarily involves the right ventricle.
+Mutations in desmosomal genes have been associated with ARVC.But its prevalence and spectrum are much less deﬁned in the Chinese population, especially Han Chinese, a majority ethnic group in China; also the genotype-phenotype correlation regarding left ventricular involvement is still poorly understood.
+The aim of this study was to elucidate the genotype in Han Chinese patients with ARVC and the phenotype regarding cardiac left ventricle involvement in mutation carriers of ARVC.
+48 Han Chinese patients were recruited into the present study based on the Original International Task Force Criteria of ARVC.
+Clinical data were reassessed according to the modiﬁed criteria published in 2010 A total of 36 subjects were diagnosed with ARVC; 12 patients were diagnosed with suspected ARVC.
+Five desmosomal genes (PKP2, DSG2, DSP, DSC2 and JUP) were sequenced directly from genomic DNA.
+Among the 36 patients, 21 mutations, 12 of which novel, were discovered in 19 individuals (19 of 36, 53%).
+The distribution of the mutations was 25% in PKP2, 14% in DSP, 11% in DSG2, 6% in JUP, and 3% in DSC2 Multiple mutations were identiﬁed in 2 subjects (2 of 36, 6%); both had digenic heterozygosity.
+Eight mutations, of which six were novel, were located in highly conserved regions.
+Seven mutations intro- duced a stop codon prematurely, which would result in premature termination of the protein synthesis Two-dimensional echocardiography showed that LDVd and LDVs parameters were signiﬁcantly larger in nonsense mutation carriers than in carriers of other mutations.
+In this comprehensive desmosome ge- netic analysis, 21 mutations were identiﬁed in ﬁve desmosomal genes in a group of 48 local Han Chinese subjects with ARVC, 12 of which were novel.
+PKP2 mutations were the most common variants.Left ventricular involvement could be a sign that the patient is a carrier of a nonsense cardiac desmosomal gene mutation Ó 2015 Elsevier Masson SAS.
+All rights reserved * Corresponding author.
+The Heart and Lung Institute, Department of Cardiology, The First Afﬁliated Hospital of Nanjing Medical University, 300 Guangzhou Road, Nanjing 210029, PR China.
+Tel.: þ86 25 6813 5273 ** Corresponding author.
+Department of Cardiology, The First Afﬁliated Hospital of Nanjing Medical University, 300 Guangzhou Road, Nanjing 210029, PR China Tel.: þ86 25 6813 6965 E-mail addresses: david37212@hotmail.com (D.W.
+Wang), byang@njmu.edu.cn (B.
+Yang) 1 Zhou and Chen contributed equally to this work http://dx.doi.org/10.1016/j.ejmg.2015.02.009 1769-7212/Ó 2015 Elsevier Masson SAS.
+All rights reserved 1.
+Introduction Arrhythmogenic right ventricular cardiomyopathy (ARVC) is a familial disease in about half of cases and most commonly follows an autosomal dominant pattern of inheritance, although recessive forms have been recognized.
+ARVC is characterized pathologically by atrophy and ﬁbro-fatty replacement of the right and/or left ventricular myocardium and clinically by ventricular arrhythmias of right and/or left ventricular origin or sudden death [Caro- Vadillo et al., 2013; Lorenzon et al., 2013; Chimenti et al., 2004; Corrado et al., 1997; Sen-Chowdhry et al., 2007; Marcus et al., 1989; Ohno et al., 2013; Dalal et al., 2005; Azaouagh et al., X.
+Zhou et al./ European Journal of Medical Genetics 58 (2015) 258e265 259 2011].
+The progressive loss of the myocardium has been related to a genetically determined dystrophic process, inﬂammatory myocardial of apoptosis even cardiomyocytes death, injury and and The regional prevalence and incidence of ARVC is still not very clear.
+Patients with a clinical diagnosis of ARVC based on the typical right precordial ECG changes, right ventricular arrhyth- mias, and structural and functional RV abnormalities represent only one side of the disease spectrum.
+A number of clinically silent cases are not recognized because they are asymptomatic until the ﬁrst presentation of the disease with sudden death or have been difﬁcult to diagnose by conventional non-invasive tools.
+On the other side of the disease spectrum are patients with congestive heart failure with or without ventricular arrhythmias in whom the diagnosis of ARVC was not recognized at the beginning of the disease process; these represent a subset of cases often incorrectly diagnosed with dilated cardiomyopathy.
+The original Task Force Criteria of ARVC proposed by a consensus report are based on functional, histological and electrocardiographical (ECG) features, in addition to family history [McKenna et al., 1994].
+These criteria were modiﬁed to be more sensitive by Marcus et al.
+[2010].The estimated prevalence of ARVC in the general population ranges from 1 in 2,000 to 1 in 5,000 [Corrado and Thiene, 2006; Peters et al., 2004] Mutations in genes encoding several components of the cardiac desmosomes have been associated with ARVC.
+Plakoglobin (JUP) mutation was identiﬁed as the pathogenic gene for Naxos disease, which is an autosomal recessive form of ARVC [McKoy et al., 2000].
+Other desmosome gene mutations that have been demonstrated to be components of the genetic basis for ARVC are as follows: plakophilin-2 (PKP2) [Gerull et al., 2004; Nagaoka et al., 2006; van Tintelen et al., 2006], desmoplakin (DSP) [Rampazzo et al., 2002], desmoglein-2 (DSG2) [Pilichou et al., 2006] and desmocollin-2 (DSC2) [Heuser et al., 2006; Syrris the et al., 2006a].
+Aside from the genes desmosome proteins, other gene mutations, the transmembrane protein 43 (TMEM43) [Merner et al., 2008], Desmin (DES) [van Tintelen et al., 2009], Titin (TTN) [Taylor et al., 2011] and Phospholamban (PLN) [van der Zwaag et al., 2012] as well as aT-catenin (CTNNA3) [van Hengel et al., 2013] may also cause or be associated with ARVC that code for such as Among these genes, PKP2 has been demonstrated to be the most important gene in the pathogenesis of ARVC [Gerull et al., 2004; van Tintelen et al., 2006].
+However, an observation performed by Xu et al.
+suggested that while most ARVC cases are predominantly caused by PKP2 mutations, compound and digenic heterozygosity may also contribute to the severity of the phenotype of ARVC [Xu et al., 2010].
+According to a mutation ARVC, comprehensive desmosomal gene testing may be helpful for the identiﬁcation of individuals at potential risk of developing ARVC from a family with a history of such genetic mutations [den Haan et al., 2009] Americans with analysis North in ARVC is originally considered to be a cardiomyopathy of un- known etiology that primarily involves the right ventricle (RV) With disease progression, left ventricle (LV) involvement had been reported in certain patients.
+In some rare cases, LV might be affected before RV.
+Even though desmosomal gene mutations have been reported in ARVC patients with RV or both RV and LV involvement, the genotype-phenotype correlations regarding left or right ventricles affected are still poorly understood.
+Here we report a comprehensive genetic analysis of the ﬁve-desmosomal genes from local Han Chinese patients, with an emphasis on their genotype-phenotype relation to left ventricular involvement primarily 2.
+Materials and methods 2.1.
+Patient recruitment and evaluation A group of 48 unrelated local Han Chinese patients diagnosed with ARVC was recruited into the present study based on the original International Task Force Criteria of ARVC [McKenna et al., 1994].
+After reviewing each one’s medical history and physical examination, additional diagnostic tests including 12-lead ECG (n ¼ 48), Holter monitoring (n ¼ 46), 2-dimensional transthoracic echocardiography (n ¼ 48) and magnetic resonance imaging (MRI) of the heart (n ¼ 9) were performed.
+For accuracy and reproducible of transthoracic echocardiographic measurements, two indepen- dent echocardiographers were employed and both of them were blinded to the patients’ phenotype.
+If there were discrepancy of the results between two echocardiographers, the third echocardiog- rapher was introduced.
+Clinical data was reassessed according to Modiﬁed Criteria for Diagnosis of ARVC [Marcus et al., 2010].
+Family members were not available in our current study 2.2.
+Evaluation of variants Genomic DNA of all 48 enrollees was extracted from peripheral blood using QIAmp DNA blood midi kits (Qiagen Inc, Valencia, CA) Polymerase chain reaction (PCR) was performed for all coding exons of ﬁve cardiac desmosomal genes (PKP2, DSG2, DSP, DSC2 and JUP) and their splice sites by using primers ﬂanking intronic se- quences.
+PCR ampliﬁcation products were puriﬁed and directly sequenced using an ABI 3730 DNA Analyzer (Applied Biosystems, Foster City, CA, USA).
+The sequencing results were compared with the sequences in GenBank (accession number NM_004572.3 for PKP2, NM_004415.2 for DSP, NM_001943.3 for DSG2, NM_024422.3 for DSC2, NM_002230.2 for JUP) by using Lasergene 7.1 software (DNASTAR, Madison, WI, USA), and manualled veriﬁed for accuracy If a novel variant was found, a de novo PCR and bidirectional sequencing was performed to conﬁrm the base variation.
+Variants were classiﬁed using standard nomenclature.
+Any coding sequence change was classiﬁed as variant when compared with 198 unre- lated, ostensibly healthy, race-matched controls, altering one or more amino acids.
+In addition, we also veriﬁed all variants we found against publicly available databases (NHLBI and dbSNP) To ﬁnd out reported pathogenic mutations, we mapped the variants to Clinvar database and HGMD database.
+The putative novel pathogenic variants should not be reported in the 1000- Genome project database and UCSC common SNP database.
+To make sure that the putative novel candidate variants is not unre- ported Chinese-speciﬁc-polymorphisms, the variants were further sequenced in 198 unrelated geographical matched healthy controls (396 alleles).
+To predict possible impact of candidate novel missense substitutions, the variants were scored by SIFT (http://sift jcvi.org/www/SIFT_BLink_submit.html) and PolyPhen-2 (http:// genetics.bwh.harvard.edu/pph2/).
+To calculate the importance of novel variants, conservation test was performed cross species around the mutated position by COBALT algorithm (http://www ncbi.nlm.nih.gov/tools/cobalt/cobalt.cgi) 2.3.
+Statistical analysis The data is presented using descriptive statistics.
+Categorical data is expressed in percentages.
+Continuous variables are expressed as mean  SD.
+Comparisons of clinical characteristics in ARVC patients with and without desmosome mutations were per- formed by Student’s t test or Fisher’s exact test or independent- samples test when appropriate.
+A probability value of P < 0.05 was considered statistically signiﬁcant 260 X.
+Zhou et al./ European Journal of Medical Genetics 58 (2015) 258e265 The study was approved by the institutional ethics committee and written informed consent was obtained from all participating patients 3.
+Results 3.1.
+Clinical characterization of the study group Forty eight unrelated local Han Chinese patients (77% men) diagnosed with ARVC or probable ARVC were included in this study Clinical characteristics are summarized in Table 1.
+None of the patients had ischemic heart disease, signiﬁcant valvular heart disease, or diabetes.
+None of the subjects’ EF was less than 50% Seven patients had hypertension (15%) By applying the modiﬁed Diagnostic Task Force Criteria of 2010, 36 of 48 patients met the new criteria as “deﬁnite” ARVC, while the other 12 did not meet the new criteria and were re-diagnosed as “borderline” or “possible” ARVC.
+Among the 36 patients with a “deﬁnite” diagnosis, 30 (83%) were male, with an mean age of 43  13 years at enrollment, and the mean age at diagnosis was 39  14 years.
+Age of ﬁrst ARVC-related symptoms varied from 11 to 60 years (35  12).
+The other 12 individuals who did not fully meet the modiﬁed Task Force Criteria were referred to as “borderline” or “possible” ARVC.
+Nine of them met borderline diagnosis (one major and one minor or three minor criteria from different categories) and 3 met possible diagnosis (one major or two minor criteria from different categories).
+In this subset of the group, 7 (58%) were male; mean age at enrollment was 45  14 years.
+The mean age at diag- nosis was 41  14 years, with the ﬁrst symptoms of “borderline” or “possible” ARVC showing at age 5e62 years (mean, 38  15 years) After re-evaluation according to the new criteria, we notiﬁed our patients with whom the diagnoses were changed and adjusted their treatments too, when necessary As summarized in Table 1, three subjects (8%) died after enrollment in the “deﬁnite” diagnosis group but there was no death in the “borderline” or “possible” diagnosis subset of the group.
+Regarding the repolarization abnormalities, 22 patients (61%) in the “deﬁnite” diagnosis group and none of the subjects in the “borderline” or “possible” diagnosis group had T wave inversion (TWI), respectively (P < 0.001).
+Epsilon waves were observed in 24 subjects (67%) in the “deﬁnite” diagnosis group and none in “borderline” or “possible” diagnosis group (P < 0.001) Regarding arrhythmias, (94%), ventricular tachycardia (VT) and LBBB morphology were documented for “deﬁnite” diagnosis group and in 6 probands (50%), VT was recorded for “borderline” or “possible” diagnosis group; P < 0.002 Similarly, in 31 probands (86%) sustained ventricular tachycardia (sustained VT) was documented, and in 4 probands (33%) sustained VT was recorded for “borderline” or “possible” diagnosis group; P <0.001.
+An implantable cardioverter deﬁbrillator (ICD) was implanted in 12 subjects (33%) in the “deﬁnite” diagnosis group, while the therapy was not installed in any individual in the “borderline” or “possible” diagnosis group (P < 0.001).
+There were no statistical differences in all other analyzed parameters in 34 probands 3.2.
+Mutation or variant spectrum and prevalence by group Comprehensive genetic interrogation of the control and ARVC case groups was conducted.

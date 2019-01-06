@@ -1,0 +1,9 @@
+Abstract: The molecular etiology of nonsyndromic sensorineural hearing loss (SNHL) in subjects with only one detectable autosomal recessive GJB2 mutation is unclear.
+Here, we report GJB2 single hetero- zygotes with various ﬁnal genetic diagnoses and suggest appropriate diagnostic strategies.
+A total of 160 subjects with SNHL without pheno- typic markers were screened for GJB2 mutations.
+Single-nucleotide variants or structural variations within the DFNB1 locus or in other deafness genes were examined by Sanger sequencing, breakpoint PCR, and targeted exome sequencing (TES) of 129 deafness genes.
+We identiﬁed 27 subjects with two mutations and 10 subjects with only one detectable mutation in GJB2.
+The detection rate of the single GJB2 mutation among the 160 SNHL subjects in the present study (6.25%) was higher than 2.58% in normal hearing controls in Korean.
+The DFNB1 was clearly excluded as a molecular etiology in four (40%) subjects: other recessive deafness genes (N¼ 3) accounted for SNHL and the causative gene for the other non-DFNB1 subject (N¼ 1) was not identiﬁed.
+The etiology of additional two subjects was potentially explained by digenic etiology (N¼ 2) of GJB2 with MITF and GJB3, respectively.
+The contribution of the single GJB2 mutation in the four remaining subjects is unclear.

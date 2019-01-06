@@ -1,0 +1,84 @@
+INTRODUCTION Familial exudative vitreoretinopathy (FEVR) is a hereditary vitreoretinal disorder characterized by avascularity of the periph- eral retina [Criswick and Schepens, 1969].
+The primary, incomplete vascularization leads to various secondary complica- tions, such as retinal neovascularization, dragged macula, exuda- tion, vitreous hemorrhage, retinal fold, and retinal detachment, with the most serious form resulting in complete blindness Although the penetrance of the disease is regarded as close to 100%, FEVR exhibits strikingly variable phenotypes among patients from the same family, or even between the two eyes of one individual.
+Usually the probands exhibit serious clinical phenotypes, such as retinal detachment or retinal folds, whereas the affected relatives are frequently totally asymptomatic, and only a sign of nonperfusion of the peripheral retina can be observed.
+To detect such a subtle retinal change, intravenous fluorescein angiography (IVF) is required [Canny and Oliver, 1976] The disease is genetically heterogeneous and can take three forms: autosomal-dominant (adFEVR, MIM# 133780), autosomal- recessive (arFEVR, MIM# 601813), and X-linked recessive (MIM# 305390 [Laqua, 1980; Shastry, 1995; Crecchio et al., 1998]).
+The autosomal-dominant form is the most common mode rr2005 WILEY-LISS, INC of inheritance [Shastry et al., 2000; Kondo et al., 2001].
+To date, three adFEVR loci (EVR1 on chromosome 11q14, EVR3 on chromosome 11p13–12, and EVR4 on chromosome 11q12-13) and one X-linked recessive FEVR locus (EVR2 on chromosome Xp11) have been reported [Li et al., 1992; Chen et al., 1993; Downey et al., 2001; Toomes et al., 2004a].
+The gene encoding Wnt receptor Frizzled 4 (FZD4) has been identified as being EVR1 [Robitaille et al., 2002].
+The Wnts are cysteine-rich glycoproteins The Supplementary Material referred to in this article can be accessed at http://www.interscience.wiley.com/jpages/1059-7794/ suppmat Grant sponsor: Scienti¢c Research, Japan; Grant number: 15591883; Grant sponsor: Ministry of Education, Culture, Sports, Science andTechnology, Japan nCorrespondence to: Hiroyuki Kondo, Department of Ophthal- mology, Fukuoka University School of Medicine, 7- 45 -1 Nanakuma, Jonan-ku, Fukuoka, 814 -0180 Japan E-mail: hkondo@fukuoka-u.ac.jp Received 29 November 2004; accepted revised manuscript 28 February 2005 DOI 10.1002/humu.20191 Published online inWiley InterScience (www.interscience.wiley.com) that have a pivotal role in various cellular processes, including determination of cell fate, control of cell polarity, and malignant transformation [Cadigan and Nusse, 1997].
+The EVR2 gene is identical to the candidate gene (NDP) for Norrie disease (MIM# 310600), which presents as pseudoglioma, mental retardation, or hearing loss [Chen et al., 1993; Shastry et al., 1997].
+Although there is no discernable sequence homology with the Wnt family, norrin encoded by NDP was recently identified as the specific ligand for FZD4 [Xu et al., 2004].
+The gene for EVR3 is still unidentified.
+Recently, an FZD4 co-receptor gene, low-density lipoprotein receptor-related protein 5 (LRP5), which is located 10 cM centromeric to FZD4 on chromosome 11, was identified as the EVR4 gene [Toomes et al., 2004a,b] LRP5 is a member of the low-density lipoprotein receptor (LDL-R) family.
+It consists of four domains, each of which is composed of six YWTD repeats that form a b-propeller structure and an EGF-like repeat.
+These are followed by three ligand- binding domains, a transmembrane domain, and a cytoplasmic domain.
+In the Wnt signaling pathway, a complex of FZD4 and LRP5 acts as a functional receptor-pair [Pinson et al., 2000].
+The complex together with its ligand activates the canonical Wnt-b- catenin pathway and target genes [Pinson et al., 2000; Wehrli et al., 2000; He et al., 2004].
+Loss-of-function mutations in LRP5 are associated with a recessive osteoporosis-pseudoglioma syn- drome (OPPG, MIM# 259770), which is characterized by osteoporosis and occasional blindness [Gong et al., 2001].
+On the other hand, gain-of-function mutations in LRP5 have been reported to be responsible for high bone mass disorders (HBM, MIM# 601884; osteopetrosis, MIM# 607634; and endosteal hyperostosis, MIM# 144750) [Boyden et al., 2002; Little et al., 2002; Wesenbeeck et al., 2003].
+Recently, Toomes et al.[2004b] reported that six LRP5 mutations were found in adFEVR patients, some of whom also showed a sign of osteoporosis.
+Of these mutations, three were truncation mutations (p.R1270fsX1438, p.K1374fsX1549, and c.4488+2T>G), and therefore the authors proposed that adFEVR results from heterozygous mutations that cause the haploinsufficiency of LRP5.
+Soon after these mutations were identified, Jiao et al.
+[2004] reported that three homozygous mutations in LRP5 (p.R570Q, p.R752G, and p.E1367K) were associated with three families with arFEVR.
+None of the families in that study were subjected to systematic BMD evaluations Therefore, while loss-of-function mutations in LRP5 may be the cause of both ad- and arFEVR, it remains to be determined whether the responsible LRP5 mutations are distinct between the two disorders, or whether patients with FEVR always show signs of osteoporosis In this report we present the results of mutation screening for LRP5 and FZD4 in 56 unrelated patients with FEVR.
+Bone density changes in association with LRP5- and FZD4-caused FEVR were evaluated in all of the patients in the study.
+Our findings highlight the complexity of having more than one mutation in relation to the variable phenotypes, and have implications for the current mutation screening strategy Subjects and DNAs MATERIALS AND METHODS Fifty-six patients with FEVR, and some of their family members (all of whom were of Japanese origin and were born with normal weight at term) were examined.
+Of the 56 patients, 31 had familial FEVR and 25 had simplex FEVR (no apparent family history).
+The diagnosis of FEVR was based on the exhibition of at least one of the typical clinical findings (peripheral retinal avascularization, HUMAN MUTATION 26(2),104^112, 2005 105 severe retinal exudates, retinal neovascularization, peripheral fibrovascular mass, macular ectopia, retinal fold, retinal detach- ment, or vitreous hemorrhage).
+All of the patients were subjected to a comprehensive ocular examination, which included visual acuity testing for best-corrected vision, intraocular pressure, slit- lamp biomicroscopy, funduscopy, and occasionally ultrasonography Some of the patients were also examined by fluorescein angiography.
+The diagnoses for all patients were made at Fukuoka University.
+We evaluated bone mineral density (BMD) by measuring the area BMD of the lumbar spine with dual-energy (model QDR-4500A; Hologic X-ray absorptiometry Inc., Waltham, MA).
+For statistical analyses, each measure was converted to a standard deviation score (z-score) relative to the appropriate age- and sex-matched controls.
+Informed consent was obtained from all subjects following the tenets of the Declaration of Helsinki, and the protocol was approved by the Ethics Review Board of Fukuoka University DNA samples were extracted from peripheral blood with the use of a DNA extraction kit (QiaAmp; Qiagen, Chatsworth, CA).
+We determined the presence or absence of the sequence variants in the normal population by testing 193 and 150 apparently normal Japanese individuals for LRP5 and FZD4, respectively PCR Primers and Conditions A reference genomic contig containing the sequence for LRP5 (NT_033903.6) was obtained from GenBank (NCBI; http:// www.ncbi.nlm.nih.gov).
+Primers bracketing all 23 exons of LRP5 were designed using the Primer3 program (Whitehead Institute for Biomedical Research/MIT Center for Genomic Research, Cambridge, MA).
+The presence of a highly conserved pseudogene of LRP5 on chromosome 22 was previously described by Gong et al.
+[2001].We avoided unwanted amplification from the pseudogene by choosing primer sequences that carried a 1–2 nucleotide mismatch to the pseudogene sequence at their 30 ends Detailed information, sequences and amplification conditions, is provided in Supplementary Table S1 (available online at http://www.interscience.wiley.com/jpages/ 1059-7794/suppmat).
+For FZD4, the primers used for PCR amplification and the subsequent direct sequencing were the same as those described by Kondo et al.
+[2003] including the primer To identify the sequence variations when aligned with sequences obtained from probands, we used the reference sequences of LRP5 (NM_002335.1 for cDNA and NP_002326.1 for cDNA and NP_036325.2 for protein).
+Each variation was numbered based on its cDNA sequence, to the first nucleotide (A) of the initiation code (ATG) and FZD4 (NM_012193.2 for since +1 corresponds protein) Mutation Screening RESULTS c.1802–131C>T (rs471966), c.2318+6T>C (rs4988322), c.3357A>G [p.V1119V] Sequencing of all 23 exons of LRP5 was carried out for 56 patients and one normal Japanese individual.
+Eight sequence discrepancies between the normal and reference sequences were found, all of which turned out to be known polymorphisms (registered in the dbSNP database as reference SNPs).
+These were c.1932A>G [p.E644E], c.2503+37C>T (rs2277268), (rs2242339), c.3638– 82C>T (rs607887), c.4089C>T [p.D1363D] (rs3736229), and c.4488+54A>C (rs2291466).
+These variations were not con- sidered in the following mutation screening.
+We then compared the sequence discrepancies between the normal sample and probands, as well as other affected or unaffected family members to identify mutation candidates.
+The following nine SNPs (all known and dbSNP ID/reference in parentheses) have been detected for LRP5: c.488+52C>T (rs4988312), c.488+53C>T (rs643981), (rs556442), 106 HUMAN MUTATION 26(2),104^112, 2005 c.266A>G [p.Q89R] [Okubo et al., 2002], c.1412+8A>G (rs4988319), c.1647C>T [p.F549F] (rs545382), c.2220C>T [p.N740N] (rs2306862), c.3764–30G>A [Okubo et al., 2002], c.3989C>T [p.A1330V] (rs3736228), and c.4586+118C>T (rs2242340).
+Of these variations, c.3638–82C>T (rs607887) and c.3989C>T [p.A1330V] (rs3736228) were observed in about half of the total 56 probands (data not shown) The nucleotide changes that were not found in the dbSNP were judged to be polymorphic if the changes did not segregate with the disease in the family studies, or if they occurred in control individuals (150 normal subjects for FZD4, and 193 normal subjects for LRP5).
+Synonymous changes in coding exons were also considered to be polymorphisms The judgment of a mutation vs.
+a polymorphism for a nucleotide substitution is detailed below.
+Table 1 summarizes all sequence variations that were newly detected in both LRP5 and FZD4, as well as one known mutation in FZD4 Novel Mutations Detected in LRP5 Five missense mutations were detected in five patients with familial FEVR (Fig.
+1A and Supplementary Fig.S1).
+All mutations were co-segregated with the disease in the families as a dominant inheritance trait In Family 1, a mutation of c.433C>T [p.L145F] was identified at exon 2.
+The proband was an infant who showed bilateral retrolental fibroplasias and total retinal detachment.
+One affected brother and one sister of the proband showed bilateral retinal avascularization typical of FEVR.
+The mother, who carried the mutation, exhibited mild retinal avascularization.
+Her BMD was significantly reduced (z-score= 2.5) Family 2 has been reported to have a FZD4 mutation c.1250G>A [p.R417Q] [Kondo et al., 2003].
+In the same family we newly identified a mutation of c.1330C>T [p.R444C] in exon 6 of LRP5.
+The two mutations co-segregated within the family, indicating that both mutations are located on the same chromosome (Supplementary Fig.
+S1).The proband was an 20- year-old man who experienced a severe falciform retinal fold in the right eye with a peripheral fibrovascular mass, and suffered total blindness in the left eye with posterior synechiae and chronic retinal detachment.
+Overall, the ocular phenotype presented in Family 2 tended to be severe in comparison with the family that harbored the same FZD4 mutation (p.R417Q) alone [Kondo et al., 2003]: three out of four affected individuals in Family 2 showed blindness, whereas three out of four affected individuals who carried p.R417Q alone were totally asymptomatic [Kondo et al., 2003] to the proband with the double mutation exhibiting reduced BMD (z-score= 2.1), the proband carrying p.R417Q in FZD4 alone presented a normal BMD (z-score= 0.1) In contrast In Family 3, the LRP5 mutation of c.1564G>A [p.A522T] was detected at exon 7.
+The proband was a 41-year-old woman who showed local tractional retinal detachment along with retinal holes in the right eye, and severe macular ectopia along with peripheral fibrovascular mass in the left eye.
+At age 35 years, retinal detachment with retinal traction and tear progressed in the right eye, requiring vitreous surgery.
+She was diagnosed with osteo- porosis after her first labor and received medication.
+Her current BMD z-score of  1.4 indicated that she still had reduced bone density In Family 4, we identified a mutation of c.2392A>G [p.T798A] at exon 11.
+The proband was a 29-year-old man who showed bilateral peripheral avascular retinas associated with peripheral retinal degeneration and holes The mutation in LRP5 of c.3361A>G [p.N1121D] at exon 15 was detected in Family 5.
+The proband was a 9-year-old boy who showed a unilateral falciform retinal fold with bilateral retinal avascularization To eliminate the possibility of common polymorphisms, we tested over 181 normal control individuals and confirmed that none of those sequence changes were present.
+As indicated in Fig.
+2, all five mutations were located in the domains of the b-propeller structure (YWTD-EGF domain) of LRP5, similarly to the previously reported FEVR-causing mutations and OPPG- causing mutations [Gong et al., 2001; Toomes et al., 2004b].
+A number of studies have shown that the YWTD-EGF domain is the highly conserved core structure found in all members of the LDL- R related protein family, and is required for various protein–protein interactions [Springer, 1998; Jeon et al., 2001].
+Of the five mutations, four amino acid substitutions (p.L145F, p.R444C, p.A522T, and p.T798A) occurred in the highly conserved residues among different species of LRP5 and their close family members (Fig.
+1A).As the asparagine is conserved among three species of the LRP5 gene, and two species of the LRP6 gene.
+In addition, its corresponding the superfamily to which residue in LDL-R, a member of LRP5 belongs, was shown to be the hot spot that causes familial hypercholesterolemia, impor- tance of this residue despite the low conservation [Jeon et al., 2001] substitution (p.N1121D), indicating the functional for the other Four mutations in LRP5 (three missense and one nonsense) were identified in two patients with simplex FEVR (Fig.
+1B and Supplementary Fig.
+S1).A missense mutation of c.1828G>A [p.G610R] in exon 9 and a deletion mutation of c.803_812del [p.G268fsX272] in exon 4 were detected in a 14-year-old female patient (Patient 8).
+A typical FEVR phenotype of a bilateral dragged macula was observed.
+She had no family history of FEVR, and none of three family members (two parents and one brother) showed the FEVR phenotype, as proven by IVF.
+However, the mother was heterozygous for p.G610R, and the father and brother were heterozygous for p.G268fsX272.
+The BMD of the patient was 0.55 g/cm2, which is indicative of reduced bone density; however, a z-score was not determined, because standard data for subjects younger than 20 years were not available.
+The BMDs of the parents were also reduced (z-score= 1.1 and  0.9 for the father and mother, respectively).
+For the mutation p.G610R, glycine is located in an EGF-like repeat within the second YWTD-EGF domain (Fig.
+2), and is a highly conserved residue among different species of both LRP5 and LRP6 (Fig.
+1B).In addition, glycine at codon 610 of LRP5 is conserved when it is aligned with the EGF- like domain of LDL-R (data not shown), in which the identical residue was previously reported as a hypercholesterolemia-causing mutation [Jeon et al., 2001].
+The nonsense mutation of p.G268fsX272 is predicted to result in a truncated protein that may not be produced by the cell because of nonsense-mediated mRNA decay [Gong et al., 2001].
+Neither mutation was detected in the normal control populations, and the segregation pattern in this family indicated a recessive inheritance Two mutations, c.1604C>T [p.T535M] and c.1850T>G [p.F617C], were detected at exons 8 and 9, respectively, in a 1-year-old patient (Patient 7) with sporadic FEVR (Fig.
+1B and Supplementary Fig.
+S1).The phenotype of this patient manifested bilateral retinal folds followed by total retinal detachment in both eyes.

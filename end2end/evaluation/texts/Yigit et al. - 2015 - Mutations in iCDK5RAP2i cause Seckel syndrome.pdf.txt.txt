@@ -1,0 +1,198 @@
+Abstract Seckel syndrome is a heterogeneous, autosomal recessive disorder marked by pre- natal proportionate short stature, severe microcephaly, intellectual disability, and characteristic facial features.
+Here, we describe the novel homozygous splice-site mutations c.383+1G>C and c.4005-9A>G in CDK5RAP2 in two consanguineous families with Seckel syndrome.
+CDK5RAP2 (CEP215) encodes a centrosomal pro- tein which is known to be essential for centrosomal cohesion and proper spindle formation and has been shown to be causally involved in autosomal recessive pri- mary microcephaly.
+We establish CDK5RAP2 as a disease-causing gene for Seckel syndrome and show that loss of functional CDK5RAP2 leads to severe defects in mitosis and spindle organization, resulting in cells with abnormal nuclei and centrosomal pattern, which underlines the important role of centrosomal and mitotic proteins in the pathogenesis of the disease.
+Additionally, we present an intriguing case of possible digenic inheritance in Seckel syndrome: A severely affected child of nonconsanguineous German parents was found to carry hetero- zygous mutations in CDK5RAP2 and CEP152.
+This ﬁnding points toward a potential additive genetic effect of mutations in CDK5RAP2 and CEP152 Introduction Seckel syndrome (MIM 210600 for SCKL1) is an autosomal recessive disorder characterized by intrauterine growth retardation, proportionate short stature, severe microcephaly, intellectual disability, and a typical facial appearance with a prominent and beaked nose, sloping forehead, and micrognathia (Seckel 1960; Majewski et al.
+1982a).Most often, intellectual disability is associated with variable structural brain anomalies, and this combination mainly distin- guishes Seckel syndrome from an overlapping primordial dwarﬁsm syndrome known as microcephalic osteodysplastic primordial dwarﬁsm type II (MOPD II, MIM 210720) (Hall et al.
+2004; Willems et al.2010) Seckel syndrome is a genetically heterogeneous disorder; autosomal recessive mutations in eight different genes have been identiﬁed to date.
+They include very ª 2015 The Authors.
+Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited 467 Mutations in CDK5RAP2 Cause Seckel Syndrome G.
+Yigit et al rare mutations in the ataxia-telangiectasia and Rad3-related (ATR, MIM 601215) gene, encoding a phosphatidylinositol 3-kinase-like kinase with distinct functions in DNA damage response, and mutations in ATRIP (MIM 606605), CENPJ (MIM 609279), RBBP8 (MIM 604124), NIN (MIM 608684), DNA2 (MIM 601810), CEP63 (MIM 614724), and CEP152 (MIM 613529) (Borglum et al.
+2001; O’Driscoll et al.
+2003; Al-Dosari et al.2010; Kalay et al.
+2011; Sir et al 2011; Dauber et al.
+2012; Ogi et al.2012; Qvist et al.
+2012; Shaheen et al.
+2014).Mutations are most frequently found in CEP152, a centrosomal protein with essential roles dur- ing mitosis and in DNA damage response (Kalay et al 2011).
+In this study, we present homozygous causative mutations in CDK5RAP2 (MIM 608201, NM_018249.5, NP_060719) in two families with Seckel syndrome and demonstrate that severe defects in mitosis and spindle orga- nization underlie the molecular pathogenesis of the disease In addition, we report a patient with Seckel syndrome likely caused by digenic inheritance of heterozygous mutations in CDK5RAP2 and CEP152 program ALLEGRO (Gudbjartsson et al.
+2000).Haplo- types were reconstructed with ALLEGRO and presented (Thiele and N€urnberg graphically with HaploPainter 2005).
+All data handling was performed using the graphi- cal user and N€urnberg 2005) interface ALOHOMORA (Ruschendorf Mutation screening We identiﬁed candidate genes in the critical region using the ENSEMBL (http://www.ensembl.org) and UCSC (http://www.genome.ucsc.edu) human genome databases All exons and intron-exon boundaries of the CDK5RAP2 gene were ampliﬁed from DNA of index patients from all families and we sequenced the PCR products by BigDye Terminator method on an ABI 3100 sequencer.
+Identiﬁed mutations were resequenced in independent experiments and tested for cosegregation within the families.
+150 healthy control individuals from Turkey and 282 controls from Pakistan were screened for each mutation by PCR Materials and Methods Cell lines and cell cultures Subjects The study was performed in accordance with the Declara- tion of Helsinki protocols.
+We collected peripheral blood samples from the affected children and parents after informed consent was obtained according to the protocols approved by the ethics committees of the participating institutions.
+Written consent for publication of the photo- graphs was family members was extracted from peripheral blood lympho- cytes by standard extraction procedures given.
+DNA from participating HEK293T cells and primary ﬁbroblast cell lines estab- lished from patient SK-1 II.1 were cultured in Dulbecco’s modiﬁed Eagle medium (DMEM; Gibco, Life Technolo- gies, CA, Carlsbad) supplemented with 10% fetal calf serum (FCS; Gibco) and antibiotics.
+For H2AX activation, cells were either treated for 1 h with 1 mmol/L Hydroxy- urea (HU; Sigma-Aldrich, St.
+Louis, MO) or irradiated with 10 J/m2 UV-C, incubated for 24 h and then sub- jected to Western blot analysis.
+MG-132 (Sigma-Aldrich) was used with concentrations of 10 lmol/L for the indi- cated times Linkage analysis Minigene assay/pSPL3 splicing assay We performed genome-wide linkage analysis in two fami- â lies (SK-1 and SK-2) using the Affymetrix GeneChip Human Mapping 250K Sty Array (Affymetrix, Santa Clara, CA).
+We veriﬁed sample genders by counting het- erozygous SNPs on the X chromosome.
+Relationship errors were evaluated with the help of the program Graphical Relationship Representation (Abecasis et al 2001).
+The program PedCheck was applied to detect Mendelian errors (O’Connell and Weeks 1998) and data for SNPs with such errors were removed from the data set.
+Non-Mendelian errors were identiﬁed by using the program MERLIN (Abecasis et al.
+2002) and unlikely genotypes for related samples were deleted.
+Linkage analy- sis was performed assuming autosomal recessive inheri- tance, full penetrance and a disease gene frequency of 0.0001.
+Multipoint LOD scores were calculated using the the potential splice-site mutation In vitro analysis of c.4005-9A>G was performed using the pSPL3 splicing assay.
+Fragments of the human CDK5RAP2 gene contain- ing exon 27, ﬂanked by 600 bp of upstream intronic sequence and 700 bp of downstream intronic sequence, were cloned into the splicing vector pSPL3.
+The previ- ously described splice-site mutation c.4005-15A>G in CDK5RAP2 was introduced via site-directed mutagenesis transfected into (Bond et al.
+2005).Plasmids were HEK293T cells and mRNA was isolated and reverse transcribed as described below cDNA analysis RNA was extracted from HEK293T cells and primary ﬁ- Mini Kit (Qiagen, Hilden, broblasts using the RNeasy â 468 ª 2015 The Authors.
+Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc G.
+Yigit et al Mutations in CDK5RAP2 Cause Seckel Syndrome Germany).
+One microgram of total RNA was reverse transcribed using the RevertAidTM First Strand cDNA Syn- thesis Kit (Fermentas, St.
+Leon-Rot, Germany) and RT- PCR products were used for CDK5RAP2-speciﬁc PCR ampliﬁcation Protein isolation and analysis (EDTA); All cells were solubilized using ice-cold RIPA buffer (10 mmol/L Tris, pH: 8.0; 150 mmol/L NaCl; 1 mmol/L Ethylendiamintetraacetate 10 mmol/L NaF; 1 mmol/L Na3VO4; 10 lM Na2MoO4; 1% NP-40; prote- ase inhibitors P 2714 [Sigma-Aldrich]) and total protein concentration of extracts was determined using the BCA Protein Assay Kit (Thermo Fisher Scientiﬁc, Life Technol- ogies, Carlsbad, CA).
+Twenty-ﬁve micrograms of total protein from each sample was separated by 4–12% SDS- PAGE (Invitrogen, Life Technologies, Carlsbad, CA) and blotted onto nitrocellulose membrane (GE Healthcare, Little Chalfont, UK).
+Protein detection was performed to cH2AX (Ser139) using phospho-speciﬁc antibodies (Upstate Biotechnology, Lake Placid, NY).
+Antibodies to H2AX and CDK5RAP2 were purchased from Calbiochem and Bethyl Laboratories, respectively.
+Anti-b-Actin anti- bodies were purchased from Sigma-Aldrich.
+Peroxidase- conjugated secondary antibodies were used (Santa Cruz Biotechnology Inc., Dallas, TX), and blots were developed using an enhanced chemiluminescence system, ECL Plus (GE Healthcare), followed by exposure on an autoradio- graphic ﬁlm Immunocytochemistry Fibroblasts from skin biopsies (patient SK-1 II.1 and con- trol) were grown on ethanol-sterilized borosilicate glass cover slips (VWR, thickness 1) to 30% conﬂuence.
+Cells were ﬁxed with fresh 2% paraformaldehyde in PBS (Invi- trogen, Life Technologies, Carlsbad, CA) for 20 min, given three 3-min washes in PBS, and permeabilized for 5 min with 0.4% Triton X-100 (Sigma-Aldrich, St.
+Louis, MO) in PBS.
+Cells were then given two 3-min washes in PBS and one 5-min wash in wash buffer (PBS containing 0.2% BSA Faction V, 0.05% Tween 20; Sigma).
+Cells were blocked for 30 min on a 100 mL drop of blocking buffer (PBS containing 2.5% BSA Fraction V, 0.05% Tween 20 and 10% Natural Goat Serum; Vector Labora- tories, Peterborough, UK) placed on Nescoﬁlm in a humid chamber, rinsed brieﬂy with wash buffer and incubated for 1.5 h on 100 mL drops of blocking buffer to a-tubulin (ab11303; containing primary antibodies Abcam, Cambridge, UK), pericentrin (ab4448; Abcam) and centrin-1 (Santa Cruz), diluted according to the manufacturer’s instructions.
+After three further 5-min washes in wash buffer, cells were incubated for 30 min in blocking buffer containing 1:400 dilutions of Alexa Fluor 488 anti-rabbit (A11034; Invitrogen) and Alexa Fluor 568 anti-mouse (A11004; Invitrogen) secondary antibodies Next, cells were given two 5-min washes in wash buffer and one 5-min wash in PBS and were then mounted in Vectorshield (Vector Laboratories) containing 0.5 mg/mL DAPI (D9542; Sigma-Aldrich).
+Cells were analyzed and confocal images acquired using a Leica SP1 confocal microscope (Leica, Wetzlar, Germany) using a 1009 objective.
+For quantiﬁcation, 85 mitoses in Seckel ﬁbro- blasts were manually compared with 171 mitoses in wild- type ﬁbroblasts Accession number CDK5RAP2: NM_018249.5 Results Clinical characteristics of index families We have clinically assessed two consanguineous families of Turkish and Pakistani ancestry with two individuals in each family diagnosed with a mild form of Seckel syn- drome.
+The index patient of the Turkish family SK-1 (II.1 in Fig.
+1A) is the ﬁrst child born to healthy second degree cousins.
+He was born at term by uncomplicated spontaneous delivery.
+His birth weight was 2200 g, the birth length and head circumference were not docu- mented.
+He walked at 13 months of age and spoke his ﬁrst words at 12 months.
+He was referred to our clinic at 9 years of age where he was noted to have microceph- aly ( 4 SD) with a sloping forehead, beaked nose, and midface hypoplasia.
+Additionally, he had short stature ( 3.2 SD) accompanied by skeletal ﬁndings such as delayed bone age, ﬁfth ﬁnger clinodactyly, and absence of the twelfth ribs.
+Cognitive impairment was mild-to-mod- erate (Table 1).
+The patient’s youngest sister (II.3 in Fig.
+1A), the third child of this family, also presented with Seckel syndrome.
+She had microcephaly and hip dislocation as a newborn.
+A cranial MRI from that time did not abnormalities Achievement of motor milestones was within the normal range, but a mild cognitive impairment became obvious at school age.
+When we saw her at age 10, she had microcephaly ( 4 SD), dysmorphic facial features very similar to those seen in her brother, and short stature ( 3.4 SD) (Fig.
+1A, Table 1) show any severe structural The index patient of the Pakistani family SK-2 (IV.2 in Fig.
+2A) is the second child of healthy ﬁrst degree cous- ins.
+She was born at term via spontaneous delivery after an uneventful pregnancy.
+Her birth weight was 2160 g ª 2015 The Authors.
+Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc 469 Mutations in CDK5RAP2 Cause Seckel Syndrome G.
+Yigit et al Figure 1.
+Clinical and molecular ﬁndings in the Turkish family SK-1 with Seckel syndrome.(A) Pedigree, front and side views of affected individuals II.1 and II.3 at ages 19 and 10 years, respectively, showing the typical sloping forehead, beaked nose with pointed tip, midface hypoplasia, and microretrognathia.
+(B) Parametric linkage analysis of the family SK-1 with 20,044 selected SNP markers from the Affymetrix Sty array.
+LOD scores calculated with ALLEGRO are given along the y axis relative to genomic position in cM (centi Morgan) on the x axis.The highest scores were obtained for markers on chromosomes 1, 9, 15 and 18.
+(C) Electropherograms of the identiﬁed homozygous CDK5RAP2 mutation (II.1 and II.3) compared with heterozygous carrier sequences (I.1, I.2 and II.2) When she was clinically investigated at 25 months of age, her parents had no concerns about her development.
+She was microcephalic ( 6.2 SD) and had short stature ( 5 SD).
+In addition to her typical facial appearance, her skeletal survey showed signs consistent with the clinical diagnosis of Seckel syndrome, such as mild bowing of the radius and an unusual slope to the radial head, pseudo- epiphyses of the second metacarpals and a mild chevron deformity of the lower end of the femora.
+Her motor skills were age-appropriate but her attention and language skills were delayed.
+MRI of the brain at 32 months was normal.
+The family pedigree showed multiple loops of consanguinity and one paternal aunt was reported to have short stature and to show pointed teeth and child-like behavior.
+She was not clinically investigated.No mutation in PCNT was found in the index patient.
+She carried a heterozygous SNP in PCNT, excluding homozygosity for this gene and thus making a diagnosis of MOPD II unlikely in this family Homozygosity mapping and identiﬁcation of CDK5RAP2 as a new Seckel gene â We genotyped DNA samples from all ﬁve family members of the Turkish family SK-1 by using the Affymetrix Gene- Human Mapping 250K Sty Array as described ear- Chip lier (Kalay et al.
+2011) and obtained four putative loci on chromosomes 1, 9, 15, and 18 with a parametric LOD score of 2.5 each.
+The shared critical intervals were 21 Mb (chro- mosome 1, including 202 annotated genes), 11 Mb (chro- mosome 9, 182 genes), 3.4 Mb (chromosome 15, 62 genes), and 3.2 Mb (chromosome 18, 22 genes) in size (Fig.
+1B).Genotyping of DNA samples from 6 family members of the Pakistani family SK-2 revealed two puta- tive loci on chromosomes 7 and 9, each with a parametric LOD score of 3.
+The shared critical intervals were 0.7 Mb (chromosome 7, including 2 annotated genes) and 7.2 Mb (chromosome 9, 57 annotated genes) in size (Fig.
+2B) Superimposing the linked regions for both families reduced 470 ª 2015 The Authors.
+Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc G.
+Yigit et al Mutations in CDK5RAP2 Cause Seckel Syndrome Table 1.
+Comparison of clinical ﬁndings in patients with CDK5RAP2 and digenic mutations described in this study SK-1 II.1 SK-1 II.3 SK-2 IV.2 Patient K1600 Male CDK5RAP2: c.4005-9A>G; p Arg1335Serfs*3 – Female CDK5RAP2: c.4005-9A>G; p Arg1335Serfs*3 – Female CDK5RAP2: c.383+1G> C; p.(Lys129*) –  4 SD at 10 years  6.2 SD at 2.5 years  5 SD at 2.5 years Male CDK5RAP2: c.4187T>C; p.(Met1396Thr) CEP152: c.3014_3015delAAinsT; p.(Lys1005Ilefs*16)  12 SD at 7 years  8.6 SD at 7 years   + + +     + + + + + + Delayed secondary dentition + + n.a + n.a n.a +   Ventralized anus Sex (no.
+of patients) Mutation 1 Mutation 2 (digenic mutations) Growth Head circumference Length and height Facial dysmorphism Facial asymmetry Sloping forehead Beaked nose Micrognathia Midface hypoplasia Upslanting palp.
+ﬁssures Downslanting palp.
+ﬁssures Strabismus Blepharophimosis Microphthalmia Low-set/malformed ears High-arched palate Selective tooth agenesis Skeletal ﬁndings Fifth ﬁnger clinodactyly Brachymesophalangy 11 pairs of ribs Delayed bone age Scoliosis Pes planus Other ﬁndings Intellectual disability Sensorineural hearing loss Cafe au lait spots Other anomalies  4 SD at 9 years  3.2 SD at 9 years  3.4 SD at 10 years   + + + +             + +   + + + + +           +   +   + +     + +   +/      +     + +     + + + + +   +       +   +   n.a +     + +   SD, standard deviation; n.a., not applicable/unknown; palp., palpebral.
+Accession number CDK5RAP2: NM_018249.5 the range of candidate loci to chromosome 9 between SNPs rs10491524 and rs12349082, deﬁning a shared homozygous interval of 3.7 Mb harboring 27 genes In a previous study, we reported that mutations in CEP152, a protein that contains several coiled-coil domains and is involved in various centrosomal processes, cause Sec- kel syndrome (Kalay et al.
+2011).The similar function of the cyclin-dependent kinase 5 regulatory subunit-associated protein 2 gene (CDK5RAP2, also named CEP215), located within the shared homozygous region on chromosome 9q33, and the description of recessive mutations in patients with primary microcephaly (Bond et al.
+2005) prompted us to consider this gene as a highly relevant candidate of all 38 Sanger sequencing of CDK5RAP2 in the affected individuals of both families revealed two different homozygous mutations which co- segregated with the disease in either family and were nei- coding exons nor annotated individuals, control the 1,000 Genomes Database, ther found in 150 healthy Turkish and 282 healthy Pakistani in the ~13,000 dbSNP132, alleles of the Exome Variant Server (EVS, National Heart, Lung, and Blood Institute, Exome Sequencing Project, Seattle, WA) or the ~120,000 alleles of the Exome Aggre- gation Server (Exome Aggregation Consortium [ExAC], Cambridge, MA).
+In family SK-1, we identiﬁed a homo- zygous mutation in intron 26 (c.4005-9A>G) (Fig.
+1C) In family SK-2, we found a homozygous mutation at the donor splice-site of intron 5 (c.383+1G>C) (Fig.
+2C) Mutations in CDK5RAP2 and their effect on splicing The c.383+1G>C mutation in family SK-2 is located at the invariant +1 position of the donor splice-site of intron 5 ª 2015 The Authors.
+Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc 471 Mutations in CDK5RAP2 Cause Seckel Syndrome G.
+Yigit et al Figure 2.
+Clinical and molecular ﬁndings in family SK-2 with Seckel syndrome.(A) Pedigree of the consanguineous family from Pakistan, front and lateral photographs and MRI images of the affected individual IV.2 at the age of 3 years.
+(B) Parametric linkage analysis of family SK-2.LOD scores were calculated with ALLEGRO, and the highest scores were obtained for markers on chromosomes 7 and 9.
+(C) Electropherograms of the identiﬁed homozygous CDK5RAP2 mutation (III.6 and IV.2) compared with heterozygous carrier (II.3, III.2, and III.3) and wild-type sequences (IV.1) Mutations at this position invariably lead to a loss of the donor splice-site recognition resulting in severe functional effects such as whole-exon skipping, inclusion of intronic sequences or usage of alternative exonic or intronic donor splice sites.
+The mutation is predicted to alter the CDK5RAP2 transcript composition and – if whole-exon skipping occurs – to create an early stop codon effecting premature protein truncation (p.Lys129*) (Fig.
+2C) To conﬁrm the functional consequence of the identiﬁed c.4005-9A>G mutation, we analyzed the cDNA of the index patient of family SK-1 (II.1, Fig.
+1A), and we showed that this mutation creates a new, stronger accep- tor splice-site which completely abolishes the use of the original acceptor site.
+As predicted, this leads to the inser- tion of 8 bp, causing a frame-shift and premature truncation of the protein (p.Arg1335Serfs*3, Fig.
+3A) The c.4005-15A>G mutation in CDK5RAP2 was previ- ously described in patients with primary microcephaly (Bond et al.
+2005).It affects the same acceptor splice-site as the c.4005-9A>G mutation found in family SK-1.
+We compared the functional effects of these mutations by employing an exon-trapping experiment.
+Genomic DNA from the index patient and a control individual contain- ing exon 27 of CDK5RAP2 and intronic ﬂanking sequences of 600 bp upstream and 700 bp downstream of exon 27 was cloned into the minigene splicing vector pSPL3 and analyzed for functional consequences.
+Via site- directed mutagenesis we introduced the c.4005-15A>G mutation.
+We observed that both mutations created a new and strong acceptor splice-site leading to complete loss of the endogenous splice-site (Fig.
+3B).Thus, we did not detect any signiﬁcant functional difference between the two mutations in our in vitro system, however, this does not rule out that they may have different functional consequences in vivo CDK5RAP2 protein instability in primary patient ﬁbroblasts the identiﬁed c.4005-9A>G To investigate whether CDK5RAP2 mutation causes a complete loss of protein function, we analyzed the expression of CDK5RAP2 in primary ﬁbroblasts established from the index patient of family SK-1 (II.1 in Fig.
+1A) and from an age and sex- 472 ª 2015 The Authors.
+Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc G.
+Yigit et al Mutations in CDK5RAP2 Cause Seckel Syndrome Figure 3.
+Transcriptional consequences of identiﬁed c.4005-9A>G mutation in CDK5RAP2.(A) Left: Electropherogram of cDNA derived from the CDK5RAP2 transcript from patient II.1 of family SK-1 carrying the homozygous CDK5RAP2 c.4005-9A>G mutation shows alternative splicing of exon 27 leading to an 8 bp insertion and thereby to a frame-shift and a premature stop codon.
+Right: Schematic representation of the alternatively spliced transcript.
+(B) Results from the exon-trapping assay.Left: Electropherograms of cDNA-PCR products generated from the wild- type and mutant constructs: The c.4005-9A>G mutation leads to a complete loss of the original splice-site and to insertion of 8 bp.
+The previously described c.4005-15A>G mutation has a similar effect leading to insertion of 14 bp.
+Right: Schematic representation of the constructs used for the assay and of the observed alternatively spliced transcripts.
+Exon A and exon B represent artiﬁcial exons of the pSPL3 splicing vector matched healthy control individual.
+We conﬁrmed the presence of alternatively spliced CDK5RAP2 mRNA in cells of the affected individual by RT-PCR (Fig.
+3A).In contrast, no protein expression of truncated CDK5RAP2 could be detected in Seckel ﬁbroblasts, implying a loss of protein function (Fig.
+4A).Upon treatment of cells with MG-132, a potent inhibitor of the ubiquitin-dependent proteasome system, no residual mutant protein was detected, suggesting that alternative pathways are respon- sible for the degradation of the truncated protein Centrosomal and mitotic abnormalities in CDK5RAP2-deﬁcient primary ﬁbroblasts CDK5RAP2 has been shown to be mainly located within centrosomes during all phases of the cell cycle, where it is required for centrosomal cohesion and attachment of centrosomes to the mitotic spindle apparatus (Graser et al 2007; Barr et al.
+2010).Consequently, we analyzed the functional effect of CDK5RAP2 deﬁciency on centrosomal organization and cellular morphology during interphase ª 2015 The Authors.
+Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc 473 Mutations in CDK5RAP2 Cause Seckel Syndrome G.
+Yigit et al Figure 4.
+Characterization of CDK5RAP2-deﬁcient Seckel ﬁbroblasts (A) Western blot (Wb) analysis of CDK5RAP2 expression in wild-type (control) and CDK5RAP2-deﬁcient ﬁbroblasts carrying the CDK5RAP2 c.4005-9A>G mutation (Seckel): Control and Seckel ﬁbroblasts were treated with MG-132 for the indicated time or left untreated as control.
+The arrows indicate the position and molecular weight of wild-type CDK5RAP2 (wt) and the expected position and molecular weight of truncated CDK5RAP2 (mut).
+Wb analysis demonstrates the complete loss of CDK5RAP2 protein in Seckel ﬁbroblasts.
+(B) Interphase and mitotic morphology of Seckel ﬁbroblasts: Immunoﬂuorescence staining of Seckel ﬁbroblasts with antibodies against centrin (green) and pericentrin (red), and DAPI staining of DNA (blue) (pictures I to IV), showing fragmented centrosomes (I), more centrin than pericentrin (II), multiple centrosomes (III), and misplaced centrosomes (IV).
+Immunoﬂuorescence staining of Seckel ﬁbroblasts with antibodies against alpha-tubulin (green) and pericentrin (red), and DAPI staining of DNA (blue) (pictures V to IX), showing unevenly distributed cytoplasm (V), micronuclei in addition to a main nucleus (VI), failed separation of daughter cells (VII, IX), and multiple centrosomes during cell division (VIII).
+Scale bar, 2 lm.(C) Quantiﬁcation of mitotic and centrosomal anomalies in Seckel ﬁbroblasts.
+Seckel ﬁbroblasts show abnormalities in 40% of mitoses overall compared to 9% in wt cells.
+The major abnormal phenotypes observed were duplicated centrosomes and misplaced centrosomes.
+Values are not additive.(D) DNA damage response in control and Seckel ﬁbroblasts: Wb analysis of HU- and UV-induced phosphorylation of H2AX (Ser139) indicates that the response to DNA-damaging agents is not appreciably altered in CDK5RAP2-deﬁcient ﬁbroblasts (Fig.
+4B, and mitosis.
+We observed severe alterations of centrosomal structures including fragmented centrosomes, unbalanced amounts of centrin and pericentrin, and multiple or mis- I–IV).
+Additionally, we placed centrosomes detected signiﬁcant changes in cell morphology during interphase.
+Abnormal Seckel cells showed unevenly distrib- uted cytoplasm, micronuclei in addition to a main nucleus, failed separation of daughter cells, and multiple centro- somes during cell division (Fig.
+4B, V–IX).Quantiﬁcation of defective mitoses revealed that CDK5RAP2 deﬁciency leads to an increased proportion of mitotic cells showing centrosomal defects (40% vs.
+9% in wild-type cells), i.e., duplicated and misplaced centrosomes (Fig.
+4C) As it has been shown that cells from patients with Sec- kel syndrome lacking either ATR or CEP152 can exhibit abnormal response to DNA-damaging agents such as UV light or HU treatment (Alderton et al.
+2004; Grifﬁth et al 2008; Kalay et al.
+2011), we were interested to ﬁnd out whether CDK5RAP2-deﬁcient Seckel ﬁbroblasts would show similar defects.
+Therefore, we treated patient ﬁbro- blasts from family SK-1 with either HU or UV but did not observe any signiﬁcant alteration in phosphorylation 474 ª 2015 The Authors.
+Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc G.
+Yigit et al Mutations in CDK5RAP2 Cause Seckel Syndrome or activation of H2AX.
+Thus, CDK5RAP2 deﬁciency has no obvious impact on ATM/ATR-dependent DNA dam- age response in this cellular system (Fig.
+4D) could not obtain ﬁbroblasts from this patient for functional studies in order to prove the postulated additive genetic effect of mutations in CEP152 and CDK5RAP2 and did not receive consent for whole-exome sequencing Possible digenic inheritance in Seckel syndrome Discussion We continued our molecular analysis of CDK5RAP2 in 10 additional patients with the clinical diagnosis of Seckel syndrome.
+In one German patient (K1600), we found a heterozygous CDK5RAP2 mutation.
+The patient was the ﬁrst child born to healthy nonconsanguineous parents.
+The pregnancy was complicated by intrauterine growth retarda- tion in combination with microcephaly.
+He was born at term with a birth weight of 1380 g ( 8 SD), birth length of 40 cm ( 7.25 SD), and OFC of 26 cm ( 5.9 SD).
+The patient showed global developmental retardation, and cra- nial MRI revealed multiple brain malformations (i.e., par- tial agenesis of the corpus callosum, holoprosencephaly and partial agenesis of the left hemisphere).
+The typical facial features of Seckel syndrome; i.e., the sloping fore- head, beaked nose with high nasal root, blepharophimosis, strabismus and downslanting palpebral ﬁssures, were quite pronounced in this patient.
+Additionally, he presented with mild skeletal abnormalities, such as clinodactyly of the sec- ond and ﬁfth ﬁngers and ankylosis of the elbows (Table 1) Unfortunately, we did not receive permission for publica- tion of photographs The heterozygous missense mutation c.4187T>C in inherited from the patient’s mother CDK5RAP2 was (K1626) and is predicted to replace a highly conserved methionine residue (ConSeq score of 6) within one of the conserved SMC domains of CDK5RAP2 with threonine (Fig.
+5A–C) (Kraemer et al.2011).
+The p.Met1396Thr mutation is predicted to be pathogenic by PolyPhen and was neither found in 150 healthy control individuals, nor in the 1,000 Genomes Database, the Exome Variant Server, or the ExAC browser.
+As we could not detect a second mutation in CDK5RAP2 in this patient, we sequenced ATR (47 exons), CEP152 (27 exons), CENPJ (17 exons), CEP63 (14 exons), and PCNT (47 exons) for additional mutations Interestingly, we found the heterozygous indel inherited from the c.3014_3015delAAinsT in CEP152, s father (K1872).
+The mutation is predicted to patient cause a frame-shift and a premature stop of translation at amino acid position 1020 (p.Lys1005Ilefs*16), leading to the loss of more than the last third of the CEP152 protein To exclude any additional larger structural alterations or intronic mutations within CEP152 that might have been acquired from the mother in terms of compound heterozy- gous inheritance, we veriﬁed the presence of two com- pletely functional CEP152 mRNA transcripts on cDNA s mother (data not shown).
+We derived from the patient small 0 0 structural maintenance-of-chromosomes In this study, we present genetic and functional evidence that biallelic mutations in CDK5RAP2 cause Seckel syndrome.
+CDK5RAP2 encodes the centrosomal protein CDK5RAP2, which was originally identiﬁed in a yeast- two-hybrid screen of rat brain libraries to interact with the neuronal Cdk5 activator CDK5R1 (Ching et al.
+2000) The human CDK5RAP2 protein consists of 1,893 amino acids and contains several coiled-coil domains as well as two (SMC) domains that are known to be important for chromatid cohesion and DNA recombination during mitosis (25 and references therein).
+Direct protein interaction with CDK5R1 and also pericentrin is mainly effected via the C-terminal region, whereas binding to the c-tubulin ring complex (c-TuRC) and thereby its recruitment to centro- somes occurs via the N-terminal region (Fong et al.
+2008; Wang et al.
+2010).All genes involved in Seckel syndrome, such as CEP152, encode proteins with important func- tions in mitosis, especially centriole assembly and spindle formation.
+CDK5RAP2 ties into this family of proteins having been shown to play an important role in centriole cohesion, microtubule dynamics, and spindle orientation (Fong et al.
+2009; Barrera et al.2010).
+CDK5RAP2 plays an important role during brain development: High levels of expression are observed in regions of rapid cell prolif- eration, and CDK5RAP2 has been shown to regulate chromosome seg- regation in neural progenitors (Nagase et al.
+2000; Barr et al.
+2010; Lizarraga et al.2010; Issa et al.
+2012).Mice lacking functional CDK5RAP2 exhibit microcephaly, resulting from proliferative and survival defects in neural progenitor cells (Lizarraga et al.
+2010).We show that loss of functional CDK5RAP2 in human ﬁbroblasts leads to severe mitotic defects including fragmented centrosomes, unbalanced amounts of centrin and pericentrin, and mul- tiple or misplaced centrosomes in addition to morpho- logic changes of such as unevenly distributed cytoplasm, micronuclei, multiple centrosomes, and failed separation of daughter cells.
+A shift in the bal- ance between symmetric and asymmetric cell division and, in consequence, the balance of self-renewal versus differentiation in stem and progenitor cells during neuro- genesis heavily impacts embryonic brain development (Fish et al.
+2006; Zhong and Chia 2008), and mutations in several genes involved in mitosis have been shown to cause primary microcephaly (Bond and Woods 2006) the dividing cell neuroepithelium, particularly in the ª 2015 The Authors.
+Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc 475 Mutations in CDK5RAP2 Cause Seckel Syndrome G.
+Yigit et al Figure 5.
+Molecular ﬁndings in patient K1600 with Seckel syndrome.(A) Left: Electropherogram of identiﬁed heterozygous CDK5RAP2 mutation compared with heterozygous carrier sequence of the mother (K1626) and wild-type sequence of the father (K1872).
+Right: Electropherogram of identiﬁed heterozygous CEP152 mutation compared with heterozygous carrier sequence of the father (K1872) and wild-type sequence of the mother (K1626).
+(B) Amino acid sequence alignment of CDK5RAP2 proteins of different species shows the highly conserved methionine at position 1396.
+(C) Schematic view of CDK5RAP2 and CEP152 protein domains.Upper picture: Protein structure of CDK5RAP2 with structural maintenance-of-chromosomes (SMC) domains (blue), c-tubulin ring complex-binding domain (orange), and pericentrin interaction domain (red) Lower picture: Protein structure of CEP152 with predicted coiled-coil domains (green) and Thr/Ser-phosphorylation sites (red).
+The positions of the mutations are marked by arrows Recently, Lancaster et al.
+(2013) could show that cerebral organoids derived from patient-speciﬁc iPS cells lacking CDK5RAP2 show premature neural differentiation in pro- genitor zones at the expense of the neural progenitor pool, resulting in a smaller organoid and thus recapitulat- ing human microcephaly.
+Moreover, they demonstrated that patient organoid cells displayed aberrantly oriented spindles impeding symmetric expansion of neural stem cells (Lancaster et al.
+2013).This result is in line with our observation of misplaced centrosomes and uneven cell divisions in patient ﬁbroblasts.
+Hence, we propose that increased asymmetric cell division as a consequence of the mitotic errors caused by CDK5RAP2 deﬁciency may underlie the neurologic phenotype of our patients Biallelic mutations in CDK5RAP2 have been mainly described in patients with primary microcephaly without short stature or skeletal abnormalities (Barr et al.
+2010; Pagnamenta et al.
+2012; Issa et al.2013; Tan et al.
+2014) The previously described patients with CDK5RAP2 muta- tions had head circumferences of –4 to –13 SD.
+Thus, the degrees of microcephaly are comparable in the previously described and the present patients.
+Microcephaly was 476 ª 2015 The Authors.
+Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc G.

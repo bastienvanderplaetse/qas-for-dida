@@ -1,0 +1,104 @@
+Abstract Familial Mediterranean fever (FMF) has traditionally been considered as a monogenic autosomal recessive disorder caused by mutations in the MEFV gene with highest incidence among Mediterranean populations.
+In a considerable number of patients with typical FMF, only one MEFV mutation was identiﬁed and the possibility that more than one autoinﬂam- matory gene may be responsible for their disease was investigated.
+In the present study, an extensive search for possi- ble mutations in three hereditary recurrent fever (HRF) genes was performed in 128 MEFV heterozygous Greek–Cypriots clinically diagnosed based on their phenotype with FMF-like disease from a previous study.
+Sequence analysis was per- formed for MVK, TNFRSF1A and NLRP3 genes which is also known to cause HRFs.
+In total, three patients were iden- tiﬁed with heterozygous mutations and a second mutation in an autoinﬂammatory gene.
+Two patients carried a MEFV mutation and a NLRP3 mutation, and an additional third carried a MEFV mutation and a TNFRSF1A mutation.
+Patient 1 carried MEFV p.[Val726Ala] (NM_000243.2:c.2177T>C) and NLRP3 p.[Val198Met] (NM_001243133.1:c.592G>A) vari- ants and patient 2 carried MEFV p.[Glu148Gln] (NM_000243.2:c.442G>C) variant which is of uncertain signiﬁcance and NLRP3 p.[Arg176Trp] (NM_001243133.1:c.526C>T).
+Lastly, patient 3 was identiﬁed to carry MEFV p.[Met694Val] (NM_000243.2:c.2080A>G) and TNFRSF1A p.[Arg121Gln] (NM_001065.3:c.362G>A) variants.
+The results from this study indicate that screening of genes known to cause HRFs in patients already identiﬁed with a single MEFV mutation, can reveal quite rare but potentially causative mutational combinations at different loci.
+Such interaction provide further evidence for possible locus–locus interactions and phenotypes resulting from digenic inheritance [Neocleous V., Byrou S., Toumba M., Costi C., Shammas C., Kyriakou C., Christophidou-Anastasiadou V., Tanteles G.
+A., Hadjipanayis A and Phylactou L.
+A.2016 Evidence of digenic inheritance in autoinﬂammation-associated genes.
+J.Genet.
+95, 761–766] Introduction Hereditary recurrent fevers (HRFs) are an emerging group of autoinﬂammatory disorders and till now several genes have been identiﬁed as potentially causal (Horneff 2015).
+There is difﬁculty in establishing stringent clinical criteria for the diagnosis of patients affected by HRFs as the symptoms may be nonspeciﬁc, generally manifesting as recurrent fever episodes usually accompanied by a number of clinical fea- tures such as rash, serositis, lymphadenopathy and arthri- tis (Federici et al.
+2012, 2015; Horneff 2015).The best ∗For correspondence.
+E-mail: laphylac@cing.ac.cy characterized HRFs are the two recessively inherited dis- eases: familial Mediterranean fever (FMF) (MIM 249100) and hyper-IgD/mevalonate kinase deﬁciency syndrome (HIDS/ MKD) (MIM 610377 and 260920), and two dominantly inher- ited diseases, the tumour necrosis factor receptor-associated periodic syndrome (TRAPS) (MIM 142680) and the cryo- pyrin-associated periodic syndrome (CAPS, FCAS 120100, MWS 191900 and CINCA 607115) (Shinar et al.
+2012) Mutations in the MEFV gene have been reported among individuals of Mediterranean origin and particularly in non-Ashkenazi Jews, Armenians, north Africans, Arabs, Greeks, Cypriots and Turks, and are known to be implicated Keywords.
+familial Mediterranean fever; hereditary recurrent fevers; MEFV gene; TNFRSF1A gene; NLRP3 gene Journal of Genetics, DOI 10.1007/s12041-016-0691-5, Vol.
+95, No.4, December 2016 761 Vassos Neocleous et al in the development of FMF (Konstantopoulos et al.
+2003; La Regina et al.
+2003; Lidar and Livneh 2007; Neocleous et al.
+2015).Mutations in the MVK gene causing MKD are very rare and the disorder is mostly found among individu- als in the Netherlands and other northern European countries (Bader-Meunier et al.
+2011; Vuch et al.2013).
+Mutations in the TNFRSF1A and NLRP3 genes have been reported in indi- viduals with TRAPS and CAPS syndromes, respectively (De Pieri et al.
+2015) More than 800 variants have been identiﬁed and reported in the Infevers database (http://fmf.igh.cnrs.fr/ISSAID/ infevers/) since the identiﬁcation of these four HRF causative genes, (Sarrauste de Menthière et al.
+2003; Touitou et al 2004; Milhavet et al.
+2008).Several of these variants appear to be causative but most are unconﬁrmed or seemingly non- pathogenic (Shinar et al.
+2012).A considerable number of Mediterranean ancestry patients clinically diagnosed with HRF have been found to carry only a single mutation in the MEFV gene despite extensive analysis for a second pathogenic mutation in the coding and regulatory region of the gene.
+Therefore, it is still uncertainty as how patients with a single MEFV mutation develop the disease (Booty et al.
+2009; Marek-Yagel et al.2009; Jeru et al.
+2013; Soylemezoglu et al.
+2015) Additionally, several recent studies have reported the coexistence of MEFV haplotype variants along with NLRP3, TNFRSF1A and MVK genes that determined possible syner- gistic effects with a MEFV heterozygote haplotype (Kubota et al.
+2013; Mereuta et al.2013; Timerman and Frank 2013; Moussa et al.
+2015).Finally, there is always the possibility that some MEFV gene mutations may act in a dominant fash- ion, thus being solely responsible for the cause of the disease (Booth et al.
+2000; Aldea et al.2004; Caglar et al.
+2008; Marek-Yagel et al.
+2009; Stoffels et al.2014) Since the genetic basis of heterozygous MEFV gene patients is still uncertain, the aim of the present study was to screen a large cohort of FMF-like patients who carried a single MEFV mutation for MVK, TNFRSF1A and NLRP3 mutations.
+Since patients with HRF frequently exhibit com- parable inﬂammatory symptoms, the potential synergistic effect of variants in alternative hereditary autoinﬂammatory genes was exploited Materials and methods Patients A total of 128 unrelated patients (59 males and 69 females) with FMF or FMF-like symptoms were referred to the Cyprus Institute of Neurology and Genetics (Neocleous et al 2015).
+The diagnosis of FMF was made after clinical suspi- cion based on the Tel-Hashomer criteria and the patients were characterized based on the recurrent self-limiting episodes of fever and serositis that appeared for every few weeks to months or years (Pras 1998) Ampliﬁcation and direct sequencing of MEFV, MVK, TNFRSF1A and NLRP3 genes The genetic investigation of the present study using genomic DNA isolated from peripheral blood samples was performed in accordance with the latest guidelines for the genetic diag- nosis of HRFs by Shinar et al.
+(2012).DNA sequencing was performed in exons 2, 3, 5 and 10 of MEFV (ENSG0000010 3313), whole coding sequence of MVK (ENSG00000110921), in exons 2, 3 and 4 of TNFRSF1A (ENSG00000067182) and exon 3 of the NLRP3 (ENSG00000162711) genes.
+The PCR conditions and primers used for the ampliﬁcation of MEFV, MVK, TNFRSF1A and NLRP3 genes are available upon request.
+PCR ampliﬁcation was carried out using BigDye Terminator v1.1, cycle sequencing kit (Applied Biosystems, Foster City, USA).
+Ampliﬁcation products were run on an automated Applied Biosystems 3130xl Genetic Analyzer This study has been approved by the Cyprus National Bioethics Committee and informed consent was obtained from all patients who participated in this study Results The spectrum and frequency of MEFV gene defects in the cohort of 128 heterozygote Cypriot patients with clinical sus- picion of FMF or FMF-like disease is depicted in table 1.
+The most frequent defect among the 128 Cypriot identiﬁed alle- les was p.[Val726Ala] (25.8%) followed by p.[Glu148Gln] (25.0%), p.[Met694Val] (13.3%), p.[Met694Ile] (10.9%), the complex allele p.[Phe479Leu(;)Glu167Asp] (10.15%) and p.[Met680Ile] (7.0%).
+The missense mutations p.[Arg761His] (3.9%) and p.[Ala744Ser] (3.9%) were identiﬁed as the rarest (table 1) In the present study, an extensive screen for possible locus–locus interactions was performed in 128 MEFV het- erozygous Greek–Cypriots clinically diagnosed with FMF Sequence analysis of the MVK, TNFRSF1A and NLRP3 genes was performed.
+These genes were selected as they are also known to cause HRF.
+A total of three patients were iden- tiﬁed with heterozygous mutations in two separate HRF loci Table 1.
+Types and frequency of molecular MEFV defects in the cohort of 128 Cypriot HRF patients Heterozygotes in MEFV gene p.[Val726Ala];[=] p.[Met694Val];[=] p.[Met694Ile];[=] p.[Arg761His];[=] p.[Met680Ile];[=] p.[Glu148Gln];[=] *p.[Phe479Leu(;)Glu167Asp];[=] p.[Ala744Ser];[=] Total No.
+of HRF patients with MEFV defects Per cent 33 17 14 5 9 32 13 5 128 25.8 13.3 10.9 3.9 7.0 25.0 10.15 3.9 100 *p.[Phe479Leu(;)Glu167Asp] is known to be coinherited 762 Journal of Genetics, Vol.
+95, No.4, December 2016 MEFV haplotypes and autoinﬂammatory genes and the possibility of DI explaining their clinical presentation was speculated.
+Two patients were identiﬁed with a MEFV and a NLRP3 mutation and a third patient with a MEFV and a TNFRSF1A mutation Patient 1, a 21-year-old Greek–Cypriot woman, who car- ried the MEFV p.[Val726Ala] and NLRP3 p.[Val198Met] mutations was initially evaluated due to frequent episodes of abdominal pain with no associated pyrexial episodes (ﬁgure 1a; table 2).
+The ﬁrst episode was reported at the age of 3.5 years and was characterized by intense abdominal pain, vom- iting, adenopathy and urticaria.
+She had no accompanying fever or any other signs of viral or bacterial infection.
+She (a) (b) (c) Figure 1.
+(a, b and c) With three genealogical mutations inherited by each family member trees and the had lower abdominal tenderness and elevated inﬂammatory markers.
+She was treated with intravenous ﬂuids and was dis- charged when symptoms resolved.
+Between the age 3.5 and 6 years she had cyclical (2–3 monthly) similar episodes of abdominal pain with vomiting, with or without urticaria but again with no fever.
+At the age of 4.5 years, she underwent a tonsillectomy and at the age of 6 years, an appendectomy for acute abdominal pain and lower diffuse lower abdominal tenderness.
+In her adolescence and later she had no recur- rent episodes apart from lower abdominal pains especially during menstruation.
+She was never treated with colchicine and by far, she has not developed any systemic complications associated with FMF Patient 2, a 14-year-old girl with clinical HRF manifesta- tions such as urticarial rash and fever spikes of short duration (<24 h) carried the known missense MEFV p.[Glu148Gln] and NLRP3 p.[Arg176Trp] (NM_001243133.1:c.526C>T) mutations (ﬁgure 1b; table 2).
+This patient did not show a good response for colchicine but to a certain extent showed satisfactory response for IL-1 blockade.
+In the NLRP3 amino acid position at 176, the replacement of Arg residue with a Trp, according to the in silico computational algorithms (Polyphen-2 and SIFT) is predicted to interfere with the pro- tein function (http://exac.broadinstitute.org/variant/1-24758 7277-C-T).
+As the MEFV p[.Glu148Gln] is considered as a variant of uncertain or mild signiﬁcance, the diagnosis of CAPS was considered based on the clinical features and the response to IL-1 blockade (Shinar et al.
+2012) Patient 3, a 33-year-old female carried the severe MEFV p.Met694Val and TNFRSF1A p.[Arg121Gln] missense muta- tion in the heterozygous state (ﬁgure 1c; table 2).
+She had an overlapping FMF and TRAPS phenotype associated with mild periorbital swelling, short duration of fever episodes ranging between 24 and 48 h, abdominal and chest pain with a mediocre response to colchicine (table 2) Parental analysis of patients 1, 2 and 3 revealed heterozy- gosity for either variant in either parents.
+Neither of the parents reported any HRF-associated symptoms.
+The father of pa- tient 2 identified with p.[Arg176Trp];[=] in the NLRP3 did not display any sign of inﬂammatory symptoms similar to his affected daughter with CAPS, despite the fact that the disease is reported to be dominantly inherited.
+The p.[Arg176Trp];[=] variant of the NLRP3 gene when in heterozygous state seems to be as pathogenic as when it is coinherited with the MEFV p.Glu148Gln variant.
+Therefore, based on the latest ‘Standards and Guidelines for the interpretation of sequence variants’ it can be characterized as ‘likely pathogenic’ or of ‘uncertain signiﬁcance’ (Richards et al.
+2015) Discussion The present study included an extensive genetic screen of three HRF-associated genes with the aim to identify poten- tial causative epistatic phenomena and locus–locus interac- tions in a total of 128 Cypriot FMF patients, heterozygous Journal of Genetics, Vol.
+95, No.4, December 2016 763 Vassos Neocleous et al Table 2.
+Clinical and genetic features in patients identiﬁed with digenic inheritance in autoinﬂammatory genes Gender (age of onset) Female (21 y) Female (14 y) Female (33 y) Mutations in different autoinﬂammatory gene MEFV: p.[Val726Ala];[=] NLRP3: p.[Val198Met];[=] MEFV: p.[Glu148Gln];[=] NLRP3: p.[Arg176Trp];[=] MEFV: p.[Met694Val];[=] TNFRSF1A: p.[Arg121Gln];[=] Clinical feature Response to medication Frequent episodes of abdominal pain without accompanied fever Urticarial rash, fever spikes of short duration Mild periorbital swelling, short duration of fever episodes from 24–48 h, abdominal and chest pain Never treated with colchicine or IL-1 blockade Satisfactory response to IL-1 blockade Mediocre response to colchicine for an MEFV mutation.
+The only objective tool that conﬁrms HRFs is MEFV, MVK, TNFRSF1A and NLRP3 sequencing Therefore, the testing approach adopted here is similar to the one suggested by the HRF genetic diagnosis guidelines that were prepared in a consensus document disseminated through the European Molecular Genetics Quality Network, and involved direct sequencing of speciﬁc exons in MEFV, MVK, TNFRSF1A and NLRP3 genes, where most of the frequent mutations are located (Shinar et al.
+2012) In general, mutations of the NLRP3 gene are found in almost 70% of patients with CAPS which is inherited in an autosomal dominant manner (Federici et al.
+2012).The coex- istence of the NLRP3 p.[Val198Met] along with the MEFV p.[Val726Ala] variant as seen in patient 1 with the FMF- like phenotype, most likely does not act synergistically due to the absence of associated pyrexial episodes that are typ- ical of a FMF phenotype.
+In general, the missense NLRP3 p.[Val198Met] mutation is considered as a low penetrance mutation than a benign polymorphism and which may con- tribute to inﬂammatory disease processes, such as familial cold autoinﬂammatory syndrome, Muckle–Wells syndrome and recurrent fevers (Hoffman et al.
+2001; Aganna et al 2002) To our knowledge, variant MEFV p.[Glu148Gln] identiﬁed in patient 2 is of uncertain clinical signiﬁcance (Ben-Chetrit et al.
+2000; Tchernitchko et al.2006).
+Several oppos- ing studies have, however, established it as a pathologic variant associated with a milder form of FMF (Stoffman et al.
+2000; Konstantopoulos et al.2005; Solak et al.
+2008; Tomiyama et al.
+2008).In the NLRP3 amino acid position at 176, the replacement of Arg residue with a Trp, accord- ing to the in silico computational algorithms (Polyphen and SIFT) is predicted to interfere with the protein function.
+As the MEFV p.[Glu148Gln] is considered a variant of uncer- tain or mild signiﬁcance, the diagnosis of CAPS was ﬁnally considered based on the clinical features and the response to IL-1 blockade Currently, more than 100 mutations have been described in the TNFRSF1A with the missense p.[Arg121Gln] as the most frequent in the gene (Hull et al.
+2002; Pelagatti et al.2011) The missense TNFRSF1A p.[Arg121Gln] is a low-penetrance mutation that is associated with mild severity, high rate of spontaneous amelioration and lower prevalence of amy- loidosis.
+Case of patient 3 suggests that the overlapping FMF/TRAPS phenotype is likely to be the result of syner- gistic behaviour of the two mutations residing in two dif- ferent genes, thus suggesting another example of DI (Booty et al.
+2009; Kubota et al.2013; Timerman and Frank 2013; Abdwani et al.
+2015).Cases with mutations in more than one gene suspected to lead to disease are increasingly identiﬁed and reported in the literature.
+In contrast to well recognized monogenic disorders, DI is the simplest form of inheritance associated with genetically complex diseases (Touitou et al 2006; Schaffer 2013; Touitou 2013).
+There is no clear deﬁ- nition of DI but a good operational deﬁnition was given by Schaffer (2013).
+This states that DI exists when the vari- ant genotypes at two loci explain the phenotypes of some patients and their unaffected (or more mildly affected) rel- atives more clearly than the genotypes at one locus alone The deﬁnition excludes evidence of polygenic inheritance, and the presence of ‘modiﬁer loci’ with a modest effect on the phenotype with only statistical evidence of signiﬁ- cance (Schaffer 2013).
+Based on our results, we feel that the patients presented in this study in combination with their genotypes potentially represent examples of DI.
+Further stud- ies are needed to conﬁrm this assumption.
+The era of high- throughput sequencing is exquisitely temporally placed to clarify, delineate and accelerate the identiﬁcation of poten- tial associations and conﬁrm the existence of DI in HRF disorders In the present study, the failure to identify a second muta- tion in the great majority of the Cypriot HRF heterozygous MEFV patients could also raise the possibility, under certain circumstances of codominant inheritance in FMF.
+This obser- vation is consistent with the hypothesis that clinical symp- toms of the disorder may also be present in carriers (Booth et al.
+2000; Jeru et al.2013).
+Another potential explana- tion for this observation may include the presence of rare unidentiﬁed mutations at other loci despite the fact that the sequenced mutational hot spot regions of the present study have 95% mutation coverage (Konstantopoulos et al.
+2003; Shinar et al.
+2012).Disease-causing mutations may also exist in the noncoding or regulatory regions that affect the splic- ing or the messenger RNA expression (Booty et al.
+2009) The presence of dominant negative mutations or mutations with a high frequency could also be another potential cause (Booty et al.
+2009).Finally, the fact that no mutations were identiﬁed in the entire coding sequence of MVK gene in any 764 Journal of Genetics, Vol.
+95, No.4, December 2016 MEFV haplotypes and autoinﬂammatory genes of the screened patients suggest HIDS as almost nonextant in Cypriot population In conclusion, the present study identiﬁed the spectrum of MEFV mutations in a large cohort of MEFV heterozygote Cypriot patients who were presented with FMF-like symp- toms reﬂecting the allelic heterogeneity which characterizes FMF in the island.
+The observation that FMF-like pheno- types can be seen in patients with combined heterozygous mutations involving more than one hereditary autoinﬂam- matory genes, raises the hypothesis that some cases could be due to locus–locus interactions potentially providing evi- dence of DI.
+Insights obtained from studies that identify the genetic basis of detrimental disorders such as HRFs are extremely useful since they can provide a better understand- ing of disease pathogenesis, used for more effective diagnos- tic conﬁrmation, assist in genetic counselling and used in the development of newer therapeutic approaches Acknowledgement This work was supported by the A.

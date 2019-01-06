@@ -1,0 +1,67 @@
+Clinical/Scientific Notes J.
+Cassereau, MD C.
+Casasnovas, MD, PhD N.
+Gueguen, PhD M.-C.
+Malinge, PharmD V.
+Guillet, PhD P.
+Reynier, MD, PhD D.
+Bonneau, MD, PhD P.
+Amati-Bonneau, MD I.
+Banchs, BS V.
+Volpini, MD, PhD V.
+Procaccio, MD, PhD A.
+Chevrollier, PhD Supplemental data at www.neurology.org SIMULTANEOUS MFN2 AND GDAP1 MUTATIONS CAUSE MAJOR MITOCHONDRIAL DEFECTS IN A PATIENT WITH CMT Mutations in the MFN2 gene are associated with Charcot-Marie-Tooth disease type 2A (CMT2A), a dominant axonal CMT, whereas mutations in GDAP1 are associated with recessive demyelinating CMT (CMT4A), recessive axonal CMT (AR-CMT2), and dominant axonal CMT (CMT2K).
+Both proteins are involved in energy metabolism and dynamics of the mi- tochondrial network.1-3 We have previously reported that, in fibroblasts from patients with CMT, MFN2 mutations resulted in a mitochondrial energy coupling defect,4,5 whereas dominant mutation in GDAP1 re- sulted in defective complex I activity.6 In this study, we investigated mitochondrial bioen- ergetics from a severely affected patient with CMT har- boring combined mutations in both GDAP1 and MFN2 genes Methods.
+For details, see e-Methods on the Neurol- ogy® Web site at www.neurology.org Patients.
+Patient II-5 (figure 1A), a 71-year-old woman of Spanish origin, had severe distal muscle weakness from the age of 3, becoming wheelchair- bound during her third decade.
+Clinical examination showed severe weakness of limbs with proximal and dis- tal amyotrophy, tactile and nociceptive hypoesthesia with a gloves-and-socks distribution, and abolition of the limb reflexes.
+She had pes cavus and moderate vocal cord paresis.
+Electrophysiologic studies (table e-1) indi- cated a severe axonal neuropathy characterized by a ma- jor reduction of motor action potential in the left median nerve (0.1 mV) with a slightly reduced motor conduction velocity (43 m/s) Patient II-8, her 56-year-old brother, presented with a mild CMT2 clinical phenotype.
+Electrophysiologic exam- ination showed a sensory axonal neuropathy (table e-1) His 2 daughters, aged 19 and 25 years, are currently asymptomatic.
+Patient II-2, who had a phenotype compat- ible with CMT, had died of respiratory failure Results.
+Mutation analysis.Patient II-8 and his asymp- tomatic daughter (III-15) were found to be heterozy- gous for the pathogenic p.R468H mutation in MFN2, previously described.7 Individuals II-3, II-4, and II-7 were heterozygous for the p.Q163X mutation in GDAP1.
+Patient II-5 was found to be heterozygous for the p.R468H mutation in MFN2 and homozygous for the p.Q163X mutation in GDAP1 (figure 1A) Mitochondrial imaging and biochemistry.
+No alteration of the mitochondrial network was revealed in MFN2: p.R468H fibroblasts and in MFN2:p.[R468H]⫹ GDAP1:p.[Q163X]⫹[Q163X] fibroblasts (figure e-1) In patient II-5 fibroblasts, a more severe energy coupling defect than in MFN2 patients was discov- ered with 85% reduction of the ATP/O ratio com- pared to controls (figure 1Ba).
+Mitochondrial uncoupling was associated with a 65% decrease of mitochondrial ATP production that was absent in fibroblasts with a single MFN2 mutation (figure 1Bb).
+Similarly to patients with dominant mutation in GDAP1, fibroblasts carrying mutations in both MFN2 and GDAP1 showed a 40% reduction of complex I activity compared with MFN2 patients and controls (see malate pyruvate complex I sub- strates value on figure 1Bc, and enzymatic complex measurements on figure 1Bd) Discussion.
+We report a patient with CMT carry- ing simultaneous mutations in GDAP1 and MFN2 Initially, this patient was found to be heterozygous for the p.R468H mutation in MFN2.
+Individuals carrying this mutation usually have mild CMT phe- notype or are asymptomatic.7 Hence the sole pres- ence of this mutation could not be responsible for the severe clinical phenotype,7 suggesting the need for further genetic analysis, which revealed the existence of the p.Q163X homozygous mutation in GDAP1 as an explanation of the clinical severity We have previously reported that MFN2 muta- tions resulted in an energy coupling defect with nor- mal mitochondrial ATP production,4,5 whereas dominant mutation in GDAP1 resulted in defective complex I activity with a decrease in ATP production when complex I substrates (malate and pyruvate) were used.6 A compensatory mechanism was postu- lated since the production of ATP was normal when succinate, the complex II substrate, was used (figure 1Bb).
+In a patient carrying mutations in GDAP1 and MFN2, we showed defective complex I activity as well as severe mitochondrial uncoupling.
+Interest- 1524 Neurology 76 April 26, 2011 Figure 1 Genetic and biochemical findings (A) Pedigree of a family with Charcot-Marie-Tooth disease (CMT) showing the distribution of the nonsense p.Q163X muta- tion in GDAP1 and the missense p.R468H mutation in MFN2.
+Clear circles: unaffected females; clear squares: unaffected males; black circle: affected female; and black squares: affected males; m: mutant alleles; and wt: wild-type alleles.
+The arrow indicates the proband.
+(B) Biochemical findings.(a) Coupling efficiency (ATP/O), i.e., rate of ATP produced per nano- mole of oxygen consumed with malate (M), pyruvate (P), and succinate (S) as substrates.
+(b) Mitochondrial ATP production with MPS.
+(c) Rate of oxygen consumption with malate pyruvate (MP) or MPS, or with S/Rotenone (R), a mitochondrial complex I inhibitor.
+(d) OxPhos enzymatic activities were normalized with the citrate synthase (CS) activity, a reference mitochondrial content.
+The results are expressed as mean values ⫾ SD of 3 independent measurements.Statistical signif- icance levels applied to the control, MFN2, and GDAP1 groups: *p ⬍ 0.05; **p ⬍ 0.01.
+Control group n ⫽ 7; MFN2 group n ⫽ 10 (7 different MFN2 mutations); GDAP1 group n ⫽ 3 (p.C240Y mutation).
+See e-Methods for more information ingly, the reduction of complex I activity was similar to that of fibroblasts with the dominant GDAP1 mu- tation.
+In addition, the ATP production with com- plex I and complex II substrates was significantly reduced compared to fibroblasts harboring either the MFN2 or GDAP1 mutations alone (figure 1Bb) These findings underscore the role of GDAP1 in the function of respiratory complex I and suggest that this combination of mutations has biochemical deleterious synergistic effects.
+In MFN2 patients, the mitochondrial uncoupling was associated with a higher respiratory rate involving complex II, serving as a compensatory mechanism (MPS value, figure 1Bc).5 However, in MFN2-GDAP1 double mutant fibroblasts, the complex I defect may have limited such compensation, leading to a decrease in ATP production Finally, our study suggests that the clinical heter- ogeneity of CMT may be related to the simultaneous presence of mutant alleles in different CMT genes, emphasizing the need for extensive genetic investiga- tion to provide accurate diagnosis From UMR INSERM (J.C., N.G., P.R., D.B., P.A.-B., V.P., A.C.), U771-CNRS6214, Angers; Departments of Neurology (J.C.) and Biochemistry and Genetics (N.G., M.-C.M., P.R., D.B., P.A.-R., V.P., A.C.), University Hospital of Angers, Angers; School of Medicine (J.C., V.G., P.R., D.B., V.P.), University of Angers, An- gers, France; Neuromuscular Unit (C.C.), Neurology Department, Hospital Universitari de Bellvitge-IDIBELL, Barcelona; Molecular Neurology 76 April 26, 2011 1525 Genetic Diagnosis Center of Inherited Disease-IDIBELL (C.C., I.B., V.V.), Barcelona; and Centro de Investigacio´n Biome´dica en Red Enfermedades Degenerativas (CIBERNED) (C.C.), IDIBELL, Barcelona, Spain Disclosure: The authors report no disclosures Received September 13, 2010.
+Accepted in final form November 18, 2010 Address correspondence and reprint requests to Dr.
+Vincent Procac- cio, Biochemistry and Genetics Laboratory, National Centre for Neurodegenerative and Mitochondrial diseases, CHU Angers, 4 rue Larrey, 49933 Angers, France; ViProcaccio@chu-angers.fr Copyright © 2011 by AAN Enterprises, Inc ACKNOWLEDGMENT The authors thank Kanaya Malkani for critical reading and comments on the manuscript and Juana Ferna`ndez-Rodriguez for technical assistance 1 Cartoni R, Martinou JC.
+Role of mitofusin 2 mutations in the physiopathology of Charcot-Marie-Tooth disease type 2A.
+Exp Neurol 2009;218:268 –273 2.
+Niemann A, Ruegg M, La Padula V, Schenone A, Suter U Ganglioside-induced differentiation associated protein 1 is 3 4 5 6 7 a regulator of the mitochondrial network: new implica- tions for Charcot-Marie-Tooth disease.
+J Cell Biol 2005; 170:1067–1078 Cassereau J, Chevrollier A, Gueguen N, et al.
+Mitochon- drial dysfunction and pathophysiology of Charcot-Marie- Tooth disease involving GDAP1 mutations.
+Exp Neurol 2011;227:31– 41 Loiseau D, Chevrollier A, Verny C, et al.
+Mitochondrial coupling defect in Charcot-Marie-Tooth type 2A disease Ann Neurol 2007;61:315–323 Guillet V, Gueguen N, Verny C, et al.
+Adenine nucleotide translocase is involved in a mitochondrial coupling defect in MFN2-related Charcot-Marie-Tooth type 2A disease Neurogenetics 2010;11:127–133 Cassereau J, Chevrollier A, Gueguen N, et al.
+Mitochon- drial complex I deficiency in GDAP1-related autosomal dominant Charcot-Marie-Tooth disease (CMT2K).
+Neu- rogenetics 2009;10:145–150 Casasnovas C, Banchs I, Cassereau J, et al.
+Phenotypic spectrum of MFN2 mutations in the Spanish population J Med Genet 2010;47:249 –256 INCREASING INCIDENCE OF MYASTHENIA GRAVIS AMONG ELDERLY IN BRITISH COLUMBIA, CANADA Presence of anti-acetylcholine receptor (anti-AChR) antibodies is highly specific for myasthenia gravis (MG).
+These antibodies are detected in 85%–95% of sera from patients with generalized MG and 40%– 70% of patients with ocular MG.1 An increasing incidence of MG, especially in the elderly population, has been described in Japan, the United Kingdom, and Denmark.2-4 Recent studies have also focused on the epidemiology of anti-AChR antibody seropositivity as a surrogate marker of MG.4-6 The Neuro-Immunology Laboratory at the University of British Columbia is the sole laboratory in British Columbia (BC), Canada, offering anti- AChR antibody testing for clinical diagnosis The aims of this study were to evaluate the inci- dence and epidemiologic characteristics of anti- AChR antibody seropositivity in BC and to examine changes in incidence over time Methods.
+We performed a population-based study of the incidence of anti-AChR antibody-seropositivity in BC for the 25-year period of January 1, 1984, to December 31, 2008.
+Incident cases were ascertained by retrospectively identifying all first-time seropositive tests.
+A positive anti-AChR antibody test was necessary and sufficient for a patient to be included as a case During these 25 years, BC’s population increased from 2,947,181 to 4,381,603 Data analysis.
+Incidence was defined as the annual number of first-time anti-AChR seropositive cases.
+Inci- dence rates (IRs) were calculated per 1 million inhabit- ants based on annual July population estimates (BCStats, www.bcstats.gov.bc.ca).
+Cases were stratified into 4 age groups based on age at the first positive test: ⱕ19, 20–44, 45–64, and ⱖ65 years.
+Age- and sex- stratified IRs were calculated based on population estimates of the corresponding age and sex group Ninety-five percent confidence intervals (95% CI) were calculated using the Poisson distribution Results.
+Between January 1984 and December 2008, we identified 1,243 new anti-AChR seropositive indi- viduals (648 women, 587 men, 8 unknown).
+The age at the first positive serum sample in women had a bimodal distribution with peaks at 45–55 and 70–85 years, whereas in men the distribution had a single peak at 70–80 years (figure e-1 on the Neurology® Web site at www.neurology.org).
+This age distribution resembles previous observations on the age at onset of MG.3,5 The average annual IR of first-time anti-AChR seropositive cases for the period of 1984–2008 was 13.2 per year per million (95% CI 12.5–14.0) Mean annual IRs of the ⱕ19, 20 – 44, and 45– 64 age groups did not change substantially over these 25 years: 3.6/year/million (95% CI 2.9 – 4.5), 7.7 (95% CI 6.8 – 8.7), and 16.8 (95% CI 15.1–18.7) (figure 1).
+In contrast, annual IRs of the ⱖ65 age group significantly increased from 21.4 during 1984 –1988 (95% CI 15.2–29.3) to 52.9 during 2004 –2008 (95% CI 45.1– 61.9) Sex-adjusted IRs significantly increased for both men and women ⱖ65 from 1984 –1988 to 2004 – 2008 as follows: from 26.4 (95% CI 16.3– 40.4) to 63.5 (95% CI 50.8 –78.7) for men and from 17.6 (95% CI 10.4 –27.8) to 44.2 (95% CI 34.7–55.7) Zahra Pakzad Tariq Aziz, BSc Joel Oger, MD, FRCPC, FAAN Supplemental data at www.neurology.org 1526 Neurology 76 April 26, 2011 Simultaneous  MFN2  and  GDAP1  mutations cause major mitochondrial defects in a patient with CMT J.
+Cassereau, C.Casasnovas, N.

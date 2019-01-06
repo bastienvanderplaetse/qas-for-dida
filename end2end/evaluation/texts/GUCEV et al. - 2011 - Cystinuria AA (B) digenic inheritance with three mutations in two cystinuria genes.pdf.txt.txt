@@ -1,0 +1,69 @@
+Introduction Cystinuria is characterized by the impaired reabsorption of cystine in the proximal renal tubules and the gastroin- testinal epithelium.
+Recurrent nephrolithiasis is the main consequence.
+The estimated prevalence of cystinuria is 1/7000 neonates.
+The highest prevalence is found in Libyan Jews (1/2500 neonates), the frequency in Czech and Slo- vak populations is 1/5600, while in Sweden the prevalence is estimated to be 1/100,000 (Palacin et al.
+2001; Dello Strologo and Rizzoni 2006).
+In total, 1–2% of adults and 6– 8% of children suffering from kidney stones have cystinuria (Rosenberg 1966) Historically the biochemical classiﬁcation included type I heterozygotes with a normal amino acid urinary pattern, types II and III with an increase of cystine, lysine, ornithine and arginine urinary excretion.
+This classiﬁcation of cystin- uria, which is based on amino acid urinary patterns, has been changed by the discovery of cystinuria genes.
+Mutations of SLC3A1 gene (encoding rBAT) were found to be responsi- ble for type I cystinuria.
+SLC7A9 was identiﬁed as the gene responsible for non-I cystinuria.
+Patients with more than two mutations were proposed to be classiﬁed as AA(B) or BB(A), depending on the location of mutations in the two genes.
+So far, over 200 mutations in both genes have been described (Bisceglia et al.
+2010) Both types of cystinuria (A and B) have a similar out- come.
+None of the patients with cystinuria AB described so far had cystine urolithiasis.
+In a large series of patients cystinuria was classiﬁed as: 31% of the patients where type I, 30% where type non-I, 10% were mixed type, the remain- ing 29% were unclassiﬁed (Dello Strologo et al.
+2002).The genetic classiﬁcation was: 45.2% were type A, 53.2% were type B, and only 1.6% was type AB (i.e., two patients from one family) (Dello Strologo et al.
+2002) We report here a rare digenic inheritance in a patient with cystinuria type AA (B) with mild clinical characteristics (sin- gle urinary stone) and with a family amino acid excretion of a mixed heterozygous type Materials and methods The proband is an 11 year–old boy who was born in a fam- ily of young and healthy parents of Macedonian ethnicity as the ﬁrst of two children.
+The pregnancy and delivery were uneventful.
+There is no family history of passing stones.At the age of 11 years, the proband presented with right side renal colic.
+Ultrasound examination revealed a mild to mod- erate hydronephrosis of the right kidney.
+X–ray revealed ureteral calculus at the level of L2.
+Metabolic investiga- tions revealed normal levels of serum calcium, phosphorus, magnesium, bicarbonate, uric acid and parathormone.
+Uri- nary excretion of calcium, magnesium phosphorus, uric acid, oxalate and citrate were also within referent values.
+Nitro- prusside test (Brandt’s reaction) was positive 3+.
+Family screening for cystinuria was performed with the ultrasound examination of the urinary tract and nitroprusside reaction Both parents and a female sibling had no evidence for cal- culi and negative nitroprussidide test.
+Amino acid excre- tion was determined in the proband and ﬁrst degree relatives by a Biochrom 30 amino acid analyzer (Biochrom, Cam- bridge, UK) in urine samples (three measurements, margin of error 1.5%).
+Results were expressed as the molar ratio ∗For correspondence.
+E-mail: Zoran Gucev, gucevz@gmail.com; Georgi D Efremov, gde@manu.edu.mk Keywords.
+cystinuria; digenic inheritance; three mutations; SLC3A1; SLC7A9 Journal of Genetics, Vol.
+90, No.1, April 2011 157 Zoran Gucev et al Table 1.
+Urinary excretion of cystine and dibasic amino acids in the index patient and ﬁrst degree relatives Amino acid (mmol/mol creatinine) Cystine (0.6–20.0) Ornithine (0.1–5.0) Lysine (0.0–62.0) Arginine (0.9–3.6) Mutational status Index patient Mother Father Sister 209.7 4.6 20.6 23.6 74.74 1.0 3.8 3.6 475.6 12.1 100 122.7 140.3 0.8 2.7 0 Reference values are given in parentheses T216M/M467T G105R/- M467T/- T216M/- G105R/- T216M/- G105R/- of respective amino acid to creatinine (table 1).
+The renal function of the proband was normal (creatinine clearance 124 mL/min/1.73 m2).
+The renal colic was treated with spas- moanalgetics.
+The patient was advised on high ﬂuid intake and alkalization of the urine with potassium citrate; uri- nary pH was optimally controlled between 7 and 8.
+One month after diagnosis of cystinuria during the febrile illness (Inﬂuenza H1N1) the patient had a new episode of renal colic.
+The calculus (5 mm) impacted in the urethra and was removed instrumentally.
+Infrared spectroscopy conﬁrmed the cystine content of the stone.
+During the follow up period of one year no new stones were detected.
+Informed consent was obtained from all patients and controls and the study was approved by the Bioethics Committee of the institution Mutational analysis Genomic DNA was isolated from peripheral blood lympho- cytes following standard protocols (Efremov et al.
+1998) Genomic DNA, from the patient and his family members, was ampliﬁed by PCR using intron-derived oligonucleotides for exon 4 in SLC7A9 gene (Font et al.
+2001) and exons 3 and 8 in SLC3A1 gene (Bisceglia et al.
+1996).The muta- tional screening of the proband’s DNA was performed by direct sequencing of PCR ampliﬁed DNA on ABI PRISM 3130 Genetic Analyzer (Applied Biosystems, Foster City, USA) with Big DyeTM Terminator Cycle Sequencing Ready Reaction kit.
+Mutations in the family members and in normal samples were detected with PCR analysis followed by sin- gle stranded conformational polymorphism (SSCP) (T216M, M467T), restriction fragment length polymorphism (RFLP) (ApaI for G105R) and direct sequencing Results and discussion Screening of PCR ampliﬁed DNA from the proband by SSCP reveled the presence of T216M and M467T mutations.
+The third mutation was detected by RFLP using Apa1 restriction enzyme.
+These results were conﬁrmed by direct sequencing of PCR ampliﬁed DNA (ﬁgure 1).
+Mutations in proband’s Figure 1.
+DNA sequencing analysis showing two mutations in the SLC3A1 gene: T216M or c.647 C->T (A), and M467T or c.1400 T->C (B), and one mutation in SLC7A9 gene: G105R or c.311 G->A (C).
+N,) normal sequence; M,) mutant sequence parents and sister were detected by SSCP and RFLP and con- ﬁrmed by direct sequencing.
+We also screened DNA samples from 50 healthy Macedonian people by SSCP and RFLP and did not ﬁnd mutation in any of the screened samples Proband’s mother, who is a heterozygote for M467T muta- tion, showed normal amino acid urinary pattern (type I), while the father and the sister who are carriers of T216M and G105R mutation had a non–I type excretion proﬁle, with an borderline increase of cystine and lysine urinary excretion This classiﬁed the proband and the family members as having mixed type of cystinuria The majority of the mutations identiﬁed in SLC7A9 and SLC3A1 genes are point mutations.
+To a lesser frequency nonsense, missense, splice site, and frameshift mutations and large rearrangements in both genes have been described (International Cystinuria Consortium 2001) An ethnic difference in the type of cystinuria mutation has been frequently reported (Bisceglia et al.
+2010).The most frequent mutation, M467T, was detected in 36% of all type I classiﬁed alleles in Czech and Slovak patients (Skopková et al.
+2005).M467T and G105R were the pre- ponderant mutations in SLC3A1 and SLC7A9, respectively; T216M was the major mutation in Turkey and Greece (Botzenhart et al.
+2002) The patient we report here is a compound heterozygote of SLC3A1 mutations (T216M and M467T), and the SLC7A9 mutation G105R.
+The International Cystinuria Consortium (ICC) database has information on three patients who are double compound heterozygotes with mutations in both 158 Journal of Genetics, Vol.
+90, No.1, April 2011 Three mutations in two cystinuria genes genes (Font et al.
+2001).Two patients had mutations M467T and dupE5-E9 (AA), and c.789+2T→C (B), and one patient with mutations Y232C and G105R (BB), and M467T (A) (Font-Llitjós et al.
+2005; Di Perna et al.2008) In the study family, the mother is carrier of the muta- tion M467T and she had type I heterozygous proﬁle with a normal amino acid urinary pattern, while the father and the sister, who are double carriers of the mutations T216M in SLC3A1 gene and G105R in SLC7A9 gene, had a non–I type excretion proﬁle, with an increase of cystine and lysine uri- nary excretion.
+The ﬁnding that members of the family have normal and increased urinary amino acid excretion classiﬁes this type of cystinuria as mixed.
+The differences in amino acid excretion might be due to different impacts of different mutations on amino acid excretion.
+It was already demon- strated that the M467T was usually associated with mild aminoaciduria in homozygotes and compound heterozy- gotes while hetrozygotes with M467T have type I pheno- type.
+Heterozygotes with G105R mutation may have urinary excretion phenotype near the control range whereas others are near the homozygous range (International Cystinuria Consortium 2001).
+Individuals with AB cystinuria behave as B heterozygotes with a variable degree of aminoaciduria, which could be greater than that of the single heterozygotes within the family, depending on the particular combination on mutations (Di Perna et al.
+2008) It has been suggested that type II and type III cystin- uria may be caused by the same mutation and, therefore, that other factors must inﬂuence urinary cystine excretion (Harnevik et al.
+2001).The phenotype of cystinuria might be affected by SLC3A1 or SLC7A9 polymorphisms, their promoter regions, intronic mutations, and the possibility of existence of a third cystinuria gene No clinical differences were evident between cystinuria type A (due to SLC3A1 mutations) and B (due to SLC7A9 mutations), which led to a conclusion that renal stone for- mation cannot be directly correlated with amino acid uri- nary excretion and suggested the importance of cofactors of lithogenesis (Dello Strologo et al.
+2002) In conclusion, we describe an 11 year–old boy with sin- gle cystine urinary calculus.
+Amino acid excretion in het- erozygotes classiﬁed the type of cystinuria as non-I cystin- uria (father and sister) and type I regarding the excretion in the mother.
+The course of his disease was mild.Three muta- tions in two cystinuria genes: SLC3A1 (T216M and M467T), SLC7A9 (G105R) have been identiﬁed in the proband.
+This accordingly classiﬁes his cystinuria as type AA (B).
+So far, only three patients with three mutations in the cystinuria genes have been reported.
+In contrast to those patients who were reported to have high cystine excretion in heterozy- gotic relatives, the patient’s father and sister had moderate excretion and his mother had a normal excretion.

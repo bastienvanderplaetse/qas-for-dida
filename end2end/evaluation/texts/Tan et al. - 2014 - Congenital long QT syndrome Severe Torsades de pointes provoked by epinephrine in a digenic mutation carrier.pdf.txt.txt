@@ -1,0 +1,72 @@
+a b s t r a c t Article history: Received 4 June 2014 Received in revised form 22 July 2014 Accepted 24 July 2014 Available online 16 September 2014 Keywords: Long QT syndrome Digenic mutation Torsade de pointes Epinephrine test Introduction Congenital Long QT Syndrome (LQTS) is a potentially lethal cardiac channelopathy characterized by prolongation of the corrected QT (QTc) interval on the surface electrocardiogram.
+The hallmark pheno- typic features are syncope, seizure or sudden death, however most of the mutation carriers are asymptomatic and their risk for arrhythmias such as Torsade de pointes (TdP) are low.
+We report a case of Long QT syndrome with a corrected QT of 520 ms.
+For symptom e arrhythmia correlation a loop recorder was implanted with no documented arrhythmias.
+Epinephrine testing was performed for clinical risk stratiﬁcation leading to Torsades de pointes during recovery phase which required deﬁbrillation.
+Genetic testing discovered two pathogenic heterozygous mutations in two different LQT genes (SCN5A and KCNQ1).
+We propose a calcium homeostasis mechanism for the interaction of both mutations that exaggerated the phenotype, while each mutation by itself is causing a relatively modest phenotype Ó 2014 Elsevier Inc.
+All rights reserved Congenital Long QT syndrome (LQTS) is a genetic channelopathy with variable penetrance that is associated with increased pro- pensity to syncope, polymorphic ventricular tachycardia (Torsades de Pointes; TdP), and sudden arrhythmic death.1 Digenic mutations (two mutations in different genes) or more often compound heterozygosity (two different mutations in the same gene) in LQTS- related genes occurred in 2.0%e8.5% in published reports2e5 and are associated with signiﬁcantly longer QTc intervals2,4,5 and more severe phenotypes.2,4 In this report, we describe a case where severe TdP occurred and subsequently two pathogenic heterozy- gous mutations in two different LQT genes have been identiﬁed suggesting an interaction between both mutated gene products Abbreviations: LQTS, Long QT syndrome; QTc, Corrected QT interval; TdP, Torsade de pointes; VT, Ventricular tachycardia; ICD, Implantable cardioverter deﬁbrillator; LQT1, Long QT type 1; LQT3, Long QT type 3; PVCs, Premature ventricular complexes; WT, Wild-type; KCNQ1, Potassium voltage-gated channel, type 1; SCN5A, Sodium channel, voltage-gated, type V, alpha subunit * Corresponding author.
+Department of Cardiac Sciences, Libin Cardiovascular Institute of Alberta, Health Research Innovation Centre, Room GAA08, 3280 Hospital Drive NW, Calgary, AB, Canada T2N 4Z6.
+Tel.: þ1 403 210 6908; fax: þ1 403 210 9350 E-mail address: bgerull@ucalgary.ca (B.
+Gerull) 0147-9563/$ e see front matter Ó 2014 Elsevier Inc.
+All rights reserved http://dx.doi.org/10.1016/j.hrtlng.2014.07.004 Case report The proband is a 39 year-old female patient who was referred to us based on a resting QTc of 520 ms (Fig.
+1) after a second episode of likely vasovagal syncope.
+The ﬁrst episode occurred 6 years prior to the current presentation and was suggestive of vasovagal syncope The second, more recent episode occurred during micturition and was preceded with nausea and dizziness.
+Apart from a corrected QT of 520 ms, no other abnormalities were seen on ECG.
+All other cardiac investigations including an echocardiogram and exercise stress test were unremarkable In view of a lack of symptomerhythm correlation, she had a loop recorder implanted and was put on Nadolol which was gradually increased to 60 mg, twice daily.
+However, over a period of 12 months she did not have any syncope spells and no documented arrhythmias on the loop recorder.
+The family history revealed that her paternal uncle died of drowning at the age of 16 and her nephew (maternal brother’s child) died suddenly at age of 4 months old For further risk stratiﬁcation and to determine the type of LQTS we decided to perform an epinephrine drug challenge and started an incremental epinephrine infusion from 0.05 mcg per kg per minute up to 0.2 mcg per kg per minute after stopping Nadolol for a week.
+The QTc interval was calculated using the Bazett formula (QT divided by the square root of RR interval).
+The QTc prior to the epinephrine challenge was 567 ms and prolonged up to a maximum QTc of 596 ms at 0.2 mcg per kg per minute epinephrine 542 V.H.
+Tan et al./ Heart & Lung 43 (2014) 541e545 Fig.
+1.Resting 12-lead ECG of the proband infusion (Fig.
+2).There was no occurrence of tachyarrhythmia during the infusion.
+However, during the washout period (5 min after stopping epinephrine infusion), a gradually prolong ReR in- terval developed followed by frequent premature ventricular bi- geminies preceded by augmented T-U complexes (Fig.
+3A).This was followed by non-sustained ventricular tachycardia (VT) (again, the ﬁrst ventricular tachycardia (VT) beat was preceded by an augmented TeU complex) culminating to persistent polymorphic VT resembling of Torsades de pointes (TdP) (Fig.
+3B) which required deﬁbrillation.
+Given her signiﬁcant arrhythmias induced by epinephrine, she eventually underwent dual chamber implantable cardioverter deﬁbrillator (ICD) implantation and was placed at lower rate of 70 beats per minute.
+A year after ICD implantation, she developed polymorphic VT (Fig.
+4) treated successfully with an ICD shock which awoken her from sleep Subsequent genetic testing of 12 genes known to cause LQTS identiﬁed two pathogenic mutations in two different proteins, KCNQ1 (p.R518X) and SCN5A (p.F1617del), causing LQTS type 1 (LQT1) and LQTS type 3 (LQT3), respectively.
+Further family screening identiﬁed that the proband inherited one mutation from each parent (Fig.
+5).Her mother carrying the KCNQ1 mutation showed a baseline QTc of 467 ms and signiﬁcantly prolonged up to a maximum of 516 ms at 0.2 mcg/kg/min epinephrine infusion indicating clinical manifestation of LQTS (Fig.
+2).The probands fa- ther showed a normal baseline QTc (390 ms) with a maximum QTc of 476 ms at 5 min after stopping epinephrine (Fig.
+2).Both children of the proband had borderline QTc intervals of 450 ms and inherited one mutation each as shown in Fig.
+4.All ﬁrst degree relatives of the proband were asymptomatic Discussion This case interestingly illustrates an LQT phenotype with mu- tations involving both KCNQ1 and SCN5A genes.
+Accordingly, our Fig.
+2.Comparison of ECGs (lead II) between the proband and her parents before and at maximum epinephrine dosage V.H.
+Tan et al./ Heart & Lung 43 (2014) 541e545 543 Fig.
+3.(A) During epinephrine washout phase, frequent PVCs preceded by gradually prolonged ReR interval.
+Each PVC was preceded by an augmented TeU complex (a).(B) At 10 min during epinephrine washout phase, frequent PVCs preceded by augmented T-U complexes (b) in the setting of a long QTc culminating to develop Torsades de pointes discussion will focus on the utility of genetic testing and epinephrine testing as well as potential mechanism or interaction of both mutations.
+According to the Heart Rhythm Society and European Heart Rhythm Association expert consensus statement on genetic testing for channelopathies,6 genetic testing is recom- mended for patients with strong clinical index suspicion for an LQTS phenotype as seen in our case (resting 12 lead ECG showed prolonged QTc in the absence of reversible cause).
+The advent of genetic testing in particular for LQTS subtypes has important im- plications in diagnosis, prognosis as well as therapeutic manage- ment.6 However, the dilemma faced in this case is which mutation (LQT1 or LQT3) is the dominant one or how do they interfere with each other? The escalating dose of epinephrine introduced by the Mayo group was found to be particularly useful in diagnosing LQT1.7 However, there is no test available for risk stratiﬁcation in patient with LQTS.
+In our patient, the epinephrine test was performed because it was thought to be helpful to further clarify her diagnosis (type of LQTS) and risk for arrhythmias without the knowledge of the results of genetic testing.
+It is interesting to note that frequent ventricular bigeminies and the ﬁrst beat of polymorphic VT or TdP were consistently preceded by an augmented TeU complex (Fig.
+3A and B).
+In ventricular bigeminies complexes, the amplitude of the augmented TeU complex is gradually increased in subsequent beats which possibly indicates an imminent risk of TdP.
+Kirchhof et al showed that abnormal giant T-U waves separate TdP initiation in LQTS patients from premature ventricular complexes (PVCs) in other diseases and from other PVCs in LQTS patients.
+They further suggest that this may help to identify an imminent risk of onset of TdP.8 The rationale for the ICD implantation was based on the in- duction of TdP during the epinephrine washout in the setting of a documented long QTc.
+Moreover, about a year later, the patient had an ICD treated episode of TDP during sleep, a trigger which is typically observed in LQTS type 3.
+Epinephrine challenges in her parents were leading to QT prolongation, but no signiﬁcant ar- rhythmias and both as well as her children where consequently treated with beta-blocker Previous studies have examined the electrophysiologic effects of the individual mutations observed in the patients presented herein.9,10 Huang et al examined the electrophysiologic manifes- tations of the p.R518X mutation in KCNQ1.9 In the clinical study of p.R518X mutation, the phenotype was syncope and LQTS in the proband but nuclear family members carrying the same mutation 544 V.H.
+Tan et al./ Heart & Lung 43 (2014) 541e545 Fig.
+4.ICD dot plot tracing (left upper corner) and intracardiac electrogram.
+Dot plot tracing shows the onset of ventricular arrhythmias as evidenced by ventricular rate > atrial rate.
+Intracardiac electrogram shows polymorphic ventricular tachycardia which was terminated by an ICD shock had no phenotype.
+The electrophysiologic characterization of the resultant IKs current-density was critically dependent on the ratio of wild-type (WT) to mutation-carrying monomers that were co-expressed in Xenopus oocytes.
+When mutant monomers were co-expressed with WT monomers at a 1:1 ratio there was no dominant negative effect however when the ratio of WT: mutation carrying monomers was 1:3 a dominant-negative impairment of IKs expression was observed.
+Interesting a subsequent study indicated that in the setting of calmodulin binding to KCNQ1 can exaggerate the phenotype of p.R518X resulting in a dominant negative phenotype.
+These data suggest that generally the p.R518X mutation produces a relative minor phenotype but that intracellular envi- ronmental features can exaggerate the phenotype The phenotype induced by the isolated SCN5A mutation p.F1617del also produces a relatively modest phenotype.10 This mutation produces a negative shift in the sodium channel avail- ability, steady state inactivation, of cardiac INa.
+The mutation also produces an increase in the late component of INa but this increase was statistically signiﬁcant only at þ40 mV.
+At the plateau potentials (0 mV) there was no signiﬁcant difference.
+Single chan- nel analysis showed some increase in channel open times at volt- ages >20 mV.
+At 0 mV they channel open times were equal to that seen in the þ/þ channel.
+These data indicate that the electro- physiologic consequences of the F1617del mutation are subtle and voltage-dependent.
+Thus, genetic/electrophysiologic modeling to replicate digenic mutation to study the electrophysiology effect might be difﬁcult due to the subtleties of individual mutations The single mutations taken in isolation produce modest phe- notypes.
+However our proband carried both of these mutations (digenic).
+Is there a plausible mechanism to indicate why syner- gistic QT prolongation and propensity to Torsades could be observed in individuals simultaneously carrying both mutations? It seems plausible that the sodium channel mutation could induce an increase in late sodium current inﬂux.
+Acting via the sodium cal- cium exchanger increased intracellular sodium leads to an increased calcium inﬂux and thereby to SR calcium overload.
+When epinephrine was applied, epinephrine will increase the trans- membrane calcium current resulting in exaggerated SR load and Fig.
+5.Family tree of the proband (arrow) together with the ECG phenotype and genotype V.H.
+Tan et al./ Heart & Lung 43 (2014) 541e545 545 calcium release.
+Moreover, epinephrine induced increases in þ2 calmodulin interaction with intracellular calcium could alter Ca the KCNQ potassium channels resulting in synergistic prolongation of the QT interval.
+Consistent with the literature,11 this could exaggerate the phenotype The limitation of this case report is clearly that this is just an example of one case and the patient’s family, and although it is consistent with the literature, it does not conclusively prove the concept, and would need to be replicated in other cases or ideally, a case series Conclusion A digenic proband carrying mutations in both SCN5A and KCNQ1 manifests Torsades after epinephrine.
+Nuclear family members car- rying either of the isolated mutations had no phenotypes.

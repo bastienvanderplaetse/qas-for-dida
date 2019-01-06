@@ -1,0 +1,109 @@
+noradrenergic receptor activation Our data show that catecholamines from sweat gland innervation induce production of a cholinergic differentiation factor in developing sweat glands, thereby triggering the switch to a cholinergic phenotype.
+Fur- ther, they indicate that the initial expres- sion of catecholamines by cholinergic sym- pathetic neurons is not simply a default pathway (4) but is an essential step in their developmental differentiation.
+The require- ment for target innervation, which is not necessary for production of nerve growth factor (19), the target-derived trophic fac- tor for sympathetic neurons, may restrict the availability of the differentiation factor and increase the specificity of neuron-target interactions This study shows that both anterograde and retrograde signaling are needed for development of functional synapses be- tween sympathetic neurons and sweat glands.
+Noradrenergic neurons contact the glands and stimulate production of SGF Sweat glands release SGF, which induces cholinergic properties in the noradrenergic neurons, and acetylcholine then induces maturation of the sweat glands (20), which results in the establishment of a functional synapse REFERENCES AND NOTES 1.
+S.Landis, Dev.
+Biol.77, 348 (1980); R.
+Mains and P.
+Patterson, J.Cell Biol.
+59, 329 (1973) 2.
+P.Patterson and L.
+Chun, Dev.Biol.
+56, 263 (1977); ibid.
+60, 473 (1977); T.Yamamori et al., Science 246, 1412 (1989); S.
+Saadat, M.Sendt- ner, H.
+Rohrer, J.Cell Biol.
+108, 1807 (1989) 3.
+M.Rao, S.
+Tyrrell, S.Landis, P.
+Patterson, Dev Biol.
+150, 2811 (1992) 4.
+S.Landis, Trends Neurosci.
+13, 344 (1990) 5.
+M.Rao and S.
+Landis, J.Neurobiol.
+24, 215 6.
+S.Landis and D.
+Keefe, Dev.Biol.
+98, 349 (1983) 7.
+G.Leblanc and S.
+Landis, J.Neurosci.
+6, 260 8.
+S.Landis, R.
+Siegel, M.Schwab, Dev.
+Biol.126, 9.
+L.Stevens and S.
+Landis, ibid.123, 179 (1987) 10.
+R.Schotzinger and S.
+Landis, Nature 335, 637 Neuron 5, 91 (1990) 11 12.
+M.Rao and S.
+Landis, ibid., p.899 13.
+M.Rao, P.
+Patterson, S.Landis, Development 116, 731 (1992) 14.
+H.Rohrer, ibid.
+114, 689 (1992) 15.
+S.Tresser, M.
+Rao, S.Landis, Soc.
+Neurosci Abstr.
+18, 1475 (1992) 16.
+P.Walicke and P.
+Patterson, J.Neurosci.
+1, 333 (1981) (1984) 17.
+M.Yodlowski, J.
+Fredieu, S.Landis, ibid.
+4,1535 18.
+B.Habecker, unpublished observations 19.
+D.Clegg, T.
+Large, S.Bodary, L.
+Reichardt, Dev Biol.
+134, 30 (1989); H.Rohrer, R.
+Heumann, H Thoenen, ibid.
+128, 240 (1988) 20.
+M.Grant and S.
+Landis, J.Neurosci., in press 21.
+Sympathetic and sensory neuron cultures were prepared essentially as described by E.
+Hawrot and P.
+Patterson [Methods Enzymol.58, 574 (1979)] and by Rao and Landis (12), except that dorsal root ganglia were incubated for only 40 min in dispase and collagenase.
+Non-neuronal cells were removed by preplating, and neurons were grown in 10 gM arabinosylcytosine for the first 2 1604 (1993) (1986) 129 (1988) (1988) days.
+Neurons were plated with 25,000 to 30,000 cells per well in 24-well plates for transfilter exper- iments and 3000 to 4000 cells per well in 96-well plates for other experiments.
+Primary rat sweat gland cultures were established by explanting tissue from hind footpads of P7 to P9 rats.
+Pads were treated with dispase and collagenase for 75 min at 370C before gland-containing regions were explanted and cells were grown to near conflu- ence in serum-free medium [D.
+Gruenert, C.Bas- baum, J.
+Widdicombe, In Vitro Cell.Dev.
+Biol.26, 411 (1990); G.
+Collie, M.Buchwald, P.
+Harper, J Riordan, ibid.
+21, 257 (1985)].Gland cells were added to neurons after 2 days, 4 x 105 cells per well in 96-well plates, 4 x 106 cells per well in 24-well plates or in filter inserts 22.
+Cholinergic function was determined by the pres- ence of choline acetyltransferase (ChAT) activity, assayed by the method of F.
+Fonnum [Biochem.J 115, 465 (1969)] as modified by Rao and Landis (12).
+Data were analyzed by analysis of variance with Statview II (Abacus Concepts, Berkeley, CA) 23.
+Conditioned medium was collected from day 5, concentrated through a 1 0-kD Centricon filter for 90 min at 3000 rpm, diluted in medium, and sterilized through a 0.22-gm filter 24.
+RNA was isolated by the method of P.Chomczyn- ski and N.
+Sacchi [Anal.Biochem.
+162, 156 (1987)].
+Samples were reverse-transcribed with the Promega cDNA synthesis kit and amplified by polymerase chain reaction through 35 cycles (1 min each at 940, 520, and 72°C) with primers encoding subtype-specific regions of receptor a, (+)TCTAGGCGCGTGCGCTTACA, proteins: (-)GCCAGGTCGGTCGTGGTGTC (bases 1373 to 1393 and 1713 to 1733) [M.
+Voight, J.Kispert, H.
+Chin, Nucleic Acids Res.18, 1053 (1990)]; a2 (+)CCCAAGCCTCCAAGAGAGAA, (-)CCACTG- GCAAMCTCCCACATT (bases 1133 to 1153 and 1417 to 1437) [D.
+Zeng et al., Proc.Nati.
+Acad Sci.
+U.S.A.87, 3102 (1990)]; P1, (+)GCCCA- GMACAGGTAAGAA, (-)CCTTGGACTCG- GAGGAGAAG (bases 760 to 780, and 1376 to 1396) [C.
+Machida et al., J.
+Biol.Chem.
+265, 12960 (1990)]; 12 (+)AGAGCACAAAGCCCTCA- AGA, (-)AGCCGTTCCCATAGGTTTTC (bases 804 to 824 and 1044 to 1064) [P.
+Buckland et al., Nucleic Acids Res.
+18, 682 (1990)].Hybridization was carried out in Quickhyb (Stratagene) with 32P-labeled oligonucleotides [a1, bases 1442 to 1472; P,, bases 930 to 960 (cross-hybridizes with 12)] that were washed in 0.1 x standard saline citrate and 0.2% SDS at 450C and exposed onto film overnight 25.
+Rats at P10 were perfused with phosphate-buff- ered saline, and 10-gm footpad sections were mounted on gelatin-coated slides.
+For a1, sec- tions were incubated with 50 pM (2-{1(4-hydroxy- 3-[1251]iodophenyl)-ethylaminomethyl}tetralone) with or without 100 nM prazosin as described [H Glossmann, F.
+Lubbecke, P.Presek, Eur.
+J.Phar- macol.
+75, 149 (1981)].For 1, sections were incubated with 50 pM 1251-labeled pindolol with or without 10 g±M propranolol [V.
+Arango et al., Brain Res.
+516, 113 (1990)].Autoradiography and re- ceptor quantitation were completed as described by M.
+Grant, S.Landis, and R.
+Siegel [J.Neurosci 11, 3763 (1991)].
+Autoradiograms were exposed for 2 days at 40C 26.
+We thank P.Ernsburger, L.
+Collins, and R.Siegel for advice concerning binding and autoradiogra- phy; N.
+Malec for technical assistance with bind- ing and quantitation; and S.
+Tresser for replicating the transwell experiment.
+Supported by an NIH grant to S.C.L.

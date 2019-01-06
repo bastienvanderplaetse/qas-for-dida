@@ -1,0 +1,82 @@
+Letters to the Editor Am.
+J.Hum.
+Genet.64:1216±1221, 1999 Am.
+J.Hum.
+Genet.64:1216, 1999 Double Heterozygosity for a RET Substitution Interfering with Splicing and an EDNRB Missense Mutation in Hirschsprung Disease To the Editor: Hirschsprung disease (HSCR [MIM 142623]) is a de- velopmental disorder resulting from the arrest of the craniocaudal migration of enteric neurons from the neu- ral crest along gastrointestinal segments of variable length (Behrman 1992).
+The involvement of the Ret proto-oncogene and the endothelin-B receptor-mediated signaling pathways in the migration and differentiation of enteric ganglion cells has been demonstrated in both humans and mice Heterozygous, incompletely penetrant point muta- tions and deletions of the RET proto-oncogene have been described in sporadic and familial cases of HSCR (Edery et al.
+1994; Romeo et al.1994; Angrist et al 1995).
+In addition, homozygous RET-targeted disrup- tion in mice results in megacolon with renal abnormal- ities (Schuchardt et al.
+1994).This phenotype is remi- niscent of the knockout for GDNF, encoding for the glial cell-line±derived neurotrophic growth factor (Moore et al.
+1996; Pichel et al.1996; Sanchez et al.
+1996), a pro- tein that has been demonstrated to bind speci®cally and to activate Ret with a glycophosphatidylinositol (GPI)- anchored protein, the GDNF receptor-(GFRA1) (Jing et al.
+1996; Treanor et al.1996).
+Although no nucleotide changes have been found at the GFRA1 locus (Angrist et al.
+1998; Myers et al.1998), rare heterozygous mu- tations of the GDNF gene, in some cases in combination with RET mutations, have been detected in a few pa- tients (Angrist et al.
+1996; Ivanchuk et al.1996; Salomon et al.
+1996).Similarly, a missense mutation in the neur- turin (NTN) gene, a component of a second RET bind- ing complex including the NTN receptor (also known as GDNFR-2, GDNFR-, or GFRA2), has been found in an HSCR family cosegregating with a RET missense mutation (Doray et al.
+1998).Rarely, megacolon pres- ents in association with pigmentary anomalies in the Shah-Waardenburg syndrome, a human autosomal re- cessive disease similar to the mouse piebald lethal and 1216 lethal spotting spontaneous mutants.
+The study of these models of syndromic megacolon has led to the identi- ®cation of homozygous mutations in the endothelin-B receptor gene (EDNRB) and the endothelin 3 (EDN3) gene in both humans and mice (Baynash et al.
+1994; Hosoda et al.
+1994; Puffenberger et al.1994; AttieÂ et al.
+1995).In particular, in a large Mennonite pedigree, a founder homozygous W276C EDNRB mutation has been found in association with a speci®c RET haplotype, thus suggesting a possible genetic interaction between the two genes in the Mennonites affected with the Shah- Waardenburg syndrome (Puffenberger et al.
+1994) EDNRB and EDN3, respectively, encode the endothelin- B receptor, a G-protein±coupled receptor with seven TM domains, and its ligand endothelin-3.
+We and others have demonstrated heterozygous incompletely penetrant mutations in the EDNRB gene in individuals with iso- lated megacolon (Amiel et al.
+1996; Auricchio et al 1996; Kusafuka et al.
+1996), although mutations at the EDN3 locus are rarely found in HSCR (Bidaud et al 1997).
+Recently, mutations of the transcriptional factor SOX10 (Pingault et al.
+1998) and of the endothelin- converting enzyme 1 (ECE1) (Hofstra et al.
+1998) have been reported in HSCR patients with pigmentary and cardiac defects RET, GDNF, EDNRB, and EDN3 are mutated in a variable proportion of individuals affected with isolated HSCR, accounting for 30%±50% of all cases (Edery et al.
+1997; Eng and Mulligan 1997; Hofstra et al.1997) In addition, these mutations alone do not explain the variable expressivity and the incomplete penetrance of the disease for which, according to a complex model of inheritance, the combined presence of mutations in more than one of the known or still unknown HSCR suscep- tibility genes can be inferred To better understand the contribution of RET, GDNF, EDNRB, and EDN3 to the pathogenesis of HSCR, we collected samples from 50 patients and analyzed them for mutations at these loci.
+Forty-seven of these patients represented unrelated sporadic cases, and three belonged to two different families in which a polygenic or recessive mode of inheritance could be inferred on the basis of the pedigree.
+They were affected with isolated mega- colon, including long, short (ªclassicº), and ultrashort Auricchio et al.: Letters to the Editor forms.
+None of them was born of consanguineous par- ents, and all were of Italian origin Table 1 shows two heterozygous incompletely pene- trant EDNRB mutations (S305N and N378I) we re- cently described in two patients with isolated short-seg- ment HSCR disease, inherited from healthy parents (Auricchio et al.
+1996).These two mutations were iden- ti®ed during a ®rst screening of 20 patients and were absent in 100 control chromosomes.
+We then analyzed samples from 30 additional patients with isolated HSCR and could not detect any novel mutations at the EDNRB locus.
+The mutation screening of the 21 exons of the RET proto-oncogene was done on all 50 patients.
+As shown in table 1, two missense mutations in exons 10 and 14 (C1876A and G2438A, respectively) and a nu- cleotide change affecting the 5end of intron 14 (G26075A) were identi®ed in three different patients In particular, the Q626K missense mutation affects the last codon of exon 10, namely the cys-rich region located in the juxtamembranous extracellular domain, suggest- ing either an effect on the folding of the ligand-binding domain or an interference with RET dimerization, a cru- cial step preceding its activation.
+Mutation R813Q, af- fecting exon 14, is likely to alter the RET tyrosine kinase activity, whereas the GA transition at the 5end of intron 14 might interfere with correct processing of the primary transcript.
+In addition, we found two synony- mous nucleotide changes in RET exon 11, leading to neutral substitutions I647I and S649S in patients 20 and 25, respectively (table 1).
+These were absent in 150 con- trol individuals.
+We could not detect any GDNF or EDN3 mutations in our patients, thus con®rming that they play a minor role in HSCR pathogenesis 1217 Interestingly, patient 20 (from now on, patient 1) car- ries both a RET synonymous nucleotide change, C1941T (I647I), inherited from the unaffected mother, and an EDNRB missense mutation, S305N, transmitted by the healthy father.
+This latter mutation results in the substitution of a serine, located in the third intracellular loop, with an asparagine (Auricchio et al.
+1996).This serine, highly conserved between different species, has been shown to be a site of in vivo phosphorylation (Roos et al.
+1998), suggesting that it plays an important role in the receptor regulation and that its absence can result in the protein loss of function.
+Intraexonic silent mu- tations can alter correct mRNA processing, thus result- ing in either altered mRNA levels or truncated proteins (Steingrimsdottir et al.
+1992; De Meirleir et al.1994; Li et al.
+1995; Richard and Beckmann 1995; Jin et al.1996; Llewellyn et al.
+1996; Ploos van Amstel et al.1996; Liu et al.
+1997).To test the hypothesis that the RET I647I variant could play a causative role in the development of the disease phenotype in patient 1, we analyzed, both in vitro and in vivo, the RET mRNA expression, using cDNA and genomic DNA from patient 1 and from an additional proband (patient 2) with the same I647I change, described elsewhere (Ceccherini et al.
+1994) As an in vivo approach to study the RET transcrip- tion, we performed reverse transcription (RT) PCR with total RNA from lymphoblastoid cell lines of these two patients, by means of two different techniquesÐthe SSCP (Orita et al.
+1989) and the ampli®cation-refractory mutation system (ARMS) (Newton et al.
+1989) analysis Results obtained from SSCP analysis of the RET exon 11 are shown in ®gure 1.
+The shifted upper band cor- responding to the mutated allele present in the genomic Table 1 RET and EDNRB Mutations in 50 Male Patients with Isolated HSCR Patient Number Genea Exon Change Change Nucleotide Amino Acid HSCR20 HSCR18 HSCR46 HSCR20 HSCR25 HSCR40 HSCR01 EDNRB EDNRB RET RET RET RET RET 4 6 10 11 11 14 14 G1151A del1369A C1876A C1941T G1947A G2438A G26075A S305N N378I Q626K I647I S649S R813Q Type of Case Sporadic Familial Sporadic Sporadic Sporadic Sporadic Sporadic Length of Aganglionosis Short Short Ultrashort Short Short Short Long a For the RET, EDNRB, and EDN3 genes, primer sequences and PCR-SSCP conditions have been described elsewhere (Ceccherini et al.
+1994; Auricchio et al.1996).
+To screen the GDNF gene we used both SSCP (for exon 1) and denaturing gradient gel electrophoresis (DGGE) (for exon 2) with the following primer sets: 1F/R (5-AGGCTTAACGTGCATTCTG-3and 5- GGGAACGGTTCTTACAGT-3), 2AF/R (5-30-bp GC clamp-GATCATTTTTGTCTCATG- TGCCA-3and 5-TCCTCTAATTCTCTGGGT-3), 2BF/R (5-GAGCGGAATCGGCAGGCTG-3 and 5-30-bp GC clamp-CAAGAGCCGCTGCAGTACCT-3) and 2CF/R (5-CTTGGGT- CTGGGCTATGAA-3and 5-30-bp GC clamp-GCAATACACAGCAGTCTCTG-3).
+PCR anneal- ing temperatures were 57C±63C.
+SSCP was done as reported elsewhere (Ceccherini et al.1994), whereas a 20%±70% denaturing gradient in 1TEA buffer at 160 V constant for 3.5±4.5 h was applied for DGGE analysis 1218 Figure 1 SSCP analysis of the RET exon 11 transcript from affected individuals carrying the I647I silent mutation.
+PCR products corresponding to this exon from father, mother, and patient 1 genomic DNA are represented in lanes 1, 2, and 3, whereas lanes 4, 5, and 6 show the PCR products obtained from the cDNA of patients 1 and 2 and a control individual, respectively.
+Note that the shifted upper band corresponding to the mutated allele present in lanes 2 and 3 is absent in the cDNAs of patients 1 and 2 (lanes 4 and 5), which show only the normal allele present in the cDNA from a control individual (lane 6) DNA of patient 1 and his healthy mother (lanes 2 and 3) is absent in the cDNAs of patients 1 and 2 (lanes 4 and 5).
+They depict only the normal allele present in the cDNA from a control individual (lane 6).
+Similar results have been obtained from ARMS analysis of the RET exon 11 from patient 2 genomic DNA and cDNA (®g 2).
+In particular, using oligonucleotide primers speci®c for either the normal (lanes 1 and 3) or the I647I (lanes 2 and 4) RET alleles, we were able to amplify a band of the expected size from patient genomic DNA with both sets of primers (lanes 1 and 2), although at the cDNA level the normal (lane 3), but not the mutated, allele (lane 4) was present.
+In addition, direct sequence analysis of the PCR product, as well as BsmI enzymatic restriction of an exon 7 RET polymorphism, the phase of which is known with respect to the I647I mutation, con®rmed the absence of the mutated allele in the cDNA of the affected individuals (data not shown) To elucidate whether the I647I silent mutation could interfere with splicing, thus resulting in unstable prod- ucts undetectable in vivo in lymphoblast cDNAs, we cloned the 3-kb genomic region encompassing RET ex- ons 10, 11, and 12, from both the normal and the I647I mutated alleles, into the pSPL3 eukaryotic vector Am.
+J.Hum.
+Genet.64:1216±1221, 1999 (Church et al.
+1994) (®g.3a).
+RT-PCR ampli®cation from total RNA of SV40-transformed African green monkey kidney cells (COS-7) transiently transfected with the RET wild-type construct (®g.
+3b) shows the expected fragment of 255 bp (lane 1).
+Two additional products of 148 bp and 120 bp were ampli®ed when the I647I construct was transfected (lane 2).
+As shown in ®gure 3c, sequence analysis of the 255-bp products from the above lanes 1 and 2 corresponded to the normal and mutated RET alleles, respectively, an observation consistent with the use of canonical ªgtº and ªagº donor and acceptor splice sites (underlined in the partial in- tronic sequence given in lowercase letters).
+Conversely, sequence analysis of the 148-bp and 120-bp products revealed two exon 11 deleted forms.
+Both products re- sulted from the fusion of the 3end of exon 10 to two different sites located 107 bp and 135 bp downstream of the exon 11 starting nucleotide in the largest and the smallest abnormal products, respectively.
+If translated, these mRNAs would result in two proteins: the one cor- responding to the largest transcript truncated 758 bp downstream of the newly activated splice site, and the smallest mRNA resulting in an in-frame interstitial loss of 45 amino acids, including the transmembrane do- main.
+Nevertheless, we postulate that this abnormal pro- cessing of the I647I allele may reduce the mutant RNA to a level that escapes detection by the commonly used in vivo RT-PCR approach.
+Thus, the presence in our patient of an inactive form of the endothelin-B receptor Figure 2 ARMS analysis of the RET exon 11 from patient 2 genomic DNA and cDNA.
+PCR products were obtained by use of oligonucleotide primers speci®c for either the normal (lanes 1 and 3) or the I647I (lanes 2 and 4) RET alleles.
+A band of the expected size is ampli®ed from patient genomic DNA with both sets of primers (lanes 1 and 2), whereas at the cDNA level the normal (lane 3), but not the mutated, allele (lane 4) is present Auricchio et al.: Letters to the Editor 1219 Figure 3 In vitro analysis of the RET exons 10 and 11 splicing products from both the normal and the I647I mutated alleles (see text for details).
+a, Schematic representation of the RET constructs used for the in vitro splicing analysis.b, RT-PCR ampli®cation using primers designed in exons 10 and 11, as indicated in a, from total RNA of COS-7 cells transiently transfected with the RET wild-type (lane 1) and the I647I (lane 2) constructs.
+Note the abnormal products present in lane 2.c, Sequence analysis of the 255-bp products from lanes 1 and 2 shown in b corresponded to the normal and mutated RET alleles, respectively, an observation consistent with the use of canonical ªgtº and ªagº donor and acceptor splice sites (underlined in the partial intronic sequence given in lowercase letters).
+Conversely, sequence analysis of the 148- bp and 120-bp products revealed two exon 11 deleted forms resulting from the use of cryptic acceptor ªagº sites activated to generate the two abnormal products (underlined in the sequence of the 5portion of exon 11 given in capital letters).
+The two alternative nucleotides involved in the neutral substitution of codon 647 (T in the normal allele and C in the variant allele) are shown in boldface type and of reduced levels of the Ret protein could impair the normal enteric neuronal migration In conclusion, we con®rm that in isolated HSCR the major susceptibility locus is the RET proto-oncogene, with EDNRB accounting for a minority of cases.
+More relevantly, we demonstrate in two different patients, both in vivo and in vitro, that the same silent RET mu- tation can interfere with correct transcription, thus pos- sibly leading to a reduced level of the Ret protein.
+Finally, the coexistence, reported for the ®rst time, in the same patient of two functionally signi®cant EDNRB and RET mutations suggests a direct genetic interaction between these two distinct transmembrane receptors in polygenic HSCR disease ALBERTO AURICCHIO,1,PAOLA GRISERI,2 MARIA LUISA CARPENTIERI,3 NICOLA BETSOS,2 ANNAMARIA STAIANO,3 ARTURO TOZZI,3 MANUELA PRIOLO,2 HELEN THOMPSON,2 RENATA BOCCIARDI,2 GIOVANNI ROMEO,4,5 ANDREA BALLABIO,1 AND ISABELLA CECCHERINI2 1Telethon Institute of Genetics and Medicine, Milan, 2Laboratorio di Genetica Molecolare, Istituto Giannina Gaslini, Genova-Quarto, 3Dipartimento di Pediatria, UniversitaÁFederico II,Naples, and 4Dipartimento di Oncologia Biologia e Genetica, UniversitaÁ degli Studi di Genova, Genova, Italy; and 5Genetic Cancer Susceptibility Unit, Lyon, France Acknowledgments The ®nancial support of Telethon±Italy (grant E791) is grate- fully acknowledged.

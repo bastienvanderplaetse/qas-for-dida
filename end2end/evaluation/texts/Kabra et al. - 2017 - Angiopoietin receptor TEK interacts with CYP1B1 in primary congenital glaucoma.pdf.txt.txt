@@ -1,0 +1,81 @@
+Abstract  Primary congenital glaucoma (PCG) is a severe  autosomal  recessive  ocular  disorder  associated  with  con- siderable  clinical  and  genetic  heterogeneity.
+ Recently,  rare  heterozygous  alleles  in  the  angiopoietin  receptor- encoding  gene  TEK  were  implicated  in  PCG.
+ We  under- took  this  study  to  ascertain  the  second  mutant  allele  in  a  large cohort (n = 337) of autosomal recessive PCG cases  that  carried  heterozygous  TEK  mutations.
+ Our  investi- gations  revealed  12  rare  heterozygous  missense  muta- tions  in  TEK  by  targeted  sequencing.
+ Interestingly,  four  of these TEK mutations (p.E103D, p.I148T, p.Q214P, and  p.G743A)  co-occurred  with  three  heterozygous  muta- tions  in  another  major  PCG  gene  CYP1B1  (p.A115P,  Meha Kabra and Wei Zhang were equally contributing authors Electronic supplementary material  The online version of this  article (doi:10.1007/s00439-017-1823-6) contains supplementary  material, which is available to authorized users  *  Subhabrata Chakrabarti    subho@lvpei.org; subho.chakrabarti@gmail.com 1  Kallam Anji Reddy Molecular Genetics Laboratory, Brien  Holden Eye Research Centre, L.V.
+Prasad Eye Institute,  Hyderabad, India 2  Jasti V Ramanamma Children’s Eye Care Centre, L.V.
+Prasad  Eye Institute, Hyderabad, India 3  VST Centre for Glaucoma Care, L.V.
+Prasad Eye Institute,  Hyderabad, India 4  Tej Kohli Cornea Institute, L.V.
+Prasad Eye Institute,  Hyderabad, India 5  Gullapalli Pratibha Rao International Centre  for Advancement of Rural Eye Care, L.V.
+Prasad Eye  Institute, Hyderabad, India 6  Department of Ophthalmology, UMASS Medical School,  Worcester, MA, USA p.E229K,  and  p.R368H)  in  five  families.
+ The  parents  of  these  probands  harbored  either  of  the  heterozygous  TEK  or  CYP1B1  alleles  and  were  asymptomatic,  indicating  a  potential  digenic  mode  of  inheritance.
+ Furthermore,  we  ascertained  the  interactions  of  TEK  and  CYP1B1  by  co- transfection and pull-down assays in HEK293 cells.
+Ligand  responsiveness  of  the  wild-type  and  mutant TEK  proteins  was assessed in HUVECs using immunofluorescence anal - ysis.
+ We  observed  that  recombinant  TEK  and  CYP1B1  proteins  interact  with  each  other,  while  the  disease-asso- ciated  allelic  combinations  of  TEK  (p.E103D)::CYP1B1  (p.A115P), TEK (p.Q214P)::CYP1B1 (p.E229K), and TEK  (p.I148T)::CYP1B1  (p.R368H)  exhibit  perturbed  interac- tion.
+The mutations also diminished the ability of TEK to  respond  to  ligand  stimulation,  indicating  perturbed  TEK  signaling.
+Overall, our data suggest that interaction of TEK  and  CYP1B1  contributes  to  PCG  pathogenesis  and  argue  that  TEK-CYP1B1  may  perform  overlapping  as  well  as  distinct functions in manifesting the disease etiology Introduction Autosomal  recessive  primary  congenital  glaucoma  [PCG  (MIM 231300)] is the most common form of glaucoma in  infants  (<3  years  of  age).
+The  disease  is  thought  to  result  from  developmental  defects  in  the  Schlemm’s  canal  and  trabecular  meshwork  resulting  in  raised  intraocular  pres- sure  (IOP)  and  optic  nerve  head  damage  (deLuise  and  Anderson  1983;  Sarfarazi  and  Stoilov  2000;  Wang  and  Wiggs  2014).
+ PCG  is  accompanied  with  clinical  symp- toms  of  buphthalmos  (enlarged  eye  globes),  a  charac- teristic  Haab’s  striae  (horizontal  breaks  in  the  Descemet  membrane),  corneal  edema,  and  photophobia,  leading  to  irreversible  blindness  (Anderson  1981;  Chakrabarti  et  al 1 3942  Hum Genet (2017) 136:941–949 2006).
+It exhibits a prevalence of 1 in 1250–3300 live births  among consanguineous populations (Dandona et al.
+1998;  Plasilova  et  al.
+ 1999),  and  1  in  10,000–30,000  in  outbred  populations worldwide (Dimasi et al.
+2007; Khan 2011) PCG  is  genetically  heterogeneous  (Libby  et  al.
+ 2005)  with  homozygous  mutations  in  CYP1B1  (Li  et  al.
+ 2011;  Stoilov  et  al.
+ 1997;  Vasiliou  and  Gonzalez  2008)  and  LTBP2  (Ali  et  al.
+ 2009)  accounting  for  majority  of  the  cases.
+ In  addition,  allelic  interactions  of  two  unlinked  genes, MYOC (Kaur et al.
+2005) and FOXC1, with CYP1B1  (Chakrabarti  et  al.
+ 2009)  have  been  associated  in  PCG Recently,  rare  heterozygous  mutations  in  the  angiopoietin  receptor  TEK  (MIM  600221;  tunica  interna  endothelial  cell  kinase;  or  TIE2)  resulting  in  haploinsufficiency  were  implicated  in  PCG  (Souma  et  al.
+ 2016). No  mutations  in  the known glaucoma genes were identified.
+These observa- tions were intriguing, since PCG is inherited in an autoso- mal recessive manner Given that the clinical and genetic predisposition to PCG  can vary according to ethnicity (Liu and Allingham 2011;  Vasiliou  and  Gonzalez  2008; Wang  and Wiggs  2014),  we  reasoned that heterozygous TEK mutations might co-occur  with  mutations  in  another  glaucoma-associated  gene  in  autosomal recessive PCG.
+In this study, we not only iden- tified  novel  heterozygous  TEK  mutations  but  also  found  evidence for genetic and physical interaction of TEK with  CYP1B1 in PCG.
+We further showed that the disease-asso- ciated  allelic  combinations  of  TEK  and  CYP1B1  altered  their interaction and affected the ability of TEK to respond  to extrinsic signals.
+Overall, our study implicated TEK and  CYP1B1 in common pathways that could affect the disease  etiology Materials and methods Study approval The study adhered to the tenets of the Declaration of Hel- sinki and was approved by the Institutional Review Board  of the L.V.
+Prasad Eye Institute (LEC 08-15-097).Written  informed consents were obtained from all the adult subjects  and guardians of the minors Enrolment of patients and controls Our  study  cohort  consisted  of  2057  subjects  including  index cases of unrelated PCG patients (n = 337) devoid  of  homozygous  mutations  in  the  known  PCG-associated  genes  (CYP1B1,  LTBP2,  MYOC,  and  FOXC1),  along  with  their  affected  sibs  (n =  9),  unaffected  parents  and  relatives  (n = 687),  and  ethnically  matched  normal  vol- unteers  from  the  geographic  region  of  habitat  of  the  patients (n = 1024).
+In addition, we enrolled a cohort of  adult  glaucoma  patients  with  primary  open  angle  glau- coma  (POAG;  n  =  240)  and  developmental  glaucoma  cases  comprising  Axenfeld–Rieger  syndrome  (ARS;  n = 30), Aniridia (n = 10), and Peter’s anomaly (n = 10),  to  understand  the  involvement  of  TEK  and  CYP1B1  in  these cases Clinical evaluation of the subjects A  detailed  clinical  inclusion  and  exclusion  criteria  for  the  enrolment  of  PCG  (Chakrabarti  et  al.
+ 2006),  POAG  (Chakrabarti  et  al.
+ 2007),  and  developmental  glaucoma  cases  comprising  of  ARS  (Komatireddy  et  al.
+ 2003),  Aniridia  (Dharmaraj  et  al.
+ 2003),  and  Peter’s  anomaly  (Gould and John 2002) have been described earlier.
+Each  case  was  independently  diagnosed  by  at  least  two  glau- coma  specialists.
+ A  good  inter-observer  agreement  was  seen  based  on  the  kappa  statistics  (κ  =  0.94)  and  all  cases with discordant diagnosis were excluded.
+The nor- mal volunteers (controls) belonged to the same ethnicity  of  the  patients  and  were  matched  to  their  geographical  region of habitat.
+Majority of these subjects belonged to  a  longitudinal  cohort  [The Andhra  Pradesh  Eye  Disease  Study (APEDS)] who are being followed up for the last  20 years (Khanna et al.
+2016).All control subjects, along  with the parents and relatives of the PCG patients, under- went  a  comprehensive  ocular  examination  and  did  not  manifest any signs or symptoms of glaucoma or any other  ocular or systemic diseases Targeted sequencing and validation A  customized  panel  containing  the  entire  coding  and  untranslated regions of 36 genes (Supplementary Table 1)  was  designed  for  screening  using  the  Ion  Ampliseq  Designer  (Life  Tech).
+ Screening  was  accomplished  by  deep sequencing on an Ion Torrent platform using the Ion  Ampliseq  chemistry  following  the  manufacturer’s  guide- lines (both from Life Tech).
+Bar-coded targets were ampli- fied, ligated, and sequenced (in sets of 40 samples pooled in  a single P1 HiQ chip) at an average depth of 500× (range  from  120×  to  1100×  coverage).
+ The  analysis  pipeline  included  the  standard  quality  control  measures  followed  by alignment with the hg19 sequence.
+Each sample exhib- ited 800–900 variants with >98% being on target.
+Samples  that failed in the quality control measures described above  were repeated.
+All TEK variants were validated by Sanger  sequencing  on  an  automated  3130  XL  DNA  sequencer  (Applied Biosystems, CA) using the BigDye chemistry and  with reported primers (Souma et al.
+2016) 1 3Hum Genet (2017) 136:941–949  943 Cell culture, transient transfection, GFP pulldown,  and immunofluorescence HEK293  cells  were  maintained  in  DMEM/F12  (Thermo  Fisher)  plus  10%  FBS  and  penicillin/streptomycin.
+ For  TEK-CYP1B1  interaction  studies,  HEK293  cells  were  transiently transfected with plasmids encoding recombinant  HA-TEK  and  GFP-tagged  CYP1B1  proteins.
+ Cells  were  then subjected to pull down using GFP antibody (Abcam,  Cambridge, MA) crosslinked to AminoLink Plus Coupling  Resin  (Chromotek,  Hauppauge,  NY),  as  described  earlier  (Rao et al.
+2016).The pulled-down proteins were washed  three times with lysis buffer, and the samples were eluted  in glycine lysis buffer (pH 2.8), neutralized using 1 M Tris  pH 9.5, and analyzed by SDS-PAGE and immunoblotting HUVECs  were  maintained  in  EBM-2  media  from  Lonza  (Walkersville,  MD)  supplemented  with  EGM-2  SingleQuots  (Lonza).
+ After  transient  transfection,  the  cells  were  treated  with  recombinant  human  Angiopoietin  1  (ANGPT-1;  600  ng/ml;  R&D  Systems,  Minneapolis,  MN),  as  described  earlier  (Souma  et  al.
+ 2016). The  cells  were  then  fixed  with  4%  paraformaldehyde,  blocked  with  5%  goat  serum,  and  incubated  with  primary  antibodies:  HA  (Abcam)  and  ZO-1  (Thermo  Fisher)  overnight.
+After  washing, Alexa 488-conjugated and Alexa 546-conjugated  secondary antibodies (Thermo Fisher) were added for 1 h After  washing,  nuclear  stain  Hoechst  was  added,  and  the  cells were imaged using a Leica microscope (DM5500) Statistical and bioinformatic analysis Twenty-seven  intragenic  variations  in  TEK  were  used  to  generate  haplotypes  using  the  Haploview  software  (ver- sion  4.2)  (Barrett  et  al.
+ 2005). The  minor  allele  frequen- cies,  measures  of  Hardy–Weinberg  equilibrium,  linkage  disequilibrium,  and  estimated  haplotype  frequencies  were  calculated.
+ The  associated  allele  and  haplotype  frequen- cies  were  further  analyzed  for  statistical  correction  using  the  permutations  tests  (n  =  10,000  permutations).
+ Allele  frequencies  of  each  variant  were  calculated  along  with  odds  ratios  and  95%  confidence  intervals  (Supplementary  Table 2).
+The allele frequencies of the individual mutations  were  compared  with  the  overall  frequencies  provided  at  the ExAc (Exome Aggregation Consortium) database (Lek  et al.
+2016) Results Identification of novel TEK mutations in PCG Screening  of  TEK  mutations  in  our  cohort  revealed  12  novel  heterozygous  changes  in  26  unrelated  PCG  cases  (Table 1) that affected highly conserved residues (Fig.
+1a– c, Supplementary Fig.
+1).The allele frequency of each vari- ant was < 0.01 in the normal controls, indicating that these  were  rare  events  (Table  1).
+ Except  for  the  p.I148T  allele,  the  frequencies  of  4/12  TEK  mutations  were  significantly  lower in the ExAc database compared to our normal con- trols (Table 1).
+The overall frequency of TEK mutations in  our PCG cohort was 3.26% (95% CI 1.83–5.75%), which  was  slightly  lower  than  a  previous  study  comprising  a  mixed  Caucasian  cohort  [5.29%,  (95%  CI  2.89–9.46%)]  (Souma et al.
+2016) As  PCG  is  inherited  in  an  autosomal  recessive  manner  (Dimasi et al.
+2007; Sarfarazi and Stoilov 2000; Wang and  Wiggs 2014), we suspected the presence of a second mutant  allele.
+Support of this hypothesis comes from the previous  reports of digenic inheritance in some forms of glaucoma  (Chakrabarti  et  al.
+ 2009;  Kaur  et  al. 2005; Vincent  et  al 2002).
+Although our present cohort did not carry homozy- gous changes in any of the known PCG genes, we reana- lyzed  our  samples  that  harbored  heterozygous  mutations  in  any  of  these  genes  along  with  the  TEK  mutations.
+We  observed that in 5 PCG cases heterozygous CYP1B1 muta- tions (p.A115P, p.E229 K, and p.R368H) co-occurred with  heterozygous TEK mutations (p.E103D, p.I148T, p.Q214P,  and  p.G743A)  indicating  a  potential  digenic  inheritance  (Fig.
+ 1a). None  of  the  normal  controls  carried  both  the  heterozygous  combinations  of  CYP1B1  and  TEK  muta- tions.
+The  TEK Q214P and G743A alleles were absent in  1024  controls,  whereas  very  low  frequencies  of  heterozy- gous  TEK  E103D  (0.005)  and  I148T  (0.016)  alleles  were  found in the control population (Table 1).
+A compound het- erozygous TEK mutation (p.E103D and p.E300G) was also  observed in 1 family (PCG38).
+However, the remaining 20  PCG cases harboring a single heterozygous TEK mutation  did not carry any additional mutation in the other 35 adult  and  childhood  glaucoma-associated  genes  (Supplemen- tary Fig.
+1; Supplementary Table 1).The co-occurrence of  heterozygous  TEK  and  CYP1B1  mutations  as  seen  in  our  PCG cases were not observed in additional sets of POAG,  ARS, Aniridia, and Peter’s Anomaly patients.
+The CYP1B1  mutations  identified  in  this  study  have  previously  been  reported in PCG; however, the TEK mutations were novel We,  therefore,  analyzed  the  effect  of  the  observed  TEK  mutations  in  silico.
+ Functional  predictions  by  SIFT,  Poly- Phen-2, and MutationTaster2 softwares indicated that these  mutations were possibly damaging to the protein function  (Table 1) and their residues were highly conserved across  species (Fig.
+1c, Supplementary Fig.1) To  test  if  the  observed  mutations  originated  from  a  common  founder  in  our  cohort,  we  generated  haplotypes  with 27 polymorphic intragenic variants in TEK.

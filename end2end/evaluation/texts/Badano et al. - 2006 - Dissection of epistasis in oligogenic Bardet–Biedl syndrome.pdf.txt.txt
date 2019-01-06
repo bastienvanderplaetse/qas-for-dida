@@ -1,0 +1,234 @@
+a cryptic splice acceptor site, causing the introduction of a premature termination codon (PTC) and the reduction of steady-state MGC1203 messenger RNA levels.
+Finally, recapitula- tion of that modest suppression of mgc1203 exerts an epistatic effect on the developmental phenotype of BBS morphants.
+Our data demon- strate how the combined use of biochemical, genetic and in vivo tools can facilitate the dissection of epistatic phenomena, and enhance our appreciation of the genetic basis of phenotypic variability the human genotypes in zebraﬁsh shows Despite major progress in elucidating the genetic basis of inherited disorders, much of the observed phenotypic variability cannot be explained by mutations at a single locus, leading to the exploration of oligogenic models of disease transmission, in which multiple loci exert a synergistic effect to modify the penetrance and/or expressivity of disease traits1 BBS is inherited primarily as an autosomal recessive trait.
+How- ever, in some patients, three mutations across two BBS loci interact to modify the onset and/or severity of the phenotype2–9.
+To date, eight BBS genes (BBS1–BBS8) have been identiﬁed2,5,9–16, and a combi- nation of in vivo and in vitro evidence suggests that BBS is a disorder of basal bodies and cilia10,17 The degree of clinical variability in BBS is not fully reconciled by interactions between the known BBS genes18.
+We reasoned that loci encoding proteins pertinent to the BBS functional circuit would be strong candidates to contribute modifying alleles.
+To identify such loci, we performed multiple rounds of yeast two-hybrid screens and identiﬁed .60 putative interactors.
+However, comparison of these with our recently described ciliary proteome9 revealed that only a single sequence, MGC1203 (also known as CCDC28B; GenBank accession number NM_024296), was present in both data sets.
+This computationally predicted polypeptide is composed of 241 amino acids, bears no recognizable motifs, and interacts with BBS4 in yeast (Supplementary Fig.
+1a) To investigate this interaction, we expressed epitope-tagged MGC1203 and BBS4 in mammalian cells.
+Immunoprecipitations with BBS4 followed by immunoblotting for MGC1203 yielded a single band of the predicted size of 35 kDa (Fig.
+1a).This interaction was not restricted to BBS4 but was seen for every BBS protein tested (Fig.
+1a) Next, we raised a polyclonal antibody against MGC1203 (Sup- plementary Fig.
+1b) and localized MGC1203 near centrosomes and basal bodies of HeLa or IMCD3 cells, a localization pattern identical to BBS4, BBS6 and BBS810,19,20 (Fig.
+1b).We also found MGC1203 to be spatially coincident with the BBS proteins in tissues pertinent to the disorder, including retina, pericardium and limb epithelium (Fig.
+1c; Supplementary Fig.1c) Our data suggested that MGC1203 might be relevant to the genetic aetiology of BBS.
+To test this hypothesis, we conﬁrmed its genomic structure (Supplementary Fig.
+2) and screened 226 unrelated BBS patients without preselecting for mutational load in the known BBS loci.
+In an initial BBS cohort and ethnically matched controls, we found a C ! T transversion at the penultimate position of exon 3 (C430T) present in the heterozygous state in 3/64 unrelated BBS patients, compared to 4/274 controls.
+Analysis of a second cohort showed an even greater enrichment, with 11/162 unrelated patients carrying the 430T allele.
+Overall, the 430T variant of MGC1203 was present in 6.2% of BBS patients compared to 1.4% of controls, showing signiﬁcant association with BBS (Fisher’s exact test P , 0.006).
+As a second, independent, test, we screened MGC1203 in all available parents of the BBS patients analysed.
+We identiﬁed 27 trios with a 430T heterozygous parent, and performed TDT analysis We found the 430T allele transmitted to patients in 20/27 trios, deviating signiﬁcantly from the expected 50:50 distribution (P , 0.007) The MGC1203 mutations are probably insufﬁcient to cause BBS Not only did we ﬁnd no patients with homozygous or compound heterozygous MGC1203 mutations, but we found one unaffected 430T homozygous parent.
+Moreover, ﬁve patients carried two mutations at a known BBS locus (Supplementary Table 1), suggesting that the observed association between the 430T allele and BBS might reﬂect an epistatic relationship.
+In three of the 14 families with the 430T allele, some, but not all, affected individuals inherited the MGC1203 mutation (Supplementary Table 1).
+In each case, the unbiased clinical view (blinded to the genotype) was that 430T- bearing individuals were more severely affected.
+In family AR46, individual 204 (BBS1: Y113X/M390R; MGC1203: 430C/C) was ﬁrst diagnosed with retinitis pigmentosa (RP) at the age of 12, whereas sibling 205 (BBS1: Y113X/M390R; MGC1203: 430C/T) presented with aggressive RP at age ﬁve, ataxia and gastroschisis.
+In family AR709, patient 203 (BBS1: M390R/E549X; MGC1203: 430C/C) developed RP at 12 years of age, whereas 204 (BBS1: M390R/ E549X; MGC1203: 430C/T) was diagnosed with RP at six years of 1McKusick-Nathans Institute of Genetic Medicine, 2Howard Hughes Medical Institute, 3Department of Cell Biology, 4Wilmer Eye Institute, Johns Hopkins University, Baltimore, Maryland 21205, USA.
+5Molecular Medicine Unit, Institute of Child Health, University College London, London WC1N 1EH, UK.6Departments of Molecular and Human Genetics, Ophthalmology, Pediatrics, and Medicine, Baylor College of Medicine, Houston, Texas 77030, USA 326 © 2006 Nature Publishing Group  NATURE|Vol 439|19 January 2006 LETTERS age, had 20/400 vision and underwent surgery at infancy for Hirschsprung disease.
+Finally, in family AR151, although both patients were diagnosed with RP at similar ages (six and nine), individual 204 (MGC1203: 430C/T) presented with a more aggres- sive form of the disease with macular involvement, as well as asthma, profound speech delay, and thoracolumbar scoliosis.
+A fourth sib- ship, PB029, provided a more deﬁnitive phenotypic stratiﬁcation.
+In Figure 1 | MGC1203 interacts and colocalizes with BBS proteins a, HA–MGC1203 immunoprecipitates with all BBS proteins tested (top panel).
+Cell lysates probed with the anti-HA antibody (middle panel) and immunoprecipitates probed with an anti-Myc monoclonal antibody (bottom panel) are shown as controls.
+MW, molecular weight; IP, immunoprecipitation with the indicated antibody; Probed, western blot with the indicated antibody.
+b, In IMCD3 cells, MGC1203 (green) colocalizes with g -tubulin (red).
+DNA was stained with DAPI (4,6- diamidino-2-phenylindole).
+c, MGC1203 colocalizes with BBS1 and BBS4 in tissues.
+In the adult mouse retina, all proteins show overlapping patterns of expression (arrow).
+Similarly, all proteins are expressed ubiquitously in the pericardium of the developing heart and the epithelium surrounding the digits of embryonic day (E) 15.5 embryos.
+OS, outer segment; CC, connecting cilium; IS, inner segment; ONL, outer nuclear layer; INL, inner nuclear layer; GCL, ganglion cell layer this family, both affected individuals are homozygous for the common M390R mutation in BBS1 and are C430T heterozygotes However, the unaffected father is also M390R homozygous, and this family has been put forth as a possible example of complex inheritance4 (Fig.
+2a).The patients inherited the MGC1203 430T allele from their mother, whereas the father is homozygous 430C (Fig.
+2b) 0 The 430T allele might be causally related to BBS or be in linkage disequilibrium with another mutation.
+Although this variant results in a silent change, its position in the penultimate base of exon 3 raised the possibility that it might affect splicing.
+To investigate this, we suppressed nonsense-mediated decay (NMD) with emetine in cell lines from two unrelated 430T heterozygous patients and sequenced 0 MGC1203.
+Although we did not detect aberrant splicing at the 3 junction of exon 3, we found that, in addition to all normal splice isoforms of MGC1203, 10% of the sequenced products contained a junction of the same exon 5-bp deletion in the acceptor site at the 5 This deletion was generated by the inappropriate utilization of a cryptic splice acceptor site (Fig.
+2c) and resulted in a PTC.Analysis with ESEﬁnder21 predicted that the 430T variant might improve an exonic splice enhancer (ESE) motif recognized by the SR protein SC35 (for splicing component of 35 kDa)22 (Fig.
+2c).Such proteins strengthen the binding of the spliceosome to suboptimal, upstream acceptor binding sites.
+To test this possibility, we performed real-time polymerase chain reaction with reverse transcription (RT–PCR) on cell lines with either the 430C/C or 430C/T genotype, with or without emetine.
+We found that the steady-state abundance of MGC1203 message was greater in all emetine-treated cells, suggesting that NMD occurs irrespective of genotype.
+However, we found a reduction of ,20% in MGC1203 mRNA levels in untreated 430C/T cells (Fig.
+2d), suggesting that a larger fraction of mRNA from the 430C/T genotype contains a PTC We next constructed a series of MGC1203 minigenes (spanning from exon 2 to exon 4) and monitored the relative transcription of the mis-spliced message (del) relative to total MGC1203 transcrip- tion.
+The 430T allele showed a marked increase in del mRNA production compared to a 430C minigene from both a normal individual and a 430C/T heterozygous patient (Fig.
+2e).Notably, reversion of the 430Tresidue to 430C restored the relative production of the del allele to wild-type ratios (Fig.
+2e).Finally, we suppressed SC35 and ASF/SF2 (alternate splicing factor/splicing factor 2) mRNA with previously reported siRNA oligomers23,24 and analysed the absolute amounts of del MGC1203 transcript.
+In agreement with our earlier data, we found minimal production of the mis-spliced transcript from either the 430C haplotype or the mutagenized 430T ! C haplotype (2 and 8 pg, respectively) compared with 170 pg produced from the 430T minigene (Fig.
+2f).Suppression of approximately 70% of SC35 or .90% of ASF/SF2 message resulted in a dramatic reduction of the deleted MGC1203 species to 70 pg and 3 pg, respectively, suggesting that the 430T allele enhances the effect of SR proteins to potentiate the cryptic splice site (Fig.
+2f) Cumulatively, our data suggest that a hypomorphic MGC1203 mutation in humans can exert an epistatic effect on BBS mutations To investigate this possibility in vivo, we undertook an antisense morpholino strategy in zebraﬁsh.
+We ﬁrst established that each transcript is expressed both maternally and zygotically, and is found along the rostrocaudal axis of the embryo (Supplementary Fig.
+3).We designed morpholinos against the single BBS4 and BBS6 orthologues, the two most extensively characterized BBS genes19,20, and the single MGC1203 orthologue.
+Although we did not detect appreciable numbers of late embryonic phenotypes, such as renal or heart positioning/looping defects, bbs4 morphants showed dosage- dependent phenotypes during somitogenesis (Fig.
+3; Supplementary Fig.
+4).Severely affected embryos showed dorsal thinning and shorter body length.
+By the 12-somite stage, the notochord was kinked and sometimes twisted, accompanied by widening of the somites.
+Finally, we observed cell detachment along the neural tube, © 2006 Nature Publishing Group  327 LETTERS NATURE|Vol 439|19 January 2006 most frequently in the head and tail regions—reminiscent of defects in neurulation and neural cell adhesion25 (Fig.
+3) and consistent with the recently demonstrated genetic interaction of some basal body proteins with the planar cell polarity pathway26,27.
+These phenotypes could be rescued by co-injection of 50 pg of bbs4 RNA, which by itself did not show any remarkable effect.
+We observed similar phenotypes with a bbs6 translational-blocking morpholino, although the severity and incidence of the phenotypes was not as prominent (Supplemen- tary Fig.
+4, 5).We then injected a splice-blocking morpholino against mgc1203 and observed phenotypes that overlapped the bbs4 and bbs6 defects.
+Mgc1203 morphant embryos had shorter body axes but did not display appreciable dorsal thinning.
+They also showed moderately widened, but noticeably kinked, notochords.
+Somites were not widened, but were shaped abnormally and lacked deﬁ- nition.
+Finally, we observed cell detachment along the neural tube, most prominently in the head region (Fig.
+3; Supplementary Fig.4) These phenotypes correlated with the relative potency of each morpholino; mild morphants showed ,60% reduction of mgc1203 message, whereas severe morphants had .90% reduction (Sup- plementary Fig.
+6).These phenotypes were also speciﬁc to the morpholino as they could be rescued by co-injection of 75 pg of mgc1203 RNA, which by itself does not produce any noticeable effects.
+In addition, injection of a second mgc1203 morpholino that untranslated region of mgc1203 produced comparable binds to the 5 phenotypes (data not shown) 0 We next performed double morpholino injections.
+Injection of either 5 ng of mgc1203 morpholino or 3 ng of bbs4 morpholino consistently produced .80% phenotypically normal embryos; when injected together, however, 68% of embryos had either the moderate or severe phenotypic features of a higher dose of bbs4 morpholino alone (Fig.
+3; Supplementary Fig.7a).
+Notably, co-injection of 75 pg of mgc1203 RNA with the two morpholinos rescued the double-morphant phenotype, further suggesting that the synthetic phenotype was due to the interaction between the morpholinos, as opposed to potentially non-speciﬁc morpholino effects The interaction between MGC1203 and BBS6 was more pronounced.
+A subeffective dose of mgc1203 morpholino enhanced the phenotypes caused by low doses of bbs6 morpholino (Sup- plementary Fig.
+7b), producing a higher incidence of BBS defects in conjunction with a low dose of bbs6 morpholino than seen in any experiment with a higher dose of bbs6 morpholino alone.
+Signiﬁ- cantly, partial depletion of both mgc1203 and either bbs4 or bbs6 produced phenotypes not found in any mgc1203 single morphants, such as dorsal thinning and broadening of the somites Finally, we tested for interaction of mgc1203 with bbs1.
+The bbs1 morphant phenotypes produced with two non-overlapping translational-blocking morpholinos were indistinguishable from bbs4 or bbs6 morphants, although the number of affected embryos was modest (Fig.
+4a, b).However, double bbs1;mgc1203 morphants showed phenotypes that were not only reminiscent of bbs4;mgc1203 and bbs6;mgc1203 double injections, but were the most severe with respect to the disruption of somitic deﬁnition (Fig.
+4a, b) Our studies indicate that MGC1203, a protein identiﬁed through a double ﬁlter of yeast two-hybrid and computational determination of ciliary proteins, is involved in the pathogenesis of BBS by contributing hypomorphic mutations to an already sensitized gen- etic background.
+The 430T mutation exerts its effect at the RNA level by enhancing the use of a cryptic splice junction in a suboptimal context that is probably stabilized by SR proteins such as SC35 and ASF/SF2.
+Although there are examples in the literature of ESE mutations, the effect of such changes is typically the inefﬁcient inclusion/exclusion of an alternatively spliced exon21, whereas here this phenomenon leads to the partial loss of MGC1203 message.
+This model is reminiscent of erythropoietic protoporphyria, where pene- trance is enhanced by the loss of a modest amount of ferrochelatase (FECH) mRNA owing to aberrant splicing and NMD28, although in Figure 2 | Epistasis and splice defects of the 430T variant.
+a, b, In pedigree PB029, the presence of the MGC1203 430Tallele segregates with a penetrant phenotype, as the unaffected father is homozygous mutant for BBS1 (a) but wild type (WT) for MGC1203 (b).
+c, In addition to wild-type MGC1203, a mutant transcript is also produced, containing a 5-bp deletion (orange box) The position of the C430T change is shown in the context of a putative binding site for SC35 (purple box; the consensus sequence matrix is shown underneath); the real-time PCR probe that detects the RNA deletion is indicated (Del probe).
+d, Real-time RT–PCR results with a wild-type (WT) probe with or without emetine in lymphoblastoid cells from 430C/C and 430C/T individuals.
+The cycles needed to reach a determined threshold are used to measure template abundance, normalized to 18S RNA.
+e, The abundance of MGC1203 del/WT mRNA species is measured by the difference in PCR cycles between the two assays.
+Mutagenizing the T allele base back to a C restores the del/WT balance observed in the 430C minigenes from both backgrounds (14-C and 316-C).
+f, Quantiﬁcation of del amounts using a plasmid standard curve yielded comparable results; suppression of SC35 or ASF/SF2 signiﬁcantly reduces the amount of del mRNA Experiments were performed in triplicate; Error bars are s.e.m 328 © 2006 Nature Publishing Group  NATURE|Vol 439|19 January 2006 LETTERS Figure 4 | Potent interaction between mgc1203 and bbs1.
+a, Live zebraﬁsh images showing a range of embryo phenotypes for the bbs1 morpholino either alone, or in combination with the mgc1203 morpholino.
+Note the particularly poor somitic deﬁnition of bbs1;mgc1203 double morphants b, Plot of the prevalence of phenotypes arising from the various injections Original magniﬁcation: £6.6 (top and middle panels); £26.4 (bottom panels) and exemplify how human genetics can lead to the functional investigation of phenotypic synthesis and further validation of previously established theoretical models29,30.
+Improved understand- ing of the relationships between the components of a given molecular circuitry will be important for improving the ability of genotypic information to predict the phenotype in both oligogenic and complex traits METHODS Yeast two-hybrid assay and immunoprecipitations.
+We performed RT–PCR on human RNA to amplify the open reading frame of BBS-1, -2, -4, -5, -6, -7 and -8, which were then cloned into the pSOS vector (Stratagene) and pCMV–Myc and pCMV–HA vectors (Clontech).
+To identify putative BBS4 interacting proteins, we used pSOS-BBS4 as bait in the Cytotrap yeast two-hybrid assay (Stratagene) with a fetal brain library as prey as described19.
+To conﬁrm putative interactors, we assessed their ability to bind the BBS proteins by co-immunoprecipitation (co-IP) in an in vitro mammalian system as described10 (Supplementary Methods) Mammalian cell culture and microscopy.
+HEK293T, HeLa and IMCD3 cells used for transient transfection, co-immunoprecipitations and immunohisto- chemistry were grown in standard conditions (Supplementary Methods).
+For ﬂuorescence microscopy, cells grown on glass coverslips were treated as described19 (Supplementary Methods) Figure 3 | Genetic interaction of mgc1203 with bbs4 in zebraﬁsh.
+Live embryos showing characteristic class I (mild) or class II (severe) phenotypes of animals injected either with a bbs4 morpholino alone, a high dose of mgc1203 morpholino, or injected with low dose of both morpholinos.
+Side views (left panels) illustrate the shortening of the body axis and, for bbs4 morphants, dorsal thinning.
+Note the detachment of cells along the rostrocaudal axis.
+Dorsal views (middle panels; magniﬁed in right panels) show somitic and notochordal defects in the morphants.
+Original magniﬁcation: £6.6 (left and middle panels); £26.4 (right panels) our example, the penetrance modiﬁcation is contributed by an allele at a discrete, yet functionally related, locus Establishing the effect of epistatic variants can be challenging, given that hypomorphic mutations are typically in Hardy–Weinberg equilibrium in the population.
+Our studies highlight the usefulness of combinatorial approaches for the dissection of such phenomena © 2006 Nature Publishing Group  329 LETTERS NATURE|Vol 439|19 January 2006 BBS patients and mutational analyses.
+Subject examination, clinical data, and samples were obtained under informed consent, and a diagnosis of BBS was secured according to established criteria.
+To sequence the complete open reading frame and exon–intron boundaries of MGC1203, we designed PCR primers as described12 (Supplementary Methods).
+Primer sequences are available upon request.
+To analyse the resulting sequence reads, we used the Sequencher sequence alignment program (Gene Codes) MGC1203 minigene construction and analysis.
+We ampliﬁed a 2.5-kb genomic fragment from exon 2 to exon 4 of MGC1203 by PCR with TaKaRa LA Taq DNA polymerase and cloned it into the pcDNA3.1(þ) vector (Invitrogen).
+All constructs were sequenced veriﬁed across their entire length by bidirectional dye-primer sequencing.
+Transfections were carried out in HEK293T cells with the Calcium Phosphate kit (Invitrogen) as described above, and cells were collected 24 h later.
+Total RNA was extracted and ﬁrst-strand cDNA was prepared as described earlier.
+First-strand cDNA was then used as template in quantitative real-time PCR assays.
+Assays for the MGC1203 transcript and the 5-bp deleted product, as well as 18S RNA and neomycin, were custom made by ABI using FAM-MGB probes (Applied Biosystems).
+Real-time PCR reactions were carried out using a 7900HT Sequence Detection System (Applied Biosystems) Morpholinos and embryo manipulations.
+Translational and splice morpholi- nos against bbs4, bbs6 and mgc1203, as well as a control morpholino, were designed by and obtained from Gene Tools (see the Supplementary Methods) One nanolitre of diluted morpholino was injected into wild-type zebraﬁsh embryos at the 1-to-2-cell stage.
+Injected embryos were observed for 24–30 h and scored.
+For RNA rescue experiments, bbs4, bbs6 and mgc1203 mRNA was transcribed in vitro using the SP6 mMessage mMachine kit (Ambion).
+Mor- phant embryos were classiﬁed into two graded phenotypes depending on the relative severity compared to age-matched controls from the same clutch (see the Supplementary Methods for a description) Received 4 August; accepted 25 October 2005 Published online 4 December 2005 1 2 3 4 5 6 7 Badano, J.
+L.& Katsanis, N.
+Beyond Mendel: an evolving view of human genetic disease transmission.
+Nature Rev.Genet.
+3, 779–-789 (2002) Badano, J.
+L.et al.
+Identiﬁcation of a novel Bardet–-Biedl syndrome protein, BBS7, that shares structural features with BBS1 and BBS2.
+Am.J.
+Hum.Genet 72, 650–-658 (2003) Badano, J.
+L.et al.
+Heterozygous mutations in BBS1, BBS2 and BBS6 have a potential epistatic effect on Bardet–-Biedl patients with two mutations at a second BBS locus.
+Hum.Mol.
+Genet.12, 1651–-1659 (2003) Beales, P.
+L.et al.
+Genetic interaction of BBS1 mutations with alleles at other BBS loci can result in non-Mendelian Bardet–-Biedl syndrome.
+Am.J.
+Hum Genet.
+72, 1187–-1199 (2003) Fan, Y.
+et al.Mutations in a member of the Ras superfamily of small GTP-binding proteins causes Bardet–-Biedl syndrome.
+Nature Genet.36, 989–-993 (2004) Fauser, S., Munz, M.
+& Besch, D.Further support for digenic inheritance in Bardet–-Biedl syndrome.
+J.Med.
+Genet.40, e104 (2003) Katsanis, N.
+et al.Triallelic inheritance in Bardet–-Biedl syndrome, a mendelian recessive disorder.
+Science 293, 2256–-2259 (2001) 8.
+Katsanis, N.et al.
+BBS4 is a minor contributor to Bardet–-Biedl syndrome and 9 may also participate in triallelic inheritance.
+Am.J.
+Hum.Genet.
+71, 22–-29 (2002) Li, J.
+B.et al.
+Comparative genomic identiﬁcation of conserved ﬂagellar and basal body proteins that includes a novel gene for Bardet–-Biedl syndrome.
+Cell 117, 541–-552 (2004) 10.
+Ansley, S.J.
+et al.Basal body dysfunction is a likely cause of pleiotropic Bardet–-Biedl syndrome.
+Nature 425, 628–-633 (2003) 11.
+Chiang, A.P.
+et al.Comparative genomic analysis identiﬁes an ADP- ribosylation factor-like gene as the cause of Bardet–-Biedl syndrome (BBS3) Am.
+J.Hum.
+Genet.75, 475–-484 (2004) 12.
+Katsanis, N.et al.
+Mutations in MKKS cause obesity, retinal dystrophy and renal malformations associated with Bardet–-Biedl syndrome.
+Nature Genet.26, 67–-70 (2000) 13.
+Mykytyn, K.et al.
+Identiﬁcation of the gene that, when mutated, causes the human obesity syndrome BBS4.
+Nature Genet.28, 188–-191 (2001) 14.
+Mykytyn, K.et al.
+Identiﬁcation of the gene (BBS1) most commonly involved in Bardet–-Biedl syndrome, a complex human obesity syndrome.
+Nature Genet.31, 435–-438 (2002) 15.
+Nishimura, D.Y.
+et al.Positional cloning of a novel gene on chromosome 16q causing Bardet–-Biedl syndrome (BBS2).
+Hum.Mol.
+Genet.10, 865–-874 (2001) 16.
+Slavotinek, A.M.
+et al.Mutations in MKKS cause Bardet–-Biedl syndrome Nature Genet.
+26, 15–-16 (2000) 17.
+Badano, J.L., Teslovich, T.
+M.& Katsanis, N.
+The centrosome in human genetic disease.
+Nature Rev.Genet.
+6, 194–-205 (2005) 18.
+Katsanis, N.The oligogenic properties of Bardet–-Biedl syndrome.
+Hum.Mol Genet.
+13, R65–-R71 (2004) 19.
+Kim, J.C.
+et al.The Bardet–-Biedl protein BBS4 targets cargo to the pericentriolar region and is required for microtubule anchoring and cell cycle progression.
+Nature Genet.36, 462–-470 (2004) 20.
+Kim, J.C.
+eta l.MKKS/BBS6, a divergent chaperonin-like protein linked to the obesity disorder Bardet–-Biedl syndrome, is a novel centrosomal component required for cytokinesis.
+J.Cell Sci.
+118, 1007–-1020 (2005) 21.
+Cartegni, L., Wang, J., Zhu, Z., Zhang, N.Q.
+& Krainer, A.R.
+ESEﬁnder: a web resource to identify exonic splice enhancers.
+Nucleic Acids Res.31, 3568–-3571 (2003) 22.
+Fu, X.& Maniatis, T.
+Isolation of a complementary DNA that encodes the mammalian splicing factor SC35.
+Science 256, 533–-538 (1992) 23.
+Gabut, M.et al.
+The SR protein SC35 is responsible for aberrant splicing of the E1a pyruvate dehydrogenase mRNA in a case of mental retardation with lactic acidosis.
+Mol.Cell.
+Biol.25, 3286–-3294 (2005) 24.
+Li, X.& Manley, J.
+L.Inactivation of the SR protein splicing factor ASF/SF2 results in genomic instability.
+Cell 122, 365–-378 (2005) 25.
+Lele, Z.et al.
+parachute/n-cadherin is required for morphogenesis and maintained integrity of the zebraﬁsh neural tube.
+Development 129, 3281–-3294 (2002) 26.
+Ross, A.J.
+et al.Disruption of Bardet–-Biedl syndrome ciliary proteins perturbs planar cell polarity in vertebrates.
+Nature Genet.37, 1135–-1140 (2005) 27.
+Simons, M.et al.
+Inversin, the gene product mutated in nephronophthisis type II, functions as a molecular switch between Wnt signalling pathways.
+Nature Genet.
+37, 537–-543 (2005) 28.
+Gouya, L.et al.
+The penetrance of dominant erythropoietic protoporphyria is modulated by expression of wildtype FECH.
+Nature Genet.30, 27–-28 (2002) 29.
+Hartman, J., Gavrik, B.& Hartwell, L.
+Principles for the buffering of genetic variation.
+Science 291, 1001–-1004 (2001) 30.
+Kacser, H.& Burns, J.
+A.The molecular basis of dominance.
+Genetics 97, 639–-666 (1981) Supplementary Information is linked to the online version of the paper at www.nature.com/nature Acknowledgements We thank the BBS patients and their families for their continued support and encouragement.
+We also thank J.Gerdes and A.
+McCallion for their thoughtful comments on the manuscript.This work was supported by grants from the National Institute of Child Health and Development (N.K.), the National Institute of Diabetes, Digestive and Kidney disorders (N.K.), the National Institute for Arthritis and Musculoskeletal disorders (S.F.), the Polycystic Kidney Disease Foundation (J.L.B.
+and N.K.), and the Medical Research Council (P.L.B.).
+R.A.L.is a Senior Scientiﬁc Investigator of Research to Prevent Blindness.
+P.L.B.is a Senior Wellcome Trust Fellow.
+H.C.D is an Investigator of the Howard Hughes Medical Institute Author Information Reprints and permissions information is available at npg.nature.com/reprintsandpermissions.
+The authors declare no competing ﬁnancial interests.
+Correspondence and requests for materials should be addressed to N.K.

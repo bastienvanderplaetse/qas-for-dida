@@ -1,0 +1,63 @@
+Downloaded from https://academic.oup.com/jcem/article-abstract/101/12/4541/2765005 by Universite Libre de Bruxelles user on 16 April 2018 4542 Bouilly et al Digenic Mutations in POI J Clin Endocrinol Metab, December 2016, 101(12):4541– 4550 phimosis ptosis epicanthus inversus (BPES) syndromes (4) The first genetic anomalies to be linked to POI were X chro- mosome abnormalities, deletions, FMR1 premutations, and BMP15 variants (5).
+To date, relatively few genes have been implicated in the pathogenesis of POI (6, 7).
+Recently, rare deleterious mutations in genes involved in meiosis, such as STAG3(8),HFM1(9),andSYCE1(10),inDNArepair,such as MCM8 and MCM9 (11, 12) and also in genes encoding transcription factors, including FIGLA (13, 14) and SOHLH1 (15) have been reported in POI.
+Moreover, eu- karyotic translation initiation factor 4E nuclear import fac- tor 1 (eIF4ENIF1) has been recently identified in cases of dominantly inherited POI (16).
+Further, mutations in NOBOX (17, 18) and BMP15 have been found in 6% and ⬍10% of women with POI, respectively (5).
+However, in most cases, the genetic cause of POI is unknown, suggesting that new causative genes are yet to be discovered Primary amenorrhea with pubertal failure represents the earliest-onset of POI, whereas some women develop secondary amenorrhea after puberty (2).
+Importantly, two clinical features remain unexplained: 1) the overall spo- radic nature of POI, and 2) observations of patients har- boring the identical mutation yet developing POI either early in life (puberty) or later (20s or 30s).
+We postulated that defects affecting more than one gene in a given patient might explain this variability.
+To test this, we used mul- tiplex sequencing technology to analyze 19 genes with either known or suspected roles in POI pathogenesis in a cohort of 100 patients Patients and Methods Patients One hundred women with idiopathic POI were recruited fol- lowing Institutional Review Board approval (reference PHRC No.
+A0R03 052, approved by Bicêtre Ethical committee [CPP No.
+PP 16 – 024 Ile-de-France VII]).Patients exhibited primary or secondary amenorrhea before age 40 years with FSH values ⬎20 IU/L measured in two samples at least 1 month apart Turner syndrome, X-chromosome karyotypic abnormalities, and FMR1 premutations were excluded and none of the patients had circulating ovarian antibodies.
+FSH and LH plasma levels were measured via RIAs (Immunotech and Beckman Coulter, respectively) (19).
+Serum anti-Müllerian hormone (AMH) con- centrations were measured in duplicate using a sandwich ELISA method (AMH/MIS Elisa; Immunotech, Beckman-Coulter).
+The lower detection limit of the assay was 0.7 pmol/L.
+The mean interassay coefficient of variation was 8.6% and the mean intra- assay was 4.0% at 22 pmol/L Informed consent was obtained from all participating indi- viduals prior to blood sample collection and molecular studies Ovarian volume and antral follicle count measurements Transvaginal Ovarian ultrasound examination was per- formed by an experienced ovarian ultrasonographer, with a Voluson E8 Expert (Voluson E8 EXP BT13, 3D-4D, General Electric Systems, VELIZY, France) with a 6 –12 MHz transvag- inal transducer.
+Ultrasound measurements were taken in real time, according to a standardized protocol.
+The highest possible magnification was used to examine the ovaries.
+The ovarian volume was estimated using the equation: ␲/6 (transverse diam- eter) ⫻ (anteroposterior diameter) ⫻ (longitudinal diameter) Each antral follicle was identified and then measured by taking the mean of two diameters Next-generation sequencing Genomic DNA was extracted from peripheral blood.
+Muta- tions were sought in the coding exons and flanking splice sites of the 19 POI genes (Supplemental Table 1).
+Primers were designed using Ampliseq DesignerTM software.
+Library preparation used the Ion Plus Fragment Library Kit, with 50 ng of genomic DNA Adapter ligation, nick repair, and amplification were performed according to the Ion Torrent protocol (Life Technologies).
+Emul- sion PCR and enrichment steps were carried out with the Ion One TouchTM Template kit.
+Amplicon libraries were sequenced on the Ion Torrent PGM 316-chip system, and barcoding was per- formed with the Ion XpressTM Barcode Adapters’ kit.
+The Ion Sequencing kit v2 was used for all sequencing reactions, accord- ing to the recommended protocol.
+After sequencing, reads were mapped to the human genome 19 (hg19) assemblies with the Torrent Mapping Alignment Program.
+Single-nucleotide vari- ants and small insertions/deletions (indels) were identified using Torrent Variant Caller (Life Technologies) and Nextgene soft- ware.
+Identified mutations and rare variants were confirmed us- ing Sanger sequencing In silico prediction of variants The prevalence of variants was determined using the Exome Aggregation Consortium (ExAC), a coalition of investigators who aggregate and harmonize exome sequencing data from a variety of large-scale sequencing projects making summary data available for the wider scientific community.
+The data set pro- vided on this website includes 60 706 unrelated individuals se- quenced as part of various disease-specific and population ge- netic studies.
+To assess the possible functional effect of amino acid variants, PolyPhen-2 v.2.2.5 (http://genetics.bwh.harvard edu/pph2/) and SIFT (http://sift.jcvi.org/) algorithms were used Plasmids pCMV6 (Myc-Flag tagged)-hSOHLH1, -hFIGLA,- hSMC1-␤, and -hREC8 were purchased from Origene.
+pGEMT-hLHX8 was purchased from Sino Biological Inc.
+and the cDNA was subcloned into EcoRI and NotI sites of pCMV-HA vector.
+The NOBOX and FOXL2 expression vectors and DK3 promoter have been de- scribed previously (20).
+Lin28A promoter containing the Lin Bind- ing Element (region ⫺644 to ⫺494) was obtained by PCR and subcloned into SacI and XhoI sites of pGL4.26 Luc/miniP vector (Promega).
+pVP16-Er␣was purchased from Addgene Downloaded from https://academic.oup.com/jcem/article-abstract/101/12/4541/2765005 by Universite Libre de Bruxelles user on 16 April 2018 doi: 10.1210/jc.2016-2152 press.endocrine.org/journal/jcem 4543 Antibodies Several primary antibodies were used for Western-blot anal- ysis: Anti-HA High Affinity (Roche Diagnostic No 11867423001), anti-cMyc (Clontech, No.
+631206), anti-Flag M2 (Sigma, F104), anti-V5 (Sigma, V8012), antiactin (Millipore, clone C4), anti-␣ tubulin (Sigma, clone DM1A), and anti-ER␣ (Santa Cruz Biotechnology, sc-543) Mutagenesis All variants were generated using QuickChange XLII Kit (Stratagene) (18) and confirmed by Sanger sequencing.
+Primers flanking the mutations (upon request) were used for PCR am- plifications (5⬘ 3 3⬘) forward and reverse sequences.
+The PCR products were sequenced using BigDye Terminator v1.1 and an- alyzed on a 3130xl Genetic Analyzer (Applied Biosystems) Cell culture and transfection Cell lines were tested for mycoplasma contamination before experiments.
+CHO and HEK293T cells were grown in DMEM: F12 medium with L-glutamine (Invitrogen) and supplemented with 5% fetal bovine serum at 37°C in an atmosphere containing 95% air/5% CO2.
+Transient transfections of cells were carried out using FuGENE6 reagent (Roche), according to the Manu- facturer’s protocol Expression Expression of tagged wild-type and mutated proteins in CHO cells was detected by Western blotting.
+Briefly, cells were lysed in 65mM Tris, pH 6.8, 4% SDS, 1.5% ␤-mercaptoethanol and held at 100°C for 5 minutes.
+Proteins were separated on 7– 8% SDS- PAGE and electro-transferred onto a nitrocellulose membrane For immunoblotting, the membranes were probed overnight at 4°C with relevant antibodies and then incubated with appropri- ated fluorescent secondary antibodies (Pierce).
+Bound immuno- globulins were revealed by fluorescent detection (Odyssey, Li-Cor) Transcriptional assays CHO and HEK 293T cells seeded on 96-well plates were transfected with plasmids encoding the different wild-type and mutated transcription factors, appropriate firefly luciferase re- porters, and Renilla luciferase (internal control) as previously reported (20).
+Firefly and Renilla luciferase activities were mea- sured consecutively with dual-luciferase assays (Promega) and a TriStar reader (Berthold), and are expressed as relative light units The capacity to activate downstream signaling was compared between mutated transcription factors and their wild-type coun- terparts.
+Each assay was performed independently three times and included six replicates Statistical analysis PRISM 5 software (GraphPad) was used for statistical anal- ysis.
+Data were analyzed using one-way ANOVA with Kruskal- Wallis post-tests.
+Data are shown as mean ⫾ SEM P ⬍ .05 were considered statistically significant.
+The allele frequency of each variant was compared with the one reported in ExAC database using Fisher’s exact test Results Genetic analysis In this series of 100 patients with idiopathic POI, we identified 40 variants in 14 different genes.
+All variants were validated by Sanger sequencing (Table 1).
+After ex- cluding the most frequent variants and those affecting res- idues with low cross-species conservation, the predicted in silico consequence of each variant was analyzed and func- tionality tested when possible Three new candidate genes are associated with POI We identified mutations in SMC1␤, REC8, and LHX8 three genes not previously been implicated in POI.
+Both SMC1␤ and REC8 are involved in meiosis while LHX8 encodes a transcription factor.
+Indepen- dent studies have already implicated meiosis-related gene mutations in POI (8 –10), and several murine mod- els of meiotic-genes exhibit phenotypes resembling hu- man POI.
+We found two mutations in SMC1␤ (I221T and Q1177L) and two mutations in REC8 (Q154R and R300L).
+REC8 Q154R variant has never been described and the R300L variant is rare (Figure 1A), both are highly conserved across species and predicted to be del- eterious by Polyphen2 (Table 1).
+They are both cor- rectly expressed (Figure 1A).
+The SMC1␤I221T variant has not been previously described and is weakly ex- pressed in vitro (Figure 1B).
+The SMC1␤Q1177L vari- ant is highly conserved We also detected the first reported variant of the LHX8— encoding a transcription factor.
+Protein alignment re- vealed that the A325V variant affects an amino acid located near the critical homeodomain of the protein that is highly conserved across species and is predicted to be damaging (Table 1).
+This variant was normally expressed in vitro (Figure 1C).
+Functionality was tested on the promoter of Lin28A (a protein regulating pri- mordial germ cell development) with significant re- duced transcriptional activity of the Lin28A promoter (Figure 1D) Novel or recurrent deleterious mutations were identified in known POI loci We identified five NOBOX variants (G91W, R117W, K371T, D452N, and P619L) that we have previously dem- onstrated to be loss-of-function mutations (17, 18).
+We also found a novel FOXL2 Y5N variant.
+The tyrosine residue is highly conserved across species and this variant is predicted to be damaging (Figure 2A).
+The altered protein was cor- rectly expressed in vitro (Figure 2B).
+We then tested its func- tional activity using a DK3 promoter containing forkhead response element and NOBOX binding elements sequences as previously described (20).

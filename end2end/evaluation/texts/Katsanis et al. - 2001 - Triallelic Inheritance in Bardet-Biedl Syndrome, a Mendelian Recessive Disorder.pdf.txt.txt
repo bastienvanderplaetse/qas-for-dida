@@ -1,0 +1,124 @@
+R E P O R T S 8.
+J.D.
+Levine, C.I.
+Casey, D.D.
+Kalderon, F.R.
+Jackson, 19.
+A.D.
+Cherniack, J.K.
+Klarlund, M.P.
+Czech, J.Biol 28.
+G.Y.-P.
+Ko, M.L.
+Ko, S.E.
+Dryer, Neuron 29, 255 Neuron 13, 967 (1994) Chem.
+269, 4717 (1994) (2001) 9.
+J.Majorcak, D.
+Kalderon, I.Edery, Mol.
+Cell Biol.17, 5915 (1997) 10.
+M.P.
+Belvin, H.Zhou, J.
+C.Yin, Neuron 22, 777 (1999) 11.
+Supplementary Web material is available on Science Online at www.sciencemag.org/cgi/content/full/293/ 5538/2251/DC1 12.
+J.Xing, D.
+D.Ginty, M.
+E.Greenberg, Science 273, 959 (1996) 13.
+K.Obrietan, S.
+Impey, D.R.
+Storm, Nature Neurosci 1, 693 (1998) 14.
+J.A.
+Williams, A.Sehgal, data not shown 15.
+R.D.
+Rogge, C.A.
+Karlovich, U.Banerjee, Cell 64, 39 (1991) 16.
+L.Bon(cid:222)ni, C.
+A.Karlovich, C.
+Dasgupta, U.Banerjee, Science 255, 603 (1992) 17.
+A.M.
+Huang, G.M.
+Rubin, Genetics 156, 1219 (2000) 18.
+A.K.
+Howe, R.L.
+Juliano, Nature Cell Biol.2, 593 (2000) 20.
+S.Corbalan-Garcia, S.-S.
+Yang, K.R.
+Degenhardt, D Bar-Sagi, Mol.
+Cell.Biol.
+16, 5674 (1996) 21.
+L.Hickman, A.
+Sehgal, unpublished observations 22.
+J.H.
+Park et al., Proc.Natl.
+Acad.Sci.
+U.S.A.97, 3608 (2000) 23.
+Ten brains from each condition ( yw and pdf 0) were presented blind to four people and scored on a scale of 0 (not present) to 3 (high intensity).
+For each of the raters, mean scores were calculated for each brain region.
+The index in Fig.4G represents the mean values 6 SEM calculated across the four raters J.
+Neurosci.20, 3339 24.
+C.Helfrich-Fo‹rster et al., (2000) 25.
+M.Akashi, E.
+Nishida, Genes Dev.14, 645 (2000) 26.
+K.Sanada, Y.
+Hayashi, Y.Harada, T.
+Okano, Y.Fukada, J.
+Neurosci.20, 986 (2000) 27.
+Y.Harada, K.
+Sanada, Y.Fukuda, J.
+Biol.Chem.
+275, 37078 (2000) 29.
+B.Krishnan et al., Nature 411: 313 (2001) 30.
+We thank J.Levine, P.
+Funes, H.B.
+Dowse, and J.Hall for quantitative analyses of the bioluminescence data; L.
+Hickman for providing tim-luc (cid:223)ies; J.de Nooij for generating UAS-dNF1 transgenics; W.
+Fu and Y-F.
+Chen for technical assistance; G.Cowley for providing polymerase chain reaction primers for genotyping; B.
+Meyer-Bernstein, E.Myers, and S Johnson for scoring; and P.
+Taghert, R.Jackson, and J C-P Yin for pdf 0, dnc, and CRE-luc (cid:223)ies, respectively J.A.W.
+and H.S.S.are supported by an NIH training grant.
+Supported by an NIH grant to A.S., by grants from NIH, the American Cancer Society, and the Neuro(cid:222)bromatosis Foundation to J.F., and by grants from NIH and the U.S.
+Army Medical Research Com- mand to A.B.
+A.S.is a Howard Hughes Medical Insti- tute Associate Investigator 4 June 2001; accepted 1 August 2001 Triallelic Inheritance in Bardet-Biedl Syndrome, a Mendelian Recessive Disorder Nicholas Katsanis,1 Stephen J.
+Ansley,1 Jose L.Badano,1 Erica R.
+Eichers,1 Richard Alan Lewis,1,2,3,4,5 Bethan E.Hoskins,6 Peter J.
+Scambler,6 William S.Davidson,7 Philip L.
+Beales,6 James R.
+Lupski1,3,5* Bardet-Biedl syndrome (BBS) is a genetically heterogeneous disorder charac- terized by multiple clinical features that include pigmentary retinal dystrophy, polydactyly, obesity, developmental delay, and renal defects.
+BBS is considered an autosomal recessive disorder, and recent positional cloning efforts have identi(cid:222)ed two BBS genes (BBS2 and BBS6).
+We screened our cohort of 163 BBS families for mutations in both BBS2 and BBS6 and report the presence of three mutant alleles in affected individuals in four pedigrees.
+In addition, we detected unaffected individuals in two pedigrees who carry two BBS2 mutations but not a BBS6 mutation.
+We therefore propose that BBS may not be a single-gene recessive disease but a complex trait requiring three mutant alleles to manifest the phenotype.
+This triallelic model of disease transmission may be important in the study of both Mendelian and multifactorial disorders Locus heterogeneity in Mendelian disorders is the phenomenon whereby mutations in dif- ferent genes result in a similar or identical clinical phenotype.
+In most reported instanc- es, mutations at a single locus suffice to cause disease, although rare cases have been report- ed where mutations at two loci are necessary for pathogenesis (1) or exacerbate the sever- ity of the phenotype (2, 3).
+BBS is a typical example of a rare, genetically heterogeneous 1Departments of Molecular and Human Genetics, 2Ophthalmology, 3Pediatrics, 4Medicine, 5The Texas Children(cid:213)s Hospital, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA.
+6Molecular Medicine Unit, Institute of Child Health, University College London, London WC1N 1EH, UK.
+7Depart- ment of Molecular Biology and Biochemistry, Simon Fraser University, Burnaby, British Columbia, V5A 1S6, Canada *To whom correspondence should be addressed.
+E- mail jlupski@bcm.tmc.edu disorder.
+BBS patients manifest a complex and variable phenotype that includes pigmen- tary retinal dystrophy, polydactyly, central obesity, hypogonadism, learning difficulties, and renal dysplasia; additional features such as asthma and diabetes mellitus may also be present (4, 5).
+The segregation of the disorder in families and population isolates led to the hypothesis that the syndrome is inherited in an autosomal recessive manner.
+On the basis of this model, six BBS loci have been identi- fied: BBS1 on 11q13 (6), BBS2 on 16q21 (7), BBS3 on 3p12 (8), BBS4 on 15q22.2-q23 (9), BBS5 on 2q31 (10), and BBS6 on 20p12 (11), with evidence for at least one more locus (12).
+Two BBS genes have been cloned re- cently: BBS6 (11, 13), which encodes a pu- tative chaperonin (14), and BBS2, which en- codes a protein of unknown function (15) During our analysis of BBS6 in 163 patients, we identified eight pedigrees with l D o w n o a d e d   f r o m h   t t p i : / / s c e n c e i  s c e n c e m a g  o r g /     o n A p r i l   1 6 ,   2 0 1 8 mutations.
+A high frequency of these (sev- en of eight) harbored only a single mutant BBS6 allele (12).
+Furthermore, we de- scribed one consanguineous pedigree in which both the affected and unaffected sibs carried a heterozygous A242S mutation in BBS6, but the affected sib also exhibited homozygosity by descent (HBD) across the BBS2 locus.
+This observation suggests ei- ther that BBS arises through multiallelic inheritance or that the A242S allele is a rare polymorphism (12) The recent identification of BBS2 en- abled us to test the former hypothesis by screening the same cohort of BBS patients for coding sequence alterations in (16 ) BBS2, irrespective of haplotype-inferred chromosomal assignment for any given pedigree or previously obtained mutational data for BBS6.
+Upon deducing the intron- exon structure of BBS2 (17 ), we designed suitable primers and amplified and se- quenced each of the 17 exons of this gene in our entire patient cohort (18) We identified numerous sequence alter- ations.
+In 19 unrelated patients (Table 1), the alterations fulfilled our minimal criteria for mu- tations, in that they caused a nonconservative amino acid change and that they were not found in a minimum of 192 control chromosomes from ethnically matched samples (19).
+Initial segregation analyses confirmed that BBS2 mu- tations were likely to be pathogenic.
+We iden- tified six pedigrees (AR171, PB005, PB020, PB026, PB058, and K059) in which two inde- pendent mutations segregated with the disease (Table 1) (20).
+However, despite complete DNA sequence coverage of the BBS2 open reading frame (ORF) and exon-intron bound- aries, we identified only a single mutant allele in eight pedigrees.
+We considered four possible explanations for this result: (i) the single alleles found may not be pathogenic but rare polymor- phisms, (ii) by chance alone, we were detecting rare BBS2 carriers, (iii) the second mutation might reside in the regulatory regions or introns of BBS2 or might be undetectable by sequenc- 2256 21 SEPTEMBER 2001 VOL 293 SCIENCE www.sciencemag.org ing because of deletions of the whole or part of the gene, or (iv) additional mutations lie in another gene, and it is the combination of mu- tant alleles at two or more loci that causes the BBS phenotype The first hypothesis is unlikely because changes caused by several of the “singleton” mutant alleles are predicted to be severe (Table 1).
+For instance, conceptual translation of the single mutation in pedigree AR124 causes a frameshift affecting a valine at position 158 and then results in premature termination of trans- lation at position 200 (V158fsX200; Fig.
+1 and Table 1).
+Likewise, the mutation found in ped- igree AR050 was an arginine to STOP (R275X), also causing premature termination (Table 1).
+Furthermore, this R275X mutation was also found in the homozygous state and segregated with the disorder in pedigree PB005 (20).
+None of these alterations were found in 192 ethnically matched control chromosomes The possibility of incidental detection of BBS carriers is even less likely.
+The frequen- cy of BBS is 1:125,000 to 1:150,000 in the European and North American populations (4).
+Furthermore, the contribution of BBS2 to all BBS has been estimated at about 10 to 20% (12, 15, 21), which at Hardy-Weinberg equilibrium leads to an expected carrier fre- quency of 1: 400 to 1: 700 for BBS2.
+There- fore, the association of five mutations with BBS2 (in North American pedigrees AR050, AR124, AR237, AR238, and AR596; Table 1) in a sample of 163 patient DNAs is signif- icant (x2 5 52.9; P , 0.0001) We explored the possibility that the second mutation was not located in the ORF or was a large deletion by genotyping microsatellites around BBS2 and examining whether the seg- R E P O R T S regation pattern of the parental chromosomes in any given pedigree with a single mutation was consistent with linkage to BBS2 (22).
+Six (of eight) pedigrees provided sufficient information for this investigation.
+Only one pedigree, AR029, was consistent with linkage to BBS2 Fig.
+1.Pedigrees with one BBS2 mutant allele that have been excluded genetically from the BBS2 region.
+In AR124, the two affected siblings carry different maternal chromosomes.In AR238, the pedigree is excluded from BBS2 because the single affected sib AR238-04 has an identical haplotype to that of unaffected sib AR238-06.
+The genotypes across the BBS1 critical interval (31) of both pedigrees are also shown, where the haplotypes are consistent with linkage Table 1.
+Mutational, genetic, and phenotypic analysis of pedigrees with mutations in BBS2.
+The different aspects of the BBS phenotype in each pedigree are indicated as present (1), normal (Nml), or not recorded (NR) The primary features of BBS were examined: retinitis pigmentosa (RP), obesity (Ob), polydactyly (PD), developmental delay (Dev), and renal (Ren) and gonadal malformations (Gon).

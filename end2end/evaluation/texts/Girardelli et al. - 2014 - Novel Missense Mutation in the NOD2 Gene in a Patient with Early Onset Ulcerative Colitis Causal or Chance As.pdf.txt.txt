@@ -1,0 +1,32 @@
+Abstract:  Deregulated  immune  response  to  gut  microflora  in  genetically  predisposed  individuals  is  typical  for  inflammatory  bowel  diseases.
+ It  is  reasonable  to  assume  that  genetic association with the disease will be more pronounced in subjects with early onset  than  adult  onset.
+ The  nucleotide-binding  oligomerization  domain  containing-2  gene,  commonly  involved  in  multifactorial  risk  of  Crohn’s  disease,  and  interleukin  10  receptor  genes,  associated  with  rare  forms  of  early  onset  inflammatory  bowel  diseases,  were  sequenced  in  an  early  onset  patient.
+ We  identified  a  novel  variant  in  the  NOD2  gene  (c.2857A > G p.K953E) and two already described missense variants in the IL10RA gene  (S159G  and  G351R).
+ The  new  NOD2  missense  variant  was  examined  in  silico  with  two  online  bioinformatics  tools  to  predict  the  potentially  deleterious  effects  of  the  mutation Although cumulative effect of these variations in the early onset of the disease can be only  hypothesized, we demonstrated that family information and in silico studies can be used to  predict association with the disease Keywords: complex disease; digenic heterozygosis; early onset-inflammatory bowel disease;  IL10R; NOD2    Int.
+J.Mol.
+Sci.2014, 15    1.
+Introduction  3835  Inflammatory  bowel  diseases  (IBDs)  are  chronic  inflammatory  disorders  of  intestine  that  result  from  a  deregulated  mucosal  immune  response  in  genetically  predisposed  individuals  [1].
+ It  is  a  widespread  pathological  condition  with  increased  incidence  in  Western  populations,  affecting  approximately  one  out  of  250  people.
+ The  two  major  forms  of  IBD,  Crohn’s  disease  (CD)  and  ulcerative colitis (UC), are usually quite distinct.
+Although the age of onset of IBD is usually in early  adulthood, the pathology could also occur in childhood during the first years of life.
+Early onset IBD  patients  often  present  overlapping  features  of  CD  and  UC,  making  a  definite  diagnosis  difficult Various epidemiological studies suggest that patients with an early onset diagnosis usually manifest a  more  serious  and  aggressive  course,  tending  to  a  very  fast  development  [2].
+ Evidence  supports  the  hypothesis that genetic predisposition plays a more substantial role in pediatric patients, who manifest  a more extensive and severe course of the disease than subjects with adult onset Several  genes,  identified  by  several  genome-wide  association  studies  (GWAS),  have  been  associated with IBD predisposition, both in adult and early onset.
+In addition, a number of monogenic  immune disorders have been found in a small, but increasing, portion of early onset IBD, suggesting  that  common  genetic  variants  and  rare  monogenic  defect  can  play  a  synergic  and  crucial  role  in  the  development of the disease.
+  Considering that GWAS could only explain about half of the genetic heritability of IBD, it has been  suggested  that  the  additive  role  of  multiple  variants  and/or  rare  “private”  genes  not  identified  by  GWAS may account for the so-called “missing heritability”; this could be even more likely for early  onset IBD, in which higher genetic risk is expected.
+  The  patient  we  are  going  to  describe  is  a  child  (present  age:  seven  years)  presenting  a  very  early  onset  ulcerative  colitis  (VEO-UC),  cared  for  at  the  Pediatric  Gastroenterological  Service  of  the  Institute  for  Maternal  and  Child  Health  IRCCS  “Burlo  Garofolo”  (Trieste,  Italy):  at  18  months,  pancolitis with mucosal and intracryptic localization was diagnosed.
+No extra-intestinal manifestations  and/or associated diseases were present.
+At colonoscopy, rectal inflammation with hemorrhagic ulcers  and mucosal edema were evidenced.
+The colonic mucosa was very fragile and tended to bleed easily Intestinal  biopsies  showed  chronic  inflammation  with  lymphocytic  aggregates.
+ The  search  for  granuloma and viral inclusions results as being negative.
+The disease showed a severe course in spite  of  the  use  of  glucocorticoids,  azathioprine  and  thalidomide  administration.
+ A  good  clinical  response  was achieved only with a biological therapy with infliximab (anti-TNF-α antibodies).
+In order to assess  monogenic causes of early onset inflammatory colitis in this patient, we analyzed both subunits alpha  and  beta  of  the  interleukin-10  receptor  (IL10RA  and  IL10RB),  as  well  as  nucleotide-binding  oligomerization  domain  containing  2  (NOD2),  since  these  genes  are  known  to  be  associated  with  a  higher risk for CD 2.
+Results and Discussion  2.1.
+Results  We found 18 variants in our patient, five in the NOD2, four in the IL10RA and nine in the IL10RB  genes.
+All  variants localized respectively at the 5' and/or  3' untranslated, intronic and coding regions    Int.
+J.Mol.
+Sci.2014, 15    3836  (Table  1).
+ Among  the  variants  identified  in  NOD2,  four  are  known  variants,  and  one,  is  a  novel  missense variant  at the exon 9 (c.2857A > G p.K953E) present in heterozygosis (Figure 1B).
+Within  the  three  variants  in  the  coding  sequence  of  IL10RA,  two  missense  variants,  both  present  in  heterozygosis,  rs3135932  (c.475A  >  G  p.
+ S159G)  and  rs2229113  (c.1051  G  >  A  p.G351R),  have  already been described in the literature.
+  Table 1.

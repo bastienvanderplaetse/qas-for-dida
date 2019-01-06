@@ -1,0 +1,180 @@
+Introduction Glaucoma is a genetically heterogeneous cause of blind- ness that affects all age groups and all populations When glaucoma manifests before the age of 40 years, it tends to be more aggressive, more resistant to medical therapy, and associated with more severe visual impair- ment (Ellis 1948; Johnson et al.
+1993).Glaucoma in the ﬁrst 40 years of life includes congenital/infantile glau- coma, which manifests at the age of !5 years (DeLuise and Anderson 1983); juvenile open-angle glaucoma (JOAG), in which the age at onset is 5–40 years; and variants that are associated with other changes in the anterior segment of the eye, such as pigment dispersion and Axenfeld-Rieger syndrome Juvenile glaucoma and congenital glaucoma (CG) are genetically heterogeneous, and only a small subset are molecularly characterized, with most mutations identi- ﬁed in MYOC (Fingert et al.
+1999) and CYP1B1 (Bejjani Received October 4, 2001; accepted for publication November 15, 2001; electronically published January 3, 2002 Address for correspondence and reprints: Dr.
+Elise He´on, 399 Bath- urst Street, Room 6-412 MP, Toronto Western Hospital, Toronto, On- tario M5T 2S8, Canada.
+E-mail: eheon@uhnres.utoronto.ca 䉷 2002 by The American Society of Human Genetics.
+All rights reserved 0002-9297/2002/7002-0017$15.00 et al.
+1998).MYOC (MIM 601652), which is located on chromosome 1q25 at the GLC1A locus (MIM 137750) (Shefﬁeld et al.
+1993), was the ﬁrst open- angle–glaucoma gene to be characterized and was as- sociated with JOAG and primary adult-onset open-angle glaucoma (POAG).
+MYOC encodes a 504-amino-acid glycoprotein, which contains an olfactomedin domain (residues 246–501) where the majority (42/46 [91.3%]) of the mutations documented have been identiﬁed.
+The biological interactions of mutant myocilin protein and its role in the pathophysiology of glaucoma are still un- clear.
+In normal eyes, MYOC mRNA is expressed in the iris, ciliary body, and trabecular meshwork (Fingert et al 1998; Kubota et al.
+1998; Huang et al.2000), as well as in retinal photoreceptor cells (Kubota et al.
+1997) and optic nerve head—speciﬁcally, the astrocytes (Noda et al 2000).
+Perfusing the trabecular meshwork with mutant recombinant protein results in an increase in outﬂow re- sistance (Fautsch et al.
+2000).Recent studies estimate that MYOC mutations are found in 3.4%–5% of sporadic POAG (Alward et al.
+1998a; Fingert et al.1999).
+In a small series, Shimizu et al.
+(2000) identiﬁed mutations in as many as 33% of familial cases of JOAG.
+The varia- bility of GLC1A-related phenotypes is signiﬁcant and includes age at onset, severity, rate of progression, and 448 Vincent et al.: Genetics of Juvenile Glaucoma intraocular pressure (IOP) (Alward et al.
+1998a; Fingert et al.
+1999).This variability, which can be inter- or in- trafamilial, is inﬂuenced by factors not yet identiﬁed, some of which are likely to be genetic Other genes, such as CYP1B1 and PITX2, may contribute to the underlying pathogenesis of JOAG CYP1B1 (MIM 601771), located on chromosome 2p21 at the GLC3A locus (MIM 231300), encodes a 543-amino-acid dioxin inducible member of the cy- tochrome p450 gene superfamily, subfamily I.
+Mu- tations in this gene are associated with autosomal recessive CG (Stoilov et al.
+1997; Bejjani et al.1998; Stoilov et al.
+1998; Pla´ sˇilova´ et al.1999; Bejjani et al.
+2000; Martin et al.2000).
+In ethnically mixed populations, mutations are found in 20%–30% of patients with CG (He´on et al.
+2000; Kakiuchi-Mat- sumoto et al.
+2001), whereas, in consanguineous pop- ulations, this increases to 85% (Stoilov et al.
+1997; Bejjani et al.
+1998; Pla´ sˇilova´ et al.1999) Phenotypic variability is also documented for muta- tions of CYP1B1 but was always associated with CG Although these mutations commonly manifest at birth or infancy, some family members of probands have been identiﬁed with glaucoma manifesting later in childhood, early adulthood, or with incomplete penetrance (Bejjani et al.
+2000; Martin et al.2000).
+Recently, we reported CYP1B1 mutations in Peters anomaly, a developmental anomaly of the anterior segment (Vincent et al.
+2001), suggesting a role for this gene in ocular development and beyond CG The mRNA expression of CYP1B1 is demonstrated in the fetal and adult eye, speciﬁcally in the iris, tra- becular meshwork, and ciliary body (Sutter et al.
+1994; Shimada et al.
+1996; Stoilov et al.1997), as well as in many other sites throughout the body.
+A major hurdle in determining this enzyme’s role in the pathogenesis of CG is the identiﬁcation and analysis of its natural sub- strate.
+CYP1B1 is highly efﬁcient in 4-hydroxylation of 17-b-estradiol (Hayes et al.
+1996), but other metabolic activities involve exogenous substrates, such as procar- cinogens (Shimada et al.
+1996; Crespi et al.1997; Luch et al.
+1998) PITX2 (MIM 601542) is another gene involved with early-onset glaucoma and located on chromosome 4q25.
+It encodes a pairlike homeobox transcription fac- tor and is expressed in developing eye, tooth, umbilicus, and pituitary gland (Semina et al.
+1996).The spectrum of phenotypic expression of PITX2 mutations is very broad.
+This includes a risk factor for the development of glaucoma with either iris hypoplasia, Axenfeld-Rie- ger syndrome, or Peters anomaly (He´on et al.
+1995; Alward et al.
+1998b; Kulak et al.1998; Doward et al 1999), anomalies of development of the anterior seg- ment of the eye.
+Functional assays of mutant PITX2 protein conﬁrm a mutation-speciﬁc decrease in DNA 449 binding and altered transactivation properties (Koz- lowski and Walter 2000; Priston et al.
+2001).The role that PITX2 plays in a juvenile glaucoma population with no evidence of anterior-segment anomaly has not been studied.
+We studied the role that MYOC, CYP1B1, and PITX2 play in a population with juvenile glaucoma from the greater Toronto area Methods Patient Recruitment The project was approved by the Toronto Hospital human subjects review committee and the Hospital for Sick Children research ethics board.
+After giving in- formed consent in accordance with the Declaration of Helsinki, patients were recruited through the eye clinics of these two hospitals and referring centers.
+This pri- mary patient population was affected with juvenile glaucoma and included patients with glaucoma di- agnosed after the age of 5 years but before the age of 40 years.
+Glaucoma was deﬁned as raised IOP (122 mmHg), evidence of visual-ﬁeld (VF) loss, and/or optic nerve head cupping characteristic of glaucoma.
+No pa- tient had any other associated ocular abnormalities or systemic disease.
+Most patients had a normal angle on gonioscopy, but a few had mixed-mechanism glau- coma, deﬁned as an angle that was occludable for 1180 degrees; some patients with anatomically normal and open-angle glaucoma were also included Patients with CG were excluded from the primary population that we studied.
+Patients were considered to have CG if IOP was raised in the ﬁrst ﬁve years of life, with clinical ﬁndings consistent with prenatal or infantile onset of glaucoma (such as breaks in Desce- met’s membrane, enlarged cornea, or buphthalmos) Also excluded were patients with secondary glaucoma due to trauma, uveitis, steroid use, or anterior-segment developmental anomalies Participants had a full eye examination and completed a standardized questionnaire.
+For older patients, clinical notes were reviewed with the referring ophthalmologist Anterior-segment photos were taken when possible.
+When necessary, chloral hydrate sedation or general anesthesia was used for the examination of younger children and for the measurement of their IOP.
+Blood samples (20 ml) were collected for DNA extraction by protocols described else- where (Miller et al.
+1988) Mutational Analysis of MYOC The coding regions of MYOC, exons 1–3, were am- pliﬁed by PCR, through the use of primers and condi- tions described elsewhere (Alward et al.
+1998a).Mu- tation screening used a combination of SSCP analysis and direct cycle sequencing 450 SSCP analysis of MYOC.—After PCR in 20 ml total volume, 3 ml of PCR product was heat denatured in SSCP loading dye, was snap cooled, and was loaded on a 13% nondenaturing polyacrylamide gel.
+Samples were tested on a Hoefer SE260 Mighty Small II (Hoefer Phar- macia Biotech) at temperatures of 10⬚C and 24⬚C.
+Sam- ples with abnormal mobility band shifts were sequenced using the corresponding fragment as template Sequencing of MYOC.—Direct sequencing used am- pliﬁed genomic DNA.
+Primers were tailed with M13 universal primer (5(cid:1)-gtaaaacgacggccagt-3(cid:1)) or M13 reverse primer (5(cid:1)-cacaggaaacagctatgac-3(cid:1)).
+Amplicons were pu- riﬁed using QIAquick PCR Puriﬁcation Kit (Qiagen), ac- cording to the manufacturer’s protocol.
+Column-puriﬁed amplicons were sequenced using Cy5.5-labeled M13 uni- versal or M13 reverse primers and the Thermo Sequenase Cycle Sequencing Core Kit (Visible Genetic).
+Products were tested on a MicroGene Blaster automated DNA se- quencing unit (Visible Genetic), as described elsewhere (He´on et al.
+1999) To authenticate the Gly399Val mutation, a control population of 140 individuals was screened for this sequence change by restriction-enzyme digestion of exon 3 with BanI (incubated at 37⬚C for 2 h), followed by electrophoresis on a 2% agarose gel containing eth- idium bromide and by visualization under UV light This control population included individuals known not to have any anterior-segment anomaly, glaucoma, or risk of glaucoma, and 40 of these were ethnically matched to the East Indian family with this mutation Mutational Analysis of CYP1B1 CYP1B1 consists of three exons, of which only exons 2 and 3 code for the protein.
+The coding sequence of exons 2 and 3 was ampliﬁed by PCR, through use of primers described elsewhere (Bejjani et al.
+1998; Stoilov et al.
+1998).Additional primers were designed from the mRNA sequence (GenBank accession number U56438) as follows: reverse, 5(cid:1)-catgattcacagaccactgg-3(cid:1); and for- ward, 5(cid:1)-ccagctcgattcttggacaa-3(cid:1) (Sutter et al.
+1994) SSCP analysis and direct sequencing were undertaken in the same fashion for CYP1B1 as for MYOC.
+For the Arg368His mutation in exon 2, the control population n p 140 ( ) was screened by SSCP analysis.
+For the Lys345Phe sequence change, 100 controls were screened for the exon 2 by SSCP following restriction-enzyme digestion of amplicon 2B with RsaI incubated at 37⬚C for 2 h Mutational Analysis of PITX2 The coding regions of PITX2, exons 1–4, were am- pliﬁed by PCR, through use of primers described else- where (Semina et al.
+1996), and were screened for mu- tations by SSCP and direct sequencing, as described Am.
+J.Hum.
+Genet.70:448–460, 2002 elsewhere (Kozlowski and Walter 2000).
+Fragment 4b was cut with EcoRI prior to SSCP analysis, to yield two fragments of lengths 283 and 250 bp Results We screened 60 unrelated probands, (29 females and 31 males), with ages at diagnosis of 7–40 years (av- erage 30.5 years).
+The mixed ethnicity of this popu- lation reﬂected that of the greater Toronto area, with predominantly English-Canadian, Western and East- ern European, and French-Canadian ancestry, as well as Afro-Caribbean, Chinese, Filipino, and North Af- rican.
+Fifty-three patients had JOAG alone, six also had pigmentary glaucoma, and one had mixed-mech- anism glaucoma of juvenile onset Mutational Analysis of MYOC Screening of MYOC revealed eight different disease- associated mutations in 8 (13.3%) of the 60 individuals, all of whom had a positive family history (ﬁg.
+1 and table 2).
+Polymorphic sequence changes (table 1) were detected in 9 (15%) of the 60 individuals; all except for Thr243Thr have been described elsewhere (Alward et al.
+1998a).Six of the eight disease-causing mutations identiﬁed have been previously published, whereas two were novel—827CrA, (Thr377Lys) in case subject 6, and 1218 GrT, (Gly399Val) in case subject 7.
+Case sub- jects 6 and 7 both had strong family histories of glau- coma (ﬁgs.
+1 and 2), which allowed us to conﬁrm the segregation of the sequence change with the disease phe- notype.
+Participants with glaucoma in the family of case subject 7 all had the novel MYOC Gly399Val mutation (ﬁg.
+2)—which was not present in 140 controls, includ- ing 40 individuals ethnically matched to this family.
+Par- ticipants with glaucoma in the family of case subject 6 (i.e., family 6) all carried the Thr377Lys mutation, which was not present in 100 controls (ﬁg.
+1).The genotype- phenotype correlation of case subjects with mutations and their respective family characteristics are summa- rized in table 2 Three mutations—Gly367Arg (case subject 3), Gln368Stop (case subject 4), and Pro370Leu (case subject 5)—were published elsewhere (Adam et al 1997; Stone et al.
+1997; Suzuki et al.1997).
+The clin- ical manifestations observed here corresponded well with previously published ﬁndings in populations of mixed ethnicity.
+However, the phenotype associated with the Gly252Arg mutation was not previously de- scribed (Rozsa et al.
+1998) and corresponded to a simple JOAG phenotype in this study (table 2).
+The Thr377Lys change occurred in a mixed JOAG and POAG pedigree, with age at onset being 7–60 years and IOPs of 25–35 mmHg.
+This is similar to the Figure 1 Pedigrees of probands with MYOC mutation, in families 1–6 and 8.
+Blackened symbols denote affected status for JOAG, grayed symbols denote affected status for POAG, unblackened symbols denote unaffected or unknown clinical status for glaucoma, and hatched symbols denote pigmentary glaucoma.
+Slash marks through symbols denote deceased individuals, and bars above symbols indicate that the individuals who had genetic testing.
+Arrow indicates the proband.Numbers below the symbols indicate current age (in years), for pedigrees 1–4 and 8; age (in years) at onset, for pedigree 5; and age (in years) at diagnosis, for pedigree 6 452 Am.
+J.Hum.
+Genet.70:448–460, 2002 Table 1 Polymorphic Sequence Changes in MYOC SEQUENCE CHANGE Promoter bp ⫺83 Thr243Thr Thr293Lys Tyr347Tyr Lys398Arg NO.
+IN STUDY POPULATION [%] (n p 60) 1 [1.7%] 1 [1.7%] 1 [1.7%] 5 [8.3%] 1 [1.7%] a Alward et al.
+(1998a) b Fingert et al.
+(1999) PREVIOUSLY PUBLISHED? In Populations with POAGa,b PUBLISHED FREQUENCY (%) In Control Populationsa,b 16.3b Yesa No Yesa Yesa Yesa 29.3b Not published Not published 17.3a 4.7b 1.2b 17.7a 4.3b .8b Thr377Met phenotype, which involved the same co- don (Alward et al.
+1998a).The other three case sub- jects in our series (case subject 2, carrying Thr293Lys; case subject 7, carrying Gly399Val; and case subject 8, carrying Ala445Val) demonstrated varied clinical manifestations (table 2).
+Case subject 2, (Thr293Lys) had pigment dispersion glaucoma at the age of 31 (table 2).
+He had a family history of POAG with an average age at diagnosis of 51–71 years (ﬁg.
+1, ped- igree 2) that was not conﬁrmed clinically or molec- ularly by us, because family members were not avail- able.
+Case subject 8 (Ala445Val) currently has no evidence of VF loss and is receiving medication be- cause of previously documented raised IOP, asym- metrical discs (cup:disc [C:D] ratio 0.4 right eye, 0.6 left eye) and a family history of POAG (table 2 and ﬁg.
+1, pedigree 8).This mutation was previously as- sociated with glaucoma for which the clinical mani- festations were not reported (Alward et al.
+1998a) Mutational Analysis of CYP1B1 Screening of CYP1B1 detected three different mu- tations in three case subjects (ﬁgs.
+2 and 3).The mu- tations and respective genotype-phenotype correlation are summarized in table 3.
+These mutations were pres- ent in the heterozygous state (mutant/wild type [mt/wt]) in two case subjects (case subjects 7 and 10), and the third was a compound heterozygote (case subject 9) Two of these mutations, Arg368His and 1546dup10, have been described elsewhere (Bejjani et al.
+2000), but the Leu345Phe change (4838CrT), within the I-helix of the heme-binding region, is here reported for the ﬁrst time and was not present in 100 controls.
+For case subject 9, a diagnosis of JOAG was made at the age of 8 years, but case subject 9 had two younger siblings for whom CG was diagnosed (ﬁg.
+3 and table 4).All three children with glaucoma carried both CYP1B1 mutations, and the par- ents were each a carrier of one mutation.
+For case subject 10, a heterozygote for a novel missense mutation in exon 2D (Leu345Phe), a diagnosis of JOAG was made at the age of 36 years, because of characteristic glaucomatous- ﬁeld loss.
+Case subject 10 was also heterozygous for the Val432Leu polymorphism Family 7 Case subject 7 had a MYOC mutation (Gly399Val) and a CYP1B1 mutation (Arg368His).
+Case subject 7 (ﬁg.
+2, proband III:4) had a strong family history of autosomal dominant glaucoma with variability in the age at onset (table 5).
+All participants with glaucoma carried the Gly399Val MYOC mutation.
+This novel mis- sense MYOC mutation (1218GrT) resulted in substi- tution of a highly conserved glycine residue within the olfactomedin domain for a valine.
+The missense muta- tion in CYP1B1 exon 3 (7940GrA) resulted in a non- conservative substitution of arginine 368 by histidine This mutation has been described elsewhere (Bejjani et al.
+2000) in a Saudi Arabian population with CG with incomplete penetrance, and it was not found in 100 Sau- di Arabian control chromosomes (Bejjani et al.
+2000) We have detected this change in 1/140 (0.7%) control subjects.
+This was in an individual of Saudi Arabian descent with autosomal recessive retinitis pigmentosa but no glaucoma Individuals in this pedigree (ﬁg.
+2) carrying both the CYP1B1 and the MYOC mutations had JOAG with a mean age at onset of 27 years (range 23–38 years).
+In- dividuals with only the MYOC mutation had POAG with a mean age at onset of 51 years (range 48–64 years) By a two-tailed unpaired t-test analysis, the difference in age at onset between these two groups was statistically signiﬁcant ( ).
+Individual IV:3, who has both mutations, is currently 28 years old and was treated for raised IOPs (28 mmHg) in the past.
+She currently has normal IOPs without medication, has suspicious asym- metric discs (C:D ratios of 0.4, for the right eye, and 0.6, for the left eye), has no evidence of visual-ﬁeld loss, and is considered a strong glaucoma suspect.
+In addition to variable age at onset, several individuals in this ped- igree have mixed-mechanism glaucoma (table 5) P p .001 Table 2 MYOC Genotype-Phenotype Correlations AGE AT DIAGNOSIS (years) IOP AT DIAGNOSIS (mmHg) CASE SUBJECT (MUTATION) ETHNIC BACKGROUND PHENOTYPE FAMILY HISTORY Proband [Family] Previously Published Mean [Range] 1 (Gly252Arg) Chinese 2 (Thr293Lys) Dutch 3 (Gly367Arg) 4 (Gln368Stop) English 5 (Pro370Leu) Greek Italian/French JOAG Pigmentary glaucoma JOAG JOAG JOAG AD JOAG AD POAG AD JOAG AD POAG AD JOAG 29 [29–38] NDa 31 [51–71], for POAG NDb 22 [22–30] 39 10 [9–19] 28 [8–54]c36.7 d 59 [36–77]e 12 [5–27]f,g,h 6 (Thr377Lys) Irish/Scottish JOAG AD JOAG, POAG 7 [7–60] 7 (Gly399Val) Guyanese/East Indian Mixed-mechanism JOAG AD JOAG, POAG, mixed mechanism 8 (Ala445Val) French-Canadian OHTN POAG 28 [23–28] 38 [NA] 37 [20–60], for Thr377Metb,i New mutation NDb Note.— AD p autosomal dominant; OHTN p ocular hypertension; ND p not documented; NA p not available a Rozsa et al.
+(1998) b Alward et al.
+(1998a) c Suzuki et al.
+(1997) d Taniguchi et al.
+(2000) e Stone et al.
+(1997) f Adam et al.
+(1997) g Stoilova et al.
+(1998) h Taniguchi et al.
+(1999) i Simms et al.
+(1999) Proband [Family] 20–21 [20–44] ND 28 30 High 20s to 30s [high 20s to 30s] 25 [25–35] Previously Published Mean [Range] ND ND 38 30 [21–56] 45 [25–66] 31 [20–50], for Thr377Met High 20s to 30s [high New 20s to 30s] OHTN ND Table 3 CYP1B1 Genotype-Phenotype Correlations Case Subject (Mutations 1/2) Exon Codon 432 Genotype Ethnic Background Family History Age at Diagnosis, for Proband [Family] (years) IOP at Diagnosis Published Phenotype Other Mutations Detected 7 (Arg368His/wild type) 3 Val/Leua East Indian/Guyanese AD JOAG, POAG 27 [23–38] High 20s to 30sb CG, incomplete MYOC Gly399Val 9 (Arg368His/1546dup10 frameshift) 3 Within duplication Italian/English/Scottish JOAG, CG 8 [2–8] 26/21 [15–34]c CG, incomplete penetrancee 10 (Leu345Phe/wild type) 2 Val/Leua African American Nil 36 NDd penetrancee New Nil Nil a Heterozygote for this variant b See table 5 c See table 4 d ND p not documented e Bejjani et al.
+(2000) 454 Am.
+J.Hum.
+Genet.70:448–460, 2002 Figure 2 Pedigree of family 7, with CYP1B1 (Arg368His) and MYOC (Gly399Val) mutations.
+Blackened symbols denote affected status for JOAG, unblackened symbols denote unaffected or unknown status, and hatched symbols denote affected status for POAG.
+Arrow indicates the proband.
+Numbers above the symbol indicate the identiﬁer, whereas numbers (“1” for wild type and “2” for mutant allele) below the symbol indicate the genotype for MYOC (top) and for CYP1B1 (bottom) Mutational Analysis of PITX2 Among the 60 individuals screened, no mutations were found in the coding regions of PITX2 Discussion We have shown that MYOC plays a role in 13.3% of the population with juvenile glaucoma that we studied.
+All case subjects with a MYOC mutation had a positive fam- ily history of autosomal dominant glaucoma, whether JOAG and/or POAG.
+The genotype-phenotype correla- tions of the patients that we studied and of patients with MYOC mutations who have been described elsewhere were very similar; for example, the Pro370Leu mutation has been described elsewhere, in pedigrees with very early onset (Adam et al.
+1997; Stoilova et al.1998; Taniguchi et al.
+1999), and is here documented in a family in which the age at onset of glaucoma was 9–19 years.
+In support of the severity of this phenotype, an in vitro study of mutant recombinant myocilin proteins demonstrated complete insolubility of the Pro370Leu mutant (Zhou and Vollrath 1999).
+The novel Thr377Lys mutation has clinical features very similar to the Thr377Met mutation that has been described elsewhere (Alward et al.
+1998a) These correlations may help optimize clinical manage- ment by providing early intervention in a phenotype known to be severe The clinical spectrum associated with the mutations identiﬁed is quite wide.
+For example, case subject 2 (who had the Thr293Lys MYOC) had glaucoma asso- ciated with pigment-dispersion syndrome diagnosed at the age of 31 years.
+Pigment dispersion and pigmentary glaucoma are genetically heterogeneous, with putative loci located on 7q35-q36 (Andersen et al.
+1997) and 18q11 (Andersen et al.
+1998), but no gene has been identiﬁed.
+The association of a MYOC mutation with pigmentary glaucoma is here reported for the ﬁrst time We also describe for the ﬁrst time the association of Pedigree of Figure 3 family 9, with CYP1B1 mutations (Arg368His and 1546dup10).
+Blackened symbols denote affected status for JOAG, whitened symbols denote unaffected or unknown status, and grayed symbols denote CG, rather than JOAG.
+Arrow indicates the proband Vincent et al.: Genetics of Juvenile Glaucoma Table 4 Clinical Features of Affected Individuals of Family 9 455 CASE SUBJECT AND EYE III.1: Right Left III.2: Right Left III.3: Right Left AGE (years) At Diagnosis Currently VISUAL ACUITY AT DIAGNOSIS CORNEAL DIAMETER AT DIAGNOSIS (mm) ANGLE OR AGE AT GONIOTOMYa IOP AT DIAGNOSIS (mmHg) VERTICAL C:D RATIO At Diagnosis Currently DIAGNOSIS 8 5 2.5 10 8 5 20/20 20/20 20/20 20/40 20/50 20/50 12.25 12.50 12.00 13.00 13.50 13.50 Normal Normal 6 years 2.5 years 26 21 34 34 18 15 .4 .2 .6 .5 .5 .5 JOAG CG CG .4 .2 .6 .5 .7 .7 a Age at goniotomy is given when angle characteristics were not available MYOC mutations with mixed-mechanism glaucoma Angle-closure glaucoma was thought to be a genetically distinct condition, and, at this time, no molecular in- formation is available other than that some pedigrees have been reported to have angle-closure glaucoma (Tal- luto et al.
+1998; Salmon 1999).The factor(s) underlying the signiﬁcant variability of the expression of MYOC remain to be identiﬁed CYP1B1 mutations were present in 3 (5%) of the 60 individuals in the population that we studied, two of whom had a family history of glaucoma (table 3) The spectrum of the CYP1B1-associated disease phe- notype was also much broader than anticipated.
+The previously reported CYP1B1 mutations (Arg368His and 1546dup10) were supportive of autosomal reces- sive inheritance (Bejjani et al.
+2000).Two affected in- dividuals (case subjects 7 and 10) were heterozygotes (wt/mt) and had the leucine variant of the Val432Leu polymorphism.
+Although the entire coding sequence of CYP1B1 was analyzed in the patients whom we studied, it is possible that a second mutation exists in a promoter or other noncoding region of the other CYP1B1 allele that was not sequenced.
+No previous clinical manifestation of the heterozygous status has been described, and previously documented obligate carriers were not reported to have an increased inci- dence of glaucoma (Bejjani et al.
+2000); however, the incidence of “heterozygote carriers” of CYP1B1 mu- tations in this group, 2/60 (3.3%), is higher than that in the 140 control individuals whom we studied (1/ 140 [0.7%]; ).
+It is possible that the hetero- zygote state confers increased susceptibility to the de- velopment of glaucoma.
+In addition, polymorphisms such as the leucine variant of the Val432Leu poly- morphism (8131GrC) may have functional implica- tions.
+Studies have suggested that the leucine variant, compared with the valine 432 variant, has reduced P p .007 activity in its ability to 4-hydroxylate 17-b-estradiol (Shimada et al.
+1999, 2001; Hanna et al.2000; Tang et al.
+2000), although another study shows opposite results (Li et al.
+2000) The CYP1B1 missense mutation Arg368His, seen in case subjects 7 and 9, occurs at a CpG dinucleotide (7940GrA) within the J-helix of the heme-binding re- gion.
+It was also reported in an Indian family (Panicker et al.
+2001) and in one family from Saudi Arabia with autosomal recessive CG.
+In the latter family, this mu- tation showed incomplete penetrance, in that it occurred in the homozygous state in one unaffected individual of a sibship of four (Bejjani et al.
+2000).Incomplete pen- etrance of CYP1B1 mutations was also described in 22 other pedigrees with four different mutations (Bejjani et al.
+2000); however, not all patients were re-examined In family 7 (ﬁg.
+2), the combination of MYOC and CYP1B1 mutations appears to correlate with an earlier manifestation of the disease.
+Table 5 demonstrates that each affected family member with glaucoma who was tested ( ) carried the MYOC mutation.
+This MYOC mutation, Gly399Val, is novel and occurs in the olfactomedin domain, where the majority of MYOC mutations occur (Fingert et al.
+1999).Those members carrying both the MYOC and CYP1B1 mutations n p 5 ( ) are affected with juvenile glaucoma, whereas those with only the MYOC mutation ( ) had POAG.
+The CYP1B1 mutation, Arg368His, may be a cause of a mild phenotype or a functional polymor- phism or may modify the expression of MYOC Whether the leucine variant of the Val432Leu poly- morphism, which also segregated with the CYP1B1 mu- tation, has any functional implications warrants further investigations n p 10 n p 4 A recent study shows early menopause in women in- creases the risk for open-angle glaucoma, which sug- gests endogenous steroids may contribute to the path- 456 Am.
+J.Hum.

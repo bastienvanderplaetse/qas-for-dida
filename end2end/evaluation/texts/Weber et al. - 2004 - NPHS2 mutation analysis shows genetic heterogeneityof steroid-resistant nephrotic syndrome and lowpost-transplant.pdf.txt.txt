@@ -1,0 +1,83 @@
+Kidney International, Vol.66 (2004), pp.
+571–579 NPHS2 mutation analysis shows genetic heterogeneity of steroid-resistant nephrotic syndrome and low post-transplant recurrence STEFANIE WEBER, OLIVIER GRIBOUVAL, ERNIE L.
+ESQUIVEL, VINCENT MORINI `ERE, MARIE-JOS `EPHE T ˆETE, CHRISTOPHE LEGENDRE, PATRICK NIAUDET, and CORINNE ANTIGNAC Inserm U574, Necker-Enfants Malades Hospital, Paris 5 University, Paris, France; Department of Pediatric Nephrology, Necker-Enfants Malades Hospital, Paris 5 University, Paris, France; Department of Nephrology, Saint-Louis Hospital, Paris, France; and Department of Genetics, Necker-Enfants Malades Hospital, Paris 5 University, Paris, France NPHS2 mutation analysis shows genetic heterogeneity of steroid-resistant nephrotic syndrome and low post-transplant recurrence Background.
+Mutations of NPHS2 are causative in famil- ial autosomal-recessive (AR) and sporadic steroid-resistant nephrotic syndrome (SRNS).
+This study aimed to determine the spectrum of NPHS2 mutations and to establish genotype- phenotype correlations Methods.
+NPHS2 mutation analysis was performed in 338 pa- tients from 272 families with SRNS: 81 families with AR SRNS, 172 patients with sporadic SRNS, and 19 patients with diffuse mesangial sclerosis (DMS) Results.
+Twenty-six different pathogenic NPHS2 mutations were detected, including 13 novel mutations.
+The mutation detection rate was 43% for familial AR and 10.5% for spo- radic SRNS, conﬁrming genetic heterogeneity.
+No pathogenic NPHS2 mutations were found in DMS patients.
+Age at onset in patients with two pathogenic mutations was earlier, especially in cases with frameshift, truncating, and the R138Q missense mutations.
+Patients with only one NPHS2 mutation or variant had late-onset NS.
+Triallelic inheritance was observed in one pa- tient with a homozygous R138Q mutation and a de novo NPHS1 mutation.
+Among 32 patients with two NPHS2 mutations who underwent kidney transplantation, only one developed late re- currence of focal segmental glomerulosclerosis (FSGS).
+Among 25 patients with sporadic SRNS and post-transplantation recur- rence, we detected a heterozygous NPHS2 mutation in one case, and heterozygous variants/polymorphisms in 3 cases Conclusion.
+Patients with two pathogenic NPHS2 mutations present with early-onset SRNS and very low incidence of post- transplantation recurrence.
+Heterozygous NPHS2 variants may play a role in atypical cases with mild, late-onset course, and recurrence after transplantation Key words: NPHS2 gene, podocin, steroid-resistant nephrotic syn- drome, diffuse mesangial sclerosis Received for publication January 7, 2004 and in revised form March 1, 2004 Accepted for publication March 16, 2004 C(cid:1) 2004 by the International Society of Nephrology 571 Nephrotic syndrome (NS) is frequently seen as an id- iopathic primary disease that represents a heterogeneous group of glomerular disorders occurring mainly in chil- dren.
+It is generally divided into steroid-sensitive and steroid-resistant forms, depending upon the patient’s re- sponse to steroid therapy.
+While most patients show a fa- vorable outcome after steroid treatment, 10% of children with idiopathic NS do not respond to steroids or to any other immunosuppressive therapy, and progress to end- stage renal disease (ESRD).
+Renal histology typically shows focal segmental glomerulosclerosis (FSGS).
+Fur- thermore, in approximately one third of transplanted pa- tients, the clinical course is complicated by a recurrence of proteinuria, histologically characterized by reappearance of FSGS in the transplanted kidney, which may ultimately compromise allograft function [1].
+Several pathogenic factors have been postulated in these cases of recurrent disease after transplantation, among these a proteinuric circulating permeability factor, so far unidentiﬁed, pro- duced in the setting of T-cell dysfunction [2, 3] Diffuse mesangial sclerosis (DMS) is a separate his- tologic entity, clinically presenting with SRNS in early childhood and rapidly leading to ESRD in the ﬁrst years of life.
+Renal histology shows enhanced production of mesangial matrix, thickening of the glomerular basement membrane (GBM), and podocyte hypertrophy Over the last decade, mutations in genes encoding podocyte proteins have been identiﬁed in several forms of hereditary NS.
+Mutations in the Wilm’s tumor suppres- sor gene WT1 were discovered in patients with Denys- Drash, Frasier syndrome, and DMS [4–7].
+NPHS1, which encodes nephrin, has been identiﬁed as the causative gene in congenital NS of the Finnish type (CNF) [8].
+Mutations in ACTN4 encoding a-actinin-4 were discovered in sev- eral families with autosomal-dominant FSGS, a form of hereditary NS with late onset and progression to ESRD [9].
+Very recently, a heterozygous splice-site mutation 572 Weber et al: Podocin gene mutation screening in CD2AP, encoding CD2-associated protein, a compo- nent of the glomerular ﬁltration complex, was described in two unrelated patients with primary FSGS, pointing to additional genes which might be involved in human susceptibility to glomerular disease [10].
+By positional cloning, a novel podocyte-speciﬁc protein, podocin, en- coded by NPHS2 on chromosome 1q25-31 and associated with autosomal-recessive forms of SRNS, was described by Boute et al [11].
+Podocin is a 383-amino acid mem- brane protein that shares sequence homology with pro- teins of the band-7 stomatin family.
+It has a predicted hairpin-like structure and is expressed exclusively at the slit diaphragm, with both protein termini on the cytosolic side [12].
+Podocin has been shown to accumulate in an oligomeric form in the slit diaphragm, where it interacts with CD2AP and nephrin [13].
+It has been postulated that podocin may serve a scaffolding function in lipid rafts, and it has also been shown to direct the targeting of nephrin to lipid rafts, where it augments nephrin signaling [14–16] NPHS2 mutations were ﬁrst detected in familial autosomal-recessive SRNS, which manifests early in childhood and presents histologically with FSGS [11] Thereafter, NPHS2 mutations were also identiﬁed in spo- radic cases of SRNS [17–19], late onset FSGS [20], and, surprisingly, in a few patients with recurrence of pro- teinuria after renal transplantation [21].
+Since the dis- covery of podocin, we have performed mutational anal- ysis and clinical follow-up of a large cohort of patients with either familial or sporadic SRNS originating mainly from France and North African countries.
+We present our results, correlating the age of onset and likelihood of post-transplantation recurrence in these patients with the nature of the underlying NPHS2 mutation/variant, and compare our results with other published series [17–24] METHODS Patients A total of 338 patients belonging to 272 families were included in the present study.
+They originated from a large number of countries worldwide, most of them, however, from Europe (mainly France) and from North Africa.
+Of these, 319 presented with SRNS, deﬁned as lack of response to four weeks of treatment with pred- nisone followed by three bolus injections of methyl- prednisolone.
+Among them, 147 patients belonging to 81 families (44 being consanguineous) were classiﬁed as autosomal-recessive (AR) SRNS, deﬁned as SRNS in families with either two or more affected children, or one (or more) affected individual in consanguineous fami- lies.
+This group included 16 families that were previously described in our initial study [11].
+One hundred seventy- two patients presented with sporadic SRNS.
+Other distant family members were affected with proteinuria or NS in 7 cases.
+As the patterns of inheritance in these families were not suggestive of autosomal-recessive disease, the index cases were included in the group of sporadic SRNS In addition, 19 patients (of 19 families) with DMS were also included in the present study Mean age at manifestation of NS was recorded in 286 patients and was 57.6 ± 6.8 months in AR SRNS (N = 107), whereas it was higher in sporadic cases (102.9 ± 8.9 months; N = 169), especially in the cases with recur- rence after transplantation (134.3 ± 27.3 months; N = 24).
+Manifestation was early in the patients affected by DMS (22.1 ± 5.8 months; N = 10).
+In total, as most of the patients were recruited through pediatric nephrology de- partments, only 37 developed NS after 15 years (4 patients with AR SRNS and 33 patients with sporadic SRNS, 7 of them with post-transplantation recurrence) For 261 patients, the results of at least one kidney biopsy were provided to us (106 patients with AR SRNS and 155 sporadic cases).
+These evaluations showed that 65 patients had predominantly minimal changes (23 patients with AR SRNS, 42 sporadic cases) and 172 patients had FSGS (68 patients with AR SRNS, 104 sporadic cases) In a few cases, mesangial proliferation was observed (15 patients with AR SRNS, 9 sporadic cases) without glomerulosclerosis Information on renal transplantation was available for 115 patients with AR SRNS and 170 patients with spo- radic SRNS.
+Transplantation was performed in 44 of the 115 patients with AR SRNS, and no early recurrence was observed in these cases.
+However, one patient developed proteinuria and FSGS 2 years after receiving an allo- graft.
+Among the group of sporadic SRNS, 74 underwent kidney transplantation and 25 of them had a recurrence of proteinuria.
+In 16 of these, early recurrence was di- agnosed immediately after transplantation.
+Six patients showed a recurrence 14 days to 18 months after trans- plantation.
+No post-transplant data were available for 3 patients Genotyping and haplotype analysis Peripheral blood samples were obtained after in- formed consent of the patients or their parents.
+Genomic DNA was extracted according to standard labora- tory protocols.
+Five polymorphic microsatellite markers (D1S3758, D1S3760, D1S215, D1S3759, D1S2883) span- ning 1.1 cm and ﬂanking the NPHS2 locus were tested Genotyping was performed after PCR ampliﬁcation and electrophoresis as previously described in Fuchshuber et al [25].
+Cyrillic 2.1 (Cherwell Scientiﬁc, Oxford, UK) was used to construct pedigrees and to perform haplotype analysis Mutation screening Mutation analysis for NPHS2 was carried out by single- strand conformation polymorphism (SSCP) analysis for Weber et al: Podocin gene mutation screening 573 exons 2–7, as described previously in Boute et al [11], and by direct sequence analysis for exons 1 and 8.
+Exons of the NPHS1 gene were ampliﬁed by PCR using ﬂanking intronic primers [26] and subsequently sequenced.
+Direct sequencing was carried out using the Big Dye-terminator method (Applied Biosystems, Foster City, CA, USA).
+Se- quences were evaluated with the Sequencher software (Gene Codes, Ann Arbor, MI, USA).
+Segregation anal- ysis of mutations in families was performed by direct se- quencing, SSCP analysis, or speciﬁc restriction enzyme digestion Genotyping by single-base extension (SBE) and electrophoresis In order to discriminate mutations from polymor- phisms, all detected missense mutations were screened in 320 control chromosomes by single-base extension us- ing SNaPshot Multiplex kit (Applied Biosystems).
+We expanded the control cohort to 75 individuals (150 chro- mosomes) of African descent for the screening of the A242V variant.
+Exons were ampliﬁed using ﬂanking in- tronic primers.
+The PCR products from 4 to 6 exons were then mixed with 1.5 lL of ExoSAP-IT (Amersham ◦ Bioscience) and incubated for 1 hour at 37 C to re- move primers and dNTP, followed by 15 minutes at 80 C for enzyme inactivation.
+Primer extension reactions [27] were performed according to manufacturer’s protocol To clean up the single-base extension reaction, one unit of shrimp alkaline phosphatase (Amersham Bioscience) was added to the reaction and then incubated for 1 hour ◦ at 37 C for enzyme in- activation.
+The extension products were denatured for 5 minutes at 95 C, and electrophoresis was performed us- ing ABI Prism 373 A DNA Sequencer (Applied Biosys- tems).
+The results were analyzed using Genescan Analy- sis and Genotyper (Applied Biosystems) ◦ C, followed by 15 minutes at 80 ◦ ◦ Statistical analyses Values reported are the mean ± standard error of the mean (SEM).
+Statistical comparisons were performed us- ing one-way analysis of variance (ANOVA).
+P values of < 0.05 were considered signiﬁcant RESULTS Linkage analysis In 62 families suggestive of AR SRNS, linkage analyses were performed with markers ﬂanking the NPHS2 gene locus on chromosome 1q25-31.
+Results were compatible with linkage to this locus in 36 families, and pathogenic NPHS2 mutations were identiﬁed in 25 of them.
+In the remaining 11 families (all consanguineous, 10 with only one affected child), linkage was compatible as evidenced by homozygosity for the polymorphic makers ﬂanking NPHS2, but no pathogenic NPHS2 mutations were iden- tiﬁed.
+Linkage to the NPHS2 locus was excluded in 26 families, and we performed NPHS2 mutation screening in 17 of these families in parallel.
+No NPHS2 mutations were detected, as was expected, and further mutation analysis in the 9 additional families was not performed Homozygous, compound heterozygous, and single heterozygous pathogenic NPHS2 mutations NPHS2 mutation screening was thus performed in 322 patients from 263 families.
+Pathogenic mutations were deﬁned as variants that (1) were not found in 320 healthy control chromosomes, (2) segregated with the disease in families, and (3) were predicted to severely alter pro- tein sequence and/or expression levels.
+Homozygous or compound heterozygous mutations were identiﬁed in 73 patients (42 families), of whom 62 patients presented clin- ically with AR SRNS (31 families), and 11 with sporadic SRNS.
+We did not identify pathogenic NPHS2 mutations in any patient with isolated DMS (Table 1) In addition, only one pathogenic NPHS2 mutation was identiﬁed in 2 patients from one family with AR SRNS and in 6 patients with sporadic SRNS.
+The entire cod- ing region and all exon-intron boundaries of NPHS2 were sequenced in order to identify the second muta- tion, but yielded no additional mutation.
+Although some mutations may have been missed, such as heterozygous deletions, intronic mutations, or mutations in regulatory regions, it is unlikely that they could account for all the unidentiﬁed mutations.
+In addition to these 8 patients, 7 patients from 4 families (3 AR SRNS and 1 sporadic case) presented with compound heterozygosity of one pathogenic NPHS2 mutation and the R229Q polymor- phism on the other allele The detection rate of NPHS2 mutations in the homozy- gous or compound heterozygous states for AR SRNS was 38% (31 out of 81 families studied by mutation screening and/or linkage analysis).
+On the contrary, mutation detec- tion rate for sporadic SRNS was ﬁve times lower at 6.4% (11 affected patients of 172 patients studied).
+If patients with heterozygous pathogenic NPHS2 mutation with or without R229Q in compound heterozygosity were also included, the mutation detection rates rose to 43% for AR SRNS and to 10.5% for sporadic cases, respectively In total, 26 different NPHS2 mutations were detected in the present study; among these, 13 were novel mu- tations (Table 2).
+These newly identiﬁed mutations in- clude missense, nonsense, frameshift and splice-site mu- tations, and one in-frame deletion of 9 nucleotides, but no large or complete gene deletions.
+Some mutations were found in several unrelated families.
+In particular, the R138Q mutation (in exon 3) was observed in 32% of all affected alleles.
+A large majority of mutations were lo- cated in exons 4, 5, and 7, encoding the C-terminal part of podocin.
+NPHS2 missense mutations cluster in the early 574 Weber et al: Podocin gene mutation screening Table 1.
+Overview of genotypic and phenotypic data AR SRNSa Sporadic SRNSa DMSa No.
+of patients (families) Two NPHS2 pathogenic mutations One NPHS2 pathogenic mutation One NPHS2 mutation + R229Q Mutation detection rate (in total) Homozygous R229Q polymorphism Heterozygous R229Q polymorphism Variants in heterozygous state A242V polymorphism Age at onset (all) Age at onset (with two pathogenic NPHS2 mutations) Age at onset (without two pathogenic NPHS2 mutations) 147 (81) 62 (31) 2 (1) 6 (3) 43% 5 (3) 0 (0) 3 (2) 2 (2) N = 107 172 (172) 11 (11) 6 (6) 1 (1) 10.5% 2 (2) 11 (11) 4 (4) 4 (4) N = 169 57.6 ± 6.8 months 102.9 ± 8.9 months 41.2 ± 5.9 months N = 63 69.9 ± 11.5 months N = 55; P = 0.019b 108.3 ± 9.4 months N = 158; P < 0.001b aNumbers in parentheses refer to affected families bP value: age at onset is compared with patients bearing two pathogenic mutations Table 2.

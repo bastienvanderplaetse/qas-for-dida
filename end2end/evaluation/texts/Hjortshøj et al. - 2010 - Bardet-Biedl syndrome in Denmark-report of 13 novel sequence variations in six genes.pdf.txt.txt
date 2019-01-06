@@ -1,0 +1,117 @@
+ABSTRACT: Bardet-Biedl syndrome (BBS) is an autosomal recessive disease characterized by retinal dystrophy, poly- dactyly, obesity, involvement, and male hypogenitalism.
+BBS is genetically heterogeneous with mutations of 14 genes, accounting for approximately 70% of cases.
+Triallelic inheritance has been suggested in about 5% of cases.
+Forty-nine unrelated BBS patients were screened for mutations by DHPLC analysis in BBS1, BBS2, BBS4, BBS6/MKKS, BBS10, and BBS12.
+The selected genes either account for more than 5% of the mutational load or are commonly reported in triallelic inheritance.
+Eight patients with only one or no BBS mutation were further investigated by single nucleotide polymorphism (SNP) analysis.
+In total, mutations were detected in 44 patients.
+Twenty percent had two mutations in BBS1, 18% in BBS2, 4% in BBS9, 43% in BBS10, and 2% in BBS12.
+Five patients were heterozygous for a sequence variation in BBS6/MKKS.
+We found eight patients with three sequence variations in two genes, which could be explained by triallelic inheritance, by the prevalence of heterozygous carriers or the third sequence variations representing rare polymorphisms.
+All changes found in a second BBS gene were amino acid substitutions Genotype–phenotype correlations suggest a milder pheno- type for BBS1 compared to BBS2 and BBS10, which we ascribe to the hypomorphic p.Met390Arg-mutation Hum Mutat 31:429–436, 2010.
+& 2010 Wiley-Liss, Inc KEY WORDS: Bardet-Biedl; retinitis pigmentosa; trialle- lic inheritance; genotype–phenotype Introduction Bardet-Biedl syndrome (BBS; MIM# 209900) is an autosomal recessive disease with an estimated prevalence of 1 per 59,000 in Denmark.
+In other investigated populations the prevalence is reported to be one per 125-160,000 [Ammann, 1970; Beales et al., 1997; Haim, 1992].
+BBS is a multiorgan disorder, with retinal dystrophy (retinitis pigmentosa) leading to blindness in the second Additional Supporting Information may be found in the online version of this article Correspondence to: Tina Duelund Hjortshøj, Kennedy Center, Gl.
+Landevej 7, DK-2600 Glostrup, Denmark.
+E-mail: tid@kennedy.dk decade, postaxial polydactyly, obesity with onset in early childhood, learning disabilities, male hypogenitalism, and renal anomalies Cardiac abnormalities, dental malformations, and neurological symptoms are also frequent [Beales et al., 1999; Bell, 1958; Riise, 1998].
+Life expectancy can be reduced mainly due to renal failure [Riise, 1996].
+Fourteen BBS genes have been identified, accounting for about 70% of cases (Supp.
+Table S1) (see Supp.Table S1 for references).
+BBS is a disorder of primary ciliary and basal body dysfunction, probably affecting intraflagellar and intracellular transport as well as paracrine signals, such as planar cell polarity pathways [Ansley et al., 2003; Badano et al., 2006; Kim et al., 2004; Yen et al., 2006].
+This places BBS in the expanding group of together with polycystic kidney disease, Alstro¨m ciliopathies syndrome, Meckel syndrome, Joubert syndrome, and von Hippel- Lindau disease [Hearn et al., 2005; Kyttala et al., 2006; Pazour, 2004; Schermer et al., 2006; Valente et al., 2006].
+It has been shown that seven BBS proteins (BBS1, BBS2, BBS4, BBS5, BBS7, BBS8, BBS9) form a core complex implicated in ciliary membrane biogenesis [Nachury et al., 2007].
+The BBS6/MKKS, BBS10, and BBS12 genes are vertebrate specific and predicted to encode proteins with similarity to members of the type II chaperonin superfamily [Kim et al., 2005; Stoetzel et al., 2006a, 2007].
+This is in contrast to the other known BBS genes, which are specific for ciliated organisms correlations have proved complicated, likely due to the small numbers of patients [Beales et al., 1997; Carmi et al., 1995; Heon et al., 2005].
+In addition, the BBS phenotype shows great variability within families [Moore et al., 2005; Riise et al., 1997] Conclusive genotype–phenotype Complex digenic triallelic inheritance of BBS has been suggested [Badano et al., 2003b; Beales et al., 2003; Katsanis et al., 2001].
+In triallelic inheritance the phenotype is modified by a third mutation in a second gene.
+CCDC28B and all BBS genes, with the exception of BBS9 and BBS11/TRIM32, have been suggested to be involved in triallelic inheritance in BBS [Katsanis et al., 2001; Li et al., 2004; Stoetzel et al., 2006a,b, 2007].
+The aim of our study was to characterize the mutational spectrum in Danish BBS patients, with the opportunity to investigate the triallelic hypothesis and, if possible, to establish a genotype–phenotype correlation Materials and Methods Patients We studied 49 unrelated patients with Bardet-Biedl Syndrome (19 females, 30 males), mainly of Danish origin but also including & 2010 WILEY-LISS, INC immigrated patients from Afghanistan (n 5 1), Iran (n 5 1), Iraq (n 5 1), Norway (n 5 1), and Turkey (n 5 2).
+Consanguinity was present in seven families (from Afghanistan, Iran, two from Turkey, and three from Denmark).
+The mean age was 29.2 years, ranging from 4 to 71 years.
+Patients were identified from the files of the Retinitis Pigmentosa Register at the Eye Clinic, Kennedy Center, Denmark.
+Information on all BBS patients born after 1850 can be found in The Retinitis Pigmentosa Register, which was established in 1993 [Haim, 2002].
+BBS was diagnosed by the presence of an ERG-verified panretinal photoreceptor dystrophy, often with a characteristic macular appearance in association with other systemic manifestations according to established criteria [Beales et al., 1999; Schachat and Maumenee, 1982].
+We obtained and reviewed all available medical (ophthalmological) records to verify phenotypic feature and to secure diagnosis.
+In some cases additional information was obtained directly from the families The major clinical endpoints were registered for genotype– phenotype correlation.
+Patients included in the study were all but one the only affected in their family.
+In the family with two affected individuals the brother who had the earliest diagnosis was included in the study.
+Relatives were asked to participate when mutations were identified in the proband resulting in the testing of 91 relatives from 31 families.
+EBV transformed lymphoblastoid cell lines were established when possible.
+Appropriate informed consent was obtained from all participants in the study.
+The study has been approved by the institutional review board, and has been conducted in accordance with the tenets of the Helsinki Declaration Mutation Analysis BBS genes involved in more than 5% of BBS cases were selected for mutational analysis; that is, BBS1, BBS2, BBS6/MKKS, BBS10, and BBS12.
+Furthermore, we also included BBS4 and exon 3 of CCDC28B due in triallelic inheritance.
+All genes were screened irrespective of mutational load in another gene reported involvement to their Genomic DNA was extracted from peripheral blood leucocytes using a standard salting out method [Miller et al., 1988].
+Coding exons plus 30–100 bp of flanking regions were amplified by polymerase chain reaction (PCR) using genomic DNA as a template, and mutation detection was performed by denaturing high-performance liquid chromatography (DHPLC) (Varian Inc., Palo Alto, CA) using two or three different temperatures.
+Samples were analyzed separate and also mixed two by two to ensure detection of homozygous sequence variations.
+Any PCR fragment showing an aberrant melting profile was sequenced.
+RFLP-PCR was used to identify the common p.Met390Arg in exon 12 of BBS1.
+The mutation abolishes a cleavage site for the restriction enzyme BspHI.
+Sequencing of the nondigested fragments was performed to confirm the presence of the mutation.
+PCR conditions and primer sequences for mutational analysis are available upon request The pathogenic effect of a novel sequence alteration was evaluated based on segregation analysis, absence in at least 100 ethnically matched control chromosomes, RT-PCR analysis of novel splice site mutations, and in silico analysis.
+For the in silico analysis of the pathogenic effect of mutations we used the following databases: http://www.fruitfly.org/seq_tools/splice.html, http://genes.mit.edu/burgelab/rescue-ese/, http://blocks.fhcrc.org/ sift/SIFT.html DNA sequencing was performed as bidirectional sequencing on purified PCR products using the same primers that were used for 430 HUMAN MUTATION, Vol.
+31, No.4, 429–436, 2010 DHPLC.
+Sequencing was carried out using Big Dye Terminator v.3.1 and analysed using an ABI310 or ABI3100 automated capillary sequencer (Applied Biosystems, Foster City, CA) following manufacturer’s instructions.
+Results were analyzed by Chromas v.2.31 RT-PCR Analysis to the manufacturer’s Total RNA was isolated from EBV transformed lymphoblastoid cells using the RNeasy Mini Kit (Qiagen, Hilden, Germany) according cDNA was synthesized using the Superscript III Reverse Transcriptase Kit (Invitrogen, Carlsbad, CA) following the manufacturer’s instruc- tions.
+Bands were excised and purified with QIAquick Gel Extraction Kit (Qiagen) prior to sequencing instructions Single Nucleotide Polymorphism (SNP) Genotyping and Homozygosity Mapping Patients who were found to have only one or no BBS mutation after the mutational screening were selected for SNP analysis to identify new or already known candidate BBS gene regions Genomic DNA was used as a template for the generation of probes for use on Affymetrix GeneChip Human Mapping 50 K Hind 240 SNP microarrays (Affymetrix, Santa Clara, CA).
+Sample processing and labeling were performed according to the manufacturers specifications.
+The arrays were hybridized, washed, and scanned at The University of Iowa DNA Core Facility.
+Chip images were processed by the GeneChip DNA Analysis Software (GDAS) to generate SNP allele calls.
+To compensate for potential SNP miscalls, we incorporated the use of quality control data to identify potential miscalls.
+To be conservative, SNPs that could not be scored by GDAS were ignored for this analysis.
+For the homozygosity analysis, a sliding window of 60 consecutive SNPs was used to identify potential regions of homozygosity.
+Regions with more than 100 contiguous homozygous SNPs or greater than 5 Mb in size (as defined by contiguous homozygous SNPs) were considered candidate BBS regions.
+These values were determined empirically from data on control individuals and BBS patient samples.
+For the samples examined, an average call rate of greater than 95% was obtained.
+When a region of homozygosity was found to contain a known BBS gene, that gene was then screened for mutations Mutation Nomenclature All sequence variations are described according to standard mutation nomenclature [den Dunnen and Antonarakis, 2000] Nucleotide numbers are derived from GenBank with the following RefSeq (BBS1), NM_031885.1 (BBS2), NM_033028.1 (BBS4), NM_170784.1 (BBS6/MKKS), NM_198428.2 (BBS9), NM_024685.3 (BBS10), NM_152618.2 (BBS12), and NM_024296.1 (CCDC28B) cDNA accession numbers: NM_024649.1 Results Mutation Analysis Results of the mutational analysis are shown in Table 1 Forty-three patients (88%) were homozygous or compound heterozygotes while one patient (P20) was heterozygote.
+In five patients we did not find any sequence variations other than known SNPs or obvious polymorphisms.
+Eight patients had an Table 1.
+Genotypes Encountered in 49 BBS Patients Studied Patient Allele 1 Allele 2 Allele 3 References Gene BBS1 BBS2 BBS6 BBS9 BBS10 BBS12 P4, P6, P8, P10, P18, P25, P26, P27, P43 P65 P42 P7 P16 P23 P39 P1 P55 P57 P53 P20 P52 P40 P3, P11, P15, P34, P37, P38, P44, P45, P46, P48, P49, P50, P54, P58, P61 P14 P47 P24, P62 P41 P21 P64 c.1169T4G (p.M390R) c.1169T4G (p.M390R) c.479G4A (p.D145GfsX21)b c.646C4T (p.R216X) c.479G4A (p.D145GfsX21)b c.72G 4C (p.Y24X) c.646C4T (p.R216X) c.646C4T (p.R216X) c.72G 4C (p.Y24X) c.661delC (p.F221fsX25) c.646C4T (p.R216X) c.1707C4T (p.Q569X) c.661delC (p.F221fsX25) c.1707C4T (p.Q569X) c.1707C4T (p.Q569X) c.661delC (p.F221fsX25) c.661delC (p.F221fsX25) c.1707C4T (p.Q569X) c.256_278dup (p.V94SfsX8) c.814C4T (p.A272X) c.837delA (p.Gly280GlufsX4) c.2434_2435delAT (p.I812HfsX6) c.256_278dup (p.V94SfsX8) c.814C4T (p.A272X) c.2434_2435delAT (p.I812HfsX6) Intragenic deletion of Intragenic deletion of 31,275 BBS6: c.724G4T (p.A242S) BBS6: c.724G4T (p.A242S) BBS10: c.765G4A (p.M255I)a BBS12: c.1191A4G (p.K408R)a BBS12: c.1572A4G (p.Y524C)a Mykytyn et al.
+[2002] Hichri et al.
+[2005] Beales et al.
+[2003]; Katsanis et al.
+[2000, 2001] Katsanis et al.
+[2001] Katsanis et al.
+[2000, 2001]; This study Katsanis et al.
+[2001]; This study This study This study This study This study Nishimura et al.
+[2001]; This study This study This study bp (p.G767_P840del) c.271_272insT (p.C91WfsX5) Stoetzel et al.
+[2006a] 31,275 bp (p.G767_P840del) c.271_272insT (p.C91WfsX5) c.271_272insT (p.C91WfsX5) c.271_272insT (p.C91WfsX5) c.271_272insT (p.C91WfsX5) c.271_272insT (p.C91WfsX5) c.1867C4T (p.Q623X) c.145C4T (p.R49W) c.145C4T (p.Arg49Trp) c.145C4T (p.R49W) c.2060C4T (p.L687P)a c.420_423delTATG (p.C140TfsX15) c.2060C4T (p.L687P)a c.1531_1539delCAGATGCAA (p.Q511_Q513del) BBS6: c.1015A4G (p.I339V) BBS2: c.1885G4A (p.E629K)a BBS6: c.724G4T (p.A242S) Slavotinek et al.
+[2002]; Stoetzel et al.
+[2006a] Stoetzel et al.
+[2006a]; This study Stoetzel et al.
+[2006a] Katsanis et al.
+[2000]; Stoetzel et al.
+[2006a] This study Stoetzel et al.
+[2007]; This study Novel mutations are indicated in bold We did not identify any mutations in patients P2, P51, P59, P60, and P66.
+For cDNA numbering 11 corresponds to the A of the first ATG translation initiation codon according to journal guidelines (www.hgvs.org/mutnomen).
+Nucleotide numbers are derived from GenBank reference sequences with the following RefSeq cDNA accession numbers: NM_024649.1 (BBS1), NM_031885.1 (BBS2), NM_033028.1 (BBS4), NM_170784.1 (BBS6/MKKS), NM_198428.2 (BBS9); NM_024685.3 (BBS10), NM_152618.2 (BBS12) and NM_024296.1 (CCDC28B) aAbsent in more than 100 ethnically matched control chromosomes bSplice site mutation, shown by RT-PCR additional sequence variation in another BBS gene.
+In total, we identified 24 unique sequence variations (in 94 mutated alleles) of which 13 have not been previously reported.
+The novel variations include deletions, duplications, nonsense mutations, and missense mutations.
+The five novel missense changes were absent in more than 100 ethnically matched control chromosomes, and two of them were furthermore localized in conserved regions of the genes (Fig.
+1).Identified polymorphisms are listed in Supp.
+Table S2 Ten patients (20%) were found to have two mutations in BBS1 Patient P65 was homozygous for c.479G4A, changing the last basepair in exon 5.
+RT-PCR analysis shows that this causes skipping of exon 5 thereby introducing a premature stopcodon (p.Asp145GlyfsX21) (Supp.
+Fig.S1), previously reported as p.Arg160Gln [Hichri et al., 2005].
+Nine patients (18%) harbored two mutations in BBS2.
+The mutations were all predicted to introduce a premature stop codon.
+Five patients (10%) had sequence variations in BBS6/MKKS, all in the heterozygous state.
+Four of these also had two mutations in a second BBS gene.
+Patient P20 was heterozygous for an obvious pathogenic mutation (c.837delA, p.Gly280GlufsX4), but a second mutation in BBS6/MKKS (or in any other gene analyzed) was not detected despite sequencing of the coding region.
+SNP analysis of this patient did not reveal any homozygous regions meeting the criteria described in the Materials and Methods section.
+Twenty- one of the patients (43%) harbored two mutations in BBS10 Patient P21 (a Turkish boy) was homozygous for a novel missense mutation, c.2060C4T (p.Leu687Pro).
+No family members were available for investigation.
+Three patients (6%) were identified with sequence variations in BBS12: one was compound hetero- zygous and two were heterozygotes SNP homozygosity mapping was performed on eight patients with no or only one identified mutation to identify candidate regions that might contain BBS loci.
+Identified homozygous regions are listed in Table 2.
+In two of the patients, homozygous regions encompassing the BBS9 gene were identified.
+In patient P52 sequencing of BBS9 revealed a deletion of two base pairs within exon 21 resulting in a frameshift and introduction of a premature stop codon, (c.2434_2435delAT, p.Ile812HisfsX6) plus a homozygous Alu insertion polymorphism downstream of exon 3 In patient P40, of Turkish origin, a homozygous intragenic HUMAN MUTATION, Vol.
+31, No.4, 429–436, 2010 431 A BBS2 Homo sapiens Pongo pygmaeus Mus musculus Rattus norvegicus Bos Taurus Canis familiaris Gallus gallus Xenopus tropicalis Salmo salar Tetraodon nigroviridis Danio rerio B BBS10 Homo sapiens Pongo pygmaeus Mus musculus Rattus norvegicus Bos taurus Canis familiaris Gallus gallus Xenopus laevis Danio rerio C BBS10 Homo sapiens Pongo abelii Canis familiaris Mus musculus Rattus norvegicus Xenopus tropicalis Danio rerio D BBS12 Homo sapiens Pongo abelii Bos taurus Mus musculus Xenopus laevis E BBS12 Homo sapiens Pongo abelii Mus musculus Bos taurus Xenopus laevis Figure 1 Evolutionary conservation of sequences within BBS genes surrounding novel missense mutation sites.
+Amino acid number refers to number in the human ref.sequences: NP_114091.2 (BBS2), NP_078961.3 (BBS10), and NP_689831.2 (BBS12).
+A: The glutamic acid at position 629 is conserved in all recognizable BBS2 orthologs (except in C.
+elegans, not showed).B: In BBS10 there is conservation of the leucine at position 687.
+C: The methionine at position 255 in BBS10 is not conserved in evolution.
+D: The lysine at position 408 in BBS12 is not conserved in evolution.
+E: The tyrosine at position 524 in BBS12 is not conserved in evolution.
+BBS2 sequences obtained from Uniprot: Q5R9U3 (Pongo pygmaeus), Q9CWF6 (Mus musculus), Q99MH9 (Rattus norvegicus), Q32L13 (Bos taurus), Q5ZI17 (Gallus gallus), Q0H927 (Salmo zalar), Q4RGW3 (Tetraodon nigroviridis), Q98SP7 (Danio rerio), Q19640 (Caenorhabditis elegans).
+From Ensembl database: EN- SXETT00000043270 (Xenopus tropicalis).
+BBS10 sequences obtained from Uniprot: Q5R8P3 (Pongo pygmaeus), Q9DBI2 (Mus musculus), A4QP63 (Danio rerio), Q4REW1 (Tetraodon nigroviridis), Q5F411 (Gallus gallus), Q5FWQ1 (Xenopus laevis).
+From Ensembl database: EN- SBTAG00000004425 (Bos taurus), ENSGALG00000010241 (Gallus gal- lus), ENSCAFG00000005703 (Canis familiaris), ENSRNOG00000026913 (Rattus norvegicus, predicted).
+BBS12 sequences obtained from Uniprot: Q5RC62 (Pongo abelii), Q5SUD9 (Mus musculus), A6QNT9 (Bos taurus), A5PKN5 (Xenopus laevis) XP_535296.2 predicted), familiaris, (Canis deletion of 31,275 bp was found that results in the deletion of exon 21 and causes a frame shift within the distal region of BBS9 In both families consanguinity was present 432 HUMAN MUTATION, Vol.

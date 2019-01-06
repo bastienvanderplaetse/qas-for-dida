@@ -1,0 +1,3 @@
+model_checkpoint_path: "model_ite1.0_acc0.0_loss0.6697271466255188"
+all_model_checkpoint_paths: "model_ite0.0_acc0.0_loss0.6698689460754395"
+all_model_checkpoint_paths: "model_ite1.0_acc0.0_loss0.6697271466255188"

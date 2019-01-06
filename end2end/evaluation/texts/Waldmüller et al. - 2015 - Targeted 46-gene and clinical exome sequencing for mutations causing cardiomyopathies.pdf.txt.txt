@@ -1,0 +1,125 @@
+a b s t r a c t Article history: Received 29 January 2015 Received in revised form 5 May 2015 Accepted 5 May 2015 Available online 12 May 2015 Keywords: Cardiomyopathy Next-generation sequencing Clinical exome With the implementation of high-throughput sequencing protocols, the exhaustive scanning of known and candidate disease genes has become a feasible approach to genetic testing of patients with cardiomyopathy A primary objective of the present study was to assess the performance characteristics of a 46-gene next- generation sequencing (NGS) assay that targets well-established cardiomyopathy genes.
+A total of 25 samples were analyzed.
+Twelve of those had previously been sequenced using resequencing arrays and served as reference samples for the assessment of the assay's performance characteristics.
+The remaining 13 samples were derived from consecutive patients.
+Both the analytical sensitivity and the speciﬁcity of the assay were 100% and the percentage of low-coverage bases was 0.4%, at an average read depth of 210.
+In order to assess the diagnostic yield of the test,13 consecutive samples representing cases of Dilated (n ¼ 7), Hypertrophic (n ¼ 4) and Left Ventricular Non-Compaction Cardiomyopathy (n ¼ 2), were subjected to the 46-gene NGS assay.
+Including predicted pathogenic variants in the gene TTN, a total of 22 variants (11 novel) were detected in 10 patients, with a clear preponderance of variants of unknown pathogenicity (class 3 variants, 21/22, 95%).
+Of the seven DCM cases, two were digenic, involving variants in the genes MYH7 and RBM20 in one case and in DSP and TTN in the other case.
+Three other patients carried single TTN variants predicted to be pathogenic.
+Of the four HCM patients, one was trigenic (LAMA4, PKP2 and TTN) and three were digenic (DSP and TTN, MYH7 and NEXN, NEXN and TTN, respectively).
+As to LVNC, one of the two patients had one variant in the gene ABCC9 and two predicted pathogenic variants in the gene TTN Strikingly, out of the thirteen investigated cases, only a single case exhibited a likely pathogenic or path- ogenic variant justifying a positive test report.
+The percentage of inconclusive cases thus amounted to 69% Three cases were devoid of any relevant variant.
+Two of these “negative” cases were subsequently taken to initially evaluate the use of an alternative NGS assay addressing 4813 genes previously implicated in genetic diseases (the so-called clinical exome).
+Although showing similar sensitivity and speciﬁcity values, the coverage of the 46 established cardiomyopathy genes was less efﬁcient (low-coverage bases: 5%).
+In a case of DCM, the assay revealed a disruptive variant in the gene encoding the adrenoreceptor beta 2 (ADRB2), a protein implicated in signal transduction and energy metabolism in the heart.
+In conclusion, the 46 gene assay is applicable to routine genetic diagnostics of cardiomyopathy.
+The test detects many variants of unknown pathogenicity which need to be followed-up in order to gain beneﬁt for the patients and their families.
+Samples devoid of any relevant variant may be subjected to a clinical exome assay, in order to identify interesting novel candidate genes © 2015 Elsevier Ltd.
+All rights reserved * This article belongs to the Special Issue: Monogenic orphan diseases in man * Corresponding author E-mail address: stephan.waldmueller@med.uni-tuebingen.de (S.
+Waldmüller) 1 Present address: CeGaT GmbH, Tübingen, Germany 2 Present address: IMGM Laboratories GmbH, Martinsried, Germany http://dx.doi.org/10.1016/j.mcp.2015.05.004 0890-8508/© 2015 Elsevier Ltd.
+All rights reserved S.
+Waldmüller et al./ Molecular and Cellular Probes 29 (2015) 308e314 309 1.
+Introduction Cardiomyopathies comprise a relatively small group of related but clinically distinguishable primary diseases of the heart muscle, such as hypertrophic cardiomyopathy (HCM), dilated cardiomy- opathy (DCM) and left ventricular non-compaction cardiomyopa- thy (LVNC).
+These conditions are characterized by a high risk to suffer heart failure and they contribute substantially to mortality before the ﬁfth decade of life.
+HCM, for example, is the leading cause of sudden death in the young and the most common cause of death in athletes in the US [1].
+The prevalence of HCM is estimated to be 1:500 and more than half of the patients have relatives also affected by the condition [2,3].
+Beside the two most frequently affected disease genes, MYH7 (encoding the b-myosin heavy chain) and MYBPC3 (encoding myosin-binding protein C), 41 other genes have been linked to the familial form of HCM (Human Genome Mutation Database, HGMD® Professional 2014.4, OMIM, NCBI Entrez Gene, all accessed march 2015).
+The routine screening for disease-causing mutations has been incorporated into the most recent international guidelines [4].
+A comparable, yet less stringent recommendation exists, already since the year 2011, for DCM [5] DCM is primarily a sporadic disease.
+Patients present with left ventricular enlargement and systolic impairment.
+Familial DCM may account for up to 48% of the cases of idiopathic DCM and mutations in at least 48 genes may be implicated in the patho- genesis of the disease [6,7].
+According to the database HGMD®, at least 3 of these genes are associated with LVNC, another type of cardiomyopathy, characterized by the persistence of a non- compacted layer of the left ventricular myocardium.
+Beside LVNC, left ventricular hypertrophy as well as dilation may be observed within the same family.
+The phenotypic variability of LVNC exists in parallel with a genetic overlap not only with DCM (see above) but also with HCM (4 genes).
+The inheritance pattern is usually autosomal-dominant, but cardiomyopathies might as well be linked to the X-chromosome.
+Familial recurrence has been reported in up to 50% [8].
+The high degree of genetic heterogeneity of most types of cardiomyopathies can nowadays be addressed by high- throughput sequencing methods commonly referred to as next- generation sequencing (NGS).
+The decreasing costs of NGS have enabled several studies which investigate the clinical use of the comprehensive testing of expanded gene panels, in particular in the ﬁeld of DCM, the genetically most complex type of cardiomyopathy The study by Haas et al.
+(2015) employed an 84 gene enrichment panel for the analysis of 639 patients presenting with sporadic or familial DCM [9].
+In this study, NGS was found to be a feasible and highly accurate tool for clinical genetic diagnostics.
+The group of Pugh et al.
+(2014) used a 46 gene multi-cardiomyopathy NGS assay that had been made commercially available by the company Illu- mina.
+The data illustrated the utility of multi-gene panels but also highlighted challenges, namely the increase of inconclusive cases from 5 to 50%, due to the detection of either novel variants or of variants known to be present in a normal control population [10e12].
+The objective of the present study was to determine, in an independent approach, the performance characteristics of the above-mentioned 46 gene panel and to build a reference data set for the subsequent evaluation of a 4813-gene sequencing assay, addressing the clinical exome (alternatively referred to as the mendeliome) 2.
+Subjects, materials and methods 2.1.
+Subjects and DNA extraction Using the Maxwell® 16 Blood DNA Puriﬁcation Kit (Promega, Mannheim, Germany), DNA was extracted from blood samples derived from consecutive patients suffering from HCM (n ¼ 4), DCM (n ¼ 7) or LVNC (n ¼ 2).
+The study conformed to the Declaration of Helsinki and was approved by the ethical committees of the Uni- versity of Witten/Herdecke, Germany, and the University Hospital of Tübingen, Germany.
+Written consent was obtained from all participants of the study 2.2.
+Disease criteria DCM: Left ventricular (LV) dilatation (LV end-diastolic diameter, LVEDD, >112%), impaired LV ejection fraction (LVEF <50%), absence of secondary forms of left ventricular dilatation (e.g.
+coronary ar- tery disease) [13] HCM: Hypertrophy of the interventricular septum (IVS; IVS diameter, IVSD >15 mm), absence of secondary forms of left ven- tricular hypertrophy (e.g.
+hypertension) [3] LVNC: Presence of LV trabeculations with deep intertrabecular recesses, absence of coexisting cardiac lesions, such as semilunar valve obstruction and coronary artery anomalies [14] 2.3.
+Next-generation sequencing (NGS) instructions In brief, Illumina GmbH, Munich, Germany) NGS was performed using either Illumina's TruSight Cardio- myopathy Enrichment Panel (tsCM, 46 genes) in conjunction with the MiSeq instrument or Illumina's TruSight ONE Enrichment Panel (tsONE, 4813 genes; in conjunction with the HiSeq 2500 instrument, according to the manufacturer's transposon-mediated genomic DNA fragmentation was followed by tagging with sample-speciﬁc indices, adaptors and sequencing primers via the ﬁrst round of PCR ampliﬁcation.
+Twelve samples were then pooled and the target regions were enriched using synthetic probes in a ﬁrst round of hybridization.
+The captured regions of interest were then subjected to a second round of hybridization-based enrich- ment.
+The hybridized DNA was captured, eluted and PCR-ampliﬁed again.
+The puriﬁed libraries were then loaded to a ﬂow-cell for subsequent cluster generation and sequencing.
+A proprietary bio- informatics pipeline built upon open source tools was used for read mapping (Stampy, BWA), removal of duplicates followed by realignment (GATK, proprietary scripts), base calling (SAMtools) and variant annotation (Annovar) [15e19].
+Relevant DNA sequence variants (class 3e5; see 2.4) were conﬁrmed by Sanger sequencing using standard protocols 2.4.
+Variant ﬁltering and classiﬁcation Using a standard ﬁlter, non-synonymous single nucleotide var- iants (nsSNVs), nonsense variants, splice-site (±10 bps) variants, insertions, duplications and deletions represented by more than 20 sequence reads were considered for further analysis.
+Moreover, variants that fulﬁlled one of the following criteria were excluded from further investigation: a) minor allele frequency (MAF) in dbSNP 1%, b) MAF in ESP (Exome Sequencing Project, European Americans) 1%, c) > 5 entries in an in-house variant data base, d) nsSNVs in the gene TTN (encoding titin) that have not been pre- dicted as being pathogenic by the two programs PolyPhen-2 and SIFT.
+It is worth to note that, in order not to miss relevant variants (class 3e5 variants, see below) the minor allele frequency threshold of 1% was less stringent than that used by others [12,20,21].
+As a ﬁrst step, the standard ﬁlter was also applied to the two samples enriched using tsONE.
+In addition, all tsONE data sets without any relevant variant were subjected to a less stringent gene-speciﬁc ﬁlter comprising 288 genes retrieved from NCBI Entrez Gene us- ing “cardiomyopathy” as a search term.
+Thus, variants in additional 310 S.
+Waldmüller et al./ Molecular and Cellular Probes 29 (2015) 308e314 242 genes were displayed and analyzed.
+All nsSNVs not predicted to affect splicing were classiﬁed as follows: Class 1, certainly not pathogenic: minor allele frequency, MAF 5%, considering dbSNP and European Americans of the Exome Sequencing Project, ESP) Class 2, unlikely pathogenic: MAF <5% - >1%, no data as to the pathogenic role of the variant.
+Class 3, unknown pathogenicity: all missense variants not falling in one of the other categories.
+Class 4, likely pathogenic: MAF <1%, evidence in favor of pathogenicity is available (e.g.
+functional data from cell culture experiments or functional data from animal models or mRNA data or co- segregation of variant and phenotype).
+Class 5, certainly patho- genic: all variants with published unequivocal data in favor of a pathogenic role (e.g.
+functional data from cell culture experiments or functional data from animal models or mRNA data or co- segregation of variant and phenotype).
+Rare (0.1%) nonsense and frameshift variants were classiﬁed as likely pathogenic (class 4), except if published unequivocal data in favor of a pathogenic role was available (class 5).
+Rare variants leading to predicted novel splice donor sites were considered to be of unknown pathogenicity (class 3) 2.5.
+Reference variants Twelve DNA samples served as source for the 73 single nucle- otide variants (SNVs) which were used to assess the sensitivity of the tsCM-based NGS assay.
+These samples had previously been analyzed using a resequencing array that addressed mutations in the genes MYH7, MYBPC3 and TNNT2 [22].
+Another sample had initially been found to carry 95 variants using tsCM-based NGS and in order to was subsequently subjected to tsONE-based NGS, determine both the sensitivity and the speciﬁcity of the cardiomyopathy-speciﬁc content of this assay 2.6.
+Genes analyzed Complete lists of the genes enriched by tsCM and tsONE are available online at http://products.illumina.com/products/trusight_ cardiomyopathy.html and http://products.illumina.com/products/ trusight-one-sequencing-panel.html 2.7.
+Reference mRNA sequences of genes carrying relevant variants diagnostic_test.php), socscistatistics.com/tests/chisquare/Default2.aspx) Chi-square Calculator (http://www 3.
+Results 3.1.
+Performance characteristics of the TruSight cardiomyopathy (tsCM) 46-gene next-generation sequencing assay To determine the essential performance characteristics of NGS using the tsCM 46-gene enrichment panel, 12 samples from pa- tients with different forms of CM were analyzed in a single MiSeq run (Experiment 1, Fig.
+1).In a second run (Experiment 2), 2 DNA samples previously analyzed in the ﬁrst run and 6 of the 13 consecutive samples were subjected to an identical NGS procedure The average read depth was 210 (Exp.
+1) and 407 (Exp.2).
+A mean of 0.36% (Exp.
+1) and 0.13% of the target region (243975 basepairs) showed low read depth (<20), corresponding to an average number of basepairs with low read depth of 893 (located in 13 genes; Exp.
+1) and 332 (located in 5 genes; Exp.2).
+The reason for differences in read depth and regions with low read depth is the different number of samples sequenced per run.
+Of the 73 reference mutations/single nucleotide variants (SNV) tested in Experiment 1, all were recovered, corresponding to an analytical sensitivity of 100% (95% conﬁdence interval, CI: 95%).
+The analytical speciﬁcity was estimated by the evaluation of 108 exons known to be ho- mozygous wild type and it was found to be 100% (95% CI: 97%).
+Of the 96 mutations/SNVs detected in two samples of Experiment 1, all were recovered upon repeating the analysis in Experiment 2 and no additional variant was found, indicating a high degree of interme- diate precision 3.2.
+Performance characteristics of the cardiomyopathy-speciﬁc content of the TruSight ONE (tsONE) 4813-gene next-generation sequencing assay Two samples (CM001 and CM003) were used to evaluate the performance characteristics of the tsONE assay.
+One of those ABCC9: ACTN2: NM_005691; NM_001103.3; ADRB2: NM_000024.5; C12orf65: NM_152269.4; CSRP3: NM_003476.3; DSC2: NM_024422.3; DSP: NM_004415.2; DTNA: NM_032975.3; LAMA4: NM_002290; MYBPC3: NM_000256; MYH7: NM_000257.2; MYL2: NM_000432; MYLK2: NM_033118; NEXN: NM_144573.3; PKP2: NM_004572.3; RYR2: NM_001035.2; TTN: NM_001256850.1; NDUFAF7: NM_144736.4; GYS2: NM_021957.3 2.8.
+Databases, amino acid substitution prediction programs and statistical software Variant databases: NCBI dbSNP (http://www.ncbi.nlm.nih.gov/ SNP/), NHLBI Exome Sequencing Project (ESP) Exome Variant Server (http://evs.gs.washington.edu/EVS/), Leiden Open Variation Database (LOVD; http://www.lovd.nl/3.0/home), Human Genome Mutation Database (HGMD® Professional 2014.4; http://www biobase-international.com/) Other genetic data resources: OMIM (http://www.ncbi.nlm.nih gov/omim), NCBI Entrez Gene (http://www.ncbi.nlm.nih.gov/gene), Amino acid substitution prediction programs: PolyPhen-2 (http:// genetics.bwh.harvard.edu/pph2/), SIFT (http://sift.jcvi.org/) Statistical software: MedCalc (for the calculation of sensitivity, speciﬁcity and conﬁdence intervals; http://www.medcalc.org/calc/ Fig.
+1.Performance characteristics of next-generation sequencing (NGS) using either TruSight Cardiomyopathy (tsCM) or TruSight ONE (tsONE) enrichment.
+For tsCM, 12 samples representing 73 reference variants were sequenced (Experiment 1, see 3.1) For tsONE, only data on the one sample is shown which had previously been analyzed using tsCM-based NGS, and which could therefore be used to determine both the sensitivity and the speciﬁcity of the assay.
+Average read depth: average number of sequencing reads per base across all samples; low coverage: average percentage of the target region with less than 20 sequence reads; sensitivity: percentage of reference variants recovered; speciﬁcity: percentage of reference wild type fragments conﬁrmed to be free of variants S.
+Waldmüller et al./ Molecular and Cellular Probes 29 (2015) 308e314 311 (CM003) had previously been analyzed using the tsCM-based assay and was therefore taken to determine both the sensitivity and the speciﬁcity of the test.
+The average read depth of the two samples was 75 and 95, respectively, and the average percentage of the target region with a read depth below 20 was 6.6% and 4.2%, respectively.
+The assay detected all 95 reference variants, corre- sponding to a sensitivity of 100% (95% CI:  96.2%).
+No false- positive call was observed upon analysis of 320 exons previously found to be homozygous wild type (speciﬁcity: 100%; 95% CI:  99%) 3.3.
+Variants in established disease genes 3.3.1.
+Findings in DCM patients A total of 7 DCM patients (5 males, two females; mean age: 51 years; Table 1) were subjected to the 46-gene NGS assay.
+A likely pathogenic variant (class 4) was found in the gene RBM20 in a single case (CM007; Table 2), who presented with DCM and tachyarrhythmias and who had two family members also suffering from DCM.
+The novel nonsense variant in the gene RBM20 was accompanied by a previously unknown missense variant in the gene MYH7, which belonged, like all additional variants listed in Table 2, to class 3 (unknown pathogenicity).
+Another complex ge- notype, consisting of three variants (one in the gene DSP and two in the gene TTN), was disclosed in a young male (CM010) who had a left ventricular ejection fraction of 45% and whose grandmother carried an implantable cardioverter/deﬁbrillator (ICD).
+One of the two base changes in the gene TTN, c.93319C > T, leads to both an amino acid substitution and a predicted novel splice donor site.
+The relatively high population frequency of both TTN variants suggested a reduced penetrance of both variants.
+Three further cases with familial background of DCM carried single novel TTN missense variants.
+One of these variants, c.77887G > C, was found in a sub- ject, CM003, presenting with a very low left ventricular ejection fraction (LVEF) and an early onset of the disease.
+The father of the carrier (CM004) of the second single novel TTN missense variant (c.45226G > A) suffered cardiac death at age 53.
+The third single TTN variant was observed in a family comprising of 3 affected members, one of which, the sister of subject CM008, showed early onset of DCM at age 35.
+Finally, two cases of DCM with a family background of sudden death were devoid of any relevant variant in the 46 investigated genes 3.3.2.
+Findings in HCM patients Four patients (three males and one female, mean age: 37 years) presented with an obstructive (n ¼ 1) or a non-obstructive (n ¼ 3) form of HCM and a family history of the condition.
+All four subjects exhibited complex genotypes, three of which involved one novel, predicted pathogenic variant in the gene TTN.
+The combination of a DSP and a TTN missense variant was found in a 50 years old male (CM005) whose grandfather suffered sudden cardiac death (SCD) at age below 40.
+Another case of SCD at young age (16 years) was observed in the family of individual CM006, who carried two class 3 variants, one in the gene MYH7 and one in the gene NEXN.
+Inter- estingly, her father carried both variants too, but stated to be healthy, although recent clinical data were not available.
+This ﬁnding casts doubt on the pathogenic role of both variants, how- ever.
+In another patient presenting with HCM, CM001, a complex genotype comprising three affected genes (LAMA, PKP2 and TTN) was detected.
+Interestingly, the index patient presented with non- obstructive HCM while his son, who was not genetically tested so far, was diagnosed with LVNC at age 2 months.
+Finally, one class 3 missense variant in the gene NEXN and two class 3 variants (both missense, one novel) in the gene TTN were found in an individual (CM013) who had Diabetes mellitus, hypertension and a thickening of the interventricular septum (IVS; 22 mm).
+He had two sons which both suffered from a mitochondriopathy, which was assigned to the presence of a homozygous SLC25A3 variant.
+The father is an obligate and conﬁrmed heterozygous carrier of the same variant.
+The ﬁnding that his hypertrophy was conﬁned to the IVS lead the cardiologists to assume that his cardiac condition is not due to the heterozygous expression of the mutant SLC25A3 allele, but is rather caused by a sarcomeric gene mutation.
+Again, the relatively high frequency of both the NEXN and one of the two TTN variants rather point to a minor role of both variants in disease development and progression 3.3.3.
+Findings in LVNC patients As to LVNC, two sporadic male patients (both 32 years old) were analyzed.

@@ -1,0 +1,91 @@
+Introduction Usher syndrome is the leading cause of deafblindness, characterized  by congenital deafness and prepubertal onset retinitis pigmentosa  (RP) (USH1) or moderate to severe hearing impairment and RP in  late adolescence (USH2) (1).
+Five USH1 and 3 USH2 genes are  known.
+In cochlear hair cells and photoreceptors, Usher proteins  interact in a multimolecular complex (2, 3).
+Some Usher proteins  share significant similarities: Cadherin-23 (CDH23; USH1D) and  Protocadherin-15 (PCDH15; USH1F) belong to the cadherin super- family, whereas harmonin (Usher syndrome subtype 1C [USH1C])  and whirlin (DFNB31; USH2D) are homologous PDZ proteins that  cross-link other Usher proteins Many patients with Usher syndrome do not show linkage to  mutations in known Usher genes (1), suggesting further genetic  heterogeneity.
+Also, genetic factors that produce the phenotypic  variability of Usher syndrome are largely unknown.
+We hypoth- esized that mutations in homologs of known Usher proteins may  also cause or contribute to the disease.
+We identified full-length  PDZ domain–containing 7 (PDZD7), a homolog of whirlin and  harmonin.
+No biallelic mutations were found in Usher patients Instead, heterozygous truncating PDZD7 mutations were found  Authorship	note: Inga Ebermann, Jennifer B.
+Phillips, and Max C.Liebau contrib- uted equally to this work Conflict	of	interest: The authors have declared that no conflict of interest exists Citation	for	this	article:	J Clin Invest.
+2010;120(6):1812–1823.doi:10.1172/JCI39715 in combination with mutations in USH2A and G protein–coupled  receptor 98 (GPR98; also known as USH2C), suggesting a role as  either a contributor to digenic disease or a modifier of retinal dis- ease expression.
+Consistent with a recent report of a homozygous  chromosome translocation disrupting PDZD7 in a patient with  hearing impairment (4), we demonstrate involvement of PDZD7 in  Usher syndrome.
+Our histological studies in zebrafish and mouse  provide further insight into the molecular role of PDZD7 in vision  and hearing, and functional studies in zebrafish replicated our  findings in human families.
+We therefore suggest that redefining  Usher syndrome as an oligogenic trait provides a genetic explana- tion for its clinical variability Results PDZD7 encodes a ciliary protein with homology to the USH1C and  USH2D proteins.
+We conducted BLAST searches for homologs  of whirlin and harmonin and identified a gene encoding an  uncharacterized homolog, PDZD7, on chromosome 10q24.31 PDZD7 was predicted to encode a protein smaller than harmo- nin or whirlin with only 2 PDZ domains.
+We assumed the anno- tation was incomplete and performed gene prediction with BAC  clone AL133215.17.
+This analysis predicted 16 exons encoding a  protein highly similar to harmonin and whirlin (Supplemental  Figures 1 and 2; supplemental material available online with  this article; doi:10.1172/JCI39715DS1).
+We verified the pre- dicted coding sequence by PCR on retinal cDNA and identified  1812	 The	Journal	of	Clinical	Investigation	 	 	 http://www.jci.org	 	 	 Volume 120	 	 	 Number 6	 	 	 June 2010 research article Figure 1 PDZD7 encodes a homolog of harmonin and whirlin localizing to the ciliary base.
+(A) Genomic structure of PDZD7.Mutations are in red.
+Gray- shaded triangles illustrate relations of exons to protein regions in B.
+(B) PDZD7 protein isoforms.Intron 8 contains 2 Alu retroelement insertions  that modify splicing and produce a short N-terminal transcript (GenBank AK026862) (48).
+Exons 9 and 10 are alternatively spliced; exclusion  from the mature mRNA shifts the reading frame and results in a 561 aa isoform.
+Ab, Position of epitope for antibody generation.(C) Overlapping  PCR amplicons from human retinal cDNA.
+A, c.1–763 (exon 1 versus exon 5); B, c.512–1899 (exon 3 versus exon 12); C, c.1753–3102+41  (exon 11 versus 3′ UTR); M, 1 kb length standard (Alu-specific amplicon not shown).
+Arrows indicate primers in relation to the protein in B The larger band in B represents full-length PDZD7; the smaller one results from exclusion of exons 9 and 10.
+Blue arrows in B depict primers  used to amplify the sequence resulting from Alu-derived splicing that is specific for the first PDZD7 isoform shown (c.1391–Alu in intron 8).
+The  sequences for all primers shown are given in Supplemental Table 2.
+(D) PDZD7 localizes to the ciliary base.In hTERT-RPE1 cells, costaining  with acetylated tubulin revealed PDZD7 localization at the ciliary base and the nucleus.
+(E) Ciliary base staining was confirmed in costainings  of PDZD7 and γ tubulin.
+Preincubation of the PDZD7 antibody with the immunizing peptide abolished this signal.To exclude a remaining weak  signal after blocking peptide preincubation, exposure time was prolonged more than 3-fold (lower panel).
+Arrowheads indicate PDZD7 staining  at the ciliary base.
+Scale bars: 5 μm 517, 561, and 1,033 residue isoforms (Figure 1, A–C).
+PDZD7  is widely expressed (Supplemental Figure 3).
+To study protein  expression, we generated and characterized a polyclonal anti- body we believe to be novel (Supplemental Figure 4).
+Using  immunofluorescence studies, we detected the newly predicted  C-terminal epitope of PDZD7 at the ciliary base of cultured  human retinal pigment epithelial (RPE) cells (Figure 1, D and  E) and the N terminus at the ciliary base in nasal epithelial cells  (Supplemental Figure 5).
+A BLAST query identified the 517  residue isoform in the ciliary proteome database (5) Evidence for implication of PDZD7 in oligogenic Usher syndrome.
+We ana- lyzed samples from 188 Usher patients with unknown genetic etiolo- gy, but found no PDZD7 alterations.
+To uncover potential oligogenic  genotypes, we screened samples with bi- or monoallelic mutations in  known Usher genes.
+In 4 USH2 families (Figure 2 and Table 1), we  found genetic interaction of PDZD7 mutations with Usher alleles,  indicating non-Mendelian inheritance in at least 2 of them A de novo PDZD7 mutation modifies USH2A disease expression.
+In a French  Canadian USH2 family with a homozygous truncating USH2A muta- tion (p.C1447QfsX29) in 2 affected sisters, FCa and FCb, we found a  	 The	Journal	of	Clinical	Investigation      http://www.jci.org      Volume 120      Number 6      June 2010  1813 research article Figure 2 PDZD7 mutations in Usher syndrome type 2 families.
+(A) Homozygosity for p.C1447QfsX29USH2A in FCa and FCb.The retinal phenotype is more  severe in FCa, who carries a de novo PDZD7 mutation, p.R56PfsX24.
+(B) GER1 is double heterozygous for p.R1505SfsX7USH2A and a PDZD7  splice site alteration (causing in-frame inclusion of either 16 or 68 unrelated amino acids).
+The latter may represent a benign variant that does  not contribute to the phenotype.
+(C) Evidence for digenic inheritance due to double heterozygosity for truncating mutations in GPR98 (USH2C),  p.A5713LfsX3, and PDZD7, p.C732LfsX18, in GER2.
+The healthy sister carries the PDZD7 deletion but not the GPR98 mutation.(D) In family  U329, 4 siblings carry the PDZD7 mutation p.R56PfsX24 in heterozygous state.
+Microsatellite marker and sequence analyses largely excluded  a second mutation in PDZD7.
+The index patient, U329-1, carries a heterozygous missense change, p.L3160F, in MYO15A (not shown).Different  PDZD7 alleles are indicated by colors.
+Samples from the parents (first generation cousins) were not available.U329-2 has high frequency hear- ing loss and a history of long-term working in a noisy environment.
+U329-4 has asymmetric hearing loss (mild/severe) that is probably unrelated  to the hearing impairment in U329-1.
+IVS1 and IVS10 denote polymorphic CA-repeats (not annotated) heterozygous frameshift mutation in PDZD7 (p.R56PfsX24) in FCa,  the sister with earlier onset and more severe RP (Figure 2A).
+The inser- tion occurred de novo in a homonucleotide repeat and was not present  in FCb, who displays a much milder retinal affliction (Table 1) PDZD7 mutation in an USH2A patient with a mild phenotype.
+GER1, an  USH2 patient with a relatively mild phenotype, had heterozygous  mutations in USH2A (p.R1505SfsX7) and PDZD7 (exon 11 accep- tor splice site, c.1750–2A>G) (Figure 2B).
+RNA analysis revealed  1814	 The	Journal	of	Clinical	Investigation      http://www.jci.org      Volume 120      Number 6      June 2010 research article aberrant splicing that produces in-frame inclusion of either 16 or  68 unrelated amino acids.
+GER1 carries another USH2A variation  of uncertain pathogenicity, p.T4439I.
+The healthy mother of GER1  carries p.T4439IUSH2A and c.1750–2A>GPDZD7 in heterozygous state p.T4439IUSH2A has been previously described in an USH2 patient  (6) and was not detected in 463 healthy controls in our study Evidence for digenic Usher syndrome involving PDZD7 and GPR98  (USH2C).
+Our findings in another USH2 patient, GER2, strongly  suggest involvement of PDZD7 in digenic USH2.
+In addition to  a heterozygous frameshift mutation, p.A5713LfsX3, in GPR98,  we  identified  a  heterozygous  truncating  PDZD7  mutation,  p.C732LfsX18.
+The healthy sister of GER2 carries the PDZD7 muta- tion, but not the GPR98 mutation, in heterozygous state (Figure 2C) In GER2, no second mutant allele was detected in GPR98 or PDZD7 Mutation  screening  was  negative  for  the  Usher  genes USH2A,  DFNB31 (USH2D), and USH3A.
+Comparative genomic hybridiza- tion (CGH) using the Affymetrix 6.0 SNP array and a customized  NimbleGen array densely covering the genomic structure of GPR98  did not reveal any gross structural alteration (deletion or duplica- tion) within this gene in GER2 (Supplemental Figures 6 and 7) A French family, U329, has the same PDZD7 mutation as FCa,  p.R56PfsX24, in heterozygous state in 1 Usher patient (U329-1,  excluded for USH2A [ref.
+7], USH2C, USH2D, and USH3A mutations)  and 3 unaffected siblings (Figure 2D).
+As in FCa, RP in U329-1   is early onset and unusually severe, whereas hearing impairment  is typical for USH2.
+Microsatellite markers excluded monogenic  Usher syndrome due to PDZD7, USH2A, or GPR98 mutations Digenic inheritance involving the Usher genes USH1C, MYO7A  (USH1B), USH1G, CDH23 (USH1D), or PCDH15 (USH1F) could  not be excluded based on microsatellite marker analysis, but direct  sequencing of all coding exons of these genes did not reveal any  mutations.
+Moreover, the microsatellite genotyping results were  incompatible with the hypothesis of p.R56PfsX24 modifying the  phenotype of a biallelic mutation in a known Usher gene.
+The  results of genomewide SNP genotyping (10K Array) were evaluated  for (a) a homozygous disease gene locus that is modified by the  PDZD7 mutation and (b) digenic inheritance involving a known  autosomal recessive nonsyndromic hearing loss (ARNSHL) locus Homozygosity mapping did not reveal a candidate gene.
+In the  digenic scenario, the loci comprising the ARNSHL genes TECTA,  LHPFL5, COL11A2, TMC1, MYO3A, and MYO15A segregate with  the phenotype.
+We postulated that an ARNSHL gene causing  digenic Usher syndrome in conjunction with a PDZD7 mutation  would probably meet the following criteria: (a) close functional  relationship to and/or (b) physical interaction with a member of  the Usher protein complex.
+To test these possibilities, we examined  all coding exons of MYO3A (strong expression in calycal process  of retinal photoreceptors; ref.
+8) and MYO15A (interacts with the  PDZD7 homolog whirlin; ref.
+9) by direct sequencing of patient  U329-1.
+Although no sequence alteration was detected in MYO3A, a  previously described ARNSHL-associated MYO15A missense muta- tion, p.L3160F (c.9478C>T) (10), was identified in this patient in  heterozygous state.
+This allele was not found in any of the patient’s  siblings.
+MYO15A could be amplified from human retinal cDNA  only by nested PCR, indicating low abundance in this tissue None of the PDZD7 mutations identified in these families were  found in healthy control individuals (Table 1).
+However, 3 in 405  healthy control individuals carried a heterozygous 1-basepair  PDZD7 deletion, c.2107delA.
+Microsatellite marker analysis indi- cated that these carriers are related and share a PDZD7 haplotype PDZD7 interacts with the Usher proteins GPR98 and USH2A.
+In accor- dance with our genetic data, we demonstrate that PDZD7 acts as  part of the Usher protein complex.
+A yeast-2-hybrid (Y2H) screen  of human fetal brain cDNA (bait: PDZD7 amplicon encoding aa  39–306, including PDZ domains 1 and 2) revealed interaction of  PDZD7 (PDZ2 domain) with the C-terminal intracellular domain  of GPR98 (approximately 140 residues; isolated as prey 8 times),  including its PDZ-binding motif.
+We confirmed this interaction  by coimmunoprecipitation studies and showed that it is mediated  by the PDZ2 domain of PDZD7 and the PDZ-binding motif of  GPR98.
+In addition, the first and second PDZ domains of PDZD7  interact with USH2A by coimmunoprecipitation studies (Figure 3) A truncated version of USH2A without the C-terminal PDZ-bind- ing motif showed reduced interaction Characterization of the zebrafish orthologs, pdzd7a and pdzd7b.
+To  study the role of PDZD7 in vivo, we characterized pdzd7 in zebra- fish, a valuable model for Usher syndrome (11–13), and identified  2 orthologs, pdzd7a and pdzd7b.
+The exon and protein structures of  Pdzd7a and Pdzd7b are highly similar to each other (Figure 4A) and  to human PDZD7 (Figure 1A).
+Pdzd7a is expressed in retinal cells  and mechanosensory hair cells of the inner ear (Figure 4, B and D) Pdzd7b is also expressed in both retinal cells and hair cells, albeit at  lower levels than pdzd7a (Figure 4, C and E).
+Because of the higher  expression level of pdzd7a, we concentrated our functional studies on  this gene.
+We obtained a polyclonal antibody (14) raised against the  PDZ1 domain of Pdzd7a.
+With this reagent, we found that the pro- tein is localized in the connecting cilium region of photoreceptors  as well as in the apical region of hair cells in the inner ear and neu- romasts in young fish (Figure 4, F–H, and Figure 5F).
+We also noted  some nuclear labeling in the inner retina (Figure 4F) that was not  predicted by our in situ results, but that is consistent with PDZD7  labeling in cultured cells (Figure 1, D and E).
+Also notable was the  absence of Pdzd7a protein from the photoreceptor synapses at all  stages examined.
+Strong Pdzd7a localization at the ciliary base, as  well as more diffuse labeling of photoreceptor outer segments, per- sisted in adult retinas (Figure 4I), indicating a postdevelopmental   function.
+ Due  to  the  high  degree  of  amino  acid  conservation  between zebrafish and mouse, we were able to use our Pdzd7a anti- body to label retinas from P10 mice and again found strong labeling  at the base of the photoreceptor connecting cilium (Figure 4J) Simulation of the human genotypes by knockdown of zebrafish pdzd7a We generated a morpholino antisense oligonucleotide to knock  down Pdzd7a protein levels transiently by interfering with splic- ing between exons 1 and 2 (Figure 4A).
+Using RT-PCR, we identi- fied an aberrant splice form resulting from injection of this mor- pholino with a truncated, cryptically spliced exon 1 that leads to  a shift in the reading frame and an early stop codon.
+We used  the Pdzd7a antibody in Western blots of protein extracts from  pools of either uninjected controls or morpholino-injected ani- mals between 3 and 5 days of age (Figure 4K) and found that the  protein band of approximately 100 kDa, corresponding to the  predicted size of Pdzd7a, was greatly diminished in the 3- and  4-day morphants compared with uninjected controls.
+Protein  levels recovered by about 5dpf, as the morpholino effect dissi- pated.
+Although we are unable to assay cross-reactivity between  this antibody and the Pdzd7b protein in vivo, our Western blot  analysis did not detect a band of the predicted size of Pdzd7b   (79 kDa), indicating that this antibody recognizes Pdzd7a, but  not Pdzd7b.

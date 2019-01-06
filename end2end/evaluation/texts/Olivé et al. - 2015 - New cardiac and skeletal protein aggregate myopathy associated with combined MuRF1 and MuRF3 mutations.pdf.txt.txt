@@ -1,0 +1,225 @@
+Abstract Protein aggregate myopathies (PAMs) deﬁne muscle disorders characterized by protein accumulation in muscle ﬁbres.
+We describe a new PAM in a patient with proximal muscle weakness and hypertrophic cardiomyopathy, whose muscle ﬁbres contained inclusions containing myosin and myosin-associated proteins, and aberrant distribution of microtubules.
+These lesions appear as intact A- and M-bands lacking thin ﬁlaments and Z-discs.
+These features differ from inclusions in myosin storage myopathy (MSM), but are highly similar to those in mice deﬁcient for the muscle-speciﬁc RING ﬁnger proteins MuRF1 and MuRF3.
+Sanger sequencing excluded mutations in the MSM-associated gene MYH7 but identiﬁed mutations in TRIM63 and TRIM54, encoding MuRF1 and MuRF3, respectively.
+No mutations in other potentially disease-causing genes were identiﬁed by Sanger and whole exome sequencing.
+Analysis of seven family members revealed that both mutations segregated in the family but only the homozygous TRIM63 null mutation in combination with the heterozygous TRIM54 mutation found in the proband caused the disease phenotype.
+Both MuRFs are microtubule-associated proteins localizing to sarcomeric M-bands and Z-discs They are E3 ubiquitin ligases that play a role in degradation of sarcomeric proteins, stabilization of microtubules and myogenesis.
+Lack of ubiquitin and the 20S proteasome subunit in the inclusions found in the patient suggested impaired turnover of thick ﬁlament proteins.
+Disruption of microtubules in cultured myotubes was rescued by transient expression of wild-type MuRF1.
+The unique features of this novel myopathy point to defects in homeostasis of A-band proteins in combination with instability of microtubules as cause of the disease † These authors contributed equally to this work Received: January 27, 2015.
+Revised: March 17, 2015.Accepted: March 18, 2015 © The Author 2015.
+Published by Oxford University Press.All rights reserved.
+For Permissions, please email: journals.permissions@oup.com 3638 Downloaded from https://academic.oup.com/hmg/article-abstract/24/13/3638/610636 by Universite Libre de Bruxelles user on 16 April 2018 Introduction Protein aggregate myopathies (PAMs) are a group of inherited or acquired muscle disorders characterized morphologically by ab- normal accumulation of proteins within muscle ﬁbres (1).
+These clinically and genetically diverse conditions are classiﬁed on the basis of the morphology and composition of protein aggregates observed as inclusions in muscle cells, and ultimately on the identiﬁcation of causative gene.
+With only some exceptions, in- herited PAMs are caused by mutations in cytoskeletal and sarco- meric proteins.
+Myoﬁbrillar myopathies (MFMs) (2), actinopathy (3) and myosin storage myopathy (MSM) (4), among many others, are well-known examples of PAMs The MFMs, the largest group of PAMs, are characterized by a common pattern of dissolution of myoﬁbrils that begins at the Z-disc and is followed by the accumulation of the products of myoﬁbrillar degradation into inclusions containing desmin and multiple other proteins.
+Immunohistochemical and proteomic studies have demonstrated Z-disc proteins as the most abun- dantly expressed in aggregates in MFM, whereas myosin and my- osin-associated proteins are typically diminished or absent (1,2,5–7).
+MFMs have been associated with mutations in DES, CRYAB, MYOT, ZASP, FLNC, BAG3, FHL1 and TTN genes (8) Actinopathy, caused by mutations in ACTA1, is a severe con- genital myopathy deﬁned by selective accumulation of actin ﬁla- ments usually localized at the periphery of muscle ﬁbres and appearing as areas devoid of ATPase and oxidative enzyme activ- ities in the light microscope (3) The MSM, another well-known PAM, is characterized by sub- sarcolemmal accumulation of unstructured non-membrane- bound material (hyaline bodies) in type I ﬁbres (9).
+The hyaline bodies lack oxidative enzyme activity but display ATPase activity, indicating that they contain myosin.
+This is further demon- strated by immunohistochemical analysis showing slow/β-car- diac myosin heavy chain (MyHC), as the major component of the accumulated material.
+Ultrastructurally, the hyaline bodies appear as granular material usually well demarcated from sur- rounding, intact myoﬁbrils So far, mutations located in exons 37–40 of MYH7 encoding the distal end of the tail of slow/β-cardiac MyHC are the only identiﬁed genetic cause of MSM (9).
+However, a disease reminis- cent of MSM has been described in mice with simultaneous in- activation of the TRIM63 and TRIM54 genes encoding the muscle-speciﬁc RING ﬁnger (MuRF) proteins MuRF1 and MuRF3, respectively (10).
+Both MuRFs are striated muscle-speciﬁc E3 ubi- quitin ligases involved in regulation of sarcomeric protein deg- radation (11,12).
+They are also essential for linking myoﬁbril components with microtubules, intermediate ﬁlaments and nu- clear factors (13).
+Double knockout mice for MuRF1 and MuRF3 develop cardiomyopathy and skeletal myopathy pathologically characterized by aggregates of partly fragmented sarcomeres with preserved A- and M-bands (10) We have identiﬁed a patient suffering from hypertrophic car- diomyopathy (HCM) and skeletal myopathy with morphological features identical to those described for MuRF1−/−/MuRF3−/− mice in addition to abnormal topology and distribution of microtu- bules.
+The patient was homozygous for a null mutation in TRIM63 and heterozygous for a deleterious missense mutation in TRIM54 Analysis of additional members of the family revealed that both mutations segregated in the family, but in line with the double knockout mouse model, only the combination of the homozygous TRIM63 and heterozygous TRIM54 mutations was associated with severe cardiomyopathy and skeletal myopathy.
+Here we report the clinical, pathological and genetic characterization of a novel Human Molecular Genetics, 2015, Vol.
+24, No.13 | 3639 and unique PAM associated with combined TRIM63 and TRIM54 mutations Results Clinical ﬁndings The proband (III:4) (Fig.
+1A), a 60-year-old man, ﬁrst complained of dyspnoea upon exertion at the age of 15.
+Five years later, he was diagnosed with HCM based on ECG ﬁndings.
+His clinical con- dition remained fairly static until the fourth decade when he de- veloped a slowly progressing weakness in proximal muscles of four limbs manifested with difﬁculties on stairs or lifting heavy objects.
+A ﬁrst echocardiogram at 55 years revealed a non-ob- structive HCM.
+A year later, after an episode of palpitations, an at- rial ﬂutter was diagnosed.
+He was treated with diltiazem 200 mg daily because he did not tolerate betablockers owing to asthenia The patient had no story of hypertension The patient’s older half-sister (III:1) (Fig.
+1A) suffered from muscle weakness and cardiac disease and died from heart failure at the age of 46 years.
+At the age of 75 years, individual III:3 has been diagnosed with cardiac hypertrophy thought to be second- ary to chronic hypertension.
+Clinical and echocardiographic evaluation of six asymptomatic family members (Supplementary Material, Tables S2 and S3) revealed neither muscle weakness nor signs of cardiac failure Clinical examination of the proband (III:4) revealed general- ized loss of subcutaneous fatty tissue, rigidity of the spine, hyper- trophy of deltoids, biceps and calf muscles, and scapular winging (Fig.
+1B.i–iv).The facial and extraocular muscles were intact.
+He had symmetrical muscle weakness involving pectoralis, deltoids, biceps and humeral rotators (MRC 4).
+In the lower extremities there was weakness of hip abductors (MRC 4), iliopsoas (MRC 3), knee ﬂexors and extensors and less prominent weakness of the anterior tibialis muscles (MRC 4).
+He was unable to get up from the ﬂoor or stand up from a chair without support, and had a waddling gait.
+Deep tendon reﬂexes were hypoactive; sensation was intact.
+His blood pressure was 110/70 mmHg.Laboratory in- vestigations revealed 2- to 6-fold-increased serum CK levels, and a NT-proBNP value of 1219 ng/l (normal <300).
+EMG examination was consistent with a myopathy.
+A muscle MRI (Fig.1C.i–iv) showed generalized loss of subcutaneous adipose tissue and se- vere fatty replacement of lumbar paraspinal muscles, the glutei as well as the anterior and posterior muscles of the thigh.
+The rectus femoris, sartorius, gracilis and, to a lesser extent, the semi- tendinosus were well preserved and appeared hypertrophic.
+At the mid-leg level, the soleus was the most severely affected The ECG showed signs of enlarged left atrium, a PR of 160 ms, and a QRS of 100 ms with q waves in the lateral leads.
+Twenty- four hour Holter monitoring revealed episodes of atrial arrhyth- mia and premature ventricular beats.
+Echocardiography showed a non-dilated left ventricle with global hypertrophy, especially of the septum, with global hypokinesia, a reduced ejection fraction of 41%, and irreversible restrictive ﬁlling (Supplementary Mater- ial, Table S3).
+The right ventricle was hypertrophic with good sys- tolic function.
+There was biatrial dilatation, more on the left Cardiac MRI showed extensive and diffuse areas of late gadolin- ium enhancement in the left ventricle with a subepicardic and mesocardic pattern, preserving the sub-endocardium (Fig.
+1D.i and ii).
+This extensive and diffuse myocardial ﬁbrosis that corre- sponds with the akinetic and hypokinetic segments seen in the gradient echo cine images suggests an inﬁltrative-restrictive car- diomyopathy.
+Respiratory function tests revealed a forced vital capacity (FVC) of 2.77 l (66% of predicted) standing, and 2.33 l Downloaded from https://academic.oup.com/hmg/article-abstract/24/13/3638/610636 by Universite Libre de Bruxelles user on 16 April 2018 3640 | Human Molecular Genetics, 2015, Vol.
+24, No.13 Figure 1.
+Pedigree of the family (A), clinical phenotype (B), muscle MRI (C) and cardiac MRI (D) of the index patient.(A) The pedigree of the family shows segregation of the TRIM63 and TRIM54 mutations in eight individuals with the arrow indicating the proband (III:4).
+Squares represent males and circles females; ﬁlled black symbols: individuals affected by the disease; white open symbols: unaffected family members; slash: deceased individuals.
+T/T indicates homozygous mutation; C/T and G/A indicate heterozygosity; C/C and G/G indicate normal sequences.
+Red colour indicates mutant variant and black colour indicates wild-type variant.(B) Clinical phenotype of the index patient showing rigidity of the spine (b.i) hypertrophy of biceps (b.ii) and calf muscles (b.iii), and scapular winging (b.iv).
+(C) Muscle MRI in the index patient (III:4) at the lower lumbar (c.i), pelvic (c.ii), mid-thigh (c.iii) and mid-leg (c.iv) level conﬁrmed the generalized loss of fatty tissue and showed severe hypodensity of lower lumbar paraspinal muscles (Ps) (c.i).
+At the pelvis (c.ii), the glutei maximus (GM), medius (Gmed) and minimus (Gm) were severely involved.At mid-thigh level (c.iii), the semimembranosus (SM), biceps femoris (BF), adductor magnus, vastus intermedius (VI) and lateralis were severely affected.
+The semitendinosus (ST) and peripheral areas in the vastus lateralis (VL) were less affected, whereas the rectus femoris (RF), sartorius (S) and gracilis (G) were well preserved and appeared hypertrophic.
+At the mid-leg (c.iv), there was asymmetrical involvement of soleus (Sol).(D) Cardiac MRI with late gadolinium enhancement showed diffuse and extensive myocardial contrast retention in practically all the mid and apical segments (see arrows) preserving the endocardium (d.i) four- chamber longitudinal axis view; (d.ii) short-axis view at the mid-level Downloaded from https://academic.oup.com/hmg/article-abstract/24/13/3638/610636 by Universite Libre de Bruxelles user on 16 April 2018 Human Molecular Genetics, 2015, Vol.
+24, No.13 | 3641 (56% of predicted) lying supine indicating moderate respiratory insufﬁciency.
+The patient currently refers dyspnoea functional class III of the New York Heart Association Histological, immunohistochemical, immunoﬂuorescence and ultrastructural analysis of skeletal muscle Muscle biopsy from the proband (III:4) showed increased variabil- ity in ﬁbre size, with some atrophic ﬁbres and mild endomysial ﬁbrosis.
+The most conspicuous ﬁnding was the presence of single or multiple well-circumscribed non-membrane-bound subsarco- lemmal deposits in the majority of type I ﬁbres.
+They were faintly basophilic on HE staining, stained light green with modiﬁed trichrome and were negative with PAS, ORO and Congo red stain- ing.
+The nuclei were hypertrophic and were frequently found at the periphery or even within the inclusions (Fig.
+2A and B) Most of the deposits were devoid of mitochondrial oxidative en- zyme activity as revealed by SDH and COX but were often sur- rounded by a rim of enhanced oxidative activity (Fig.
+2A, B and D).
+In addition, central ﬁbre regions showed uneven distribution of oxidative enzyme activity (Fig.
+2D).ATPase activity at pH 4.35 was preserved within inclusions and revealed type I ﬁbre pre- dominance.
+Immunolabeling revealed accumulation of slow MyHC (Figs 2C, 3A and C.i), MuRF3 (Fig.
+3B and C.ii), M-protein and myomesin (Fig.
+3D and E) within the inclusions but absence of desmin (Fig.
+2E), myotilin, actin and other Z-disc-associated proteins (data not shown).
+The subsarcolemmal inclusions Figure 2.
+Histochemical and immunohistochemical features of skeletal muscle biopsy specimens from the index patient (III:4) carrying homozygous p.Gln247Ter TRIM63 and heterozygous p.Asp106Asn TRIM54 mutations.
+A shows increased ﬁbre size variability and subsarcolemmal inclusions faintly basophilic upon HE staining (arrows) With the modiﬁed trichrome (B) the inclusions stained light green (arrows).
+Immunohistochemical analysis (C) revealed strong slow MyHC immunoreactivity in ﬁbre regions containing inclusions (arrows).
+Succinate dehydrogenase (D) shows reduced oxidative enzyme activity surrounded by a rim of increased activity in some ﬁbres (arrows), whereas enhanced oxidative enzyme activity is seen in others (double arrows).
+Note uneven distribution of oxidative enzyme activity in central ﬁbre regions (asterisks) and absence of desmin (E) and ubiquitin (F) immunoreactivity in ﬁbre regions containing inclusions Downloaded from https://academic.oup.com/hmg/article-abstract/24/13/3638/610636 by Universite Libre de Bruxelles user on 16 April 2018 3642 | Human Molecular Genetics, 2015, Vol.
+24, No.13 Figure 3.
+Immunolocalization of MyHC, MuRF3, M-protein and myomesin in skeletal muscle tissue from the index patient (III:4) using confocal microscopy.(A) In contrast to the uniform distribution seen in the cytoplasm of control ﬁbres, muscle ﬁbres of the patient showed subsarcolemmal accumulation of MyHC.
+(B) MuRF3 was also accumulated under the sarcolemma in the muscle ﬁbres of the patient but not in the control.
+(C) Double immunolabelling showed partial co-localization of MyHC and MuRF3.
+Skeletal muscle sections labelled for M-protein (D) and myomesin (E) revealed subsarcolemmal accumulation of both proteins.Sections were stained with DAPI (blue) to highlight nuclei were not ubiquitinated (Fig.
+2F).Double immunolabeling re- vealed partial co-localization of MyHC and MuRF3 (Fig.
+3C.i–iii) Ultrastructural analysis identiﬁed the inclusions as characteris- tic, aberrantly oriented sarcomere fragments with preserved A- and M-bands but lacking I-bands and Z-discs (Fig.
+4A and B) These abnormal ﬁbre regions varied in length and width, and were observed under the sarcolemma or dispersed between nor- mal myoﬁbrils.
+Groups of mitochondria were often found at the periphery of sarcomere fragments or intermingled with them In addition, there were areas with Z-disc streaming and myoﬁ- brillar disorganization, extending from two to several sarcomeres on longitudinal sections (Fig.
+4C).Some autophagic vacuoles were observed within areas of myoﬁbrillar disorganization (Fig.
+4D) Genetic ﬁndings The patient was initially tested for mutations in MYH7, the only gene known to be involved in MSM (4) and no mutations were found.
+He was subsequently tested for a panel of potential candi- date genes including a panel of genes involved in familial HCM As no mutations were found and given the striking similarities of the pathological features observed in the muscle of our patient with those found in the MuRF1−/−/MuRF3−/− mice, the patient was subsequently screened for mutations in TRIM63 and TRIM54.
+Sanger sequencing of TRIM63 and TRIM54 identiﬁed two mutations in the proband (III:4) (Fig.
+1A): a homozygous non- sense mutation, c.739C>T (CAG>TAG), in exon 5 of TRIM63, chan- ging the glutamine at position 247 to a stop codon (p.Gln247Ter), and a heterozygous missense mutation, c.316G>A (GAC>AAC), in Downloaded from https://academic.oup.com/hmg/article-abstract/24/13/3638/610636 by Universite Libre de Bruxelles user on 16 April 2018 Human Molecular Genetics, 2015, Vol.
+24, No.13 | 3643 Figure 4.
+Ultrastructural ﬁndings in the muscle biopsy from the index patient (III:4).The electron micrograph in A shows numerous sarcomere fragments with preserved A-bands and M-bands but lacking in I-bands and Z-discs, localized under the sarcolemma and between normal myoﬁbrils with random orientation.
+(B) A higher magniﬁcation of aberrantly oriented sarcomere fragments with well-preserved M-bands in longitudinal sections (arrows).
+(C) Areas with sarcomere disorganization with streaming and extensions of the Z-disc.
+(D) An autophagic vacuole within an area of myoﬁbrillar disorganization exon 2 of TRIM54, changing the conserved negatively charged aspartate at position 106 to neutral asparagine (p.Asp106Asn) (Supplementary Material, Fig.
+S1A and B).The appearance of both TRIM63 and TRIM54 variants was examined in seven add- itional family members by sequencing and restriction fragment length polymorphism (RFLP) analysis (Fig.
+1A and Supplementary Material, Fig.
+S1A–C).The mother (II:3), two siblings (III:6 and III:7) and the two children (IV:1 and IV:2) were heterozygous and one sibling (III:3) was homozygous for the TRIM63 mutation.
+In add- ition to the proband, two family members (III:7 and IV:2) were het- erozygous for the TRIM54 mutation.
+The p.Asp106Asn mutation is located in the MuRF family conserved domain (MFC), which is con- served in all MuRF isogenes (Supplementary Material, Fig.
+S1D) The RFLP and sequence analyses excluded the TRIM63 and TRIM54 sequence variants in 400 control chromosomes.
+How- ever, both mutations were observed as rare variants in the Exome Variant Server (National Heart, Lung, and Blood Institute (NHLBI) Exome Sequencing Project (ESP), Seattle, WA, USA; http ://evs.gs.washington.edu/EVS/), which contains data from over 5000 individuals.
+Heterozygous variant of TRIM63 p.Gln247Ter appeared in the European American (A = 6/G = 8594 allele) but not in the African American population (A = 0/G = 4406 allele) There was no homozygous variant of TRIM63 p.Gln247Ter in this population (AA = 0/AG = 6/GG = 4294).
+In addition, the hetero- zygous variant of TRIM54 p.Asp106Asn appeared only in the European American (A = 6/G = 8594 allele, AA = 0/AG = 6/GG = 4294), but not the African American population (A = 0/G = 4406 allele).
+Furthermore, the combined TRIM63 p.Gln247Ter and TRIM54 p.Asp106Asn variants was not identiﬁed in the data from 5000 individuals in the Exome Variant Server Finally, in order to exclude any other potential disease-caus- ing gene mutations, we performed whole-exome sequencing (WES) on the proband.
+WES identiﬁed 49 266 variants (14 262 genes).
+Application of ﬁltering strategy reduced the starting var- iants to nine variants (nine genes).
+These variants were identiﬁed in the Exome Aggregation Consortium (ExAC) Browser (Beta) (Supplementary Material, Table S4).
+Among these genes, only TRIM63 and TRIM54 encode striated muscle-speciﬁc proteins Thus, the results further demonstrated that the combined homo- zygous TRIM63 and heterozygous TRIM54 mutations were the cause of the disease The RT-PCR analysis indicated complete absence of TRIM63 transcripts in the proband (Fig.
+5), suggesting nonsense-mediated mRNA decay, whereas expression of both alleles of TRIM54 was found in muscle tissue and cultured cells of the proband (Fig.
+5 and Supplementary Material, Fig.
+S1B and C) Downloaded from https://academic.oup.com/hmg/article-abstract/24/13/3638/610636 by Universite Libre de Bruxelles user on 16 April 2018 3644 | Human Molecular Genetics, 2015, Vol.
+24, No.13 Figure 5.
+RT-PCR analysis of RNA from skeletal muscle tissues of the patient (III:4) and a control.Expression analysis of intact coding region of TRIM63 at the transcript level in the patient and a control indicated the absence of TRIM63 transcript in the patient.
+TRIM54 transcript was detected in both the control and the patient.Ampliﬁcation of the genes encoding mitochondrial NADH dehydrogenase ubiquinone Fe-S protein 1 (NDUFS1) and collagen type VI, alpha 1 (COL6A1) conﬁrmed the quality of cDNA Figure 6.
+Western blot analysis of MuRF1 (A) and MuRF3 (B) expression in skeletal muscle from the patient (III:4) and controls.(A) MuRF1 was detected in a normal control and, at a higher level, in the critically ill ICU patient but was absent in the index patient.
+MyHC expression was increased in the patient with MuRF1-deﬁciency.In contrast, no MyHCs were detected in the patient with critical illness myopathy.
+(B) MuRF3 was expressed at a higher level in the index patient compared with the controls Sarcomeric actin served as loading control Protein expression in muscle tissue and cultured myoblasts Immunoﬂuorescence and confocal microscope analysis further conﬁrmed subsarcolemmal accumulation of MyHC in the muscle ﬁbres of the proband (III:4) (Fig.
+3A and C.i).In addition, immuno- blot analyses revealed increased expression of MyHC when com- pared with healthy controls (Fig.
+6A) and the absence of full-size or truncated MuRF1 protein (Fig.
+6A).Considering that MyHC is highly degraded in critically ill ICU patients (14), and that MuRF1 is an E3 ubiquitin ligase that mediates ubiquitination of MyHC for degradation by the UPS, we predicted that the expres- sion of MuRF1 should be up-regulated in these patients.
+Indeed, we detected an increased expression level of MuRF1 in a critically ill ICU patient associated with markedly reduced MyHC expres- sion (Fig.
+6A), suggesting the involvement of MuRF1 in thick ﬁla- ment degradation Immunoﬂuorescence and western blot analyses showed subsarcolemmal accumulation and increased expression levels of MuRF3 in the index patient (Figs 3B, C.ii and 6B), which may suggest that also degradation of MuRF3 is compromised To further evaluate the consequences of the MuRF1 and MuRF3 mutations on the turnover of thick ﬁlament proteins, we analysed the expression of ubiquitin linked at Lys48 or Lys63 residues and the 20S proteasome subunit in the protein deposits No ubiquitin linked at Lys48 or Lys63 residues (Fig.
+7A.i–iii) or pro- teasome 20S subunit (Fig.
+7B.i) expression was observed in the subsarcolemmal inclusions, whereas strong staining of the cyto- plasmic inclusions was observed in a patient with myoﬁbrillar myopathy resulting from a MYOT mutation, that was processed in parallel and used as a positive control (Fig.
+7A.iv–vi, B.ii) MuRF3 is required for establishment of a stable microtubule network in striated muscle (13).
+In order to determine whether microtubule organization was affected, we stained cultured myo- blasts and skeletal muscle ﬁbres of the patient for α-tubulin While control myoblasts showed a well-organized microtubule network, patient myoblasts showed diffuse and punctate α-tubu- lin distribution (Fig.
+8, arrows).Similarly, while the control mus- cle specimen showed evenly organized microtubules, we found aberrant α-tubulin distribution at the periphery of the patient muscle ﬁbres (Fig.
+8, arrows).Together, this indicates a severe dis- ruption of the microtubule network in skeletal muscle ﬁbres and cultured myoblasts of the patient.
+Double immunolabeling of α-tubulin and MyHC revealed distribution of α-tubulin mainly at the periphery of MyHC accumulations (data not shown) Co-staining of normal cultured human myocytes with anti- bodies to MuRF1 or MuRF3 and α-tubulin, indicated that both MuRFs are tightly associated with linearly aligned microtubules Downloaded from https://academic.oup.com/hmg/article-abstract/24/13/3638/610636 by Universite Libre de Bruxelles user on 16 April 2018 Human Molecular Genetics, 2015, Vol.
+24, No.13 | 3645 Figure 7.
+Analysis of UPS markers in muscle tissue from the index patient (III:4) and a positive control by confocal immunoﬂuorescence microscopy.Muscle ﬁbre sections from the index patient labelled with antibodies against polyubiquitin chains linked at Lys48 (A.i) or at Lys63 (A.ii) showed no immunoﬂuorescence.
+In contrast, muscle ﬁbre sections from a patient suffering from a myoﬁbrillar myopathy resulting from a MYOT mutation, used as positive control, showed prominent polyubiquitin linked at Lys48 (A.iv) and at Lys63 (A.v) immunolabeling.
+Sections labelled with only secondary antibodies were used as negative controls (A.iii and vi).Sections were stained with DAPI (blue) to highlight nuclei.
+(B.i) Muscle sections from the index patient labelled with antibodies against the 20S proteasome subunit showed absence of immunoreactivity in the subsarcolemmal inclusions.
+(B.ii) In contrast, sections from a myotilinopathy patient showed prominent 20S proteasome expression associated with cytoplasmic inclusions (Supplementary Material, Fig.
+S2A and B).In addition, MuRF1 and MuRF3 strictly co-localized in human myocytes (Supplementary Material, Fig.
+S2C, insets).This suggests that in human striated muscle, both MuRF1 and 3 play an instrumental role in the regulation of microtubule stability, either individually or via heterodimerization Rescue of the phenotype by transfection with WT-MuRF1EGFP Consistent with the data from immunoblot analyses, immunolo- calization studies of myoblasts from the index patient showed lack of MuRF1 (Fig.
+9A).Staining of cells with DAPI revealed bigger nuclei in patient myoblasts, which were often irregular and lobular in morphology compared with control cells (Fig.
+9A and Supplementary Material, Fig.
+S3).The average maximum diam- eter of the patient’s myoblast nuclei was 29.90 ± 1.31 µm (s.e.), whereas the average maximum diameter of control cell nuclei was 21.15 ± 0.43 µm (s.e.).
+Transient expression of wild-type MuRF1EGFP fusion protein in patient myocytes rescued this phenotype: cells showed reformation of microtubule networks and normal nuclear morphology and size (average maximum diameter 15.52 ± 1.31 µm (s.e.)), indicating that the absence of MuRF1 in patient cells was responsible for the phenotype (Fig.
+9B and C).Indeed, similar to endogenous MuRF1 in control myoblasts, transfected WT-MuRF1EGFP was found in close associ- ation with microtubules (Fig.
+9C, insets and Supplementary Material, Fig.
+S2A, insets) These experiments not only indicate that the expression of MuRF1 is sufﬁcient to rescue the phenotype but also that the endogenous heterozygous MuRF3 missense mutation alone is not sufﬁciently pathogenic to cause abnormal distribution of microtubules Discussion This paper describes a novel PAM and cardiomyopathy resulting from combined homozygous MuRF1 null mutation and heterozy- gous MuRF3 missense mutation.
+Skeletal muscle biopsy of the Downloaded from https://academic.oup.com/hmg/article-abstract/24/13/3638/610636 by Universite Libre de Bruxelles user on 16 April 2018 3646 | Human Molecular Genetics, 2015, Vol.
+24, No.13 Figure 8.
+Immunoﬂuorescence analysis of α-tubulin in cultured myoblasts and skeletal muscle tissue from the patient (III:4).Immunostaining of α-tubulin in control myoblasts showed a well-deﬁned microtubule network.
+An abnormal organization of the microtubule network was found in cultured myoblasts from the index patient.
+Arrows indicate the diffuse and punctate appearance of microtubules.Normal control muscle specimens showed ﬁlamentous α-tubulin immunoﬂuorescence throughout the ﬁbre, while microtubule distribution was perturbed in skeletal muscle ﬁbres from the index patient.
+Arrows indicate α-tubulin aggregates at the periphery of ﬁbres Figure 9.
+Rescue of microtubular network in patient myocytes by transfection with wild-type MuRF1 analysed by immunoﬂuorescence microscopy.(A) Patient myoblasts demonstrated a complete lack of MuRF1.
+(B) Patient myoblasts transfected with MuRF1 showed positive immunostaining of MuRF1 (red) and subsequent reduction in the size of nuclei (C) Transfection of WT-MuRF1EGFP in patient myoblasts resulted in cytoplasmic and nuclear expression of the fusion protein.
+The cells were immunostained for α-tubulin and nuclei were highlighted with DAPI (blue).
+Transfection of WT-MuRF1EGFP induced formation of well-organized microtubule networks to which the MuRF1EGFP was closely associated, similarly to endogenous MuRF1 in control myoblasts (insets) Downloaded from https://academic.oup.com/hmg/article-abstract/24/13/3638/610636 by Universite Libre de Bruxelles user on 16 April 2018 patient revealed unique pathological index features characterized by subsarcolemmal protein deposits containing myosin and myosin-associated proteins, while being devoid of thin-ﬁlament- and Z-disc-associated proteins.
+By electron mi- croscopy abnormal ﬁbre regions contained sarcomere fragments with intact thick ﬁlaments and M-bands, but lacking or dimin- ished Z-discs and I-bands as most characteristic and frequent ﬁnding.
+According to these features this new entity should be classiﬁed as a new member of the PAMs.
+Although the deposition of slow myosin is reminiscent of MSM (4,15), no mutations in MYH7 were found in our family.
+Moreover, the ultrastructural features observed in the skeletal muscle ﬁbres of our patient are unique and sharply different from the non-structured granular material corresponding to the hyaline bodies observed in MSM To our knowledge, the features described above have never been observed before in human myopathies.
+However, they are highly similar to those described in MuRF1−/−/MuRF3−/− mice Mice deﬁcient in MuRF1 or MuRF3 do not display obvious phenotypes (16–18).
+In contrast, inactivation of MuRF1 and MuRF3 in mice results in cardiomyopathy and skeletal myopathy (10).
+Affected muscle ﬁbres of MuRF1−/−/MuRF3−/− mice show accumulation of partly fragmented sarcomeres with preserved A- and M-bands, suggesting a role of MuRF1 and MuRF3 in the turnover of thick ﬁlament proteins (10).
+In contrast, absence of Z-disc components in these aggregates suggests that degradation of Z-disc proteins is independent of MuRF1 and MuRF3 (10).
+The highly similar morphological alterations in the muscle of our patient prompted us to consider TRIM63 and TRIM54 as plausible disease-causing genes.
+In accordance with features found in the MuRF1−/−/MuRF3−/− mice, only the proband (III:4) carrying both, the homozygous TRIM63 null mutation and the heterozygous TRIM54 missense mutation developed hypertrophic-restrictive cardiomyopathy and skeletal myopathy The loss of subcutaneous adipose tissue observed in the index patient has been reported in the MuRF1−/−/MuRF2−/− mice, a fea- ture postulated to be related to an increased protein anabolism (19).
+This can be explained by the possible association of MuRF with transcriptional regulation and energy metabolism (20) The association of muscle weakness, muscle hypertrophy, cardiomyopathy and rigid spine observed in the proband (III:4) has some similarities to the clinical phenotype observed in pa- tients carrying mutations in distal exons of FHL1, presenting with X-linked myopathy and postural atrophy and generalized hypertrophy (XMPMA) (21) or Emery Dreyfuss muscular dys- trophy (EDMD) (22).
+However, genetic analysis of FHL1 did not reveal any mutations.
+Mutations in other potentially candidate genes were also excluded The skeletal and cardiac muscle hypertrophy in the index patient is consistent with the known role of MuRF1 as regulator of muscle mass in striated muscles (16,17,23,24).
+MuRF1 is required to prevent cardiac hypertrophy and its expression is up-regulated in mouse models with skeletal and cardiac muscle atrophy (16,17,23).
+Endomyocardial biopsy was not performed, but echocardiography and MRI examinations revealed restrictive cardiomyopathy.
+As in MuRF1−/−/MuRF3−/− mice, accumulations of thick ﬁlaments were also observed in cardiomyocytes (10), it is very likely that in our patient the cardiac phenotype is also associated with—or even caused by—deposition of thick ﬁla- ments.
+Individual III:3 carrying the homozygous TRIM63 null mutation, but not the heterozygous TRIM54 missense mutation was diagnosed with HCM secondary to chronic hypertension Whether the homozygous TRIM63 null mutation contributes to cardiac hypertrophy in this individual remains unclear and deserves further investigations Downloaded from https://academic.oup.com/hmg/article-abstract/24/13/3638/610636 by Universite Libre de Bruxelles user on 16 April 2018 Human Molecular Genetics, 2015, Vol.
+24, No.13 | 3647 It has been suggested that heterozygous TRIM63 p.Gln247Ter variant is associated with human HCM (25).
+The pathogenicity of this variant was demonstrated by a number of functional studies (25).
+However, clinical investigation of four family members (III:6, III:7, IV:1 and IV:2) carrying the heterozygous TRIM63 null muta- tion (p.Gln247Ter) did not reveal any sign of skeletal myopathy or cardiomyopathy, indicating that the hemizygous loss of TRIM63 is well tolerated.
+This is further supported by the recent identiﬁ- cation of this heterozygous TRIM63 null variant in a family with two individuals without HCM (26).
+Furthermore, a higher preva- lence of rare TRIM63 and TRIM55 heterozygous variants has been recently reported in HCM patients with pathogenic sarco- mere mutations than in control subjects.
+It was suggested that the presence of these variants at heterozygous state might mod- ify the phenotypic expression of HCM rather than causing the disease (27).
+Moreover, the heterozygous p.Gln247Ter TRIM63 mutation appears as a rare variant in the Exome Variant Server Together, this indicates that neither the heterozygous p Gln247Ter TRIM63 mutation alone nor the combined heterozy- gous mutations in TRIM63 and TRIM54 is sufﬁcient to cause HCM Sarcomeres are dynamic structures, in which damaged pro- teins are exchanged continuously (28).
+The ubiquitin-proteaso- mal system (UPS) is pivotal for the selective degradation or recycling of cytoplasmic and nuclear proteins (29).
+Substrate rec- ognition for ubiquitination is highly speciﬁc and provided by the E3 ubiquitin ligases allowing its transport to the 26S proteasome complex (29,30).
+MuRF1 and MuRF3 are E3 ubiquitin ligases that speciﬁcally mediate the degradation of MyHCs via the UPS in striated muscles (10,31).
+The selective accumulation of thick ﬁlaments in our patient, that were neither ubiquitinated, nor labelled with antibodies against the 20S proteasome subunit, suggests a speciﬁc impairment of their degradation owing to complete MuRF1-deﬁciency and a deleterious MuRF3 missense mutation.
+Noteworthy is that also MuRF1−/−/MuRF3−/− mice dem- onstrate impaired ubiquitination of slow MyHC (10).
+In our patient (III:4), the single functional MuRF3 allele alone is obviously not sufﬁcient to mediate ubiquitination and subsequent protea- somal degradation of thick ﬁlament proteins Besides the impaired thick ﬁlament degradation as a result of defective E3 ubiquitin ligase activities, this study indicates that perturbation of the microtubule network is an important factor contributing to the pathogenesis of this new entity.
+MuRF1 and MuRF3 are required for microtubule stability and play a major role during myogenesis (11,13,18,31,32).
+Previous studies have shown that thick ﬁlaments assemble independently (33,34) and that microtubules stabilize and position these ﬁlaments prior to their incorporation into mature sarcomeres (35).
+In the family analysed here, neither the heterozygous MuRF3 missense muta- tion nor the heterozygous MuRF1 null mutation alone was asso- ciated with cardiomyopathy or skeletal myopathy.
+However, the combination of MuRF1-deﬁciency with mutant MuRF3 leads to impaired organization of the microtubule network, associated with a misarrangement of myosin-containing ﬁlaments within sarcomeres, resulting in the unique accumulation of ‘free-ﬂoat- ing A-bands’ devoid of thin-ﬁlament- and Z-disc proteins Transient expression of wild-type MuRF1 in myoblasts of our index patient, rescued the formation of a microtubule network, while WT-MuRF1EGFP was incorporated into microtubules simi- larly to endogenous MuRF1 in control myoblasts.
+These results indicate that the establishment of a microtubule network in myo- blasts is dependent on its association with MuRF1, which in turn acts as a transient scaffold for myoﬁbril assembly.
+The pheno- type of giant, irregular and lobular nuclei with a number of nucle- oli is consistent with a defect in the modulation of microtubule 3648 | Human Molecular Genetics, 2015, Vol.
+24, No.13 dynamics and has been observed in both centromere protein C gene (Cenpc) disrupted mice and inner centromere protein (In- cenp) gene disrupted mice (36,37).
+Interestingly, myoblasts from the index patient with transient expression of wild-type MuRF1 showed normal nuclear morphology and size, further indicating the essential role of MuRF1 in the modulation of microtubule structure In conclusion, we describe a novel human disease character- ized by HCM and progressive skeletal myopathy caused by a com- bination of complete MuRF1-deﬁciency and a deleterious MuRF3 missense mutation.
+Our observations suggest that MuRF1 and MuRF3 not only functionally cooperate in the regulation of pro- teasomal degradation of thick ﬁlament proteins but also orches- trate the positioning of thick ﬁlaments within the sarcomeres by stabilizing microtubules Patients and Methods Patient identiﬁcation and evaluation Eight individuals from a four-generation Spanish family (Fig.
+1) were studied after obtaining informed consent according to the guidelines of the Ethics Committee of the Hospital Universitari de Bellvitge.
+The following investigations were conducted in the index patient: pedigree analysis, neurologic examination includ- ing muscle strength evaluation according to the Medical Re- search Council (MRC) grading scale, serum CK and NT-proBNP levels, electromyography, cardiologic examination with electro- cardiography (ECG), 24-h Holter monitoring, echocardiography and cardiac MRI, respiratory function tests, and muscle MRI at lower lumbar, pelvic, mid-thigh and mid-lower-leg levels Seven additional family members were clinically examined, and in three of them (individuals III:3, III:7 and IV:2) an echocar- diography was performed Analyses of muscle biopsy and tissue culture An open muscle biopsy specimen was obtained from the biceps brachii of the index patient (III:4) after obtaining informed con- sent.
+Myoblasts were isolated and cultured as previously de- scribed (38).
+Morphological and histochemical analyses of fresh frozen muscle tissue were performed according to standard pro- tocols.
+Sections of skeletal muscle and cultured cells were pro- cessed for immunohistochemical, immunoﬂuorescence and immunoblot assessments.
+Detailed methods are provided in the Supplementary Material, Appendix Molecular genetics Genetic analysis Genomic DNA was extracted from blood using DNeasy Blood & Tissue Kit (Qiagen, Hilden, Germany).
+The proband ( patient III.4) was initially screened for mutations in MYH7 and several other genes encoding sarcomeric proteins.
+The entire coding re- gion and exon–intron boundaries of MYH7, ACTA1, TPM2, TPM3, TNNT1, ACTN3, ACTN2 and FHL1 were analysed.
+A panel of genes involved in familial HCM, including MYBPC3, TNNT2, TNNI3, TPM1, MYL2, ACTC1, MYL3, CSRP3, TTN, TCAP, TNNC1 and MYH6 (39,40) were also analysed.
+The entire coding region and exon–intron boundaries of TRIM63 and TRIM54 were analysed by polymerase chain reaction (PCR) and direct sequencing.
+Pri- mer sequences for ampliﬁcation of analysed genes are available on request.
+DNA samples isolated from 100 Swedish and 100 Spanish blood donors served as controls.
+The appearance of the nonsense TRIM63 mutation was evaluated by sequencing TRIM63 exon 5 in the family members and in the 400 control chromo- somes.
+Loss of a Taqα I restriction enzyme site was used to con- ﬁrm the TRIM54 mutation c.316G>A (GAC>AAC), ( p.Asp106Asn) in patient and family members and in 200 control individuals by digesting a TRIM54 exon 2 PCR product with Taqα I.
+The follow- ing primer pair was used to amplify exon 2: 5′-CCTCCTCC GAGTCCCTTC-3′ and 5′-CTCTGATGGGTTCCTTGGC-3′ Furthermore, WES was performed on blood DNA from the pro- band.
+Data from WES were analysed using Ingenuity® Variant Analysis™ software (www.qiagen.com/ingenuity) from QIAGEN (Redwood City, CA, USA).
+Only those changes that were predicted to be damaging or with unknown impact were kept.
+We excluded SNPs that were shared with our control dataset (>1% in dpSNP, the Exome Variant Server (NHLBI), the 1000 Genome Project Data- base and the human Background Variant DataBase (http://neotek .scilifelab.se/hbvdb/)) Reverse-transcriptase (RT)-PCR was used to assay the expres- sion of TRIM63 and TRIM54.
+Detailed methods are provided in the Supplementary Material, Appendix Generation of cell culture models A construct of wild-type (WT-) MuRF1EGFP was generated by amp- lifying MuRF1 cDNA obtained by reverse transcription of RNA from a normal skeletal muscle specimen.
+Cells were transfected using Lipofectamine 2000™ (Invitrogen Life Technologies, Carls- bad, CA, USA; (3)) and ﬁxed and stained for immunoﬂuorescence Detailed methods are provided in the Supplementary Material, Appendix Supplementary Material Supplementary Material is available at HMG online Web Resources Following Databases were used in this study: The Exome Variant Server: NHLBI Exome Sequencing Project (ESP), Seattle, WA, USA; http://evs.gs.washington.edu/EVS/ ClustalW: http://www.ebi.ac.uk/Tools/msa/clustalw2/ Exome Aggregation Consortium (ExAc) Browser (Beta): http:// exac.broadinstitute.org Acknowledgements We thank the patient and family members who provided sam- ples and clinical information for this study.
+We also thank Lev Goldfarb for helpful comments and suggestions and S.
+Arnedo for excellent technical assistance.
+We would like to thank the Bio- informatics Core Facility platform, at the Sahlgrenska Academy, University of Gothenburg for assistance with the bioinformatics analyses.
+The study was supported by grants from the Swedish Research Council (H.T.

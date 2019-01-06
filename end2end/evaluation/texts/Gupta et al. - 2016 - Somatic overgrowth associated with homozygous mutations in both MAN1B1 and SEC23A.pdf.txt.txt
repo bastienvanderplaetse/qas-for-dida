@@ -1,0 +1,48 @@
+Abstract Using whole-exome sequencing, we identified homozygous mutations in two unlinked genes, SEC23A c.1200G>C (p.M400I) and MAN1B1 c.1000C>T (p.R334C), associated with congenital birth defects in two patients from a consanguineous family.
+Patients presented with carbohydrate-deficient transferrin, tall stature, obesity, mac- rocephaly, and maloccluded teeth.
+The parents were healthy heterozygous carriers for both mutations and an unaffected sibling with tall stature carried the heterozygous mutation in SEC23A only.
+Mutations in SEC23A are responsible for craniolenticosultura dysplasia (CLSD).
+CLSD patients are short, have late-closing fontanels, and have reduced procollagen (pro-COL1A1) secretion because of abnormal pro-COL1A1 retention in the endoplasmic reticulum (ER).
+The mutation we identified in MAN1B1 was previously associated with reduced MAN1B1 protein and congenital disorders of glycosylation (CDG).
+CDG patients are also short, are obese, and have abnormal glycan remodeling Molecular analysis of fibroblasts from the family revealed normal levels of SEC23A in all cells and reduced levels of MAN1B1 in cells with heterozygous or homozygous mutations in SEC23A and MAN1B1.
+Secretion of pro-COL1A1 was increased in fibroblasts from the siblings and patients, and pro-COL1A1 was retained in Golgi of heterozygous and homozygous mutant cells, although intracellular pro-COL1A1 was increased in patient fibroblasts only.
+We postulate that increased pro-COL1A1 secretion is responsible for tall stature in these patients and an unaffected sibling, and not previously discovered in patients with mutations in either SEC23A or MAN1B1.
+The patients in this study share biochemical and cellular characteristics consistent with mutations in MAN1B1 and SEC23A, indicating a digenic disease [Supplemental material is available for this article.] INTRODUCTION Missense mutations in Sec23 homolog A (SEC23A; OMIM #610511) are associated with cra- niolenticosultura dysplasia (CLSD) (OMIM #607812) (Boyadjiev et al.
+2006, 2011).CLSD is an autosomal-recessive disease characterized by late-closing fontanels, sutural cataracts, facial dysmorphism, and skeletal defects (Boyadjiev et al.
+2006, 2011).The gene encodes for SEC23A, a GTPase-activating protein (GAP) for SAR1 that regulates COPII coat protein Corresponding author: loydie majewska@mcgill.ca © 2016 Gupta et al.
+This article is distributed under the terms of the Creative Commons Attribution-NonCommercial License, which permits reuse and redistribution, except for commercial purposes, provided that the original author and source are credited Ontology terms: childhood- onset truncal obesity; downslanted palpebral fissures; hypertelorism; macrocephaly at birth; moderate global developmental delay; proportionate tall stature Published by Cold Spring Harbor Laboratory Press doi: 10.1101/mcs.a000737 Cite this article as Gupta et al.
+2016 Cold Spring Harb Mol Case Stud 2: a000737 1 of 20 Downloaded from  Cold Spring Harbor Laboratory Press   molecularcasestudies.cshlp.org  on April 16, 2018 - Published by  C O L D S P R I N G H A R B O R Molecular Case Studies Digenic inheritance of mutations in MAN1B1 and SEC23A assembly and disassembly (Yoshihisa et al.
+1993; Lord et al.2011).
+SEC23A mutant fibro- blasts exhibit significantly distended endoplasmic reticulum (ER) membranes and abnormal retention of procollagen1, the precursor of COL1A1, in the ER.
+COL1A1 is the major extra- cellular component of bone.
+COPII coat assembly is also perturbed in SEC23A mutant fibro- blasts (Boyadjiev et al.
+2006, 2011; Kim et al.2012) Mutations in mannosidase alpha class 1B member 1 or MAN1B1 (ERMan1) (OMIM #604346) are associated with both nonsyndromic autosomal-recessive intellectual disability (NS-ARID, mental retardation, OMIM #614202) and congenital disorders of glycosylation (CDG) (Rafiq et al.
+2011; Rymen et al.2013).
+MAN1B1 localizes to the Golgi and is required for N-glycan trimming of terminal mannose from the middle branch of asparagine linked Man9GlcNAc2 (Man9) to Man8GlcNAc2 (Man8) (Pan et al.
+2013; Smirle et al.2013) MAN1B1 activity generates an ER-associated degradation (ERAD) signal in yeast and mam- malian cells that is essential in glycoprotein quality control (Pan et al.
+2011).Most missense mutations decrease levels of the protein and/or reduce enzymatic activity of MAN1B1 (Rafiq et al.
+2011; Rymen et al.2013).
+Reduced enzymatic activity leads to deficient process- ing of N-linked glycans and delayed processing of Man9 to Man8 (Rymen et al.
+2013; Van Scherpenzeel et al.
+2014).MAN1B1 is also required for retention, recycling, and ERAD of mis- folded proteins in an enzyme-independent manner (Pan et al.
+2013; Iannotti et al.2014) MAN1B1 interacts with the terminally misfolded null Hong Kong (NHK) variant of α-trypsin, an ERAD substrate.
+NHK is abnormally secreted in cells with knockdown of MAN1B1, and expression of a truncated MAN1B1 protein that is missing the enzymatic domain restores ERAD of this abnormally folded protein.
+In addition, fibroblasts from patients with mutations in this gene have dilated and fragmented Golgi membranes (Rymen et al.
+2013) We identified a novel mutation in SEC23A and a previously reported mutation in MAN1B1 in two patients from a consanguineous family of Lebanese origin.
+The patients pre- sented with moderate global developmental delay, tall stature, obesity, macrocephaly, mild dysmorphic features, hypertelorism, maloccluded teeth, intellectual disability, and flat feet The mutations identified did not affect levels of SEC23A protein.
+Although levels of SEC23A did not change, cells with heterozygous mutation in SEC23A or SEC23A and MAN1B1 had dilated ER and reduced Golgi-associated vesicles.
+In addition to these abnormalities, cells with heterozygous mutations in MAN1B1 and SEC23A had abnormal retention of pro- COL1A1 in the Golgi.
+The ER was dilated and Golgi-associated vesicles were reduced in pa- tient fibroblasts, similar to cells from unaffected members of the family, but these fibroblasts also had increased intracellular levels of pro-COL1A1.
+In contrast, fibroblasts with heterozy- gous and homozygous mutations in both SEC23A and MAN1B1 had a significant decrease in levels of MAN1B1.
+Nonetheless, only the patients had a type 2-transferrin pattern and a sig- nificant increase of trisialotransferrin.
+These latter findings are consistent with an intrinsic defect of N-glycan remodeling.
+We propose that the abnormalities uncovered here, a com- bination of abnormal N-glycan remodeling and procollagen transport, contribute to pheno- typic findings in these patients RESULTS Clinical Phenotype and Family History The family under consideration consists of two unaffected consanguineous first cousin par- ents, an unaffected daughter, and two affected sons (Fig.
+1P).Affected patients presented with a developmental phenotype that was characterized by moderate global developmental delay, tall stature, obesity, macrocephaly, mild dysmorphic features, hypertelorism, maloc- cluded teeth, intellectual disability, and flat feet (Table 1; Fig.
+1A–O) Gupta et al.
+2016 Cold Spring Harb Mol Case Stud 2: a000737 2 of 20 Downloaded from  Cold Spring Harbor Laboratory Press   molecularcasestudies.cshlp.org  on April 16, 2018 - Published by  C O L D S P R I N G H A R B O R Molecular Case Studies Digenic inheritance of mutations in MAN1B1 and SEC23A Figure 1.
+Photographs of Patient 1 at ages 7 yr (A,B), 8 yr + 7 mo (C–E), and 11 yr (F–H), and Patient 2 at ages 3 yr + 1 mo (I,J), 4 yr + 8 mo (K–M), and 7 yr + 2 mo (N, O).
+(P) Pedigree shows parents are first cousins, although more remote degrees of consanguinity between ancestral generations were thought to exist also.
+Black infill indicates carrier status for the familial MAN1B1 mutation; gray infill indicates carrier status for the familial SEC23A mutation.
+Affected individuals have inherited two copies of both mutations.The clinically unaffected daughter is not homozygous for either mutation; because she has not yet reached the age of reproductive de- cision-making, her carrier status has not yet been disclosed to her parents Gupta et al.
+2016 Cold Spring Harb Mol Case Stud 2: a000737 3 of 20 Downloaded from  Cold Spring Harbor Laboratory Press   molecularcasestudies.cshlp.org  on April 16, 2018 - Published by  C O L D S P R I N G H A R B O R Molecular Case Studies Digenic inheritance of mutations in MAN1B1 and SEC23A Table 1.
+Clinical features of patients with SEC23AM400I/M400I MAN1B1R334C/R334C mutations and members of their family Clinical features P1 Current age Sex Ancestry Intellectual disability Age of independent walking Delayed speech development Hypotonia Birth weight (kilograms) and gestational age (weeks) Macrocephalya,b Plagiocephaly Tall staturec Obesityd Hypertelorism Downslanting palpebral fissures Long palpebral fissures Ptosis Large ears Low-set ears Hearing loss Nose shape Hypoplastic nasolabial fold Thin lateral upper lip “Cupid’s bow” mouth Malocclusion Palate Prognathism Vocal cord nodules Hypernasal voice Asymmetric nipples Pectus excavatum Scoliosis Rib-bearing vertebrae Joint hypermobility Flat feet Neonatal feeding difficulties Reflux esophagitis Inguinal hernia Anal fissures/sinuses Staring spells EEG Gupta et al.

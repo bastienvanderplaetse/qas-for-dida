@@ -1,0 +1,257 @@
+The purpose of the present study was to determine whether IHH/ KS is caused by NELF mutations solely or in combination with mutations in other known genes MATERIALS AND METHODS Patients IHH was diagnosed in male patients R18 years with absent puberty, testos- terone levels <100 ng/dL (normal 300–1,100 ng/dL), and low or normal serum gonadotropins.
+In female patients, IHH was deﬁned as primary amen- orrhea at R17 years with low E2 (<30 pg/mL) and low or normal gonadotro- pins (4, 5).
+All patients had normal TSH, thyroxin, cortisol, and prolactin.No pituitary tumor was present by radiographic imaging.
+Complete IHH/KS was deﬁned as the absence of puberty without thelarche (Tanner 1) in female patients and testes %3 mL in male patients.
+Incomplete IHH/KS was deﬁned as partial breast development in female patients and testes R4 mL in male patients (4).
+Anosmia was deﬁned by using the University of Penn- sylvania Smell Test, when available, or by history.
+Lymphoblastoid cell lines were generated as a source for DNA, RNA, and/or protein (4).
+Each of the patients signed an informed consent approved by the Human Assurance Committee of the Medical College of Georgia Genomic Analysis Genomic DNA from 168 unrelated IHH/KS patients was ampliﬁed by nested polymerase chain reaction (PCR) using NELF primers ﬂanking the 15 exons/ splice junctions (Supplemental Table 1, available online at www.fertstert org).
+DNA sequencing was performed as described previously (14).Putative mutations were conﬁrmed and sequenced in R180 healthy control subjects Four NELF nucleotide variants identiﬁed in three IHH/KS patients were screened in 372 ethnically matched control subjects.
+In the patient with biallelic NELF mutations, PCR products were cloned by using the TA- Cloning Kit (Invitrogen, Carlsbad, CA) to determine if they were on the same allele (16).
+To exclude digenic disease in patients with NELF muta- tions, the protein-coding regions and splice junctions were sequenced for 11 other known IHH/KS genes: CHD7, FGF8, FGFR1, PROK2, PROKR2, TAC3, TACR3, KAL1, GNRHR, GNRH1, and KISS1R (primers available on request) Splice Mutant Detection Intronic mutations were analyzed by using ESE Finder version 3 (http:// rulai.cshl.edu/cgi-bin/tools/ESE3/eseﬁnder.cgi) to determine any effect on predicted SR protein–binding sites involved in splicing (26).
+Sequence was the Berkley Drosophila Genome Project site (http:// also analyzed at 0 and 3 www.fruitﬂy.org/seq_tools/splice) to predict possible effects on 5 splicing consensus sequences.
+Reverse-transcription (RT) PCR was used to determine if the mutations affected splicing.
+Total RNA was extracted 0 from lymphoblastoid cells by using TriReagent (Molecular Research Center, Cincinnati, OH) and subjected to Superscript III One-Step RT-PCR with Plat- inumTaq (Invitrogen) using gene-speciﬁc primers with appropriate negative and positive control samples.
+PCR products were electrophoresed, puriﬁed, cloned by using the TA-Cloning Kit, and sequenced Quantitative Real-Time RT-PCR Lymphoblast RNAwas used for RT-quantitative PCR RT-(qPCR) with Super- script II Platinum Sybr Green One-Step qRT-PCR kit (27).
+A standard curve 0 was constructed with known amounts of human NELF cDNA (primers 5 - 0 0 -TGCGGGCTTCCTAATGCT-3 ) AACGGCGCAGATCACCTG-3 0 and for PPIA, encoding cycolphilin-A (primers 5 -CCTAAAGCA- 0 ).
+NELF TACGGGTCCTG-3 RT-qPCR was performed in triplicate, normalized to PPIA, and analyzed using the CT method with a mixed-model analysis of variance 0 -GCCATCCAACCACTCAGTCT-3 0 and 5 0 and 5 Protein Expression and Protein Modeling Western blots were performed on lymphoblast protein by using standard methods (28) with our polyclonal NELF antibody (27) and a b-actin antibody to control for loading differences.
+NELF/b-actin band intensity was quanti- tated by densitometry (27).
+Protein modeling was done as detailed in the Sup- plemental Methods (available online) RESULTS Three of 168 (1.8%) IHH/KS patients demonstrated NELF muta- tions: two men with KS and one man with nIHH.
+These included: one heterozygous missense mutation (c.757G>A; p.Ala253Thr), one heterozygous splice mutation (c.1160–13C>T), and compound heterozygous intronic mutations (c.629–21G>C; c.629–23C>G), which were not present in the National Center for Biotechnology In- formation (NCBI) single-nucleotide polymorphism (SNP) database or 372 control subjects (Table 1; Fig.
+1A).Additionally, 11 novel polymorphisms were identiﬁed (Supplemental Table 2, available online at www.fertstert.org) The functional signiﬁcance of four speciﬁc nucleotide changes was investigated for in vitro evidence of impaired function.
+The ﬁrst patient, nIHH male C54, had compound heterozygous NELF muta- tions (c.629–21G>C/c.629–23C>G) as determined by sequencing cloned PCR products (Table 1; Fig.
+1A).Analysis of lymphoblast NELF protein consistently demonstrated a 50% reduction com- pared with control (Fig.
+2).ESE-Finder analysis predicts that c.629–21G>C will create new SF2/ASF and SC35 binding sites for SR proteins and the c.629–23C>G will create a new SF2/ASF binding site.
+However, no reduced mRNA expression or altered splicing was observed in lymphoblasts (data not shown).
+This patient had no other associated anomalies or affected family members.
+Im- portantly, he had no coexistent mutations in CHD7, FGF8, FGFR1, PROK2, PROKR2, TAC3, TACR3, KAL1, GNRHR, GNRH1, or KISS1R The second patient (KS male C7) had a heterozygous c.757G>A (p.Ala253Thr) mutation (Fig.
+1; Table 1) affecting a completely con- served Ala253 residue (Supplemental Figs.
+1–4, available online at www.fertstert.org).
+By using multiple alignment (Expresso) (29), a protein model for the N-terminus was constructed (30).
+Both SPPIDER [I checked this–it is not SSPIDER as I thought] (31) and Interprosurf analysis (Supplemental Fig.
+4) suggested func- tional importance for Ala253, and sorting intolerant from tolerant (SIFT) (32) predicted a deleterious effect for p.Ala253Thr.
+Although p.Ala253Thr did not alter splicing or quantitative mRNA expression (data not shown), lymphoblast protein expression was consistently reduced by 50% in vitro (Fig.
+2) sequence This p.Ala253Thr mutation was identiﬁed in a male with sporadic KS, unilateral renal agenesis, and partial pubertal development.
+He 1614 Xu et al NELF mutations in IHH/Kallmann syndrome Vol.
+95, No.5, April 2011 TABLE 1 NELF (NM_015537) mutations in sporadic patients with normosmic hypogonadotropic hypogonadism (nHH) and Kallmann syndrome (KS) Patient Gender and phenotype origin Exon/intron Nucleotide change change Mutation Conﬁrmatory method Geographic AA Mutations in a second gene C54 Male/nHH, incomplete HH, USA Intron 2 c.629–21G>C and NA Intronic 0/372 controls; decreased protein by Western blot None normosmia, testes 12 and 15 mL, LH 3.2 mIU/mL, FSH 1.2 mIU/mL C7 Male/KS, incomplete HH, USA Exon 5 c.629–23C>G compound heterozygous c.757G>A anosmia, testes 4 mL and cryptorchidism, LH <1.5 mIU/mL FSH <3.6 mIU/mL, unilateral renal agenesis p.Ala253Thr Missense 0/372 controls; SIFT; protein FKAL1 del modeling; decreased protein by Western blot c.488_490delGTT (p.Cys163del) C68 Male/KS, complete HH, USA Intron 10 c.1160–13C>T NA Intronic anosmia, bilateral cryptorchidism, LH 0.5 mIU/mL, FSH 0.6 mIU/mL 0/372 controls; skips exon 10 in RT-PCR TACR3 c.824G>A (p.Trp275X) Note: In patient C54, compound heterozygous mutations were present.
+In the two other patients with digenic disease, NELF mutations were heterozygous.The KAL1 mutation was hemizygous, and the TACR3 mutation was heterozygous.
+Complete HH refers to the complete absence of sexual development, whereas incomplete HH indicates partial pubertal development.Normal testes size is 15–25 mL.
+SIFT ¼ sorting intolerant from tolerant; NA ¼ not applicable Xu.
+NELF mutations in IHH/Kallmann syndrome.Fertil Steril 2011 F e r t i l i t y a n d S t e r i l i t y â 1 6 1 5 FIGURE 1 Location and conservation of NELF, KAL1, and TACR3 mutations.
+(A) Exon and intron structure of the 58-kb NELF gene (NM_015537) with locations of human missense and intronic mutations identiﬁed in sporadic IHH and KS patients.
+Important exons shown as blue rectangles to scale are numbered along with their size in base pairs (bp).
+The locations of start and stop codons are to scale, but the sizes of introns are not to scale.
+(B, C) Graphic views of KAL1-encoded anosmin-1 (NP_000207) and TACR3 (NP_001050) proteins with known domains.(B) Shown is the single amino acid cysteine in-frame KAL1 deletion in the whey-acidic-protein domain (WAP)—although the annotation (c.487_489delTGT) was incorrect in our previous report (17).
+(C) Also shown is the TACR3 truncation mutation p.Trp275X within a cytoplasmic domain between the ﬁfth and sixth transmembrane domains.
+The relative size between anosmin-1 and TACR3 proteins and the size and locations of depicted domains are to scale.
+S ¼ signal peptide; Cys-rich ¼ cysteine-rich, FN-III ¼ ﬁbronectin III; H ¼ histidine; T1–T7 ¼ transmembrane 1–7 Xu.
+NELF mutations in IHH/Kallmann syndrome.Fertil Steril 2011 FIGURE 2 Functional protein analysis of human NELF mutations.
+Western blot analysis is shown using the anti-NELF antibody (27), which recognizes the 63-kd NELF protein in lymphoblastoid cell lines extracts.
+b-Actin was used as internal loading control (42 kd).Lane 1 represents a normal male control subject, and lanes 2 and 3 represent individuals with NELF mutations.
+Additional control subjects and other mutations did not alter protein expression and are not shown.
+The Western blots were performed three times, and the results were consistently the same Protein expression for patient C68 was not altered (data not shown) Xu.
+NELF mutations in IHH/Kallmann syndrome.Fertil Steril 2011 1616 Xu et al NELF mutations in IHH/Kallmann syndrome Vol.
+95, No.5, April 2011 also had a KAL1 deletion (c.488_490delGTT;p.Cys163del) (Table 1; Fig.
+1B) that we characterized previously (17).This in-frame dele- tion removes a fully conserved cysteine residue in the anosmin-1 protein encoded by KAL1 (Supplemental Figs.
+1C and 1D).The KS proband with NELF/KAL1 mutations had no mutations in CHD7, FGF8, FGFR1, PROK2, PROKR2, TAC3, TACR3, GNRHR, GNRH1, or KISS1R The third NELF mutation analyzed in vitro was a heterozygous c.1160–13C>T in intron 10 identiﬁed in male KS patient C68 (Fig.
+1A; Table 1).He had completely absent puberty, bilateral cryptorchidism, no other anomalies, and no other affected family members.
+This mutation was predicted to alter the location of an SF2/ASF binding site and result in the loss of an SRp40 binding site, both of which could disrupt normal splicing (26).
+The weak splice acceptor site score of 0.52 predicts that this 3 splice site may be susceptible to alternative splicing events; in fact, exon 10 skipping was demonstrated by RT-PCR and subcloning (Fig.
+3) The mutation introduces two aberrant out-of-frame amino acids (AAs), causing a frameshift and a premature termination codon at residue 378 located 9 bp downstream of the junction between exons 9 and 11.
+The resulting NELF protein is predicted to be truncated by >28% of the C-terminus.
+The altered transcript was seen in 4/30 clones from patient C68, but not in 100 clones obtained by RT- PCR from three unrelated control subjects.
+The intronic mutation 0 FIGURE 3 did not quantitatively affect mRNA or protein expression (data not shown).
+However, this genomic c.1160–13C>T variant was not seen in the NCBI SNP database or in 372 ethnically-matched control subjects, arguing against a polymorphism This patient also was found to have a novel heterozygous TACR3 nonsense mutation p.Trp275X not seen in 180 control subjects (Fig.
+1C; Table 1).Trp275 lies within a cytoplasmic domain between the ﬁfth and sixth transmembrane domains of this G-protein– coupled receptor (33), thereby predicting the loss of 191AA from codons 275–465 and truncating 40% of the C-terminus (Fig.
+1C).He had no mutations in CHD7, FGF8, FGFR1, PROK2, PROKR2, TAC3, KAL1, GNRHR, GNRH1, or KISS1R.
+Un- fortunately, in all three probands with NELF mutations, no other family members were available for de novo or segregation analysis DISCUSSION Our ﬁndings indicate that NELF is likely to be causative in IHH/KS Previously, Miura et al (24) demonstrated a heterozygous c.1438A>G (p.Thr480Ala) NELF variant in 1/65 IHH patients based to c.1432A>G;p.Thr478Ala from NP_056352).
+Because Thr478 was only partially conserved (Supplemental Fig.
+1B) and no in vitro analysis was performed, its functional signiﬁcance is unknown AY_255128 sequence on (now revised NELF splice mutant.
+Subcloning and sequencing analysis of reverse-transcription polymerase chain reaction products of NELF exons 8–12 from patient and control lymphoblastoid RNA conﬁrms that the human NELF c.1160–13C>T mutation causes aberrant exon 10 skipping Splicing patterns are compared between a normal control and the mutant by cloned cDNA sequencing (the wild-type or mutant band is a cloned fragment).
+An expected NELF product of 280 bp including exons 9 and 10 is observed in the control (lane 2), whereas an abnormal product of 246 bp skipping exon 10 (34 bp) is observed in a KS patient with c.1160–13C>T (lane 3).
+Exon 11 nucleotides and out-of-frame novel amino acid sequence are depicted in blue.
+A 123-bp DNA marker is shown in the ﬁrst lane Xu.
+NELF mutations in IHH/Kallmann syndrome.Fertil Steril 2011 Fertility and Sterilityâ 1617 (24).
+No other IHH/KS genes were studied, so digenic disease can- not be excluded One heterozygous NELF splice mutation (c.1159–14_22del) has been described (9).
+However, the only KS individual within the family also had a heterozygous FGFR1 mutation (p.Leu342Ser), suggesting digenic disease (9).
+This NELF deletion was associated with exon 10 skipping, but it was not sufﬁcient to cause KS alone (9).
+Thus, no human NELF mutations, supported in vitro, and without mutations in a second gene, have been reported to cause IHH/KS In the present study, 3/168 (1.8%) of IHH/KS patients had NELF mutations demonstrating impaired function in vitro, which is similar to GNRHR (14) and greater than KISS1R mutations (34) in nIHH patients.
+To exclude digenic disease, sequencing of 11 additional genes (CHD7, FGF8, FGFR1, PROK2, PROKR2, TAC3, TACR3, KAL1, GNRHR, GNRH1, and KISS1R) was performed Compound heterozygous NELF mutations in an nIHH male patient quantitatively reduced protein expression by 50% , but unexpect- edly it did not reduce mRNA expression.
+mRNA/protein discordance can occur by ‘‘leaky’’ expression of splice variants (35), altered expression of proteins with multiple isoforms (36), altered protein translation rate (37), and post-translational modiﬁcations (38); and it has been seen in microarray/proteomics comparisons (39, 40) The exact mechanism by which the present mRNA/protein discordance occurs is unknown.
+Because these intronic sequence variants introduce two additional SR protein binding sites important in constitutive splicing, their perturbation could affect alternative splicing in a tissue- and developmentally speciﬁc fashion (26).
+Alternatively, human NELF and its rat ortholog (24, 27, 41) have multiple isoforms, which could contribute.
+We hypothesize that biallelic NELF mutations are necessary for the phenotypic manifestation of IHH.
+Our nIHH male patient had no additional mutation in 11 known IHH/KS genes studied.
+We think that these are the ﬁrst reported biallelic NELF mutations Two additional heterozygous NELF mutations occurred in unre- lated KS patients in a digenic pattern.
+In a KS male patient, hetero- zygous NELF/hemizygous KAL1 mutations were identiﬁed that were not observed in 372 ethnically matched control subjects.
+The p.Ala253Thr NELF missense mutation resulted in a drastic AA substitution from a hydrophobic to hydrophilic residue.
+Multiple in silico methods also suggest that this mutation is likely to be deleterious.
+These include complete conservation of Ala253 (Supplemental Figs.
+1–4), SIFT analysis, and protein modeling Furthermore, protein expression was markedly reduced in vitro, providing additional support for a deleterious effect.
+This patient with the p.Ala253Thr NELF missense mutation also had a hemizygous KAL1 deletion of the completely conserved Cys163 within the whey-acidic-protein (WAP) domain that forms a disulﬁde bridge with Cys134 of anosmin-1 (Supplemental Figs.
+1C and 1D) (42).
+Unilateral renal agenesis in this patient is likely related to this deleterious KAL1 mutation (43) The third KS male patient was heterozygous for both NELF and TACR3 nonsense mutations.
+The NELF mutation disrupted splicing, deleting exon 10, and is predicted to cause protein truncation Although observed in a subset of clones, this splice mutant was not seen in 100 control clones; and the mutation was not observed in 372 ethnically matched control subjects.
+The low frequency of this altered transcript suggests potential mRNA instability, but we cannot exclude the possibility that this splice variant could be a rare sequence variant The combination of heterozygous NELF/TACR3 mutations pro- vides intriguing observations regarding KS patients with digenic disease (33).
+To date, homozygous TACR3 mutations have been identiﬁed only in nIHH.
+p.Trp275X is not only the ﬁrst nonsense TACR3 mutation reported, it is also the ﬁrst heterozygous TACR3 mutation identiﬁed in KS in a digenic pattern with NELF p.Trp275X is predicted to abolish the sixth–seventh transmembrane domains with truncation of the C-terminus of the neurokinin B receptor-3 encoded by TACR3 (Fig.
+1C) (33).Disruption of G-protein transmembrane domains commonly impairs signal transduction in nIHH/KS genes GNRHR (3), KISS1R (34), TACR3 (33), and PROKR2 (44) Perhaps the combination of a heterozygous TACR3 nonsense mu- tation with a heterozygous NELF truncation mutation could cause a more severe phenotype, such as the present KS patient with com- pletely absent puberty and bilateral cryptorchidism (Table 1).
+It is interesting that the present NELF splice mutant and the one reported previously (9) resulted in exon 10 skipping, but neither alone was sufﬁcient to cause KS, which required a mutation in a second gene Two unrelated KS patients in the present study demonstrated previously unreported patterns of NELF/KAL1 and NELF/TACR3 mutations.
+We hypothesize that mutations in two loci exacerbate phenotype expressivity by synergistic heterozygosity.
+Synergistic heterozygosity refers to phenotypic expression caused by several partial protein defects in more than one pathway (45), which is quite conceivable for known IHH/KS genes KAL1 and TACR3.
+Synergis- tic heterozygosity has been described in metabolic disorders (45, 46) and primary pulmonary hypertension (47).
+In addition to KS (8–10), mutations in more than one gene have been reported in other diseases, such as retinitis pigmentosa, epidermolysis bullosa, and deafness (48–50) Overall, NELF lacks homology with any known protein sequence except for AA209–528 used for protein modeling, and it has no N-terminal signal peptide (24).
+We have demonstrated intranuclear expression in immortalized GnRH neurons and identiﬁed a func- tional nuclear localization signal and putative zinc ﬁngers, suggest- ing that it could be a transcription factor (27).
+It is tempting to speculate that NELF might bind the KAL1 and/or TACR3 promoters, but this has yet to be determined experimentally.
+However, NELF is involved in GnRH neuron migration in mouse (22, 27), zebraﬁsh (51), and human, as determined in the present study by the demon- stration of mutations in KS Human NELF has been localized to chromosome 9q34.3, where a deletion syndrome has been described in two male patients with abnormal genitalia and in an anosmic female patient (52).
+The dele- tion encompasses NELF, thereby implicating NELF in the partial KS phenotypes of these individuals.
+Based upon our ﬁndings and the NELF deletion within 9q34.3, we propose that NELF loss- of-function might be a potential mechanism for IHH/KS In summary, three novel human NELF mutations were identiﬁed in IHH/KS for a prevalence of 2%.
+We describe the ﬁrst compound heterozygous NELF mutation reported in an nIHH male patient without mutations in 11 known IHH/KS genes.
+In addition, a previ- ously unreported association of NELF/KAL1 and NELF/TACR3 was identiﬁed in KS.
+Our ﬁndings suggest that mutation of one NELF allele may not be sufﬁcient to result in disease unless there is an additional mutant NELF allele or coexistent mutation in another gene.
+These ﬁndings, along with several earlier reports of NELF/ FGFR (9) and PROKR2/KAL (8, 10), highlight the importance of biallelic mutations in IHH/KS and warrant future consideration Acknowledgments: The authors thank all of the affected individuals and their families for their participation.
+They also thank Iqbal Khan, Miranda Boer- ema, Sohal Kahn, Kyle Layman, Imran Khan, Keri Evenson, Titus Brown, 1618 Xu et al NELF mutations in IHH/Kallmann syndrome Vol.
+95, No.5, April 2011 Brandi Villarreal, and Daksha Chudgar for mutation screening of the NELF gene.
+L.C.L.was also funded by the Medical College of Georgia Research Institute.
+L.C.L.was supported by Dean D.
+D.Miller and Director R.
+Yu, In- stitute of Molecular Medicine and Genetics, and Obstetrics and Gynecology Chair A.
+A.Murphy, Medical College of Georgia.
+The authors thank the Landesstiftung Baden-W€urttemberg in Germany for ﬁnancial support, the Deutscher Akademischer Austausch Dienst, and the volunteers of Poem@Home, who made structure remodeling possible.
+They are also thankful to Charles Schwartz and Cindy Skinner, JC Self Research Institute of Human Genetics at Greenwood Genetics Center, for providing control DNA samples.
+The authors also thank John A.Phillips, III, for his constructive critical analysis of the manuscript REFERENCES 1.
+Tobet SA, Schwarting GA.Minireview: recent prog- ress in gonadotropin-releasing hormone neuronal mi- gration.
+Endocrinology 2006;147:1159–65 2.
+Wierman ME, Pawlowski JE, Allen MP, Xu M, Linseman DA, Nielsen-Preiss S.
+Molecular mechanisms of gonadotropin-releasing hormone neuronal migration.
+Trends Endocrinol Metab 2004;15:96–102 3.
+Layman LC, Cohen DP, Jin M, Xie J, Li Z, the Reindollar RH, gonadotropin-releasing hormone receptor gene cause hypogonadotropic hypogonadism.
+Nat Genet 1998;18:14–5 al.
+Mutations in et 4.
+Bhagavath B, Podolsky RH, Ozata M, Bolu E, Bick DP, Kulharya A, et al.
+Clinical and molecular characterization of a large sample of patients with hy- pogonadotropic Steril 2006;85:706–13 hypogonadism Fertil 5.
+Crowley WF Jr, Filicori M, Spratt DI, Santoro NF The physiology of gonadotropin-releasing hormone (GnRH) secretion in men and women.
+Recent Prog Horm Res 1985;41:473–531 6.
+Quinton R, Duke VM, Robertson A, Kirk JM, Matﬁn G, de Zoysa PA, et al.
+Idiopathic gonadotro- phin deﬁciency: genetic questions addressed through phenotypic characterization.
+Clin Endocrinol (Oxf) 2001;55:163–74 7.
+Kim HG, Bhagavath B, Layman LC.Clinical mani- festations of impaired GnRH neuron development and function.
+Neurosignals 2008;16:165–82 8.
+Dode C, Teixeira L, Levilliers J, Fouveaut C, Bouchard P, Kottler ML, et al.
+Kallmann syndrome: mutations in the genes encoding prokineticin-2 and prokineticin receptor-2.
+PLoS Genet 2006;2:e175 9.
+Pitteloud N, Quinton R, Pearce S, Raivio T, Acierno J, Dwyer A, et al.
+Digenic mutations ac- count for variable phenotypes in idiopathic hypo- gonadotropic Invest 2007;117:457–63 hypogonadism J Clin 10.
+Canto P, Munguia P, Soderlund D, Castro JJ, Mendez JP.
+Genetic analysis in patients with Kall- mann syndrome: coexistence of mutations in proki- neticin receptor 2 and KAL1.
+J Androl 2009; 30:41–5 11.
+Pitteloud N, Acierno JS Jr, Meysing AU, Dwyer AA, Hayes FJ, Crowley WF Jr.
+Reversible Kallmann syn- drome, delayed puberty, and isolated anosmia occur- ring in a single family with a mutation in the ﬁbroblast growth factor receptor 1 gene.
+J Clin Endocrinol Metab 2005;90:1317–22 12.
+Bhangoo A, Jacobson-Dickman E.The genetics of id- iopathic hypogonadotropic hypogonadism:unravel- ing the biology of human sexual development Pediatr Endocrinol Rev 2009;6:395–404 13.
+Pitteloud N, Acierno JS Jr, Meysing A, Eliseenkova AV, Ma J, Ibrahimi OA, et al.
+Mutations in ﬁbroblast growth factor receptor 1 cause both Kall- mann syndrome and normosmic idiopathic hypogo- nadotropic hypogonadism.
+Proc Natl Acad Sci U S A 2006;103:6281–6 14.
+Bhagavath B, Ozata M, Ozdemir IC, Bolu E, Bick DP, Sherins RJ, et al.
+The prevalence of gonadotropin- releasing hormone receptor mutations in a large cohort of patients with hypogonadotropic hypogo- nadism.
+Fertil Steril 2005;84:951–7 Fertility and Sterilityâ 15.
+de Roux N, Young J, Misrahi M, Genet R, Chanson P, Schaison G, et al.
+A family with hypogonadotropic hypogonadism and mutations in the gonadotropin- releasing hormone J Med 1997;337:1597–602 receptor.
+N Engl 16.
+Kim HG, Kurth I, Lan F, Meliciani I, Wenzel W, Eom SH, et al.
+Mutations in CHD7, encoding a chro- matin-remodeling protein, cause idiopathic hypogo- nadotropic hypogonadism and Kallmann syndrome Am J Hum Genet 2008;83:511–9 17.
+Bhagavath B, Xu N, Ozata M, Rosenﬁeld RL, Bick DP, Sherins RJ, et al.
+KAL1 mutations are not a common cause of idiopathic hypogonadotrophic hy- pogonadism in humans.
+Mol Hum Reprod 2007;13:25–30 18.
+Franco B, Guioli S, Pragliola A, Incerti B, Bardoni B, Tonlorenzi R, et al.
+A gene deleted in Kallmann’s syn- drome shares homology with neural cell adhesion and axonal Nature 1991;353:529–36 path-ﬁnding molecules 19.
+Legouis R, Hardelin JP, Levilliers J, Claverie JM, Compain S, Wunderle V, et al.
+The candidate gene for the X-linked Kallmann syndrome encodes a pro- tein Cell 1991;67:423–35 adhesion molecules related to 20.
+Dode C, Levilliers J, Dupont JM, De Paepe A, Le Du N, Soussi-Yanicostas N, et al.
+Loss-of-function mutations in FGFR1 cause autosomal dominant Kall- mann syndrome.
+Nat Genet 2003;33:463–5 21.
+Pitteloud N, Zhang C, Pignatelli D, Li JD, Raivio T, Cole LW, et al.
+Loss-of-function mutation in the pro- kineticin 2 gene causes Kallmann syndrome and nor- mosmic idiopathic hypogonadotropic hypogonadism Proc Natl Acad Sci U S A 2007;104:17447–52 22.
+Kramer PR, Wray S.Novel gene expressed in nasal region inﬂuences outgrowth of olfactory axons and migration of luteinizing hormone–releasing hormone (LHRH) neurons.
+Genes Dev 2000;14:1824–34 23.
+Kramer PR, Wray S.Nasal embryonic LHRH factor (NELF) expression within the CNS and PNS of the rodent.
+Brain Res 2001;1:23–6 24.
+Miura K, Acierno JS Jr, Seminara SB.Characteriza- tion of the human nasal embryonic LHRH factor gene, NELF, and a mutation screening among 65 pa- tients with idiopathic hypogonadotropic hypogonad- ism (IHH).
+J Hum Genet 2004;49:265–8 25.
+Pedersen-White JR, Chorich LP, Bick DP, Sherins RJ, Layman LC.
+The prevalence of intragenic deletions in patients with idiopathic hypogonadotropic hypogo- nadism and Kallmann syndrome.
+Mol Hum Reprod 2008;14:367–70 26.
+Baralle D, Baralle M.Splicing in action: assessing disease causing sequence changes.
+J Med Genet 2005;42:737–48 27.
+Xu N, Bhagavath B, Kim HG, Halvorson L, Podolsky RS, Chorich LP, et al.
+NELF is a nuclear protein involved in hypothalamic GnRH neuronal mi- gration.
+Mol Cell Endocrinol 2010;319:47–55 28.
+Cameron RS, Liu C, Mixon AS, Pihkala JP, Rahn RJ, Cameron PL.
+Myosin16b: The COOH-tail region di- rects localization to the nucleus and overexpression delays S-phase progression.
+Cell Motil Cytoskeleton 2007;64:19–48 29.
+Armougom F, Moretti S, Poirot O, Audic S, Dumas P, Schaeli B, et al.
+Expresso: automatic incorporation of structural information in multiple sequence align- ments 3D-Coffee.
+Nucleic Acids Res 2006;34:W604–8 using 30.
+VanDemark AP, Kasten MM, Ferris E, Heroux A, Hill CP, Cairns BR.
+Autoregulation of the rsc4 tan- dem bromodomain by gcn5 acetylation.
+Mol Cell 2007;27:817–28 31.
+Porollo A, Meller J.Prediction-based ﬁngerprints Proteins protein-protein interactions of 2007;66:630–45 32.
+Kumar P, Henikoff S, Ng PC.Predicting the ef- fects of coding nonsynonymous variants on protein function using the SIFT algorithm.
+Nat Protoc 2009;4:1073–81 33.
+Topaloglu AK, Reimann F, Guclu M, Yalin AS, Kotan LD, Porter KM, et al.
+TAC3 and TACR3 muta- tions in familial hypogonadotropic hypogonadism re- veal a key role for neurokinin B in the central control of reproduction.
+Nat Genet; 2008 34.
+Seminara SB, Messager S, Chatzidaki EE, Thresher RR, Acierno JS Jr, Shagoury JK, et al.
+The GPR54 gene as a regulator of puberty.
+N Engl J Med 2003;349:1614–27 35.
+Jinnah HA, Harris JC, Nyhan WL, O’Neill JP.The spectrum of mutations causing HPRT deﬁciency: an update.
+Nucleosides Nucleotides Nucleic Acids 2004;23:1153–60 36.
+Chen G, Gharib TG, Huang CC, Taylor JM, Misek DE, Kardia SL, et al.
+Discordant protein and mRNA expression in lung adenocarcinomas.
+Mol Cell Proteomics 2002;1:304–13 37.
+Esfandiari F, Green R, Cotterman RF, Pogribny IP, James SJ, Miller JW.
+Methyl deﬁciency causes reduc- tion of the methyl-CpG–binding protein, MeCP2, in rat liver.
+Carcinogenesis 2003;24:1935–40 38.
+Stamm S, Ben-Ari S, Rafalska I, Tang Y, Zhang Z, Toiber D, et al.
+Function of alternative splicing Gene 2005;344:1–20 39.
+Okada Y, Takeyama H, Sato M, Morikawa M, Sobue K, Asai K, et al.
+Experimental implication of celiac ganglionotropic invasion of pancreatic-cancer cells bearing c-ret proto-oncogene with reference to glial-cell-line–derived neurotrophic factor (GDNF) Int J Cancer 1999;81:67–73 40.
+Scacheri PC, Rozenblatt-Rosen O, Caplen NJ, Wolfsberg TG, Umayam L, Lee JC, et al.
+Short inter- fering RNAs can induce unexpected and divergent changes in the levels of untargeted proteins in mam- malian cells.
+Proc Natl Acad Sci U S A 2004;101:1892–7 41.
+Dieterich DC, Karpova A, Mikhaylova M, Zdobnova I, Konig I, Landwehr M, et al.
+Calden- drin-Jacob: a protein liaison that couples NMDA re- ceptor signalling to the nucleus.
+PLoS Biol 2008;6:e34 42.
+Hauton C, Brockton V, Smith VJ.Cloning of a crus- tin-like, single whey-acidic-domain, antibacterial peptide from the haemocytes of the European lobster, Homarus gammarus, and its response to infection with bacteria.
+Mol Immunol 2006;43:1490–6 43.
+Hardelin JP, Levilliers J, Blanchard S, Carel JC, Leutenegger M, Pinard-Bertelletto JP, et al.
+Heteroge- neity in the mutations responsible for X chromo- some–linked Kallmann syndrome.
+Hum Mol Genet 1993;2:373–7 1619 44.
+Cole LW, Sidis Y, Zhang C, Quinton R, Plummer L, Pignatelli D, et al.
+Mutations in prokineticin 2 (PROK2) and PROK2 receptor (PROKR2) in human gonadotrophin-releasing hormone deﬁciency: molec- ular genetics and clinical spectrum.
+J Clin Endocrinol Metab 2008 45.
+Vockley J, Rinaldo P, Bennett MJ, Matern D, Vladutiu GD.
+Synergistic heterozygosity: disease re- sulting from multiple partial defects in one or more metabolic pathways.
+Mol Genet Metab 2000;71:10–8 46.
+Schuler AM, Gower BA, Matern D, Rinaldo P, Vockley J, Wood PA.
+Synergistic heterozygosity in mice with inherited enzyme deﬁciencies of mitochon- drial fatty acid beta-oxidation.
+Mol Genet Metab 2005;85:7–11 47.
+Phillips JA 3rd, Poling JS, Phillips CA, Stanton KC, Austin ED, Cogan JD, et al.
+Synergistic heterozygos- ity for TGFbeta1 SNPs and BMPR2 mutations mod- ulates the age at diagnosis and penetrance of familial pulmonary arterial hypertension.
+Genet Med 2008;10:359–65 48.
+del Castillo I, Villamar M, Moreno-Pelayo MA, del Castillo FJ, Alvarez A, Telleria D, et al.
+A de- letion involving the connexin 30 gene in nonsyn- dromic hearing impairment.
+N Engl J Med 2002;346:243–9 49.
+Floeth M, Bruckner-Tuderman L.Digenic junc- tional in COL17A1 and LAMB3 genes.
+Am J Hum Genet 1999;65:1530–7 bullosa: mutations epidermolysis 50.
+Kajiwara K, Berson EL, Dryja TP.Digenic retinitis pigmentosa due to mutations at the unlinked periph- erin/RDS and ROM1 loci.
+Science 1994;264:1604–8 51.
+Palevitch O, Abraham E, Borodovsky N, Levkowitz G, Zohar Y, Gothilf Y.
+Nasal embryonic LHRH factor plays a role in the developmental migra- tion and projection of gonadotropin-releasing hor- mone 3 neurons in zebraﬁsh.
+Dev Dyn 2009; 238:66–75 52.
+Yatsenko SW, Scott SA, Cheung DA, Nowaczyk MJ, Tarnopolsky M, Naidu S, et al.
+De- letion 9q34.3 syndrome: genotype-phenotype corre- lations and an extended deletion in a patient with features of Opitz C trigonocephaly.
+J Med Genet 2005;42:328–35 1620 Xu et al NELF mutations in IHH/Kallmann syndrome Vol.
+95, No.5, April 2011 SUPPLEMENTAL METHODS An initial template selection was performed by using 3D-Jury(1), Phyre(2), and Fugue(3) servers, which failed to ﬁnd high-homology templates for the whole protein.
+Because of the importance of having a model on the region of the mutation Ala253Thr, we focused our work on the region from 209 to 528, using as a template 2R10 (PDB code structure of an acetylated Rsc4 tandem bromodomain histone chimera) and predicted by 3D-Jury.
+We used Expresso to generate an alignment between NELF and 2R10, which is a multiple se- quence alignment method that aligns sequences using structural information We used MOE to generate a model on the basis of the alignment, which has low conﬁdence for the C-terminal region of the sequence modeled, but high conﬁdence (Supplemental Fig.

@@ -1,0 +1,21 @@
+Downloaded from https://academic.oup.com/jcem/article-abstract/95/2/659/2596903 by ULB user on 16 April 2018 J Clin Endocrinol Metab, February 2010, 95(2):659 – 669 jcem.endojournals.org 659 660 Sarfati et al PROK2 and PROKR2 Mutations in Kallmann Syndrome J Clin Endocrinol Metab, February 2010, 95(2):659 – 669 Kallmann syndrome (KS) is a developmental disorder combining congenital hypogonadotropic hypogo- nadism (HH) with anosmia or hyposmia (1).
+The defi- ciency of the sense of smell is related to olfactory bulb hypoplasia or aplasia.
+HH is due to GnRH deficiency (2), which likely results from the failed embryonic migration of neuroendocrine GnRH-synthesizing cells (3).
+KS is ge- netically heterogeneous.
+In 1991 KAL1, encoding an ex- tracellular matrix glycoprotein, was implicated in the X chromosome-linked form of KS (4 – 6).
+In 2003 we showed that the fibroblast growth factor receptor 1 (FGFR1) gene was involved in an autosomal dominant form of KS (7) More recently Falardeau et al.
+showed that the gene en- coding fibroblast growth factor (FGF)-8, a ligand of FGFR1, was also involved in a few KS cases (8).
+Mutations in the chromodomain helicase DNA-binding protein 7 gene (CHD7), which underlie coloboma, heart defect, choanal atresia, retardation, genital hypoplasia, ear anomalies (CHARGE) syndrome, have also been reported in a few patients initially diagnosed with KS (9, 10) In 2006 we identified, in several KS patients, mutations in PROK2 (National Center for Biotechnology Informa- tion gene ID 60675; Bethesda, MD) or PROKR2 (Na- tional Center for Biotechnology Information gene ID 128674) that encode prokineticin-2 and prokineticin re- ceptor-2 (a G protein-coupled receptor), respectively (11) Since then, we and others reported on the presence of PROKR2 or PROK2 mutations (mainly missense but also nonsense and frameshift mutations) in additional patients (12–16).
+Most patients carry monoallelic mutations, but some patients carry mutations on both alleles of either gene.
+Moreover, most of the mutations identified in ho- mozygous (or compound heterozygous) patients have also been found in heterozygous state in other patients (11, 12, 15 and this study).
+Finally, many of the mutations re- ported so far, whose deleterious effects on the receptor signaling activity are predicted or have been confirmed by in vitro studies (12, 14, 17), are also present in some clin- ically unaffected individuals [(11, 12), and C.
+Dodé un- published results)].
+This, together with the observation that only homozygous null mice for Prok2 or Prokr2 re- produce the KS phenotype (12, 18) strongly suggests that heterozygous patients carry additional mutations in other KS genes.
+Accordingly, we did not find a dominant-neg- ative effect of any of the PROKR2 missense mutations on the wild-type receptor in vitro (17).
+Therefore, PROK2 and PROKR2 are likely to be involved both in recessive monogenic and digenic/oligogenic forms of KS (1).
+Di- genic inheritance has indeed been shown in a few patients who bear mutations both in PROKR2 and PROK2, KAL1, or FGFR1 (11, 14 and this study).
+Notably, a few additional patients have been found to carry mutations in both PROKR2 and the GnRH1, GnRH receptor (GN- RHR), or kisspeptin receptor (KISS1R) genes that have been implicated in normosmic congenital HH (19 and this study).
+Most patients heterozygous for PROKR2 or PROK2 mutations, however, are expected to carry addi- tional mutations in as-yet-undiscovered KS genes.
+Indeed, mutations in the KS genes identified so far have been found in less than 30% of all KS patients, indicating that other disease genes remain to be discovered (1).
+Because these genes, when mutated, may cause variable degrees of re- productive and olfactory dysfunction, as well as diverse nonreproductive, nonolfactory anomalies [as previously shown for KAL1, FGFR1, and FGF8 (1)], some clinical heterogeneity can be anticipated among KS patients har- boring monoallelic PROKR2 or PROK2 mutations, de- pending on the other gene(s) implicated in each patient.
+In contrast, patients carrying biallelic mutations in PROKR2 or in PROK2, which may be sufficient to cause the KS phenotype as suggested by Prokr2 and Prok2 mouse mu- tants, could have less variable phenotypes.

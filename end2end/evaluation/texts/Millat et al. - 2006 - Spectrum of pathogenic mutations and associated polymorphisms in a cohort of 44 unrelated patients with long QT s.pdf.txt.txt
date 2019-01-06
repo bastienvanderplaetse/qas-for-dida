@@ -1,0 +1,9 @@
+Clin Genet 2006: 70: 214–227 Printed in Singapore.
+All rights reserved Original Article # 2006 The Authors Journal compilation # 2006 Blackwell Munksgaard CLINICAL GENETICS doi: 10.1111/j.1399-0004.2006.00671.x Spectrum of pathogenic mutations and associated polymorphisms in a cohort of 44 unrelated patients with long QT syndrome Millat G, Chevalier P, Restier-Miron L, Da Costa A, Bouvagnet P, Kugener B, Fayol L, Gonza` lez Armengod C, Oddou B, Chanavat V, Froidefond E, Perraudin R, Rousson R, Rodriguez-Lafrasse C Spectrum of pathogenic mutations and associated polymorphisms in a cohort of 44 unrelated patients with long QT syndrome Clin Genet 2006: 70: 214–227.
+# Blackwell Munksgaard, 2006 Long QT syndrome (LQTS) is a rare and clinically heterogeneous inherited disorder characterized by a long QT interval on the electrocardiogram, increased risk of syncope and sudden death caused by arrhythmias.
+This syndrome is mostly caused by mutations in genes encoding various cardiac ion channels.
+The clinical heterogeneity is usually attributed to variable penetrance.
+One of the reasons for this variability in expression could be the coexistence of common single nucleotide polymorphisms (SNPs) on LQTS-causing genes and/or unknown genes.
+Some synonymous and nonsynonymous exonic SNPs identified in LQTS-causing genes may have an effect on the cardiac repolarization process and modulate the clinical expression of a latent LQTS pathogenic mutation.
+We report the molecular pattern of 44 unrelated patients with LQTS using denaturing high-performance liquid chromatography analysis of the KCNQ1, KCNH2, SCN5A, KCNE1 and KCNE2 genes.
+Forty-five disease-causing mutations (including 24 novel ones) were identified in this cohort.

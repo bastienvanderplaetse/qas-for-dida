@@ -1,0 +1,58 @@
+Abstract Usher syndrome is an autosomal recessive disorder manifesting hearing loss, retinitis pigmentosa and vestibular dysfunction, and having three clinical subtypes.
+Usher syndrome type 1 is the most severe subtype due to its profound hearing loss, lack of vestibular responses, and retinitis pigmentosa that appears in prepuberty.
+Six of the corresponding genes have been identified, making early diagnosis through DNA testing possible, with many immediate and several long- term advantages for patients and their families.
+However, the conventional genetic techniques, such as direct sequence analysis, are both time-consuming and expensive.
+Targeted exon sequencing of selected genes using the massively parallel DNA sequencing technology will potentially enable us to systematically tackle previously intractable monogenic disorders and improve molecular diagnosis.
+Using this technique combined with direct sequence analysis, we screened 17 unrelated Usher syndrome type 1 patients and detected probable pathogenic variants in the 16 of them (94.1%) who carried at least one mutation.
+Seven patients had the MYO7A mutation (41.2%), which is the most common type in Japanese.Most of the mutations were detected by only the massively parallel DNA sequencing.
+We report here four patients, who had probable pathogenic mutations in two different Usher syndrome type 1 genes, and one case of MYO7A/PCDH15 digenic inheritance This is the first report of Usher syndrome mutation analysis using massively parallel DNA sequencing and the frequency of Usher syndrome type 1 genes in Japanese.
+Mutation screening using this technique has the power to quickly identify mutations of many causative genes while maintaining cost-benefit performance.
+In addition, the simultaneous mutation analysis of large numbers of genes is useful for detecting mutations in different genes that are possibly disease modifiers or of digenic inheritance Citation: Yoshimura H, Iwasaki S, Nishio S-y, Kumakawa K, Tono T, et al.
+(2014) Massively Parallel DNA Sequencing Facilitates Diagnosis of Patients with Usher Syndrome Type 1.
+PLoS ONE 9(3): e90688.doi:10.1371/journal.pone.0090688 Editor: Klaus Brusgaard, Odense University hospital, Denmark Received September 6, 2013; Accepted February 3, 2014; Published March 11, 2014 Copyright: ß 2014 Yoshimura et al.
+This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited Funding: This study was supported by a Health and Labour Sciences Research Grant for Comprehensive Research on Disability Health and Welfare from the Ministry of Health, Labour and Welfare of Japan (S.U.), and by a Grant-in-Aid for Scientific Research from the (then) Ministry of Education, Science and Culture of Japan (http://www.mext.go.jp/english/) (S.U.).
+The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript Competing Interests: The authors have declared that no competing interests exist * E-mail: usami@shinshu-u.ac.jp Introduction Usher syndrome (USH) is an autosomal recessive disorder characterized by hearing loss (HL), retinitis pigmentosa (RP) and vestibular dysfunction.
+Three clinical subtypes can be distin- guished.
+USH type 1 (USH1) is the most severe among them because of profound HL, absent vestibular responses, and prepubertal onset RP.
+USH type 2 (USH2) is characterized by congenital moderate to severe HL, with a high-frequency sloping configuration.
+The vestibular function is normal and onset of RP is in the first or second decade.
+The onset of the visual symptoms such as night blindness in USH usually occurs several years later than in USH1.
+USH type 3 (USH3) is characterized by variable onset of progressive HL, variable onset of RP, and variable impairment of vestibular function (normal to absent) [1,2] To date, nine genetic loci for USH1(USH1B-H, J, and K) have been mapped to chromosomes 11q13.5, 11p15.1, 10q22.1, 21q21, 10q21-q22, 17q24-q25, 15q22-q23 (USH1H and J), and 10p11.21–q21.1 [2,3,4].
+Six of the corresponding genes have been identified: the actin-based motor protein myosin VIIa PLOS ONE | www.plosone.org 1 March 2014 | Volume 9 | Issue 3 | e90688 the Ca2+ [4].
+In Caucasian USH1 patients, previous (MYO7A, USH1B) [5]; two cadherin-related proteins, cadherin 23 (CDH23, USH1D) [6] and protocadherin 15 (PCDH15, USH1F) [7]; and two scaffold proteins, harmonin (USH1C) [8] and sans - and integrin-binding protein (CIB2, (USH1G) [9]; USH1J) studies showed that mutations in MYO7A, USH1C, CDH23, PCDH15, and USH1G, were found in 39–55%, 7–14%, 7–35%, 7–11%, and 0–7%, respectively (the frequency of CIB2 is still unknown) [10,11,12].
+In Japanese, Nakanishi et al.showed that MYO7A and CDH23 mutations are present in USH1 patients [13], however, the frequency is not yet known.
+In addition, mutations in three corresponding genes (usherin USH2A [14], G protein-coupled receptor 98; GPR98 [15], and deafness, autosomal recessive 31; DFNB31 [16]) have been reported so far in USH2, and USH3 is caused by mutations in the clarin 1 (CLRN1) [17] gene Comprehensive molecular diagnosis of USH has been ham- pered both by genetic heterogeneity and the large number of exons for most of the USH genes.
+The six USH1 genes collectively contain 180 coding exons [4,9,10] the three USH2 genes comprise 175 coding exons [15,16,18], and the USH3 gene has five coding exons [17].
+In addition some of these genes are alternatively spliced ([4,7,8,16,17] and NCBI database: http://www.ncbi.nlm nih.gov/nuccore/).
+Thus far, large-scale mutation screening has been performed using direct sequence analysis, but that is both time-consuming and expensive.
+We thought that targeted exon sequencing of selected genes using the Massively Parallel DNA Sequencing (MPS) technology would enable us to systematically tackle previously intractable monogenic disorders and improve molecular diagnosis Therefore, in this study, we have conducted genetic analysis using MPS-based genetic screening to find mutations in nine causative USH genes (except CIB2) in Japanese USH1 patients Results Mutation analysis of the nine USH genes in 17 unrelated USH1 patients revealed 19 different probable pathogenic variants, of which 14 were novel (Table 1) All mutations were detected in only one patient each and sixteen of the 17 patients (94.1%) carried at least one mutation, while one patient had no mutations.
+Thirteen of the 16 mutation carriers each had two pathogenic mutations (Table 2) Nonsense, frame shift, and splice site mutations are all classified as pathogenic, whereas missense mutations are presumed to be probable pathogenic variants based on results of prediction software for evaluation of the pathogenicity of missense variants (Table 1) Of the 19 probable pathogenic mutations that we found, 17 were detected by MPS.
+The remaining two (p.Lys542GlnfsX5 in MYO7A and c.5821-2A.G in CDH23) were sequenced by direct sequence analysis Of our 17 USH patients, seven had MYO7A mutations (41.2%), three had CDH23 mutations (17.6%), and two had PCDH15 mutations (11.8%).
+We did not find any probable pathogenic mutations in USH1C, USH1G, and USH2/3 genes Four USH1 patients (Cases #3, 5, 8, 15) had probable pathogenic mutations in two different USH genes, with one being a biallelic mutation (Table 3).
+The other heterozygous/homozy- gous mutations were missense variants.
+Three of these patients (Cases #3, 5, 8) presented with earlier RP onset (night blindness) than in the other patients with two pathogenic mutations (Cases #1, 6, 7, 9, 11, 16) (p = 0.007) (Fig.
+1) One patient (Case #4) had heterozygote mutations in two in MYO7A and c.158-1G.A in (p.Ala771Ser USH1 genes MPS for Diagnosis of Usher Syndrome Type 1 PCDH15).
+His parents and one brother were found to also be carriers for these mutations.
+Another brother had no variants (Fig.
+2) Discussion For USH1, early diagnosis has many immediate and several long-term advantages for patients and their families [1].
+However, diagnosis in childhood, based on a clinical phenotype, has been difficult because patients appear to have only non-syndromic HL in childhood and RP develops in later years.
+Although early diagnosis is now possible through DNA testing, performing large- scale mutation screening for USH genes in all non-syndromic HL children has been both time-consuming and expensive.
+Therefore, the availability of MPS, which facilitates comprehensive large- scale mutation screening [19] is a very welcome advance MPS technology enabled us to detect pathogenic mutations in USH1 patients efficiently, identifying one or two pathogenic/likely pathogenic mutations in 16 of 17 (94.1%) cases.
+This was comparable to previous direct sequence analysis results such as Bonnet et al.
+who detected one or two mutations in 24 out of 27 (89%) USH1 patients [11] and Le Quesne Stabej et al.
+who detected one or two mutations in 41 out of 47 (87.2%) USH1 patients [12] In addition, MPS assists in the analysis of disease modifiers and digenic inheritance because it simultaneously investigates many causative genes for a specific disease, such as in our case, USH Previous reports have described several USH cases with patho- genic mutations in two or three different USH genes [11,12,20].
+In our study, four patients had two pathogenic mutations in one gene and missense variants in a different gene (Table 3).
+We considered the latter to possibly be a disease modifier.
+For example, USH1C:p.Tyr813Asp, which occurred in 0/384 control chromo- somes and was predicted to be ‘‘probably damaging’’ by the found with a homozygous CDH23 Polyphen program, was (Case #15).
+As for what the nonsense mutation (p.Arg2107X) variant ‘‘modifies’’, we speculate that for USH1 patients with a disease modifier, RP symptoms such as night blindness show an earlier onset.
+However, we think that profound HL and the absence of vestibular function in USH1 patients are not affected by modifiers as they are congenital and therefore not progressive Ebermann et al.
+described a USH2 patient with ‘‘digenic inheritance.’’ a heterozygous truncating mutation in GPR98, and a truncating heterozygous mutation in PDZ domain-containing 7 (PDZD7), which is reported to be a cause of USH [20].
+Our USH1 (Case #4) had segregated MYO7A:p.Ala771Ser and patient PCDH15:c.158-1G.A.
+Molecular analyses in mouse models have shown many interactions among the USH1 proteins [2].
+In particular, MYO7A directly binds to PCDH15 and both proteins are expressed in an overlapping pattern in hair bundles in a mouse model [21].
+PCDH15:c.158-1G.A, predicted to alter the splice intron 3, has been classified as pathogenic donor MYO7A:p.Ala771Ser is a non-truncating mutation, but was previously reported as disease-causing [13].
+So, we consider the patient to be the first reported case of MYO7A/PCDH15 digenic inheritance site of However, we should be aware of two limitations of MPS technology.
+First, the target region of MPS cannot cover all coding exons of USH genes.
+Actually, the coverage of the target exons was 97.0% in our study.
+So, it is impossible to detect a mutation in a region which is not covered using this system (Case #9: c.5821- 2A.G).
+Secondarily, the MPS system used in this study, is not effective for detecting homo-polymer regions, for example poly C stretch [22] (Case #8: p.Lys542GlnfsX5).

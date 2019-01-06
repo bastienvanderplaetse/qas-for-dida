@@ -1,0 +1,162 @@
+Abstract Background.
+Focal segmental glomerulosclerosis (FSGS) is a major cause of steroid-resistant nephrotic syndrome in childhood with a central role for the podocytes in the patho- genesis.
+Mutated proteins expressed in podocytes cause proteinuria.
+The role of combined gene defects in the de- velopment of FSGS is less clear Methods.
+We analysed seven podocyte genes known to cause proteinuria and FSGS in a group of 19 non-familial childhood-onset steroid-resistant FSGS patients.
+These genes include NPHS1, NPHS2, ACTN4, CD2AP, WT-1, TRPC6 and PLCE1.
+We also screened for the mitochon- drial A3243G DNA transition associated with the MELAS syndrome (mitochondrial myopathy, encephalopathy, lactic acidosis and stroke-like episodes), and occasionally FSGS Results.
+No mutations were found in the ACTN4 and TRPC6 genes, and no mitochondrial A3243G DNA tran- sition was found in our group of patients.
+Two patients showed mutations in the CD2AP gene, one combined with an NPHS2 mutation.
+A tri-allelic hit was found in a patient carrying compound heterozygous NPHS2 mutations and a heterozygous NPHS1 mutation.
+In another patient a de novo WT-1 mutation was found combined with a heterozygous NPHS1 mutation, and finally two patients showed three heterozygous PLCE1 mutations Conclusions.
+In our rather small group of 19 steroid- resistant FSGS patients, we found 11 mutations in podocyte genes in 6 patients.
+In four of them the found mutations could explain the pathology.
+Our data suggest that com- bined gene defects in podocyte genes may play a role in the development of FSGS Keywords: bigenic; CD2AP; focal segmental glomerulosclerosis en podocin Correspondence and offprint requests to: Lambert P.
+van den Heuvel, Department of Paediatric Nephrology, PO Box 9101, 6500 HB Nijmegen, The Netherlands.
+Tel: +31-24-3617983; Fax: +31-24-3618900; E-mail: B.vandenheuvel@cukz.umcn.nl C(cid:1) The Author [2008].
+Published by Oxford University Press on behalf of ERA-EDTA.All rights reserved For Permissions, please e-mail: journals.permissions@oxfordjournals.org Downloaded from https://academic.oup.com/ndt/article-abstract/23/10/3146/1850643 by ULB user on 16 April 2018 Introduction Focal segmental glomerulosclerosis (FSGS) is a major cause of steroid-resistant nephrotic syndrome in childhood, accounting for about 75% of patients and frequently leading to end-stage renal disease.
+The aetiology of primary FSGS remains unknown in most cases.
+The recurrence of the dis- ease after renal transplantation in approximately one-third of the patients suggests the presence of a ‘circulating FSGS factor’, which until now has not been identified [1] Molecular studies in humans and mouse models revealed a central role of glomerular podocyte damage in the devel- opment of FSGS [2].
+A growing number of proteins, ex- pressed by podocytes, contributing to the structure of the slit diaphragm (nephrin, podocin and CD2AP) and/or function of the cytoskeleton (alpha-actinin 4) of the podocyte, cause proteinuria when mutated [3–6].
+Mutations in the WT1 tran- scription factor [7] and in TRPC6 [8], a calcium-permeable cation channel, also lead to abnormal podocyte function and proteinuria.
+More recently, mutations in PLCE1, encoding a phospolipase involved in the initiation of a cascade of cel- lular processes resulting in cell growth, cell differentiation and gene expression, were found in familial FSGS patients [9].
+The mitochondrial A3243G transition is mainly associ- ated with the MELAS syndrome (mitochondrial myopathy, encephalopathy, lactic acidosis and stroke-like episodes) [10], but is also found in FSGS patients possibly with or without maternally inherited diabetes and/or sensorineural hearing loss [11,12] It might be suggested that the degree of podocyte dys- function determines whether the patient would develop con- genital nephrotic syndrome or nephrotic syndrome due to FSGS later in life.
+Studies in mice demonstrated that bigenic ± heterozygosity in podocyte genes (CD2AP or ± mice) led to the development of proteinuria and Synpo FSGS-like renal damage while isolated haploinsufficiency did not cause renal disease [13].
+Whether combined defects in podocyte genes play a role in the development of human FSGS is less clear.
+In this study, we have therefore investi- gated the occurrence of mutations of seven podocyte genes ± with Fyn Bigenic heterozygosity Table 1.
+Clinical data of the patients with non-familial steroid-resistant FSGS Data at admission 3147 Pt Sex Age at onset (months) Proteinuria (g/l) Serum albumin (g/l) Serum creatinine (µmol/l) Immunosuppressive treatment Response to treatment FSGS classification 6.0 5 14.5 10.5 14 37.9 49.4 2.2 7.7 6.3 19.2 15.9 4.6 3.2 11.1 55 5.8 4.3 2.9 26 16 23 18 14 18 19 32 19 30 20 15 28 25 18 22 11.5 16 38 79 21 51 30 45 54 141 119 67 36 35 54 112 43 51 45 269 40 130 M 42 F 36 F 103 M 10 M 38 M 10 F 22 M 160 M 90 F 49 M 12 M 138 F 94 M 64 F 128 M 100 M 72 M 40 M 162 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 Pt = patient, M = male, F = female, csA = cyclosporin A, Pred = prednisone, MMF = mycophenolate mofetil, Cph = cyclophosphamide, CR = complete remission and PR = partial remission.
+FSGS Classifications: NOS = not otherwise specified, Col.= collapsing lesion, Tip = tip lesion, Per.
+= perihilar lesion, Cel.= cellular lesion, adv.
+= advanced, na = not available aIn this patient a short-standing decline of proteinuria under prednisone treatment was seen followed by an increase of proteinuria and deterioration of renal function csA, Pred Cph csA, Pred No Cph, Pred csA, Pred csA, Pred Pred csA, Pred csA, Pred csA, Pred csA, Pred, MMF csA, Pred csA, Pred csA, Pred csA no, † csA, Pred Pred NOS, adv.
+Col mild Col early NOS Col Col Col Cel NOS na Per NOS Col Col adv.
+NOS Col na adv.
+Per Cel early NOS No No No – No CR PR PR PR No CR PR CR No PR No – PR CRa in a group of non-familial childhood-onset steroid-resistant FSGS patients Subjects and methods Patients Nineteen patients, aged 10–162 (average 72) months, 13 males, with steroid-resistant nephrotic syndrome due to biopsy-proven FSGS were analysed.
+Steroid resistance was defined as persistent proteinuria after 6 weeks of pred- nisone treatment (60 mg/m2/day).
+The relevant clinical data of the patients are provided in Table 1 Molecular genetic studies DNA was isolated from peripheral blood leukocytes and urine sediments were collected from non-transplanted pa- tients to isolate DNA using a commercially available DNA isolation kit (PuregeneTM DNA isolation kit, Gentra sys- tems, MN, USA) (NM_004924.2), Amplification of (AH003034), ACTN4 the NPHS1 (GenBank accession (AJ279246- number AF190637-AF035835), NPHS2 (AF164377/NT_007592), WT- AJ279253), CD2AP TRPC6 1 (NP_004612) and PLCE1 (NM_016341/NT_030059) exons was performed by PCR.
+Primer data are available on (cid:2) request.
+The 5 -UTR region of NPHS1 was also analysed The PCR products were analysed by DNA sequencing (Dye Terminator Cycle Sequencing, PE Applied Biosystems, Foster City, CA, USA).
+The genomic DNA from 150 healthy ethnically matched control individuals was used to confirm novel mutations (cid:2) -CAACTTAGTATTATACCCACAC-3 Screening for the mtDNA A3243G transition (MELAS mutation) was performed by PCR using the following (cid:2) (cid:2) - and5 primers: 5 (cid:2) ATTAGAATGGGTACAATGAGGA-3 , leading to a PCR product of 162 bp.
+PCR products were subsequently di- gested overnight with ApaI restriction enzyme.
+The pres- ence of the A3243G mutation results in an additional re- striction site on position 104 bp of the PCR product.
+The restriction fragments were analysed on a 1% agarose gel containing ethidium bromide to visualize the DNA.
+Due to the heteroplasmic state of the mitochondrial mutation and the differences in threshold values of tissues, mutation analysis was performed using DNA from peripheral blood leukocytes and from urine sediment Results All patients presented with steroid-resistant FSGS.
+Treat- ment regiment after a renal biopsy and response to this treatment are listed in Table 1 Not a single patient had a mutation in the ACTN4 or TRPC6 gene and no MELAS mutation in the mtDNA was found.
+Four patients (21%) had mutations in the WT1, NPHS1, NPHS2 and/or CD2AP genes that could explain the pathology (see Table 2 and Figures 1 and 2).
+In addition, two patients showed three heterozygous PLCE1 mutations (see Table 2).
+The two missense mutations in patient 6 orig- inated from the paternal allele.
+Short clinical summaries and the results of DNA analysis of the four patients in which the disease-causing mutations have been established are provided below Downloaded from https://academic.oup.com/ndt/article-abstract/23/10/3146/1850643 by ULB user on 16 April 2018 3148 Table 2.
+Mutations detected in non-familial steroid-resistant FSGS patients WT-1 eff mut P nt sub NPHS1 NPHS2 st nt mut sub eff mut st nt mut sub eff mut st Nt mut sub CD2AP eff mut st nt mut sub M.
+L¨owik et al PLCE1 eff mut st mut 1228+5 G>A splice het 791 C>G 1126 C>G P264R het L376V het 1488 G>Aa M496I het 622 G>A 413 G>A 948 DelTa A208T R138Q frame shift het het het 1834 C>T R612X hom 1 2 3 4 5 6 1807 G>Ta 3491 C>Ta 3518 C>Ta E603X het T1164M het S1177F het Patient (P) numbers 1–6 correspond with the numbers in Table 1 aNovel mutation, not reported in the literature before nt = nucleotide, sub.
+= substitution, eff.= effect, mut = mutation, st.
+= status, het = heterozygous, hom = homozygous Patient 1 A white male, the only child of two healthy parents, pre- sented at the age of 3.5 years with an upper airway in- fection and oedema.
+Physical examination revealed severe peripheral oedema and ascites.
+Blood pressure was 120/83 mmHg.
+Urinalysis showed proteinuria 6 g/l and micro- scopic haematuria.
+Serum creatinine was 79 µmol/l, al- bumin –26 g/l and cholesterol 10.8 mmol/l.
+Complement factors C3 and C4 were normal.
+As 6 weeks of pred- nisone treatment 60 mg/m2/day gave no improvement, a renal biopsy was performed.
+Microscopic examination of renal tissue revealed FSGS.
+Patient 1 was treated with cy- closporin, a low dose of prednisone and enalapril without clinical response.
+End-stage renal disease developed at the age of 8 years, when haemodialysis was initiated.
+Renal transplantation with a post-mortal graft was performed a half year later.
+Native kidneys remained in situ.Because of delayed graft function, the renal biopsy was performed 2 weeks after transplantation and demonstrated profound acute tubular necrosis and podocyte foot effacement.
+Re- currence of FSGS in the renal graft was suggested and treated with plasma exchange with only slight effect on re- nal function and proteinuria.
+At present he is 10 years old, and has persisting nephrotic syndrome and pre-terminal re- nal failure Together with the earlier reported NPSH2 (A208T) mu- tation of maternal origin [14], a heterozygous mutation of CD2AP (1488 G>A, M496I) (Figure 1a), not described before, of paternal origin was found.
+The amino acid sub- stitution in podocin replaces the aliphatic amino acid ala- nine by threonine, an amino acid with a sulphur-containing side chain.
+Using a standard phosphorylation prediction site (Netphos 2.0), the presence of threonine in the mutated podocin protein may introduce an additional phosphory- lation site for the protein kinase CKI and may therefore alter the secondary structure and possibly its oligomeriza- tion.
+The mutation is situated at the C-terminus respon- sible for interactions with nephrin and CD2AP [15] that may be affected by the mutation as well.
+The CD2AP (M496I) substitution results in the replacement of the sulphur-containing amino acid methionine in the aliphatic amino acid isoleucine.
+The mutation is located between the proline-rich region and the coiled-coil domain at the C-terminus.
+Both parents had a normal serum creatinine and no proteinuria Patient 2 A white female presented at the age of 3 years with mild periorbital and pretibial oedema and slightly ele- vated blood pressure (120/70 mmHg).
+Urinalysis revealed proteinuria 4–8 g/l and microscopic haematuria.
+Serum creatinine was in the normal range (21 µmol/l).
+During the 6-week treatment with prednisone (60 mg/m2/day) the oedema became more pronounced.
+A biopsy was performed.
+Light microscopy showed collapse of some capillary loops with moderate sclerosis.
+Immunofluores- cence demonstrated mild staining for IgM, C1q and C3 in the mesangium.
+Electron microscopy revealed fusion of the podocyte foot processes.
+Cyclophosphamide treat- ment gave no improvement.
+Her renal function gradually decreased.
+She received a post-mortal graft at the age of 5.5 years.
+The nephrotic syndrome did not yet recur Patient 2 presented a tri-allelic hit (Figure 1b and c) [16] The heterozygous NPSH1 mutation (791 C>G, P264R) has been described before [16].
+The amino acid substitution is situated in the extracellular domain of nephrin, in the third immunoglobulin motif.
+The cyclic amino acid proline is replaced by the basic amino acid arginine.
+Two heterozy- gous NPSH2 mutations were also found in this patient.
+The Downloaded from https://academic.oup.com/ndt/article-abstract/23/10/3146/1850643 by ULB user on 16 April 2018 Bigenic heterozygosity 3149 Fig.
+2.Family trees of the patients with mutations in one or more podocyte genes.
+(A) Patient 1 with mutations in NPHS2 (A208T) and CD2AP (M496I).
+(B) The tri-allelic hit in patient 2 with mutations in the NPHS1 (P264R) and NPHS2 (delT/R138Q) gene.
+Parents and siblings did not show proteinuria.
+(C) Inheritance of the NPHS1 mutation (L376V) in pa- tient 3 also carrying the de novo WT-1 mutation 1228 + 5 G>A.
+(D) The CD2AP mutation (R612Stop) in patient 4 (circle = female, box = male, dashed circles/boxes represent heterozygous mutations, the filled box a homozygous mutation) 14.5 g/l protein and 25–50 erythrocytes per high power field.
+Serum creatinine was 51 µmol/l, albumin –23 g/l and cholesterol –8.6 mmol/l.
+Complement factors C3 and C4 were normal.
+Hepatitis B, C and HIV serology were neg- ative.
+Renal ultrasound was normal.She did not respond to the initial treatment with prednisone 60 mg/m2/day dur- ing 6 weeks.
+Light microscopic examination of renal tissue revealed FSGS in 4 glomeruli and slight mesangial hyper- cellularity in the other 10 glomeruli.
+Patient 3 was treated with cyclosporin A and low-dose prednisone with an ini- tially partial response: decrease of proteinuria to 1–2 g/l and increase of serum albumin to 34–37 g/l.
+The treat- ment with enalapril had to be discontinued because of the development of urticaria.
+Four years later, she developed overt nephrotic syndrome despite the continuation of cy- closporin treatment and the addition of prednisone and an- giotensin II receptor blocker.
+Renal function deteriorated rapidly with the development of end-stage renal disease at the age of 14.5 years.
+After the initiation of haemodialysis, bilateral nephrectomy was performed because of the per- sistent nephrotic syndrome and severe hypertension.
+At the age of 16 years she received a post-mortal renal graft.
+Two and a half years later she developed proteinuria (0.9 g/l) due to acute rejection without any signs of the recurrence of FSGS on renal biopsy.
+Treatment by methyl prednisolone was successful.
+The patient is currently 19 years old and has a well-functioning renal graft In addition to an earlier reported de novo WT-1 mu- tation [14], she has a heterozygous mutation of NPSH1 (1126C>G, L376V), already previously reported [3].
+The Fig.
+1.Sequence chromatograms of patients 1 and 2.
+The left panel shows the mutations in the patients, and the right panel the wild-type sequence (A) The heterozygous 1488 G>A (M496I) substitution in the CD2AP gene found in patient 1 (paternal (p)).
+This patient also carries a het- erozygous NPHS2 mutation (622 G>A, A208T, maternal) [14].
+(B) The arrow shows the maternally (m) inherited heterozygous 791 C>G (P264R) NPHS1 substitution in patient 2.
+(C) The maternally (upper) and paternally (lower) inherited mutations in NPHS2, 948 del T and 413 G>A (R138Q) respectively in patient 2 first mutation (413G>A, R138Q), paternally inherited, is already known [4].
+The amino acid substitution situated at the C-terminus involves the replacement of the basic amino acid arginine to the acidic amino acid glutamine.
+The sec- ond one (948 del T) has not been described before and re- sults in a truncated protein and a premature stop codon 31 amino acids downstream.
+This mutation is situated in exon 8 and is responsible for an aberrant C-terminus of podocin The mother had the NPSH1 mutation and the NPSH2 dele- tion.
+Two brothers of the patient were also screened for the presence of the NPHS1/NPHS2 mutations (Figure 2b).
+Both brothers were found to have the paternal R138Q NPHS2 mutation and one also showed the maternal P264R NPHS1 substitution.
+Both brothers, as well as both parents, had normal serum creatinine and no proteinuria Patient 3 Patient 3, a white female, presented at the age of 8.5 years with general malaise and abdominal pain.
+Physical exami- nation was unremarkable; there was no peripheral oedema Blood pressure was 120/80 mmHg.
+Urinalysis revealed Downloaded from https://academic.oup.com/ndt/article-abstract/23/10/3146/1850643 by ULB user on 16 April 2018 3150 heterozygous NPHS1 mutation was of maternal origin.
+The mother had no symptoms Patient 4 This patient has a homozygous CD2AP mutation (1834 C>A, R612X) and is the subject of a separate report [17] Discussion This is the first report on DNA analysis of seven podocyte genes in a series of childhood-onset non-familial biopsy- proven FSGS patients.
+Although this series of patients is rather small, it revealed interesting data suggesting that the combined haploinsufficiency in two podocyte genes might be responsible for the development of FSGS in humans Patient 1 had a combination of a previously reported ma- ternal NPHS2 mutation [14] and a novel paternal CD2AP mutation.
+Both parents carrying one of these mutations exhibited no renal disease.
+This finding is extremely in- teresting in light of the recent studies in mouse models of FSGS, demonstrating that heterozygous CD2AP muta- tions might sensitize podocytes to mutations of other genes (synaptopodin and Fyn proto-oncogene) while isolated het- erozygous mutations in these genes did not result in the development of FSGS [13].
+Our data suggest that in pa- tients with FSGS and heterozygous NPHS2 mutations, the additional analysis of the CD2AP gene is warranted A tri-allelic digenic inheritance observed in our patient 2 has been previously reported in five patients in the series of Koziell et al.
+[16].Both NPHS2 mutations are situated in the nephrin-binding domain (amino acid 125–385) [15].
+Most probably the compound heterozygous state of the NPHS2 mutations is causative for the development of FSGS.
+This is strengthened by the fact that one of the patient’s sib- lings carries the heterozygous R138Q NPHS2 and P264R NPHS1 mutations and did not show any proteinuria.
+Fur- thermore, the NPHS1 mutation is not situated in the podocin interacting region of amino acid 1167–1256 [18] In patient 3 the heterozygous de novo intron 9 splice- site mutation of WT1 is probably responsible for the renal phenotype.
+This mutation is previously found in patients with the Frasier syndrome (nephrotic syndrome with FSGS, male pseudo-hermaphroditism and a higher risk of devel- oping gonadoblastoma).
+WT1 intron 9 splice-site mutations are responsible for a disturbed DNA binding capacity of this transcription factor [19].
+The role of the additional maternal inherited NHPS1 gene mutation is unclear.
+The NPHS1 mu- tation (L376V) is first described in a patient with congenital nephrotic syndrome of the Finnish type (large placenta, pro- teinuria at birth with nephrotic syndrome appearing during the first weeks of life).
+The patient was homozygous for one mutation (P368S) and had the L376V mutation in only one allele [3] In one patient (number 5) a single PLCE1 mutation was found (E603X).
+In the familial cases of nephrotic syn- drome, two patients of one out of six families investigated were found to have FSGS [9].
+The biopsies of the other families revealed diffuse mesangial sclerosis (DMS).
+The histological differentiation between childhood-onset FSGS M.
+L¨owik et al and infantile DMS is however not a sinecure.
+The single heterozygous mutation is most probably not causative for developing FSGS since both parents, and therefore also one of the carriers of this mutation, show no renal abnor- malities.
+In a second patient (number 6) we observed two novel missense mutations in the PLCE1 gene (T1164M and S1177F).
+Both mutations originated from the paternal allele and could therefore not explain the clinical pathol- ogy.
+Although PLCE1 knockout mice did not show any nephrosis-like phenotype [9, 20], knocking down the ze- brafish ortholog of PLCE1 showed foot process effacement and disorganization of the slit diaphragms.
+Nothing can be said about any possible effect on the glomerular filtration barrier when the zebrafish ortholog of PLCE1 was knocked down only partially.
+It is not unlikely that, as in patient 1, future studies might reveal another gene to be involved in the pathogenesis of FSGS in patient 5 and maybe 6 The meaning of a heterozygous mutation in developing a renal phenotype is not clear [21].
+A single mutation in a recessive disorder is unable to induce a pathologic effect The second mutation may have gone unnoticed or that an- other gene(s) may produce an additive effect.
+This additive effect could be the mutation in CD2AP in our first patient The observed mutations in patient 1 are highly interesting in this respect.
+Podocin is a protein of 383 amino acids with a membrane domain and two cytoplasmic ends at the C- and N-terminus [4].
+Podocin oligomers associate in a lipid raft at the podocyte membrane and clusters nephrin.
+CD2AP is an adaptor protein that functions as an integral member of the slit-diaphragm complex by interacting with podocin and nephrin and anchoring them to the actin cytoskeleton Podocin interacts through its C-terminal end (amino acid 125–385) with CD2AP and nephrin [15].
+The heterozy- gous NPHS2 mutation in our patient was located inside the podocin interaction region and may impair the interac- tion with CD2AP.
+Two patients with FSGS and a mutation affecting the splice acceptor of exon 7 of CD2AP in one allele, described by Kim et al.
+[6], resulted in a truncated protein.
+The paternally inherited CD2AP mutation in our patient is located between the proline-rich region and the coiled-coil domain of the CD2AP protein.
+It is probable that the mutation in our patient affects the function of CD2AP to a lesser degree than in the patients described by Kim et al [6].
+The CD2AP mutation alone is not responsible for the development of FSGS.
+The father with the heterozygous mutation of CD2AP had a normal serum creatinine and no proteinuria New genetic defects explaining FSGS will be revealed in the near future.
+For instance, missense mutations in LAMB2 encoding laminin β2 may cause FSGS without eye abnor- malities [22].
+Analyses of LAMB2 were not performed in our group since patients with this disorder rarely lack eye abnormalities.
+The knowledge of a genetic defect is impor- tant as aggressive treatment of the nephrotic syndrome can be avoided and the prognosis of the renal transplant can be predicted although the finding of a genetic defect does not exclude the recurrence of nephrotic syndrome in the renal graft [23,24,25] Our data demonstrate that combined genetic defects in podocyte genes may play a role in the development of FSGS in humans.
+Altered interactions between several podocyte Downloaded from https://academic.oup.com/ndt/article-abstract/23/10/3146/1850643 by ULB user on 16 April 2018 Bigenic heterozygosity proteins can make podocytes vulnerable for the ‘second hit’ factors and result in genetic susceptibility of a subset of patients.
+Further studies of the numerous podocyte genes coming from human and animal studies will provide new insights into the pathophysiology of FSGS in humans Acknowledgements.
+We would like to thank the families and their physi- cians for their participation in this study.
+This work was supported by a grant of the Dutch Kidney Foundation (project number C.98-1764) Conflict of interest statement.

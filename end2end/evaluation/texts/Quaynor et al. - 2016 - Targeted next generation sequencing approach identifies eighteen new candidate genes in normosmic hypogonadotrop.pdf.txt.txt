@@ -1,0 +1,55 @@
+a b s t r a c t Article history: Received 12 April 2016 Received in revised form 3 August 2016 Accepted 3 August 2016 Available online 5 August 2016 Keywords: Next generation DNA sequencing Kallmann syndrome Hypogonadotropic hypogonadism Delayed puberty GnRH deﬁciency The genetic basis is unknown for ~60% of normosmic hypogonadotropic hypogonadism (nHH)/Kallmann syndrome (KS).
+DNAs from (17 male and 31 female) nHH/KS patients were analyzed by targeted next generation sequencing (NGS) of 261 genes involved in hypothalamic, pituitary, and/or olfactory path- ways, or suggested by chromosome rearrangements.
+Selected variants were subjected to Sanger DNA sequencing, the gold standard.
+The frequency of Sanger-conﬁrmed variants was determined using the ExAC database.
+Variants were classiﬁed as likely pathogenic (frameshift, nonsense, and splice site) or predicted pathogenic (nonsynonymous missense).
+Two novel FGFR1 mutations were identiﬁed, as were 18 new candidate genes including: AMN1, CCKBR, CRY1, CXCR4, FGF13, GAP43, GLI3, JAG1, NOS1, MASTL, NOTCH1, NRP2, PALM2, PDE3A, PLEKHA5, RD3, and TRAPPC9, and TSPAN11.
+Digenic and trigenic variants were found in 8/48 (16.7%) and 1/48 (2.1%) patients, respectively.
+NGS with conﬁrmation by Sanger sequencing resulted in the identiﬁcation of new causative FGFR1 gene mutations and suggested 18 new candidate genes in nHH/KS © 2016 Elsevier Ireland Ltd.
+All rights reserved 1.
+Introduction The development of reproductive function in humans is regu- lated by complex signaling interactions of the hypothalamic- pituitary-gonadal (HPG) axis.
+Disruption of any component of this system may result in delayed puberty and infertility (Layman, 2013a,b).
+Central nervous system defects may impair GnRH action and function resulting in GnRH deﬁciency, also known as hypo- gonadotropic hypogonadism, which may be manifested clinically * Corresponding author.
+Section of Reproductive Endocrinology, Infertility, & Genetics, Department of Obstetrics & Gynecology, Medical College of Georgia, Augusta University, 1120 15th Street, Augusta, GA 30912, United States E-mail address: lalayman@augusta.edu (L.C.
+Layman) 1 Samuel Quaynor and Maggie Bosley contributed equally http://dx.doi.org/10.1016/j.mce.2016.08.007 0303-7207/© 2016 Elsevier Ireland Ltd.
+All rights reserved by low sex steroids and low or inappropriately normal gonado- tropins.
+To date, two principle conditions constitute deﬁciency in GnRH signaling, namely normosmic hypogonadotropic hypo- gonadism (nHH) and Kallmann Syndrome (KS).
+Patients with KS present with hypogonadotropic hypogonadism and a lack of smell due to the impaired migration of GnRH and olfactory neurons Apart from pubertal and reproductive disturbances, other associ- ated anomalies such as renal agenesis, midfacial defects, neurologic defects, and cardiac anomalies have been reported (Layman, 2013a,b; Bhagavath et al., 2006) Even with improved knowledge of GnRH development and function, only 40% of all nHH/KS cases can be explained by reported mutations in more than 30 genes.
+Some mutations occur in ligand/ receptors such as KAL1/FGF8/FGFR1/HS6ST1, LEP/LEPR, GNRH1/ GNRHR, PROK2/PROKR2, KISS1/KISS1R, and TAC3/TACR3 (Layman, S.D.
+Quaynor et al./ Molecular and Cellular Endocrinology 437 (2016) 86e96 87 2013a,b).
+Other identiﬁed genes include NR0B1, CHD7, NELF, WDR11, SEMA3A, SOX10, FGF17, IL17RD, DUSP6, SPRY4, FLRT3, FEZF1, STUB1, HESX1, PCSK1, RNF216, and OTUD4 (Layman, 2013a,b; Hanchate et al., 2012; Tornberg et al., 2011; Margolin et al., 2013).
+These causative genes were identiﬁed through linkage analysis, candidate gene approaches, and positional cloning (Layman, 2013a,b; Kim et al., 2008a,b, 2010).
+The inheritance pattern of nHH/KS includes X-linked recessive, autosomal dominant, autosomal recessive, sporadic, and at least several percent appear to be digenic/oligo- genic (Quaynor et al., 2011; Sykiotis et al., 2010a,b).
+Molecular studies performed by both in vitro and in vivo analysis of the genes indicate that either the development/migration or signaling of GnRH is altered or impaired (Layman et al., 1998; Quaynor et al., 2013) The majority of molecular causes of nHH/KS are yet to be characterized.
+This gap in our understanding may be narrowed with advancements in massively parallel deep resequencing methods, otherwise known as next generation sequencing (NGS), which includes targeted NGS, whole exome sequencing, and whole genome sequencing.
+More expedient, less expensive, and theoret- ically more accurate results should be able to be obtained using NGS (Metzker, 2010).
+The goal of the present study was to identify new nHH/KS candidate genes using targeted NGS of potentially relevant known genes that are involved in GnRH and olfactory neuron development, migration and signaling 2.
+Materials and methods 2.1.
+Genes selected for NGS The list of 261 genes was gathered from the literature to identify important genes involved in hypothalamic or pituitary develop- ment, GnRH or olfactory neuron speciﬁcation, migration, or regu- lation, nHH/KS known pathway genes, or genes located near derivative chromosome breakpoints in nHH/KS patients with chromosome translocations (genes shown in Table 1; references for gene selection shown in Supplemental Table 1).
+All known nHH/KS genes at the time of the study initiation in 2011 were also included (Layman, 2013a,b).
+For most genes, 95e100% of the desired sequence was covereddprotein coding exons and splice junctions, but it was not 100% of all candidate genes.
+For 7 genes, FAM60A, FGF20, FGF7, GSTM1, HS6ST1, TUBB2A, and TUBB2B, the coverage ranged from 61 to 89.2% (Supplemental Table 2) 2.2.
+Patients Hypogonadotropic hypogonadism was deﬁned as the absence of puberty (age 17 in females; 18 in males) with low/normal FSH and LH levels (Bhagavath et al., 2006).
+Affected males had serum testosterone levels less than 100 ng/dL (normal: 300e1100 ng/dL), whereas females had absent breast development and hypoestro- genic amenorrhea (Bhagavath et al., 2006).
+MRI of the brain and pituitary was normal.
+Serum prolactin, thyroid stimulating hor- mone (TSH), thyroxine (T4), and cortisol were normal (Bhagavath et al., 2006).
+Patients characterized as nHH exhibited a normal sense of smell by the Smell Identiﬁcation Test or by history, while those with KS had absent or decreased sense of smell (Quaynor et al., 2011) Seventeen males (10 with KS, 5 with nHH, and 2 with unknown sense of smell) and 31 females (12 with KS, 17 with nHH, and 2 with unknown sense of smell) were studied by NGS.
+No patients had mutations in any known nHH/KS genes; and none had undergone NGS previously.
+This study was approved by the Augusta University Human Assurance Committee, and all patients consented to participate in the study 2.3.
+Targeted next generation sequencing Genomic DNAs from 48 patients were extracted from blood using phenol-chloroform and ethanol precipitation (Xu et al., 2011) and treated with RNAse to remove residual RNA.
+DNA (2-3mg) was submitted to Otogenetics Corporation (Norcross, GA USA) for selected target enrichment and sequencing.
+Control DNA was pro- vided by Otogenetics Corporation.
+Genomic DNA was subjected to agarose gel and OD ratio tests to conﬁrm the purity and concen- tration prior to quantiﬁcation by the Qubit assay (Life Technologies, Grand Island, NY USA).
+DNA fragmentation using restriction enzyme digestion and target enrichment and Illumina ready li- braries were made using HaloPlex target enrichment kits (Agilent, Santa Clara, CA USA, Catalog# G9901B) following the manufac- turer's instructions.
+Enriched libraries were tested for enrichment, size distribution, and concentration by an Agilent 2200 TapeStation For the selected genes, 261 target IDs were resolved to 285 targets comprising 3099 regions of the genome DNA sequencing was performed on an Illumina HiSeq2000 to generate paired-end reads of 100 nucleotides and 30X coverage Burrows-Wheeler Aligner (BWA) was used to map sequence reads to the genome; Genome Analysis Toolkit (GATK) was utilized to call exome-wide variants; and SnpEff was used to annotate variants (missense, nonsense, etc.).
+Sequence was ﬁltered to exclude syn- onymous changes and variants in SNP database v132.
+Selected variants conﬁrmed by Sanger sequencing were also assessed for frequency in the ExAC database (http://exac.broadinstitute.org/) Binary alignment map (BAM) ﬁles of selected variants were manually evaluated to determine if the variant was identiﬁed close to the ends of the PCR fragments, which could be more problematic to map since A's are placed at the ends of amplicons during PCR These were classiﬁed in 10 percent increments (0e10%, 11e20%, 21e30%, etc.) based upon the percentage of reads within 10 bp from the end of fragments out of total reads (referred to as end reads) in BAM ﬁles.
+Variants were classiﬁed according to guidelines from the American College of Medical Genetics and Genomics and Associa- tion for Molecular Pathology as class 4dlikely pathogenic (frame- shift, nonsense, 3 (nonsynonymous missense), which were predicted deleterious in silico (Richards et al., 2015) and canonical splice site) or class The 319 sequence variants identiﬁed by GATK were ﬁltered out with the following criteria: 1) depth < 20, 2) the number of patients with alternative allele > 5, 3) known variants, and 4) non-coding The minimum, average, and maximum depths (DP) of the ﬁnal variants are 95, 8425, and 12,000, respectively.
+The minimum, average, and maximum quality scores (QUAL) of the ﬁnal variants are 21, 1970, and 15,995, respectively 2.4.
+Sanger sequencing of variants Sanger sequencing is considered the gold standard to conﬁrm or refute nucleotide changes found by NGS.
+Any variant found by NGS is only preliminarydit must be conﬁrmed by Sanger DNA sequencing to consider it as a bonaﬁde variant.
+Only genes in which variants found by NGS and subsequently veriﬁed by Sanger sequencing were considered as being new candidate genes.
+Those variants identiﬁed by NGS, but not conﬁrmed by Sanger sequencing, were considered to be false positives Selected class 4 variants were subjected to Sanger sequencing and available family members were studied for the presence or absence of the variant (Quaynor et al., 2011).
+To prioritize missense variants, three different bioinformatic programs were used: SIFT (Sorting Intolerant from Tolerant) (Ng and Henikoff, 2003), Muta- tion Taster (Schwarz et al., 2010), and PolyPhen2 (Polymorphism Phenotyping) (Adzhubei et al., 2010).
+Missense variants were 88 S.D.
+Quaynor et al./ Molecular and Cellular Endocrinology 437 (2016) 86e96 Table 1 261 genes selected for targeted sequencing are shown along with the their proposed relevance to nHH/KS.

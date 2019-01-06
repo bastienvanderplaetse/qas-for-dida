@@ -1,0 +1,97 @@
+ABSTRACT: Bardet Biedl syndrome is a genetically heterogeneous ciliopathy with fourteen genes  currently identified.
+To date, mutations in BBS7 and TTC8 (BBS8) were reported in 4.2% and 2.8%  of  BBS  families  respectively.
+ We  sequenced  the  coding  regions  of  BBS7  and  TTC8  in  35  BBS  families  of  diverse  ancestral  backgrounds.
+ In  addition,  the  role  of  putative  modifier  genes  on  phenotype  severity;  NXNL1  and  MGC1203  c.430C>T,  was  assessed.
+ Genotype-phenotype  correlation  was  explored  in  patients  with  identified  mutations.
+ Four  novel  pathogenic  BBS7  changes were identified in 2/35 families (5.7%).
+In one family with two affected individuals with  BBS7  mutations,  a  more  severe  phenotype  was  observed  in  association  with  a  third  mutation  in  BBS4.
+The overall retinal phenotype appeared more severe than that seen in patients with BBS1  mutations.
+This study confirms the small role of BBS7 and TTC8 in the overall mutational load of  BBS  patients.
+ The  variability  of  the  ocular  phenotype  observed,  could  not  be  explained  by  the  putative modifier genes; NXNL1 and MGC1203 c.430C>T.
+© 2009 Wiley-Liss, Inc KEY WORDS: Bardet-Biedl syndrome, BBS7, TTC8, mutation, sequencing, blindness     INTRODUCTION  Bardet  Biedl  Syndrome  (BBS;  MIM#  209900)  is  a  systemic  disorder  affecting  an  estimated  1  in  150,000  individuals.
+Incidence increases within populations of high consanguinity or those that are geographically isolated  (Farag  and  Teebi,  1988;  Farag  and  Teebi,  1989;  Moore,  et  al.,  2005).
+ BBS  is  genetically  heterogeneous  with  fourteen genes currently identified (BBS1-BBS14) (see http://www.ncbi.nlm.nih.gov/omim/).
+These genes account  for approximately 75% of cases suggesting additional genes are yet to be identified (Stoetzel, et al., 2007).
+BBS is  inherited as an autosomal recessive disorder with a few cases where oligogenic influences are suggested (Beales,   et al., 2003; Katsanis, et al., 2001).
+BBS1 and BBS10 are major contributors to the disease, each accounting for at  least 20% of the mutational load.
+The remaining BBS genes are mutated in 5% or less of cases (Ansley, et al.,  2003; Badano, et al., 2003a; Hichri, et al., 2005; Smaoui, et al., 2006; Stoetzel, et al., 2006; Stoetzel, et al., 2007) The recognition that BBS is a ciliopathy is improving our understanding of the role of the BBS genes (Badano  Received 22 January 2009; accepted revised manuscript 2 April 2009 © 2009 WILEY-LISS, INC DOI: 10.1002/humu.21040  E738     Bin et al et  al.,  2006b),  as  well  as  the  basis  of  some  observed  defects,  underscoring  the  critical  role  of  primary  cilia  in  numerous disease processes.
+The BBS proteins have been shown to be important for the transport and localization  of  other  proteins  to  the  cilium,  affecting  both  cilium  biogenesis  and  ciliary  signaling  (Berbari,  et  al.,  2008;  Nachury, et al., 2007).
+Specifically, loss-of-function studies in C.elegans have suggested BBS-7 and BBS-8 are  required for intraflagellar transport (IFT), helping in the assembly of IFT particles at the base of the cilium and  their transport along the axoneme (Blacque, et al., 2004; Ou, et al., 2005; Pan, et al., 2006).
+Recently, BBS7 and  TTC8 have been identified as two components of the BBSome, a complex of BBS proteins which is believed to  recruit Rab8GTP to enter the primary cilium and promote ciliogenesis (Nachury, et al., 2007) The primary features of BBS include retinal degeneration, early-onset obesity, polydactyly, renal abnormalities,  hypogonadism, and cognitive impairment.
+Many patients also present with secondary features that include diabetes  mellitus, cardiac malformations, hypertension, developmental delay, hearing loss, anosmia, facial dysmorphism,  dental anomalies, situs inversus, and speech deficits among others (Beales, et al., 1999).
+Intrafamilial variation in  severity has been observed in many cases, suggesting that genetic influences also play a role in the BBS phenotype  severity (Badano, et al., 2006a).
+Epistatic interactions have been suggested to play a role in phenotype variability  in  retinal  degenerations,  including  BBS.
+ NXNL1  and  the  MGC1203  c.430C>T  variant  have  been  suggested  in  vertebrates  and  animal  models  to  cause  phenotypic  variability  in  retinal  degeneration  (Hanein,  et  al.,  2006;  Badano, et al., 2006a).
+In addition to assessing the frequency of BBS7 and TTC8 mutations in our patient population, the role  of these two proposed genetic modifiers (MGC1203, NXNL1) was assessed in our patient cohort In this study we assessed the role of BBS7 and TTC8 in 35 BBS families of multiethnic ancestral backgrounds,  identifying  four  novel  “presumed  pathogenic”  mutations  and  two  novel  benign  variations  of  unclear  biological  significance.
+ We  confirm  that  these  genes  contribute  to  a  small  percentage  of  BBS  cases. We  explored  the  genotype-phenotype  correlation  and  the  differences  in  ocular  phenotype  severity  could  not  be  explained  by  variants in the putative modifier gene NXLN1 (Hanein, et al., 2006) or the MGC1203c.430C>T variant (Badano,   et  al.,  2006a)  as    only  wild  type  alleles  were  observed.
+ However  a  case  with  a  more  severe  phenotype  was  compound heterozygous for mutations in BBS7 and had a third mutation in BBS4 MATERIALS AND METHODS  Patient recruitment  Thirty-five families of multi-ethnic origins affected with BBS were recruited from the Ocular genetics clinic of  The  Hospital  for  Sick  Children  (Toronto,  ON).
+   Diagnosis  of  BBS  was  based  on  the  presence  of  four  primary  features  or  three  primary  plus  two  secondary  features  (Beales,  et  al.,  1999).
+ The  study  was  conducted  in  accordance  with  the  Tenets  of  the  Declaration  of  Helsinki  and  approved  by  The  Hospital  for  Sick  Children  Research Ethics Board Phenotype characterization  Participants  were  evaluated  for  systemic  and  ocular  features  of  BBS.
+ Systemic  evaluation  included  documentation  of  body  mass  index  (BMI),  developmental  abnormalities,  subjective  assessment  of  cognitive  impairment,  developmental  delays,  and  of  genital  abnormalities,  lipid  profile,  liver  and  kidney  function  tests Ocular phenotypes were defined by a comprehensive ocular exam, kinetic perimetry, electroretinogram (ERG) and  ocular coherence tomography (OCT) when possible.
+  Mutational analysis  Genomic  DNA  was  isolated  from  blood  leukocytes  using  standard  protocols.
+ Coding  exons  and  flanking  intronic  regions  of  BBS7  (RefSeq  NM_176824.1),  TTC8  (RefSeq  NM_198309.2)  and  NXNL1  (RefSeq  NM_138454.1) were PCR amplified and directly sequenced.
+The frequency of the presumed modifying c.430C>T  variation of MGC1203 (RefSeq NM_024296.3) was analyzed using an amplification refractory mutation system  (ARMS) assay.
+All primers and conditions are available upon request.Family segregation analysis of observed  variants  was  performed  when  possible.
+ The  allele  frequency  of  novel  mutations  was  assessed  in  300  control  chromosomes  of  multiethnic  origin  using  either  ARMS  assays,  restriction  enzyme  digests,  or  heteroduplex  analysis.
+ Novel  mutations  were  splicing  (http://violin.genet.sickkids.on.ca/~ali/splicesitefinder.html),  destruction  or  creation  of  exonic  splicing  enhancers  (ESEs)  interspecies  conservation  (http://genome.ucsc.edu/cgi-bin/hgGateway).
+ PolyPhen  analysis  (http://genetics.bwh.harvard.edu/pph/)  was  used  (http://rulai.cshl.edu/cgibin/tools/ESE3/esefinder.cgi?process=home)  and  for  predicted  potential  effects  on  also  evaluated    BBS7 and TTC8  Mutations Are an Uncommon Cause of BBS    E739  to predict whether missense mutations could impact the protein structure and function.
+Protein modeling was not  possible as no useful template was available Presumed  pathogenicity  was  based  on  positive  family  segregation  analysis,  an  allele  frequency  of  <1/300  chromosomes and bioinformatic suggestion of biological significance (Stone, 2007) Evaluation of putative splicing defects  Mutations  predicted  to  affect  splicing  were  further  evaluated  by  PCR  amplification  of  cDNA.
+ RNA  was  extracted from peripheral blood or lymphoblast  (both untreated and treated with puromycin) using TriZol reagent  (Invitrogen,CA, USA) as per manufacturer's instructions.
+cDNA was prepared using random hexamers from 1µg  total  RNA  using  SuperScript  First-Strand  Synthesis  System  for  RT-PCR  (Invitrogen,  CA,  USA)  according  to  manufacturer’s instructions.
+Primers and conditions for PCR of target genes are available upon request.Products  were  separated  on  1.5%  agarose  gels  and  gel  extracted  using  EZ-10  Spin  Column  DNA  Gel  Extraction  Kit  (BioBasics)  according  to  manufacturer’s  instructions.
+   Bi-directional  sequencing  was  done  by  The  Center  for  Applied Genomics (TCAG; http://www.tcag.ca/dnaSequencingSynthesis.html#3) RESULTS   Mutational analysis  As part of a larger scale study, all probands in this study except four were sequenced for mutations in the first  12 BBS genes.
+The previously published BBS7 and TTC8  mutations were not observed (Badano, et al., 2003a;  Sheffield, 2004; Stoetzel, et al., 2006).
+A total of six novel variations were identified in BBS7 and TTC8.Four of  these sequence variants were believed to be biologically significant (Figure 1, Table 1).
+Pathogenic mutations in  BBS7  accounted for 5.7% (2/35)  of probands while none  were observed  in TTC8.
+ The  changes  discussed were  absent in 300 control chromosomes.
+No variation was observed in the NXNL1 gene and the presumed modifying C  to T transversion of exon 3 in MGC1203 was not seen Figure  1.
+ Segregation  analysis  of  BBS7  and  TTC8  variants  observed. Mutations  detected  are  indicated  below  the  family  identifier.
+Circle symbol: female, square symbol: male.Black symbol: affected, clear symbol: unaffected.
+[=]: wild type allele   E740    Bin et al Table 1: Variants identified in patients studied   case   #  4  ancestral background  family  02-45  Italy  gene  BBS7        TTC8  5  02-45  26  04-01  9  23  05-08  07-06  Italy  Peru  Russia  Jamaica/  Trinidad  location  nucleotide variant  presumed pathogenic variants  other mutated BBS genes  Exon 4  Intron 6  Exon 4  Intron 6  c.187G>A  c.601+2 T>C  c.187G>A  c.601+2 T>C  p.[G63R]+  [G201_D202ins15or16]**  p.[G63R]+  [G201_D202ins15or16]**  Exon 7  Exon 11  c.712_715delAGAG  c.1121C>G  p.[R238EfsX59]+  [Ser374X]  BBS4: p.[L114WfsX28]+[=]  none  none  Exon 4  c.171G>A  Exon 3  c.269A>G  *p.[V57V]+[=]  *p.[N90S]+[=]  BBS2: p.[D104A]+[R632P]  none    Numbering for BBS7 from A of ATG of RefSeq NM_176824.1; Numbering for TTC8 from A of ATG of RefSeq NM_198309.2, *variant of unclear significance.
+The change  observed  in  BBS4,  c.341delT,  is  novel  and  was  not  seen  in  304  control  chromosomes.
+ **This  alternate  splicing  possibility  can  lead  to  2  different  protein  products:  p.G201_D202insNQDFIFHKSTMCFNS or p.G201_D202insNQDFIFHKSTMCFNIG       In family 02-45, the observed compound heterozygote changes segregated with the disease phenotype (Table 1, Figure 1).
+Bioinformatics analysis of the  mutation c.187G>A suggested skipping of exon 4 and/or 5.
+However, although patient cDNA showed a transcript with skipping of exon 5, a similar banding  pattern was seen in the control samples (Figure 2a).
+This suggests that in this case, alternate splicing was not a predominant disease mechanism.Analysis of  residue G63 showed that it is well-conserved across vertebrates and that the change to an arginine alters local charge (data not shown).
+Splice site evaluation of  the c.601+2T>C variation  suggested a loss of the donor site of IVS6.
+In addition to the wild type band, PCR of case #5’s cDNA showed a 550bp band of  greater intensity in the patient sample, when compared to the control (Figure 2b).
+Sequencing confirmed that the 550bp band represents an isoform with a 45  base pair insert which could suggest a deregulation of the splicing enhancing the use of the alternate donor site 45 bp downstream of exon 6 (Cooper and  Mattox, 1997).
+In addition, an alternative acceptor site seen 3 bp upstream of exon 7 site was also used by both mutant and wildtype samples. These changes in  splicing led to an in-frame insertion of 15 or 16 amino acids, depending on whether the acceptor site was used or not (p.G201_D202insNQDFIFHKSTMCFN  [S/IG]) (Table 1) A sporadic BBS patient (case # 26) of Peruvian descent (family 04-01; Figure 1) was compound heterozygote for two novel truncating BBS7 mutations  c.712_715delAGAG (p.
+Arg238GlufsX59) and c.1121 C>G (p.Ser374X).
+The mutations p.R238EfsX59 and p.S374X were predicted to result in a loss of 67%  and 48% respectively of the wildtype translation products.
+ Case # 9 of Russian descent (family 05-08; Figure 1) had a novel silent variation, in BBS7, c.171  G>A (p.V57V).
+Although this change was predicted to affect an ESE, exon skipping was not seen by  RT-PCR of the patient cDNA (data not shown).The  principal “pathogenic” changes for this individual were identified in BBS2 and previously published (Katsanis, et al., 2001).
+        BBS7 and TTC8  Mutations Are an Uncommon Cause of BBS    E741    Figure 2.
+Results of PCR of patient cDNA to assess the possibility of impaired splicing.a) RT-PCR of the c.187 G>A  (p.G63R)  variant: agarose gel (1.5%) showing the 560bp wild type band (1) and that of the 388bp isoform (2) in patient and control.
+The  intensity of both the wild type and isoform bands are equal among the patient and controls.
+a) negative control, b) patient #5,  c) wt  control#1, d) wt control#2.
+b) RT-PCR of the.c.601+2 T>C (p.G201_D202ins15/16): Agarose gel (1.5%) photograph showing the  500bp (1) wild type and 550bp (2) isoform (45bp insert due to alternate splicing) bands in patient and control.
+Note the intensity of  the wild type bands are equal among the patient and control, while the isoform band is faint in control compared to the patient.
+a)  Case #5 with puromycin, b) Case #5 without puromycin, c) wt control d) Genomic control e) Negative control       A  single  TTC8  heterozygous  variation,  c.269  A>G  (p.N90S),  was  identified  in  an  affected  singleton  individual of Jamaican/Trinidadian ancestry (family 07-06; Figure 1).
+No other non-polymorphic mutation in the  coding region of eleven other BBS genes (BBS1-7, 9-12) was seen.
+This change was not present in 300 control  chromosomes and was conserved in mammals (rhesus, dog, mouse, horse).
+ The change is not predicted to affect  splicing  or  destroy  an  ESE,  PolyPhen  predicted  N90S  to  be  benign  and  this  change  did  not  involve  a  tetratricopeptide repeat.
+The pathogenicity potential of this mutation although low, remains unclear.  In  addition  a  number  of  intronic  novel  sequence  changes  were  observed  but  not  validated.
+ These  were  all  heterozygotes  and  included  for  BBS7:  c.342-99  T>A  (3/70  alleles)  and  for  TTC8:    c.-30  C>G  (1/70  alleles),  c.309+99 T>A (1/70 alleles) and c.1391+45 A>G (17/70).
+Several of the previously documented intronic changes  and single nucleotide polymorphisms were observed at an allele frequency similar to that of the HapMap.
+  Phenotype assessments  The results of our phenotype assessments are summarized in Tables 2 and 3.
+Our patients with BBS7 mutations  did not show distinguishing systemic features when compared to the patients described in previous reports.
+(Azari,  et  al.,  2006;  Hichri,  et  al.,  2005;  Katsanis,  2004;  Smaoui,  et  al.,  2006).
+ All  patients  were  obese,  had  digit  abnormalities,  and  displayed  some  degree  of  cognitive  impairment  and  developmental  delay.
+ In  all  cases  triglycerides and cholesterol levels were higher than normal and two of three patient's liver ultrasounds showed a  fatty liver in their teenage years.
+ Kidney function was not significantly affected   E742    Bin et al   Table 2: Systemic features of BBS patients with “presumed pathogenic variants” in BBS7    case  gender  age  obesity  (BMI)  36.2  Yes  (37.9)  28.9  Yes  digit anomalies  (# digit)  brachydactyly/  clinodactyly/ polydactyly  (1)  brachydactyly  11.6  Yes  polydactyly (2)  (31.5)  (32.0)  F  M  F  cognitive  impairment  severe  moderate  mild  developmental  delay  yes  genital  anomalies  none  lipids*  1.
+ liver U/S  2.
+ ALT/AST  1.
+normal  2.
+normal  high  1.
+ kidney U/S  2.
+ creatinine  1.
+normal  2.
+normal  yes  yes  hypogonadism  high  NA  high  1.
+abnormal   2.
+high  1.
+ abnormal  2.
+ high  1.
+normal  2.
+limit high  3.
+ abnormal  4.

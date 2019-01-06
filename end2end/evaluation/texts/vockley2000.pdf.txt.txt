@@ -1,0 +1,105 @@
+INTRODUCTION TO THE CONCEPT OF SYNERGISTIC HETEROZYGOSITY Most inborn errors of metabolism are inherited in an autosomal recessive fashion, with less common 1096-7192/00 $35.00 Copyright © 2000 by Academic Press All rights of reproduction in any form reserved 10 examples of an X-linked recessive pattern.
+Although in the recessive disorders, obligate carriers of a mu- tant allele typically do not show symptoms and are not felt to be at risk for clinically signiﬁcant disease, examples of clinically signiﬁcant effects in heterozy- gotes have been reported.
+Examples include preg- nancy-induced symptoms in carriers of long chain L-3-hydroxyacyl-CoA dehydrogenase deﬁciency (1– 4), heterozygosity for homocystinuria as a risk for vascular disease (5 and references therein), and hy- perprolinemia in carriers of proline oxidase deﬁ- ciency (reviewed in 6).
+Considerable variation in the severity of symptoms is also common in inborn er- rors of metabolism.
+To a certain extent, some of this variability can be explained by the differential ef- fects of speciﬁc mutations on gene/protein function As an increasing number of mutations have been described in patients with speciﬁc inborn errors of metabolism, however, it has become clear that geno- type/phenotype correlations are not always straight- forward.
+Moreover, patients with a clinical pheno- type and/or biochemical ﬁndings characteristic of a particular defect (or group of defects) may not in all cases show a deﬁciency in an expected enzyme or its gene.
+Disorders of energy metabolism offer compel- ling examples of these phenomena Defects in b-oxidation show some correlation of symptoms to the location of the defect in the cycle (7–9).
+Even more striking, however, is the observa- tion that many of the individual defects are ex- tremely pleiotropic, with tremendous variability in SYNERGISTIC HETEROZYGOSITY AMONG METABOLIC DEFECTS 11 their clinical presentation.
+For example, some pa- tients with medium-chain acyl-CoA dehydrogenase (MCAD) deﬁciency (MIM 201450) have died in the neonatal period, while completely asymptomatic adults with identical genotypes have been identiﬁed (10).
+Finally, numerous patients exist with symp- toms that are characteristic of b-oxidation defects such as hypoketotic, hypoglycemia, or recurrent rhabdomyolysis, but without a complete deﬁciency in a single enzyme involved in b-oxidation.
+In this situation, an assumption is often made (and some- times later proven) that these patients represent defects in as yet undescribed steps/enzymes in the pathway.
+Increasingly, however, we have been iden- tifying concurrent partial defects in more than one pathway, or at multiple steps in one pathway in such patients.
+In this study, we present the clinical, biochemical, and molecular ﬁndings from several patients showing multiple partial defects in energy metabolism.
+These patients show clinical symptoms consistent with a defect in the affected pathways even though they do not have a complete deﬁciency in any one enzyme.
+We hypothesize that such pa- tients are exhibiting clinically signiﬁcant reductions in energy metabolism related to the compound ef- fects of these partial defects, a phenomenon we term synergistic heterozygosity.
+Based on the frequencies of known disorders of energy metabolism, we pro- pose that this may represent a previously unrecog- nized, relatively common mechanism of disease of potentially great clinical relevance CLINICAL EXAMPLES Patient 1.
+A 17-year-old male was healthy until the summer of 1999 when he experienced increased fatigue at the beginning of football practice.
+Several weeks later he had ﬂu-like symptoms with reduced appetite.
+During a subsequent football game, he had progressive onset of leg cramps spreading to other muscles and resulting in vomiting.
+Over the ensuing week, he recovered and continued to participate in football practice.
+Several weeks later, he again suf- fered muscle cramping and pain with exercise, re- sulting in myoglobinuria and elevated plasma crea- tine kinase.
+An ischemic exercise test revealed a normal rise in lactate with only a modest rise in ammonia.
+Biochemical genetic screening tests per- formed on skeletal muscle for mitochondrial myop- athies and known causes of myoglobinuria were per- formed on skeletal muscle.
+A partial reduction in carnitine palmitoyltransferase II (CPT II, EC 2.3.1.21) was found (46% of normal, 3.1 standard deviations below the normal mean), suggestive of heterozygosity for a mutation at the CPT2 locus, as well as a reproducible partial deﬁciency in Complex I of the respiratory chain (26% of normal; 2.4 stan- dard deviations below the normal mean).
+All of the glycolytic enzymes of the standard myoglobinuria screen were normal or elevated.
+Interestingly, two enzymes in the Krebs cycle, citrate synthase and fumarase, were both reduced to 48 and 46% of nor- mal, respectively.
+Molecular analysis failed to iden- tify any of the seven most common mutations in the CPT2 gene (11).
+The patient was, however, found to be a carrier for a Q12X mutation in the myoadeny- late deaminase (EC 3.5.4.6) gene (AMPD1), causing the most common of the triggerable myopathies, myoadenylate deaminase deﬁciency (MIM 102770) Patient 2.
+A 38-year-old Caucasian female pre- sented with a 19-year history of gradually worsening exercise intolerance and myalgia, augmented by ep- isodes of generalized weakness lasting days to weeks.
+She also had a 2-year history of intermittent abdominal pain.
+Physical examination demon- strated muscle tenderness without weakness.
+The initial diagnosis was ﬁbromyalgia and she was treated with amitriptyline without beneﬁt.
+Subse- quent laboratory testing showed normal serum lev- els of creatine kinase and aldolase, but an abnormal elevation of urinary creatine.
+A muscle biopsy showed increased lipid deposition and excess glyco- gen with no apparent mitochondrial abnormalities or inclusions.
+Only CPT II activity was quantiﬁed and found to be 10% of normal, suggestive of CPT II deﬁciency (MIM 255110).
+A muscle biopsy per- formed at age 35 years conﬁrmed the deﬁciency in CPT II activity, but also showed signiﬁcant reduc- tions in mitochondrial respiratory chain enzymes (ranging from 22 to 49% of normal).
+Multiple b-oxi- dation pathway enzymes in ﬁbroblasts were also reduced (29–66% of normal) (12).
+CPT II activity in ﬁbroblasts was 43% of normal, similar to earlier ﬁndings in lymphoblasts (13).
+Nonmitochondrial muscle enzyme activities were within normal refer- ence limits.
+Early electromyograms (EMGs) were normal but, over a period of years, showed changes consistent with a myopathic process without evi- dence of peripheral neuropathy.
+The patient’s epi- sodes of abdominal pain became more frequent and severe, accompanied by an irregular erythematous macular eruption over her upper abdomen, and par- esthesias subsequently developed in all four extrem- ities and face.
+There was no objective evidence of peripheral neuropathy.
+Mild hypokalemia was 12 VOCKLEY ET AL noted and she was treated with potassium supple- ments with some improvement.
+The patient has ex- perienced three “stroke-like” episodes consisting of extreme fatigue, slurred speech, and generalized paresthesias—the ﬁrst occurring within 8 h after an open muscle biopsy, and the other two occurring independently of surgery.
+Complete sequence anal- ysis of the coding region and surrounding intronic sequences of the CPT2 gene in genomic DNA from the patient revealed heterozygosity for a single base change causing a substitution of cysteine for argi- nine at residue 503 (R503C) (11).
+The patient’s fa- ther and son were also heterozygous for the muta- tion (12).
+None of the common point mutations or rearrangements were found in the patient’s mito- chondrial genome derived from skeletal muscle (12) The patient’s 26-year-old son has experienced life- long exercise-induced leg pain beginning at age 3–4 years and has 47% of normal CPT II activity in cultured ﬁbroblasts Patient 3.
+A 25-year-old woman presented with life-long exercise intolerance and a 1-year history of aching muscle pain, fatigability, and the sensation of swelling in her arms and thighs during daily activities.
+It became difﬁcult for her to climb stairs and to go shopping.
+There was no family history of muscle disease.
+Serum creatine kinase was 2720 IU z dL21 and aldolase was 28U z dL21.
+Other chemistry tests and thyroid function were normal.
+A forearm ischemic exercise test demonstrated an absence in the rise of plasma lactate.
+A muscle biopsy per- formed 1 year later demonstrated a twofold increase in glycogen content and a residual myophosphory- lase (EC 2.4.1.1) activity of 0.04% of normal, con- ﬁrming a diagnosis of McArdle’s disease (GSD V, MIM 232600) (14).
+Seven years following the bio- chemical diagnosis of McArdle’s disease, the patient was reported to have suffered progressive disability to the point that she could no longer write or walk, and had chronic fatigue, worsening after 3–5 min of muscle use.
+The muscles became painful and swol- len after use and she had continuous back pain Allele-speciﬁc oligonucleotide analysis for two com- mon mutations (R49X and G204S) accounting for .70% of mutant alleles in the myophosphorylase gene (PYGM) revealed heterozygosity for the R49X mutation (14).
+Subsequent testing for eight addi- tional mutations causative for CPT II or myoadeny- late deaminase deﬁciencies showed that the patient was also heterozygous for the S113L mutation in the CPT2 gene Patient 4.
+A 13-year-old girl had previously been a physically active athlete when she presented with muscle pain and weakness accompanied by syncopal type symptoms induced by exercise.
+She had several more of these episodes over the next year, always with exercise, along with the development of muscle edema in conjunction with the previous symptoms Other problems which were more irregular in pat- tern included abdominal pain and migraine head- aches.
+Fasting was well tolerated.There was no myoglobinuria.
+Preliminary evaluation revealed normal blood glucose, lactate, carnitine, acylcar- nitines, creatine kinase, and urine organic acids.
+An exercise test showed a normal lactate response, and an EMG was unremarkable.
+After 18 h of fasting, blood glucose was 4.6 nmol z L21, free fatty acids were 0.56 mmol z L21, and 3-hydroxybutyrate was 0.2 mmol z L21.
+There was minimal ketosis following administration of 1.5 g/kg of sunﬂower oil (maxi- mum blood 3-hydroxybutyrate level, 0.3 mmol z L21), but a normal response to medium chain triglyceride oil (maximum blood level of 3-hydroxybutyrate, 0.8 mmol z L21).
+Fibroblast fatty acid oxidation studies showed decreased palmitate and oleate oxidation (64 and 47%, respectively, of a simultaneous con- trol), while myristate oxidation was normal.
+Oleate uptake assay was abnormal (3.9 fmol/1000 cells/ min, normal controls 5.43 6 0.87, range 4.85–6.6), and very long chain acyl-CoA dehydrogenase (VLCAD) activity was 52% of a concurrently assayed control cell line with normal MCAD activity.
+Se- quencing of the VLCAD gene coding region failed to reveal a mutation (kindly performed by Dr.
+A Strauss, Vanderbilt University).
+Respiratory chain enzyme analysis from a muscle biopsy sample showed reduced activity of Complex I (22% of nor- mal NADH dehydrogenase activity, 2.6 standard de- viations below the normal mean).
+A muscle biopsy from the patient’s clinically well mother was normal Patient 5.
+A 9-year-old girl presented with epi- sodic, progressive muscle stiffness, pain, muscle swelling, and fatigue.
+Symptoms were worse with fasting, but there was no hypoglycemia or change in the level of consciousness.
+There have been no epi- sodes of myoglobinuria, lactic acidosis, or elevations of plasma creatine kinase levels.
+Muscle biopsy showed reduced activity of CPT II (51% of normal, 2.9 standard deviations below the normal mean), and respiratory chain Complexes I (49% of normal), I–III (40% of normal), and II–III (34% of normal) Complexes II and IV were 119 and 105% of normal Fibroblast oxidation studies were normal SYNERGISTIC HETEROZYGOSITY AMONG METABOLIC DEFECTS 13 Patient 6.
+A 35-year-old man presented with symptoms of intermittent muscle pain, weakness, stiffness, and edema exacerbated by exercise and cold.
+Mild weakness may have been present since adolescence.
+There have been no episodes of myoglo- binuria, lactic acidosis, or hypoglycemia.
+Symptoms appear to be worse with fasting.
+Muscle biopsy showed intramuscular storage of lipid with mild in- crease in inward migration of muscle cell nuclei CPT II activity was 44% of normal, 3.3 standard deviations below the normal mean, while respira- tory chain enzyme activities were normal.
+Fibro- blast oxidation studies with palmitate and myristate were normal; however, uptake of oleate in ﬁbro- blasts was moderately reduced [4.1 fmol/1000 cells/ min, normal controls 5.43 6 0.87, range 4.85–6.6 (15)] Patient 7.
+A 22-year-old man presented with ex- ercise intolerance and episodic rhabdomyolysis, myoglobinuria, and elevated plasma creatine kinase without renal dysfunction.
+The onset of symptoms began at about 10 years of age and the diagnosis at that time was believed to be polymyositis.
+On exam- ination, the patient was found to have no sign of weakness but had poor stamina and was in constant pain.
+He could only walk a few steps when he com- plained that his legs “became heavy.” Enzyme test- ing performed on a muscle biopsy specimen in 1999 revealed partial reductions in three enzymes: CPT II (50% of normal, 2.9 standard deviations below the normal mean), myophosphorylase (29% of normal, 2.2 standard deviations below the normal mean), and phosphorylase b kinase (EC 2.7.1.38, 37% of normal, 2.9 standard deviations below the normal mean).
+Repeat measurements on a second muscle specimen performed 1 year later showed essentially the same results.
+Screening for the three most com- mon triggerable myopathies including seven of the most frequently observed mutations in the CPT2 gene, two common mutations in the PYGM gene (R49X and G204S), and the most common mutation (Q12X) in the AMPD1 gene identiﬁed only the Q12X mutation in AMPD1 on one allele Patient 8.
+The full clinical history of this case will be reported separately (Al Odaib et al., manu- script in preparation).
+Brieﬂy, this infant was deliv- ered prematurely (28 weeks) by cesarean section for maternal preeclampsia and intrauterine growth re- tardation.
+At 3 month of age, he was brought to the emergency room because of irritability and fever.
+He experienced a cardiac arrest during a lumbar punc- ture, was resuscitated once, but died shortly there- after during an emergency laparotomy.
+No labora- tory tests were obtained prior to death.
+At autopsy, a mild bronchopneumonia was found with bronchi- olitis and Gram-positive bacteria colonies in the lungs.
+Histology of the liver showed moderate dif- fuse steatosis.
+Fatty acid oxidation studies in cul- tured ﬁbroblasts showed reduced oxidation of myris- tate (41% of a simultaneous control) and marginal reduction of palmitate oxidation (71% of a simulta- neous control).
+As part of an ongoing prospective study, oleate uptake and VLCAD activity were also measured and both were found to be reduced: 58 and 46% of the respective control values.
+MCAD activity was normal.
+Unexpectedly, this patient also showed reductions of cellular uptake activity with two other substrates, carnitine (57% of mean control value) and palmitoylcarnitine (69% of mean control value), tested as controls in the oleate uptake assay.
+Molec- ular testing conﬁrmed that this patient was het- erozygous for point mutations in the OctN2 carni- tine transporter and the VLCAD genes (data not shown, kindly performed by Drs.
+N.Longo, Emory University and A.
+Strauss, Vanderbilt University, respectively) DISCUSSION AND CONCLUSIONS It has been our observation from varied clinical and laboratory viewpoints that a signiﬁcant number of patients with episodic symptoms suggestive of a defect in energy metabolism remain without a diag- nosis after extensive biochemical and enzymatic evaluation.
+Predominant among these symptoms are recurrent fasting or stress-induced episodic muscle pain with or without rhabdomyolysis, and sudden life threatening events (presumably due to hypoglycemia).
+Traditionally, this pool of patients has proven a fruitful group from which to identify new enzymes and their deﬁciencies.
+The patients described in this report, however, represent a selec- tion of individuals who may be exhibiting a different phenomenon.
+Each has been evaluated by a variety of caregivers and laboratories at several institu- tions, hence, the data have been compiled from sev- eral sources and are not uniform.
+Nevertheless, these cases are remarkable in that concomitant re- ductions have been identiﬁed in more than one en- zyme involved in four different energy metabolism pathways, including fatty acid b-oxidation, oxida- tive phosphorylation, glycogenolysis, and high en- ergy phosphate recycling (Table 1).

@@ -1,0 +1,83 @@
+Downloaded from  http://jmg.bmj.com/  on April 16, 2018 - Published by  group.bmj.com 1 of 3 ONLINE MUTATION REPORT Further support for digenic inheritance in Bardet-Biedl syndrome S Fauser, M Munz, D Besch  JMedGenet 2003;40:e104(http://www.jmedgenet.com/cgi/content/full/40/8/e104) Bardet-Biedl syndrome (BBS) is a genetically heterogene- ous disorder characterised by the primary features of obesity, retinal dystrophy, polydactyly, renal malforma- tions, mental retardation, and hypogenitalism.
+Patients with BBS also have an increased risk for developing diabetes melli- tus, hypertension, and congenital heart disease.
+Seven loci have been mapped with evidence of at least one additional locus1: 11q13 (BBS1),2 16q21 (BBS2),3 3p13 p12 (BBS3),4 15q22.3q23 (BBS4),5 2q31 (BBS5),6 20p12 (BBS6),7 and 4q27 (BBS7).8 Five genes have been cloned so far: BBS1,9 BBS2,10 BBS4,11 MKKS (BBS6),7 12 13 and BBS7.8 The function of these genes and the disease mechanism remain unclear.
+Whereas the BBS6 protein has similarity to a bacterial chaperonin, the other BBS proteins have no signiﬁcant similarity to archebac- terial chaperonins or other known proteins Before the BBS1 gene had been cloned, a report had suggested that three mutated alleles (two at one locus, and a third at a second locus) may be required for manifestation of BBS, a so called triallelic inheritance.14 Also, many cases with only one mutant allele suggested an unusual mechanism of inheritance.15 In this study, we have analysed whether there is evidence for multiallelic inheritance in patients with BBS by sequenc- ing the complete coding region and exon-intron boundaries of four cloned BBS genes (BBS1, BBS2, BBS4, and MKKS) which represent most of the mapped loci.
+The study was completed before the gene BBS7 was published and thus it is not included in the analysis.
+As BBS7 seems to be a minor locus, this will have little effect on the outcome PATIENTS AND METHODS Twenty-one unrelated European patients with the clinical diagnosis of BBS were used in the study.
+The diagnosis was based on the presence of at least three of the major features of BBS (obesity, retinal dystrophy, polydactyly, renal malforma- tions, mental retardation, and hypogonadism).
+Genomic DNA was prepared from peripheral blood by a standard salting out procedure Mutation screening was performed for BBS1, BBS2, BBS4, and MKKS.
+The analysis was done by polymerase chain reaction (PCR) ampliﬁcation and sequencing of genomic DNA.
+A complete list of primers used for PCR and sequencing is available from the authors A PCR protocol was carried out using 100 ng DNA and 10 pmol of each primer in a standard 50 ml reaction.
+The proﬁle used for ampliﬁcation in a GeneAmp 2400 PCR cycler was two minutes at 94°C, 37 cycles at 94°C for 15 seconds, 48°C for 30 seconds, 72°C for 30 seconds, and a ﬁnal extension step at 72°C for two minutes.
+Direct sequencing of PCR products was car- ried out using the ABI Prism BigDye Terminator Cycle Sequencing ready reaction kit (Applied Biosystems) and an ABI automated DNA sequencer 310 (Applied Biosystems) Key points • We have analysed whether there is evidence for multi- allelic inheritance in patients with Bardet-Biedl syn- drome (BBS) by sequencing the complete coding region and exon-intron boundaries of four cloned BBS genes (BBS1,BBS2,BBS4,MKKS) which represent most of the mapped loci.
+Twenty one unrelated European patients were studied • Mutations were identified in the BBS1gene in five (24%) patients, two novel mutations were found in BBS2 and BBS6 (MKKS), and one mutation in BBS4.
+Overall, mutations were found in nine (43%) patients suggesting that either a large number of cryptic mutations are present in these genes or a sizeable proportion of genes have yet to be identified • Five patients had mutations in BBS1 and each had at least one M390R mutant allele in combination with a second mutation.
+This confirms that mutations in BBS1 account for most cases of BBS among the mapped loci for the involvement of BBS1 in triallelic No support inheritance was found in three of • The remaining four patients had mutations in BBS2, these four BBS4, or MKKS.
+However, patients, two mutant alleles were not present in the same gene.
+Two patients had one mutation in two different BBS genes (BBS2 and BBS4), one patient had only one in MKKS.
+This strongly supports a mutated allele, digenic diallelic pattern of inheritance in two if not three patients.
+This phenomenon would also be expected if a three allele hypthesis were correct.
+These data add to the increasing evidence that BBS has a complex mode of inheritance conﬁrms that mutations in BBS1 account for most cases of BBS among the six mapped loci.
+Our ﬁnding is comparable with a report that linked mutations in BBS1 to 32% of patients with BBS.16 The previously described M390R mutation was found in all patients on at least one allele (allele frequency 0.14).
+Among North American patients an allele frequency of 0.32 was found.9 One patient was heterozygous for the L518P mutation Two new splice site mutations in BBS1 were identiﬁed at the splice donor site at the end of exon 9 and 10, respectively.
+Both mutations were found in affected patients together with the M390R mutation All available family members were included in the analysis Consistent with an autosomal recessive model of inheritance, RESULTS AND DISCUSSION Direct sequencing of the BBS1 gene in 21 patients led to the identiﬁcation of mutations in ﬁve (24%) (table 1).
+This  Abbreviations: BBS, Bardet-Biedl syndrome; PCR, polymerase chain reaction www.jmedgenet.com Downloaded from  http://jmg.bmj.com/  on April 16, 2018 - Published by  group.bmj.com Online mutation report 2 of 3 Table 1 Mutations found in BBS1, BBS2, BBS4, and MKKS Patient Gene Exon 1 2 3 4 5 6 7 8 9 12 BBS1 15 BBS1 10 BBS1 12 BBS1 12 BBS1 12 BBS1 9 BBS1 12 BBS1 5 BBS1 12 BBS1 11 BBS2 16 BBS4 16 BBS2 BBS4 3 MKKS 3 MKKS 3 MKKS 6 Nucleotide change 1169T>G 1552T>C IVS10+1G>A 1169T>G 1169T>G 1169T>G IVS9+1G>A 1169T>G 436C>T 1169T>G 1237C>T 1508C>T 1928G>A 147A>G 541G>C 541G>C 1474G>A Predicted effect M390R L518P Splice site M390R M390R M390R Splice site M390R R146X M390R R413X P503L R643H K46R A181P A181P D492N Reference 9 16 9 9 9 9 17 9 16 Table 2 Evolutionary conservation of BBS genes surrounding mutation sites showing local alignment of amino acid sequence A, BBS2.
+B, BBS4.C, MKKS (the number indicates the position of the missense mutation) A BBS2 HS MM DR B BBS4 HS MM AG DM C MKKS HS MM DR 643 KTMKS R YMELY KTMKS R YMELY RNMKK R YIELY 46 LHYIR K DYEAC LHYIR K DYEAC GLYTR K HFEQC IYFTR R REFTR 181 ALILR A FLLTI ALILK A FLLTI SLITQ A FLYSI 503 EPE P AVESS EPEPE P TVEAS 492 VANWP D LLSQC VGNWS D TLSRC ISSQT E VKHTC HS, Homosapiens; MM, Musmusculus; DR, Daniorerio; DM, Drosophilamelanogaster; AM, Anophelesgambiae unaffected family members of three patients were either heterozygous for a mutant allele or had wild type alleles.
+An affected sister of one patient showed the same mutations as her sib In BBS2, two novel mutations were found and in both cases only one mutant allele was identiﬁed.
+The two mutations were R643H and R413X.
+One of the mutations introduces a stop codon, the other one changes a highly conserved amino acid (table 2) and was not found among 60 controls.
+The R643H mutation occurred in combination with the sequence change K46R in BBS4.
+K46R was suggested to be a polymorphism.16 The other patient was a compound heterozygote for R143X (BBS2) and P503L (BBS4).
+P503L is a highly conserved residue and was not found in 60 controls.
+Eight out of 21 patients had the I123V polymorphism.
+In BBS4, two polymorphisms were found: V284A and T354I.16 In MKKS two novel mutations were found, a homozygous A181P mutation and a heterozygous D492N mutation.
+Both mutations occur at highly conserved residues and were not present among 60 healthy controls.
+No second mutation was identiﬁed in the patient with the D492N mutation.
+In two patients, two polymorphisms (R517C and G532V) were found in MKKS.16 www.jmedgenet.com Among our patients we cannot ﬁnd support for the hypoth- esis that BBS1 is involved in triallelic inheritance.
+The disease segregated as an autosomal recessive disorder including the duplex family.
+Although we cannot rule out the possibility that the patients have a mutation in one of the unidentiﬁed genes (BBS3 or BBS5), this would be unlikely as the remaining genes account only for a very small proportion.1 Another recent report came to a similar conclusion.16 Because of the relatively few patients, this study may have missed (rare) cases where BBS1 is involved in triallelism.
+Another recent that BBS1 can participate in triallelic study indicates inheritance but that other BBS loci, especially BBS2 and BBS6, participate more often in this mode of inheritance.17 Apart from the ﬁve patients with mutations in BBS1, four other patients harboured mutations in BBS2, BBS4, or MKKS However, in three of these patients, two mutant alleles were not present in the same gene.
+Two patients had one mutant allele in two genes (BBS2 and BBS4), suggesting a digenic diallelic mode of inheritance.
+If in one of these cases the K46R (BBS4) mutation is considered a non-disease causing se- quence change, then this patient would harbour only one mutant allele in four BBS genes.
+Another patient was identiﬁed with only one mutant allele in MKKS.
+The detection of only one mutant allele was reported in 10 cases in MKKS.15 One possibility is that additional mutations were not detected with the methodology used.
+These mutations would include changes in the promoter region, in introns, or in additional exons.
+But additonal unidentiﬁed mutations would not account for the fact that patients were found with two muta- tions in two different genes associated with BBS.
+Although these data do not support triallelic inheritance per se, they strongly support multiallelic inheritance.
+It provides good evi- dence for digenic diallelic inheritance in BBS.
+This phenom- enon would also be expected if the three allele hypothesis were correct.
+Particularly, the patient with the two signiﬁcant mutations R143X (BBS2) and P503L (BBS4) would be a strong indication for diallelic digenic inheritance Another interesting ﬁnding is the relatively high percentage of patients with no mutations.
+At least one mutation was found in nine out of 21 patients (43%).
+The two remaining mapped loci (BBS3 and BBS5) should only account for a very small percentage of cases.
+Either a large number of cryptic mutations are present in the ﬁve known genes or additional unidentiﬁed loci are mutated in most cases There is increasing evidence that BBS is involved in a com- plex mode of inheritance.
+This is conﬁrmed by the results of our study, which support a digenic mode of inheritance Experiments of gene interactions will be required to under- stand the exact mechanism of the disease  Authors’ affiliations S Fauser, Abteilung für Netzhaut-und Glaskörperchirurgie des Zentrums für Augenheilkunde und Zentrum für Molekulare Medizin (ZMMK),Universität zu Köln, Joseph-Stelzmann-Str 9, 50931 Köln, Germany M Munz, D Besch, Abteilung Neuroophthalmologie, Universitäts-Augenklinik Tübingen, Germany Correspondence to: Dr S Fauser, Abteilung für Netzhaut- und Glaskörperchirurgie des Zentrums für Augenheilkunde und Zentrum für Molekulare Medizin (ZMMK),Universität zu Köln, Joseph-Stelzmann-Strasse 9, 50931 Köln, Germany; sfauser@hgmp.mrc.ac.uk REFERENCES 1 Beales PL, Katsanis N, Lewis RA, Ansley SJ, Elcioglu N, Raza J, Woods MO, Green JS, Parfrey PS, Davidson WS, Lupski JR.
+Genetic and mutational analyses of a large multiethnic Bardet-Biedl cohort reveal a minor involvement of BBS6 and delineate the critical intervals of other loci.
+AmJHumGenet 2001;68:606–16 2 Leppert M, Baird L, Anderson KL, Otterud B, Lupski JR, Lewis RA Bardet-Biedl syndrome is linked to DNA markers on chromosome 11q and is genetically heterogeneous.
+NatGenet 1994;7:108–11 Online mutation report Downloaded from  http://jmg.bmj.com/  on April 16, 2018 - Published by  group.bmj.com 3 of 3 3 Kwitek-Black AE, Carmi R, Duyk GM, Buetow KH, Elbedour K, Parvari R, Yandava CN, Stone EM, Sheffield VC.
+Linkage of Bardet-Biedl syndrome to chromosome 16q and evidence for non-allelic heterogeneity.
+NatGenet 1993;5:392–6 4 Sheffield VC, Carmi R, Kwitek-Black A, Rokhlina T, Nishimura D, Duyk GM, Elbedour K, Sunden SL, StoneEM.
+Identification of a Bardet-Biedl syndrome locus on chromosome 3 and evaluation of an efficient approach to homozygosity mapping.
+HumMolGenet 1994;8:1331–5 5 Carmi R, Rokhlina T, Kwitek-Black AE, Elbedour K, Nishimura D, Stone EM, Sheffield VC.
+Use of a DNA pooling strategy to identify a human obesity syndrome locus on chromosome 15.
+HumGenet 1995;4:9–13 6 Young TL, Penney L, Woods MO, Parfrey PS, Green JS, Hefferton D, Davidson WS.
+A fifth locus for Bardet-Biedl syndrome maps to chromosome 2q31.
+AmJHumGenet 1999;64:900–4 7 Katsanis N, Beales PL, Woods MO, Lewis RA, Green JS, Parfrey PS, Ansley SJ, Davidson WS, Lupski JR.
+Mutations in MKKS cause obesity, retinal dystrophy and renal malformations associated with Bardet-Biedl syndrome.
+NatGenet 2000;26:67–70 8 Badano JL, Ansley SJ, Leitch CC, Lewis RA, Lupski JR, Katsanis N Identification of a novel Bardet-Biedl syndrome protein, BBS7, that shares structural features with BBS1 and BBS2.
+AmJHumGenet 2003;72:650–8 9 Mykytyn K, Nishimura DY, Searby CC, Shastri M, Yen HJ, Beck JS, Braun T, Streb LM, Cornier AS, Cox GF, Fulton AB, Carmi R, Lüleci G, Chandrasekharappa SC, Collins FS, Jacobson SG, Heckenlively JR, Weleber RG, Stone EM, Sheffield VC.
+Identification of the gene (BBS1) most commonly involved in Bardet-Biedl syndrome, a complex human obesity syndrome.
+NatGenet 2002;31:435–8 10 Nishimura DY, Searby CC, Carmi R, Elbedour K, Van Maldergem L, Fulton AB, Lam BL, Powell BR, Swiderski RE, Bugge KE, Haider NB, Kwitek-Black AE, Ying L, Duhl DM, Gorman SW, Héon E, Iannaccone A, Bonneau D, Biesecker LG, Jacobson SG, Stone EM, Sheffield VC Positional cloning of a novel gene on chromosome 16q causing Bardet-Biedl syndrome (BBS2).
+HumMolGenet 2001;10:865–74 11 Mykytyn K, Braun T, Carmi R, Haider NB, Searby CC, Shastri M, Beck G, Wright AF, Iannaccone A, Elbedour K, Riise R, Baldi A, Raas-Rothschild A, Gorman SW, Duhl DM, Jacobson SG, Casavant T, Stone EM, Sheffield VC.
+Identification of the gene that, when mutated, causes the human obesity syndrome BBS4.
+NatGenet 2001;28:188–91 12 Slavotinek AM, Stone EM, Mykytyn K, Heckenlively JR, Green JS, Heon E, Musarella MA, Parfrey PS, Sheffield VC, Biesecker LG.
+Mutations in MKKS cause Bardet-Biedl syndrome.
+NatGenet 2000;26:15–16 13 Stone DL, Slavotinek A, Bouffard GG, Banerjee-Basu S, Baxevanis AD, Barr M, Biesecker LG.
+Mutation of a gene encoding a putative chaperonin causes McKusick-Kaufman syndrome.
+NatGenet 2000;25:79–82 14 Katsanis N, Ansley SJ, Badano JL, Eichers ER, Lewis RA, Hoskins BE, Scambler PJ, Davidson WS, Beales PL, Lupski JR.
+Triallelic inheritance in Bardet-Biedl syndrome, a mendelian recessive disorder.
+Science 2001;293:2256–9 15 Slavotinek AM, Searby C, Al-Gazali L, Hennekam RC, Schrander-Stumpel C, Orcana-Losa M, Pardo-Reoyo S, Cantani A, Kumar D, Capellini Q, Neri G, Zackai E, Biesecker LG.
+Mutation analysis of the MKKS gene in McKusick-Kaufman syndrome and selected Bardet-Biedl syndrome patients.
+HumGenet 2002;110:561–7 16 Mykytyn K, Nishimura DY, Searby CC, Beck G, Bugge K, Haines HL, Cornier AS, Cox GF, Fulton AB, Carmi R, Iannaccone A, Jacobson SG, Weleber RG, Wright AF, Riise R, Hennekam RC, Luleci G, Berker-Karauzum S, Biesecker LG, Stone EM, Sheffield VC.
+Evaluation of Complex Inheritance Involving the Most Common Bardet-Biedl Syndrome Locus (BBS1).
+AmJHumGenet 2003;72:429–37 17 Beales PL, Badano JL, Ross AJ, Ansley SJ, Hoskins BE, Kirsten B, Mein CA, Froguel P, Scambler PJ, Lewis RA, Lupski JR, Katsanis N.
+Genetic interaction of BBS1 mutations with alleles at other BBS loci can result in non-mendelian Bardet-Biedl syndrome.

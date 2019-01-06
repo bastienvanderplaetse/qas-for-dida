@@ -1,0 +1,86 @@
+ABSTRACT Long QT Syndrome (LQTS) is a cardiac disease characterized by a prolonged QT interval on a surface elec- trocardiogram (ECG) and by clinical symptoms such as seizures, syncope, and cardiac sudden death.
+At pres- ent, causal mutations of LQTS have been identified in five cardiac ion-channel genes.
+Because a causal mu- tation  is  usually  unique  to  a  specific  family  and  can  be  located  in  any  region of  any  of  these  five  genes,  a mutation  analysis effort  may require  screening of  the  complete coding regions of  each  of  these  genes.
+ The causative nature of a detected mutation can then be determined either by family history or by functional stud- ies, such  as  the  electrophysiological  signature  of the  mutation.
+ Here we  describe a  mutation  analysis of  an LQTS patient who carries two heterozygous missense mutations in two different LQTS genes.
+The first mu- tation identified, A572D in SCN5A, was not linked with clinical LQTS features in the two other mutation car- riers in the family; neither was it identified in 90 healthy controls.
+Therefore, this mutation most likely has either a mild effect on cardiac ion-channel function or represents a very rare polymorphism.
+The second mu- tation, V254M in KCNQ1, co-segregated with higher QT intervals and symptoms in other family members, and was previously reported  in  another  LQTS family.
+Because the  clinical LQTS symptoms  are  most  pro- nounced in the proband, a combined effect of both mutations cannot be excluded, although no functional data are available to support such an hypothesis.
+We conclude that, for newly presented LQTS cases, a mutation analysis strategy should routinely screen the complete coding region of all LQTS genes, followed by an eval- uation of the identified mutation(s) in conjunction with family or functional data INTRODUCTION CONGENITAL LONG QT SYNDROME (LQTS)  is a  potentially lethal cardiac disease, visible on a  surface electrocardio- gram (ECG) by a prolongation of the QT  interval.
+Clinically, the disorder is manifested by syncope and eventually by sud- den cardiac death due to polymorphic ventricular tachycardia, also called torsade de pointes (Roden et al., 1996).
+Depending on the mode of genetic transmittance, the disorder can be di- vided  in  two  forms:  the  autosomal  dominant  Romano-Ward syndrome, representing the majority of the cases (Romano et al., 1963; Ward, 1964), and the autosomal recessive Jervell and Lange-Nielsen syndrome that is characterized by both QT pro- longation and congenital deafness (Jervell et al., 1957).
+Our un- derstanding of the genetic basis of LQTS has improved signif- icantly over the last decade, with the demonstration of muta- tions that cause LQTS in five different genes, and the identifi- cation of one additional genetic locus on chromosome 4 that is associated with LQTS, but for which the responsible gene has not yet been discovered The known LQTS genes encode cardiac ion-channel proteins that are involved in the depolarization (SCN5A) and the repo- larization (KCNQ1, KCNH2, KCNE1, and KCNE2) of the car- diac action potential.
+Typically, a new mutation in one of the LQTS  genes is  identified in  each LQTS  family.
+Once a  new mutation is identified in a patient, only functional studies can truly confirm its causal relationship with LQTS.
+It is, however, not feasible for many genetic laboratories to perform such func- 1Department of Pharmacogenomics and 2Genomic Technologies, Johnson & Johnson Pharmaceutical Research and Development, Beerse, Bel- gium 3Center for Human Genetics and 4Pediatric Cardiology, University of Leuven, Belgium 5Cardiovascular Research  Institute Maastricht (CARIM), University of Maastricht, The Netherlands 57 58 PAULUSSEN  ET  AL tional studies, including electrophysiological experiments.
+For molecular  diagnostic  purpose,  therefore,  the  functional rele- vance of a new mutation can often only be assumed indirectly Mutation analysis of all five LQTS  genes is time and labor consuming,  because  of  the  large  number  of  exons  to  be screened.
+Apart  from  KCNE1 and KCNE2,  which  are intron- less, KCNH2 harbors 15 different exons, KCNQ1 comprises 19 exons, and SCN5A consists of 28 exons (Wang et al.,  1996a; Itoh et al.,  1998; Splawski et al.,  1998; Abbott et al.,  1999) Because some large exons require screening of multiple DNA fragments, a full mutation analysis of all five LQTS genes can involve the screening of 65–75 different DNA  fragments (ap- proximately 21 kb in total).
+Obviously, it is very attractive to perform mutation screening of the LQTS  genes only up to the point at which a new or known mutation is found that is likely to explain the disorder in a  patient and his family.
+In this re- spect, genetic variations that cause an alteration in the amino acid sequence of the ion-channel protein are potentially good candidates to explore further.
+During evaluation of an identi- fied  mutation within a  family, the  variation in  penetrance of LQTS  mutations may complicate the link between a new mu- tation and the disease (Priori et al., 1999).
+In such cases, func- tional studies are required to confirm the causal relationship be- tween a mutation and LQTS Although typically only one mutation is responsible for the disease in the Romano-Ward form of LQTS (Wang et al., 1995; Splawski et al.,  2000), it has been hypothesized recently that affected subjects may carry multiple heterozygous mutations in different genes, because some mutations may have only mild functional consequences (Lupoglazoff et al., 2001).
+In the pres- ent study, we  report on a  complete mutational screening in a Romano-Ward LQTS  family,  in  which  we  detected two  het- erozygous missense mutations in two different LQTS genes in the proband MATERIALS  AND  METHODS Subjects The  Caucasian proband was  an  11-year-old boy  who  was brought to our attention with clinical symptoms suggestive for LQTS.
+The patient experienced episodes of syncope at the ages of 6 and 7.
+The QTc interval was measured to be 483 msec at rest.
+Since the age of 7, the boy has been treated with b-block- ers  and  has  not  experienced further  syncopal episodes since then.
+Family members were invited to participate in the study Three family members from the maternal side and 9 members from the paternal side participated in the study (Fig.
+1).On the paternal side of  the family, there was  an unexplained sudden death and another family member experienced syncope in child- hood (index number 2).
+All family members gave informed con- sent  prior  to  genetic  analysis.
+ An  anonymized  group  of  90 healthy Caucasian volunteers was used to screen for the pres- ence of the novel identified LQTS  gene mutation.
+All  volun- teers consented prior to genetic analysis Mutational screening Genomic  DNA  from  the  proband  was  used  for  mutational screening of all five known congenital LQTS genes by direct se- FIG.
+1.Family tree of the LQTS proband.
+The clinical phenotype, QTc interval and mutation carrier status for SCN5A A572D and KCNQ1 V254M are indicated for individual family members.
+(Arrow) Proband; (yrs) years of age; (squares) males; (circles) females; (upper half area in grey) heterozygous carriers of the A572D mutation in SCN5A; (lower half area in black) heterozy- gous carriers of the V254M mutation in KCNQ1.
+An asterisk indicates a high or borderline QTc interval according to the diag- nostic criteria for LQTS  by Schwartz et al.
+(1993) MUTATION  ANALYSIS  IN LONG  QT SYNDROME 59 quencing.
+Oligonucleotides used for PCR amplification of the in- dividual exons, including intron–exon boundaries, have been pre- viously described by  Itoh et  al.
+(1998; KCNH2),  Abbott et  al (1999; KCNE2), Wang et al.
+(1996a, SCN5A), and Splawski et al.
+(1998, KCNQ1,  KCNH2, and  KCNE1). PCR  products were verified on 1.5% agarose, purified (Qiagen PCR purification kit), directly sequenced using the Big Dye Terminator kit on an ABI- Prism 3700 DNA Analyzer (Applied Biosystems INc, Foster City, CA), and aligned with the respective wild-type sequences Detection assay for A572D in SCN5A A  PCR-RFLP  detection assay  was  developed for  the  1715 CRA (A572D) mutation in exon 12 of the SCN5A gene.
+PCR primers  used  were  59-TGG-CCC-CTG-CGC-CGG-AC-39 (primer  1305,  forward)  and  59-AGG-AGG-TGG-CTT-CCT- GGG-T-39 (primer 1306, reverse).
+The 30-ml PCR mix contained 13 GeneAmp PCR  buffer II, 200 nM dNTPs, 1.5 mM MgCl2, 250 nM of each primer, 0.75 units of AmpliTaq Gold polymerase, and  approximately 100  ng  of  genomic DNA.
+ PCR  conditions were 10 min at 95°C, followed by 35 cycles of 95°C (45 sec), 55°C (45 sec), and 72°C (45 sec), and a final extension step at 72°C for 10 min.
+The PCR product was digested with Bmy I for 3 hr at 37°C, and the resulting DNA  fragments were separated on 12.5% polyacrylamide gels.
+In the absence of the 1715 C R A mutation, the PCR  product is cut into two fragments of 140 bp and 24 bp, respectively.
+In the presence of the mutation, the 164-bp PCR product remains undigested (Fig.
+2) FIG.
+2 (A) Design of the PCR-RFLP assay for the rapid de- tection  of  the  A572D  mutation  in  SCN5A.
+ (B)  Example  of 12.5% polyacrylamide gel with different individual genotypes Lane 1, 100-bp ladder; lanes 2, 3, 4, and 6, subjects with ho- mozygous wild-type (A/A) genotype; lane 5, subject with the heterozygous mutant (A/D) genotype FIG.
+3 (A) Design of the PCR-RFLP assay for the rapid de- tection  of  the  V254M  mutation in  KCNQ1.
+ (B)  Example  of 12.5% polyacrylamide gel with different individual genotypes Lane  1,  100-bp  ladder;  lanes  2,  5,  and  7,  subjects  with  ho- mozygous wild-type (V/V) genotype; lanes 3, 4, and 6: subject with the heterozygous mutant (V/M) genotype Detection assay for V254M in KCNQ1 A PCR-RFLP  assay was developed for the detection of the 760 GRA (V254M) mutation in exon 5 of the KCNQ1 gene PCR  primers  used  were  59-AGG-GGC-AGG-GGC-AGG- GAC-AC-39 (primer  288,  forward)  and  59-CGG-GGC-CTC- AGC-GCA-TCT-CA-39 (primer 289, reverse).
+The 30-ml PCR mix contained 13 GeneAmp PCR  buffer II, 200 mM dNTPs, 1.5 mM MgCl2,  250 nM of each primer, 0.75 units of Ampli- Taq  Gold polymerase, and approximately 100 ng of genomic DNA.
+After an initial period of 10 min at 95°C, 35 cycles were performed consisting each of 95°C (1 min), 63°C (1 min), and 72°C (1 min), and finally followed by an extension step at 72°C for 10 min.
+The 300-bp PCR product was digested for 3 hr at 37°C with Nco I; the resulting DNA fragments were separated on  12.5% polyacrylamide gels.
+The  760 GRA  mutation cre- ates a Nco I restriction site in the DNA  sequence of the PCR product; restriction enzyme digestion of the mutated fragment therefore results in two fragments of 120 and 180 bp, respec- tively (Fig.
+3) RESULTS Mutation screening of cLQTS genes in  the LQTS proband Two missense mutations were detected in two different genes by direct sequencing in the DNA of the proband with the base- line  QTc  of  483  ms.
+ One mutation, A572D,  was  detected in 60 PAULUSSEN  ET  AL exon 12 of the SCN5A gene: a base substitution of C to A at position 1,715, altering codon 572 from alanine to aspartic acid Subsequently, a  second  mutation,  V254M,  was  identified in exon 5  of the KCNQ1 gene: a  base substitution of G  to A  at position 760, altering codon 254 from valine to glutamic acid The proband was heterozygous for both mutations A572D mutation in the SCN5A gene The PCR-RFLP  designed to detect the A572D mutation in the SCN5A gene (Fig.
+2) was used to screen the proband’s par- ents and subsequently all available family members (Fig.
+1).In addition to the proband, 2 family members from the maternal side (index numbers 4 and 13) were also heterozygous carriers of  the  A572D  mutation.
+Both  carriers, however, had  normal QTc  values and  did  not  have a  history of  clinical symptoms suggestive  of  LQTS.
+ The  mutation  was  not  detected  in  90 healthy volunteers and can, therefore, be excluded as a  com- mon polymorphism V254M mutation in the KCNQ1 gene The PCR-RFLP  designed to detect the V254M mutation in the KCNQ1 gene (Fig.
+3) was used to screen the proband’s par- ents, and subsequently all available members from the paternal side of the family (Fig.
+1).In addition to the proband, 3 other family members (index numbers 2,  3,  and  5)  were heterozy- gous carriers of the V254M mutation.
+The QTc interval of these 3 individuals was higher than normal, but only 1 of them had experienced syncope at a  young age.
+The two  other mutation carriers were clinically asymptomatic.
+It can be assumed that at least 1 other family member who died a sudden death at the age of 8 years, also carried the mutation, but no DNA was avail- able to confirm this hypothesis DISCUSSION Congenital LQTS is caused by an abnormal prolongation of the cardiac action potential duration, leading to a susceptibility of developing a ventricular arrhythmia.
+Prolongation of the ac- tion potential duration can be caused by dysfunction of the ion channels.
+Today, five genes that all encode cardiac ion chan- nels have been associated with LQTS through the identification of causal mutations.
+The present study demonstrates that mu- tational  screening  in  a  newly  presenting  case  of  congenital LQTS  should be  done thoroughly, including the  exons of  all known LQTS genes, and complemented with the evaluation of the pattern of inheritance in the family and/or functional stud- ies for any newly identified mutation During the analysis of the reported LQTS  family, we  first detected the heterozygous A572D mutation in the SCN5A gene of the proband.
+This mutation is located in the cytoplasmic con- nector between the first and second domain of the sodium chan- nel, where no mutation has yet been reported.
+The mutation was not found in 180 alleles from unrelated healthy controls, sug- gesting that A572D is, indeed, a causal mutation for LQTS or, alternatively, a very rare coding polymorphism.
+Apart from the proband, 2  other  family  members  (mother  and  grandmother) carried the mutation, but both were asymptomatic and had nor- mal QTc intervals.
+Thus, surprisingly, the SCN5A mutation was inherited from the maternal family side, which had no history of LQTS, whereas the mutation was not found in the paternal side that had a history consistent with the LQTS.
+Therefore, the other LQTS genes were screened in a search for additional mu- tations that  might  explain the  family  history on  the  paternal side.
+As a result, mutation V254M was detected in the KCNQ1 gene.
+This mutation had been reported earlier in a large LQTS family by Wang et al.
+(1996b) and was later also functionally characterized in  an  oocyte  expression  system  (Wang  et  al., 1999) To our knowledge, this is the first report that describes two heterozygous missense mutations in two different LQTS genes in a single LQTS patient.
+It clearly exemplifies that the identi- fication of a new, rare missense mutation in a LQTS gene of a patient alone is not sufficient evidence to claim a causal rela- tionship with the disease.
+The availability of substantial clini- cal data on family members, and the discordance of these data with the inheritance pattern of the initially discovered mutation in the SCN5A gene led to the correct hypothesis that another mutation—eventually found in another LQTS gene—should be present Interestingly, the clinical symptoms and QT prolongation ap- peared to  be more profound in  the  proband than in the other tested carriers of the KCNQ1 mutation within the family.
+Such variability of expression of phenotypic symptoms is a common feature in many LQTS  families (Priori et al., 1999).
+Alterna- tively, one could speculate that the additional SCN5A missense mutation might partially contribute to the LQTS phenotype, but no functional data are available to support such an hypothesis Mutations in  KCNQ1 have been shown to  delay the repolar- ization  phase  of  the  action  potential,  whereas  mutations  in SCN5A may sustain an inward sodium current during cardiac depolarization (Wang et al., 1999; Ackerman et al., 2001).
+In combination, both mutations could lead to the significant pro- longation of the QTc interval in the proband, and consequently increase the risk for ventricular arrhythmia.
+Heterozygous car- riers of one of the mutations, on the other hand, could remain asymptomatic with a normal or borderline QTc interval.
+How- ever, this cannot explain the sudden death of a family member at the age of 8 years who presumably carried only the V254M KCNQ1 mutation.
+We, therefore, hypothesize that the additional missense mutation in the SCN5A gene might possibly facilitate, but is not required for, the development of the clinical symp- toms of LQTS in patients with a V254M mutation in KCNQ1 In conclusion, this is to our knowledge the first study demon- strating that symptomatic Romano-Ward LQTS patients can carry multiple  heterozygous  missense  mutations  in  different  LQTS genes.
+It further demonstrates that complementary data (e.g., fam- ily or functional studies) are required to confirm the causal nature of a newly identified mutation in a LQTS  gene.

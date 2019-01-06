@@ -1,0 +1,22 @@
+Abstract Either dominantly inherited mutations in MFN2 encoding mitofusin 2 or GDAP1 encoding ganglioside-induced diﬀerentiation associated protein 1 may be associated with mild neuropathy The proband, a 41-year-old woman, and her daughter present a severe axonal form of Charcot–Marie–Tooth (CMT) disease.
+Both are heterozygous for the well-described mild variant p.R120W in GDAP1, which was transmitted by the pauci symptomatic proband’s mother.
+Given that they had an early onset in the ﬁrst decade and delayed walking acquisition, the other genes implicated in axonal forms of CMT disease were analyzed.
+A second mutation truncating MFN2 (p.Val160fsX26) was found in the proband and her daughter.
+This mutation was transmitted by the proband’s father who has normal neurological examination.The proband underwent two nerve biopsies which showed an axonal degeneration, myelin modiﬁcations, and intra-axonal mitochondria with distorted cristae Such abnormal mitochondria have been reported in cases with autosomal dominant MFN2 mutations and in one patient with an autosomal recessive GDAP1 mutation.
+Our two cases show that heterozygous truncation of MFN2, which is silent at least until the sixth decade, when combined with the mild p.R120W GDAP1 variant, leads to a severe neuropathy.
+This supports the emerging hypothesis of cumulative eﬀects of MFN2 and GDAP1 mutation Ó 2012 Elsevier B.V.
+All rights reserved Keywords: Ganglioside-induced diﬀerentiation associated protein 1; Mitofusin 2; Peripheral neuropathy 1.
+Introduction Most of the families aﬀected by Charcot–Marie–Tooth (CMT) disease, due to mutations in GDAP1 encoding ganglioside-induced diﬀerentiation associated protein 1, display an autosomal recessive inheritance (CMT4A), with ⇑ Corresponding author.
+Address: Laboratoire de Neuropathologie, Universite´ Victor Segalen-Bordeaux 2, 146 rue Le´o Saignat, BP 42, 33076 Bordeaux Cedex, France.
+Tel.: +33 557 82 05 06; fax: +33 556 79 60 88 E-mail address: anne.vital@chu-bordeaux.fr (A.
+Vital) 0960-8966/$ - see front matter Ó 2012 Elsevier B.V.
+All rights reserved http://dx.doi.org/10.1016/j.nmd.2012.04.001 an early onset and severe disability [1–3].
+Alternatively, a few families with autosomal dominant mutations in GDAP1 have been reported in Spain [3], Korea [4], various European countries [5–10], the United States [7], and were classiﬁed as CMT2K characterized by juvenile-onset and a slow rate of progression.
+A mitochondrial dysfunction associated with abnormalities in organelle dynamics have been emphasized [8–10].
+The mode of inheritance of GDAP1 mutations inﬂuences such abnormalities [10].
+Mutations in another mitochondrial nuclear gene, MFN2, encoding the mitochon- drial fusion protein mitofusin 2, lead to axonal CMT which 736 A.
+Vital et al./ Neuromuscular Disorders 22 (2012) 735–741 Fig.
+1.Pedigree, clinical status and genotypes.
+Symbols: squares are for males, circles for females.Five patients were examined and genotyped.
+Arrow: proband.
+Clinical status: n.e.= not examined; ﬁlled symbol = symptomatic; dot in symbol = not symptomatic.

@@ -1,0 +1,35 @@
+Abstract Progressive external ophthalmoplegia (PEO) with multiple deletions of mitochondrial DNA (mtDNA) is associated with several mutations in nuclear genes.
+They include POLG, POLG2, ANT1, C10orf2/Twinkle, and OPA1.
+However, digenic inheritance in mitochondrial disorders has been documented in a few cases over the years.
+Here we describe an 80-year-old man with sporadic PEO associated with mtDNA deletions.
+Sequencing of the POLG revealed heterozygous mutation (c.2831A[G; p.Glu944Gly), predicted in silico as damag- ing, in the patient who also carried a heterozygous muta- tion in C10orf2/Twinkle (c.1142T[C; p.Leu381Pro).
+This case provides a second report of a PEO with different mutations in the POLG and C10orf2/Twinkle genes, sup- porting the hypothesis that the PEO phenotype can be determined by the co-existence of two abnormalities in separate genes, both involved in the maintenance and sta- bility of mtDNA.
+Finally, this study expands the spectrum of POLG mutations and highlights the need to sequence the whole set of nuclear genes associated with PEO and mul- tiple mtDNA deletions Keywords PEO  POLG gene  C10orf2/Twinkle gene  Digenic disorder Progressive external ophthalmoplegia (PEO) with multiple mitochondrial DNA (mtDNA) been deletions has & Antonio Federico federico@unisi.it 1 Department of Medicine, Surgery and Neuroscience, University of Siena, Viale Bracci 2, 53100 Siena, Italy associated with mutations in nuclear genes as POLG, POLG2, ANT1, C10orf2/Twinkle and OPA1 [1] However, digenic inheritance in mitochondrial disorders has been documented in a few cases over the years Here, we report a patient with sporadic PEO, multiple mtDNA deletions and a novel POLG substitution co-oc- curring with a C10orf2/Twinkle mutation The patient, a 80-year-old male, was referred to us due to a bilateral ptosis appeared since the age of 70 years associated 2 years later with dysphagia.
+He was born from non-con- sanguineous parents with a family history negative for neu- rological diseases.
+He had a healthy son of 50 years of age Neurological examination showed short stature, severe bilateral ptosis with ophthalmoplegia and reduced deep tendon reﬂexes in all extremities.
+There was no evidence of muscle weakness.
+He had normal thyroid functions, electrolytes, sedimentation rate, and creatine kinase.
+Acetylcholine receptor antibodies and serum lactic acid were within normal limits.
+Electromyography (EMG) and peripheral nerves conduction velocities were in the normal range.
+Brain magnetic resonance imaging (MRI) showed diffuse white matter abnormalities, related to subcortical vascular changes.
+Echocardiogram revealed mild mitral and tricuspid insufﬁciency liver, renal, After obtaining the patient’s informed consent, muscle biopsy and genetic analyses were performed Muscle biopsy showed mild variation in ﬁber size, and about 5 % cytochrome c oxidase (COX) negative ﬁbers whereas modiﬁed trichrome staining did not reveal ragged red ﬁbers (Fig.
+1a).Ultrastructural examination showed lipofuscin deposits Long range PCR analysis of muscle DNA showed multiple mtDNA deletions (Fig.
+1b) 2 Molecular Medicine, Neuromuscular and Neurodegenerative Unit, IRCCS Stella Maris, Pisa, Italy We identiﬁed a heterozygous novel mutation in POLG (c.2831A[G in exon 18), corresponding with p.Glu944Gly 123 1714 Neurol Sci (2015) 36:1713–1715 Fig.
+1 Histochemical and molecular genetic investigations in the patient.
+a The muscle biopsy showed a mild variation in ﬁber size and around 5 % cytochrome c oxidase (COX) negative ﬁbers.
+Light microscopy: COX stain showing COX-negative ﬁbers (arrows) b Long-range polymerase chain reaction (PCR) clearly demonstrates the presence of multiple mtDNA deletions in patient’s muscle DNA sample (lane 2) compared to a healthy control muscle (lane 1) and a positive control muscle for mtDNA deletions (lane 3), M size marker c All coding exons and adjacent intronic regions of POLG (ref.
+seq: NM_002693.2), POLG2 (ref.
+seq: NM_007215.3), C10orf2/Twinkle (ref.
+seq: NM_021830.3), ANT1 (ref.seq: NM_001151.2) and OPA1 (ref.
+seq: NM_015560.2) genes were directly sequenced in the proband.
+Sequence chromatograms highlighting the heterozygous c.2831A[G POLG mutation (arrow), predicting a p.Glu944Gly substitution (left panel) and the heterozygous c.1142T[C C10orf2/ Twinkle mutation (arrow), predicting the p.Leu381Pro substitution (right panel).
+d Multiple alignments of the POLG regions containing the novel mutation in several species of eukaryotic homologues, showing that the amino acid 944 is highly conserved in vertebrates The p.Glu944 residue is arrow-headed substitution of the protein sequence (Fig.
+1c, left panel), and the heterozygous mutation in C10orf2/Twinkle (c.1142T[C in exon 1), predicting the p.Leu381Pro sub- stitution in Twinkle [2] (Fig.
+1c, right panel).Mutations in ANT1, POLG2 and OPA1 were absent Here we report a novel POLG mutation co-occurring with a previously reported Twinkle mutation in a PEO patient with multiple mtDNA deletions 123 There was strong evidence of the pathogenicity of the novel POLG change, for the following reasons: (1) the variation was not found in the 1000 Genomes Project, the dbSNP database or 155 control chromosomes; (2) multiple alignments show that the new mutation affect the pol-c amino acid residue which is highly conserved across all vertebrates (Fig.
+1d) and is located close to the previously reported and (p.Arg943Cys pathogenic changes Neurol Sci (2015) 36:1713–1715 1715 p.Arg943His) within the pol domain (http://tools.niehs.nih gov/polg/.
+Accessed April 01, 2015); (3) this mutation was predicted to be pathogenic by PolyPhen-2, SIFT, Mutation Taster, PROVEAN and PANTHER software Since no family members were available for clinical examination and genetic testing, the segregation analysis was not performed.
+However, the patient’s relatives were reported in good health even at the very old age The Twinkle p.Leu381Pro substitution reported here has previously been described in two families.
+In the ﬁrst family, the mutation was associated with isolated PEO [2] In the second one, the mutation was reported in three family members with clinical features including PEO, myalgia, fatigue, dysphagia, lethargy, associated with COX negative and ragged red ﬁbers at muscle biopsy, and multiple mtDNA deletions [3] Until now, only one case was described as having a POLG and a Twinkle mutation [4].
+In particular, Van Goethem et al.
+[4] reported on a sporadic PEO case with mtDNA deletions, carrying a novel Twinkle mutation, p.Arg334Gln, and the previously described p.Gly848Ser recessive POLG substitution.
+Interestingly, all previous Twinkle mutations had been reported as dominant, but the Authors’ data for the patient’s family suggested that the Twinkle p.Arg334Gln mutation was recessive.

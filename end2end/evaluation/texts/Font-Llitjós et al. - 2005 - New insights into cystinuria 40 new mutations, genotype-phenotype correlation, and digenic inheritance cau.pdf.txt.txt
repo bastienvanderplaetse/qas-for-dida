@@ -1,0 +1,40 @@
+human rBAT promoter mutations in cystinuria [abstract].Am J Hum Genet 1999;65(suppl):A94 20 Purroy J, Bisceglia L, Jaeken J, Gasparini P, Palacin M, Nunes V.
+Detection of two novel large deletions in SLC3A1 by semi-quantitative fluorescent multiplex PCR.
+Hum Mutat 2000;15:373–9 21 Font M, Feliubadalo L, Estivill X, Nunes V, Golomb E, Kreiss Y, Pras E, Bisceglia L, d’Adamo AP, Zelante L, Gasparini P, Bassi MT, George AL, Manzoni M, Riboni M, Ballabio A, Borsani G, Reig N, Fernandez E, Zorzano A, Bertran J, Palacı´n M.
+Functional analysis of mutations in SLC7A9, and genotype-phenotype correlation in non-Type I cystinuria.
+Hum Mol Genet 2001;10:305–16 22 Bisceglia L, Purroy J, Jimenez-Vidal M, d’Adamo AP, Rousaud F, Beccia E, Penza R, Rizzoni G, Gallucci M, Palacı´n M, Gasparini P, Nunes V, Zelante L Cystinuria type I: identification of eight new mutations in SLC3A1.
+Kidney Int 2001;59:1250–6 23 Harnevik L, Fjellstedt E, Molbaek A, Tiselius HG, Denneberg T, Soderkvist P Identification of 12 novel mutations in the SLC3A1 gene in Swedish cystinuria patients.
+Hum Mutat 2001;18:516–25 24 Leclerc D, Boutros M, Suh D, Wu Q, Palacin M, Ellis JR, Goodyer P, Rozen R SLC7A9 mutations in all three cystinuria subtypes.
+Kidney Int 2002;62:1550–9 25 Botzenhart E, Vester U, Schmidt C, Hesse A, Halber M, Wagner C, Lang F, Hoyer P, Zerres K, Eggermann T.
+Cystinuria in children: distribution and frequencies of mutations in the SLC3A1 and SLC7A9 genes.
+Kidney Int 2002;62:1136–42 26 Schmidt C, Albers A, Tomiuk J, Eggermann K, Wagner C, Capasso G, Lahme S, Hesse A, Lang F, Zerres K, Eggermann T.
+Analysis of the genes SLC7A9 and SLC3A1 in unclassified cystinurics: mutation detection rates and association between variants in SLC7A9 and the disease.
+Clin Nephrol 2002;57:342–8 27 Schmidt C, Vester U, Wagner CA, Lahme S, Hesse A, Hoyer P, Lang F, Zerres K, Eggermann T.
+Significant contribution of genomic rearrangements in SLC3A1 and SLC7A9 to the etiology of cystinuria.
+Kidney Int 2003;64:1564–72 28 Dello Strologo L, Pras E, Pontesilli C, Beccia E, Ricci-Barbini V, de Sanctis L, Ponzone A, Gallucci M, Bisceglia L, Zelante L, Jimenez-Vidal M, Font M, Zorzano A, Rousaud F, Nunes V, Gasparini P, Palacin M, Rizzoni G Comparison between SLC3A1 and SLC7A9 cystinuria patients and carriers: a need for a new classification.
+J Am Soc Nephrol 2002;13:2547–53 29 Turnell DC, Cooper JD.
+Rapid assay for amino acids in serum or urine by pre- column derivatization and reversed-phase liquid chromatography.
+Clin Chem 1982;28:527–31 30 Cartegni L, Wang J, Zhu Z, Zhang MQ, Krainer AR.
+ESEfinder: a web resource to identify exonic splicing enhancers.
+Nucleic Acids Res 2003;31:3568–71 31 Dahlberg PJ, van den B, Kurtz SB, Wilson DM, Smith LH.
+Clinical features and management of cystinuria.
+Mayo Clin Proc 1977;52:533–42 32 Feliubadalo L, Arbones ML, Manas S, Chillaron J, Visa J, Rodes M, Rousaud F, Zorzano A, Palacin M, Nunes V.
+Slc7a9-deficient mice develop cystinuria non-I and cystine urolithiasis.
+Hum Mol Genet 2003;12:2097–108 33 Schmidt C, Tomiuk J, Botzenhart E, Vester U, Halber M, Hesse A, Wagner C, Lahme S, Lang F, Zerres K, Eggermann T, Bachmann H, Bokenkamp A, Fischbach M, Frund S, Pistor KG, Zappel HF.
+Genetic variations of the SLC7A9 gene: allele distribution of 13 polymorphic sites in German cystinuria patients and controls.
+Clin Nephrol 2003;59:353–9 34 Horsford J, Saadi I, Raelson J, Goodyer PR, Rozen R.
+Molecular genetics of cystinuria in French Canadians: identification of four novel mutations in type I patients.
+Kidney Int 1996;49:1401–6 35 Reig N, Chillaron J, Bartoccioni P, Fernandez E, Bendahan A, Zorzano A, Kanner B, Palacin M, Bertran J.
+The light subunit of system b(o,+) is fully functional in the absence of the heavy subunit.
+Embo J 2002;21:4906–14 36 Goodyer P, Saadi I, Ong P, Elkas G, Rozen R.
+Cystinuria subtype and the risk of nephrolithiasis.
+Kidney Int 1998;54:56–61 37 Harnevik L, Fjellstedt E, Molbaek A, Denneberg T, Soderkvist P.
+Mutation analysis of SLC7A9 in cystinuria patients in Sweden.
+Genet Test 2003;7:13–20 38 Peters T, Thaete C, Wolf S, Popp A, Sedlmeier R, Grosse J, Nehls MC, Russ A, Schlueter V.
+A mouse model for cystinuria type I.Hum Mol Genet 2003;12:2109–20 39 Bauch C, Verrey F.
+Apical heterodimeric cystine and cationic amino acid transporter expressed in MDCK cells.
+Am J Physiol Renal Physiol 2002;283:F181–9 40 Chillaron J, Estevez R, Samarzija I, Waldegger S, Testar X, Lang F, Zorzano A, Busch A, Palacin M.
+An intracellular trafficking defect in type I cystinuria rBAT mutants M467T and M467K.
+J Biol Chem 1997;272:9543–9 41 Pineda M, Fernandez E, Torrents D, Estevez R, Lopez C, Camps M, Lloberas J, Zorzano A, Palacin M.
+Identification of a membrane protein, LAT-2, that co- expresses with 4F2 heavy chain, an L-type amino acid transport activity with broad specificity for small and large zwitterionic amino acids.
+J Biol Chem 1999;274:19738–44 www.jmedgenet.com Downloaded from  http://jmg.bmj.com/  on April 16, 2018 - Published by  group.bmj.com   New insights into cystinuria: 40 new mutations, genotype inheritance causing partial phenotype M Font-Llitjós, M Jiménez-Vidal, L Bisceglia, M Di Perna, L de Sanctis, F Rousaud, L Zelante, M Palacín and V Nunes phenotype correlation, and digenic J Med Genet doi: 10.1136/jmg.2004.022244 2005 42: 58-68  Updated information and services can be found at:  http://jmg.bmj.com/content/42/1/58   These include: Supplementary material can be found at:  http://jmg.bmj.com/content/suppl/2005/01/13/42.1.58.DC1   This article cites 38 articles, 6 of which you can access for free at:  http://jmg.bmj.com/content/42/1/58#ref-list-1   Receive free email alerts when new articles cite this article.

@@ -1,0 +1,77 @@
+Abstract: Entacapone (EN) improves the efﬁcacy of levo- dopa/dopadecarboxylase inhibitor (LD/DDI) formulations by inhibition of the enzyme catechol-O-methyltransferase (COMT).
+COMT inhibition also promotes the synthesis of basic LD metabolites, whereas DDI support the composi- tion of acidic LD derivatives.
+LD metabolism correlates to the one of 13C-sodium-octanoate, which is employed in breath tests to measure gastric emptying velocity.
+Objec- tives were to investigate the impact of COMT inhibition on the recovery rate of 13C-sodium-octanoate in parkinso- nian patients, who received ﬁrst 100 mg LD/Carbidopa (CD) and the next day 100 mg LD/CD/EN combined with 13C-sodium-octanoate in each case.
+The recovery rate of 13C-sodium-octanoate was signiﬁcant higher during the LD/CD/EN–compared with the LD/CD condition.
+COMT inhibition combined with LD/DDI improves absorption of a co-administered salt probably due to a COMT inhibi- tion induced basic environment in gastrointestinal mem- branes.
+This improves dissolution and absorption of acids and salts.
+Thus it may enhance absorption of LD itself.Ó 2008 Movement Disorder Society Key words: entacapone; levodopa; absorption; Parkin- son’s disease *Correspondence to: Dr.
+Thomas Mu¨ller, Department of Neurol- ogy, St.
+Joseph Hospital Berlin-Weißensee, Gartenstr.1, 13088 Berlin, Germany.
+E-mail: thomas.mueller@ruhr-uni-bochum.de or th.mueller@alexius.de Received 14 January 2008; Revised 8 April 2008; Accepted 12 May 2008 Published online 10 June 2008 in Wiley InterScience (www interscience.wiley.com).
+DOI: 10.1002/mds.22176 1458 enzyme tract.1–3 Generally, catechol-O-methyltransferase levodopa/dopadecarboxylase inhibitor Patients with Parkinson’s disease (PD) often receive a drug combination therapy that involves multiple daily doses of a particular compound and is supplemented with other drugs at least partially sharing the modes of action.
+Efﬁcacy of all these compounds depend on patient compliance, the nature of the delivery system, physicochemical properties of the drug and physiologi- cal considerations.
+Each of them is interrelated to the other ones and affects the rate at which the drug is absorbed throughout the gastrointestinal tract and thus its bioavailability and pharmacokinetic proﬁle.1 In this respect, Entacapone (EN) improves the properties and dose of (LD/ DDI) by inhibition of peripheral LD metabolism via the (COMT) However, COMT inhibition may also promote the syn- thesis of more basic LD metabolites, i.e., the tyrosine aminotransferase dependent substrates dihydroxypheny- lpyruvate acetate and trihydroxyphenylacetate.
+There- fore COMT inhibition may model the environmental pH and the physicochemical properties of LD for its duodenal absorption, since this enzyme is located in higher concentrations in the membranes of the gastro- intestinal these physicochemical properties of a drug also affect its absorption through the gastrointestinal tract.2,4 Many compounds, includ- ing LD, are weak bases or weak acids or are the salts of them and as such demonstrate pH dependent solubil- ity.
+The pH partition hypothesis asserts that the pas- sage rate of a drug through a membrane is dependent on the environmental pH and pKa of the drug.
+Drugs with low pKa are nonionized in the stomach and sub- sequently rapidly absorbed.
+On passage to the small intestine with comparatively increased pH, the rate of ionization is changed and absorption subsequently slowed.
+The converse is true for drugs with higher pKa value.
+This inﬂuences the bioavailability of hydrophilic drug formulations, which have a narrow window of absorption, limited predominantly to the stomach or the upper intestine as limited by their low pKa value and/or the site of active transport absorption mecha- like LD.1,2,5 The gastrointestinal absorption nism, behavior of orally administered LD also depends on gastrointestinal transit rates, since absorption of LD occurs mainly in the proximal third of the small intes- in the stomach.3,6 tine (duodenum/jejunum) but not ENTACAPONE IMPROVES ABSORPTION 1459 Intestinal LD absorption is rapid and complete, but the plasma bioavailability of LD is only 30% due to prior degradation to dopamine by dopa decarboxylase and to 3-O-methyldopa (3-OMD) by to a lesser extent COMT, i.e., in the gut membranes.
+The longer LD is retained in the stomach and in the small intestine the more extensively it is metabolized and made less avail- able for absorption.6–8 A compound, which shares the peripheral absorption site proﬁle of LD, is sodium- octanoate, which is employed as 13C marked substrate in breath tests as a noninvasive feasible alternative method without ionizing radiation to measure gastric intake, 13C- emptying of solids and liquids.
+After sodium-octanoate is rapidly absorbed from the proxi- mal intestine and carried to the liver via the portal venous system.
+There it is oxidized and eliminated as CO2 in the breath, reﬂecting gastric emptying as the rate limiting step of the process.9 Accordingly, signiﬁ- cant associations between pharmacokinetic plasma behavior of LD and the outcomes of the 13C-octanoic acid breath test (OBT) appeared.
+In this study no impact of EN addition on gastric emptying time was found.6 Objectives of the present exploratory trial were to investigate the impact of COMT inhibition on the re- covery rate of 13C-sodium-octanoate in PD patients SUBJECTS AND METHODS Subjects Fourteen idiopathic PD patients [age: 57.46 6 9.31, 40–73 (mean 6 SD, range) years; 9 men, 5 women, daily LD/DCI dosage: 282.14 6 216.27, 0–600 mg, Hoehn and Yahr scale stage: 2.54 6 0.37, II–III; Uni- ﬁed Parkinson’s Disease Rating Scale (UPDRS) I: 4.14 6 1.29, 2–6; UPDRS II: 13.92 6 2.81, 9–19; UPDRS III: 25.29 6 10.49, 12–48; UPDRS IV: 1.07 6 0.9, 0– 3)] without unpredictable ﬂuctuations and without additional disorders participated.
+No patient had a his- tory of gastrointestinal disorders and had undergone abdominal surgery (except appendectomy), or took compounds, i.e., domperidone, which model gastroin- testinal motility or acidity before or during the study Design All participants performed the OBT in a standar- dized setting at 7 a.m.
+on two consecutive days.On day one LD/Carbidopa (LD/CD) (o.i.d., 100 mg Nacom) and on day two LD/CD/EN (o.i.d., 100 mg Stalevo) were administered together with 100 mL water 30 minutes after intake of the solid OBT meal Application of additional antiparkinsonian drug treat- ment remained stable on both investigation days after the study Determination of 13C-Sodium-Octanoate Absorption One egg was mixed with 13C-sodium-octanoate (100 mg, Euriso-top, Saint-Aubin Cedex, France; chemical and isotopic purity >99.5%) to label the solid compo- nent of the test meal.
+This was served as breakfast af- ter an overnight fast as an egg omelet together with 60 g of white bread, 5 g of margarine, and 200 mL of water (53% carbohydrate, 27% lipid, 20% protein; 250 kcal).
+Thirty minutes before baseline and then at certain moments (see Fig.
+1), breath specimens were FIG.
+1.Recovery of 13C-sodium-octanoate.
+Percentage 13C-sodium-octanoate dose recovered (PDR in %) after ingestion of a labeled solid meal 30 minutes before oral administration of levodopa/carbidopa (LD/CD) or levodopa/carbidopa/entacapone (LD/CD/EN) at 0 minutes.
+SEM, standard error of mean Movement Disorders, Vol.
+23, No.10, 2008 1460 T.
+MU¨LLER ET AL TABLE 1.
+Gastric emptying parameters LD/CD LD/CD/EN P value GEC tlag (min) t50 (min) tpeak (min) 2.78 6 1.04 118.1 6 38.77 166.1 6 39.82 110 6 39.61 3.16 6 0.65 102.6 6 20.3 152.7 6 29.75 92.14 6 26.65 0.29 0.29 0.43 0.25 Data are expressed as means 6 standard deviation.
+GEC, gastric emptying coefﬁcient; tlag, gastric lag phase; t50, gastric half emptying time; tpeak, time point of maximal 13CO2 exhalation sampled into gas-tight plastic bags.
+The participants were kept in a relaxed sitting position and physical ac- tivity was restricted during the tests.
+All subjects ate their test meals within 10 minutes.
+The 13CO2/12CO2 isotopic ratio was determined within 24 hour using iso- tope-selective infrared spectrometry (NDIRS; Wagner Analysentechnik, Bremen, Germany).
+The results were assessed as previously.6,9 To measure the proportion of the substrate given by mouth that is metabolized the results were expressed as maximal percentage dose of 13C recovered (PDRmax) and percentage dose of 13C recovered (PDR) over time for each time interval Evaluation of OBT parameters gastric emptying coefﬁ- cient, gastric lag phase, gastric half emptying time and time point of maximal 13CO2 exhalation were done like in previous trials.6,9 Statistics The comparison of the LD/CD with the LD/CD/EN condition was performed with the t-test for dependent samples Ethics All participants gave written informed consent.
+The study was approved by the local ethic committee of the university RESULTS The PDR values were signiﬁcant (P < 0.0001) higher during the LD/CD/EN condition (6.96 6 3.78) compared with the LD/CD condition (6.13 6 4.28) (see Fig.
+1).Patterns of gastric emptying were similar in both groups.
+There was no difference of the com- puted gastric emptying parameters between the LD/CD and the LD/CD/EN condition (Table 1).
+No side effects were reported DISCUSSION This study showed that COMT inhibition with EN increases the recovery rate of the salt 13C-sodium- Movement Disorders, Vol.
+23, No.10, 2008 is known, octanoate.
+It that medicaments are better absorbed with a rise of the pH value due to the dra- matically better increased solubility.
+This results in a complete dissolution of the substance, that makes them readily available for absorption.1,5 This resembles to our study scenario.
+LD administered in the traditional form only with a DDI is mainly metabolized to deriva- tives which lower the pH value.
+The main substrate is vanillic acid.
+This one is formed from the initial tyro- sine aminotransferase dependent derivative dihydroxy- phenylpyruvate followed by a COMT dependent sec- ond metabolic step.
+An alternative pathway for the for- mation of vanillic acid is the COMT triggered degradation of LD to 3-OMD with a subsequent tyro- sine aminotransferase dependent second step.
+A further metabolite is homovanillic acid, since this one depends on the initial DDI dependent conversion to dopamine However this LD derivative may play a minor role, since we administered the DDI CD during both study conditions.
+Dopamine is metabolized to the initial MAO dependent dihydroxyphenylacetic acid or as an alternative to the COMT dependent 3-methroxytyr- amine.
+Both, dihydroxyphenylacetic acid via COMT and 3-methroxytyramine via monoaminooxidases are then transformed to homovanillic acid.
+During the LD/ CD/EN condition, LD is mainly degraded to the tyro- sine aminotransferase dependent substrates dihydroxy- phenylpyruvate acetate and trihydroxyphenylacetate and to a distinct lesser extent to dihydroxyphenylacetic acid in the periphery.
+This more basic milieu may hypothetically inﬂuence the activity of the intestinal H -coupled nutrient, micronutrient and drug transport- ers in the mammalian small intestine and thus enable a better transport of acids into the peripheral blood circu- lation.2,4,5 1 We conﬁrm, that there is no effect of acute COMT inhibition with EN on gastric emptying.6 However, our present design does not exclude, that repeat application of EN may inﬂuence the gastric emptying rate and fur- ther increase the bioavailability of coadministered sub- stances.
+In the case of LD, this may cause a deterio- rated degradation and result in higher LD concentra- tions in the gastrointestinal membranes due to the simultaneous blocking of COMT by EN and DDI by CD.
+Since LD itself may contribute to delayed gastric emptying rate, this results in the more smooth increase of LD concentrations after repeat EN application.6,7 Limitations of this trial are that we performed no cross over design due to the short half life of a singular EN administration, and that we did not try to measure the gastrointestinal pH value in the membranes or sim- ply in the gut itself due to ethical and technical reasons DIGENIC MUTATION OF PARKIN AND PINK1 1461 In conclusion, COMT inhibition combined with LD/ DDI improves absorption of a coadministered salt probably due to a COMT inhibition induced basic environment gastrointestinal membranes.
+This improves dissolution and absorption of acids and salts Thus it may enhance absorption of LD itself.2,4,5 in Acknowledgments: OG was supported by the Deutsche For- schungsgemeinschaft (Go¨ 1358/1-1).
+We thank Tanja Steiner and Christine Stamm for technical assistance REFERENCES 1.
+Kortejarvi H, Urtti A, Yliperttula M.Pharmacokinetic simulation of biowaiver criteria: The effects of gastric emptying, dissolution, absorption and elimination rates.
+Eur J Pharma Sci 2007;30:155–166 2.
+Forsberg MM, Huotari M, Savolainen J, Mannisto PT.The role of physicochemical properties of entacapone and tolcapone on their efﬁcacy during local intrastriatal administration.
+Eur J Pharma Sci 2005;24:503–511 3.
+Goetze O, Wieczorek J, Mu¨ller T, Przuntek H, Schmidt WE, Woi- talla D.
+Impaired gastric emptying of a solid test meal in patients with Parkinson’s disease using 13C-sodium octanoate breath test Neurosci Lett 2005;375:170–173 4.
+Lennerna¨s H.Modeling gastrointestinal drug absorption requires more in vivo biopharmaceutical data: experience from in vivo dis- solution and permeability studies in humans.
+Curr Drug Metab 2007;8:1389–2002 5.
+Thwaites DT, Anderson CMH.H and drug transporters in the mammalian small Physiol 2007;92:603–619 1 -coupled nutrient, micronutrient intestine.
+Exp 6.
+Mu¨ller T, Erdmann C, Bremen D, et al.Impact of gastric emptying on levodopa pharmacokinetics in Parkinson disease patients.
+Clin Neuropharmacol 2006;29:61–67 7.
+Mu¨ller T, Erdmann C, Muhlack S, et al.Pharmacokinetic behaviour of levodopa and 3-O-methyldopa after repeat administration of lev- odopa/carbidopa with and without entacapone in patients with Par- kinson’s disease.
+J Neural Transm 2006;113:1441 1448 8.
+Woitalla D, Goetze O, Kim JI, et al.Levodopa availability improves with progression of Parkinson’s disease.
+J Neurol 2006;253:1221 1226 9.
+Goetze O, Nikodem AB, Wiezcorek J, et al.Predictors of gastric emptying in Parkinson’s disease.

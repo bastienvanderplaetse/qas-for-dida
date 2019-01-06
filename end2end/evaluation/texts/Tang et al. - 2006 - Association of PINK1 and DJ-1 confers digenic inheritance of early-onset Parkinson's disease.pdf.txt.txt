@@ -1,0 +1,215 @@
+INTRODUCTION Parkinson’s disease (PD) is the most frequent neurodegenera- tive movement disorder characterized by age-dependent resting tremor, muscular rigidity and akinesia (1,2).
+The pathological hallmarks of PD patients include progressive loss of dopaminergic neurons in the substantia nigra pars com- pacta as well as the presence of ubiquitin-positive Lewy neur- ites and Lewy bodies in the remaining neurons.
+Majority of the PD cases appear to be sporadic.
+However, speciﬁc genetic defects are linked to familial form of PD that resemble idio- pathic PD.
+Mutations in at least six genes are individually linked to familial form of PD, including autosomal dominant mutations in a-synuclein, uchL1 and LRRK2 and autosomal recessive mutations in parkin, PINK1 and DJ-1 (3–6).
+Charac- terization of these genes has provided important insights into the pathogenesis of PD.
+For example, a-synuclein is a major structural component of Lewy bodies in PD (7).
+PD-associated a-synuclein mutant proteins show an increased propensity to self-aggregate to form oligomeric species and Lewy body-like ﬁbrils comparing to wild-type a-synuclein, directly linking the disease-associated a-synuclein mutant proteins to PD pathology (8,9) Mutations in the parkin, DJ-1 and PINK1 genes are associ- ated with autosomal recessive early-onset familial form of PD (10 – 12).
+Fifty percent of autosomal recessive early-onset familial PD cases harbor mutations in parkin gene.
+PINK1 mutations appear to be the second common genetic cause in autosomal found in 8 – 15% early-onset PD cases (10,13,14).
+Nevertheless, DJ-1 mutation is rare, presenting perhaps ,1% in early-onset PD cases (15) Interestingly, both homozygous and heterozygous mutations of the parkin, DJ-1 and PINK1 genes are found to associate with PD cases (16 – 18).
+The mechanism for PD caused by these heterozygous mutations is not known recessive PD after parkin, Functional studies indicate that the parkin gene encodes an E3 ligase in ubiquitin – proteasome pathway (19 – 21).
+Most of PD-associated mutations in parkin tend to either impair the interaction of parkin with ubiquitin conjugating enzymes (E2s) or substrate or inhibit its E3 ligase activity.
+In contrast to parkin, our knowledge of DJ-1 and PINK1 is very limited.
+DJ-1 protein likely functions in antagonizing *To whom correspondence should be addressed.
+Tel: þ1 8587136286; Fax: þ1 8587136273; Email: benzz@burnham.org # The Author 2006.
+Published by Oxford University Press.All rights reserved For Permissions, please email: journals.permissions@oxfordjournals.org Downloaded from https://academic.oup.com/hmg/article-abstract/15/11/1816/592222 by Universite Libre de Bruxelles user on 16 April 2018 Human Molecular Genetics, 2006, Vol.
+15, No.11 1817 Figure 1.
+Association of digenic mutations of DJ-1 and PINK1 with early-onset familial PD.(A) Pedigree of a Chinese family with early-onset PD.
+Blackened symbols denote family members affected with parkinsonism.
+Genotypes of DJ-1 and PINK1 are indicated for each individual.wt, wild-type allele; A39S, DJ-1 mutant allele; P399L, PINK1 mutant allele.
+(B) Representative chromatogram of DJ-1 and PINK1.Arrows indicate the g115t and c1196t transitions for DJ-1 and PINK1, respectively, identiﬁed from the family.
+(C, D) RFLP analysis of DJ-1 and PINK1 fragments.Exon 3 of DJ-1 (C) and exon 6 of PINK1 (D) were PCR ampliﬁed from the individuals indicated on the top of the gel, followed by BstNI and SapI digestion, respectively.
+Wild-type allele gives two cleaved fragments (122 and 127 bp) for DJ-1 and an uncleaved 209 bp band for PINK1.
+An uncleaved 249 bp fragment and two cleaved fragments (177 and 132 bp) are produced for mutant alleles of DJ-1 and PINK1, respectively.
+(C) shows DNA from normal controls in both hands, died at age 58 with cardiopulmonary disease without clinical diagnosis of PD oxidative stress (22,23).
+PINK1 is a putative serine/threonine kinase with undeﬁned function and substrate (10,24).
+One important question is whether parkin, DJ-1 and PINK1 func- tion collaboratively under normal and pathological conditions In this study, we provide the genetic and biochemical evi- dences indicating that DJ-1 and PINK1 are genetically linked and physically associated.
+Our results further show that DJ-1 and PINK1 collaborate to protect cells against oxidative stress RESULTS Digenic mutations of DJ-1 and PINK1 in early-onset familial PD We identiﬁed a Chinese family that included two individuals suffering recessive early-onset forms of PD (Fig.
+1A).The proband (II-2, age 44) and her sister (II-1, age 46) showed resting tremor of the left leg initially at age 26 and 27, respectively.
+Disease progressively developed in all limbs, resulting in difﬁculty in walking, bradykinesia and postural instability.
+The symptoms were improved after sleeping and relieved by oral administration of L-dopa.
+Clinical examin- ation revealed increased tension of neck muscle and upper limb muscles of the patients comparing to normal people Other genetically related family members of the proband (I-2, II-3 and II-4) showed no clinically detectable abnormality at age 68, 42 and 36, respectively.
+The father of the proband (I-1), whose family members recalled having a weak tremor Downloaded from https://academic.oup.com/hmg/article-abstract/15/11/1816/592222 by Universite Libre de Bruxelles user on 16 April 2018 further Sequence analysis detected no mutation in any exon of the parkin gene (data not shown).
+A heterozygous missense mutation, G115T, in exon 3 of DJ-1 changing the 39th alanine to serine (A39S) was found in individuals II-1, II-2, II-3 and II-4 (Fig.
+1B).The mother (I-2) of proband had normal DJ-1.
+The DJ-1 G115T variation in this family is likely inherited from their father (I-1), although we could not deﬁnitively trace its origin because I-1 had no sibling This notion is supported by linkage analysis, showing that individuals II-1, II-2 and II-3 have the same haplotypes at DJ-1 loci (Fig.
+2A).Individual II-4 harbors a cross within a region of DJ-1 locus on the chromosome origi- nated from I-1.
+The cross, however, unlikely affects DJ-1 gene of individual II-4 because he carries the same DJ-1 mutation as his siblings (Fig.
+2A).Further sequence analysis of PINK1 in this family also revealed a heterozygous missense mutation, C1196T, in exon 6 among individuals I-2, II-1, II-2 and II-3, changing proline to lysine at the 399th amino acid of PINK1 protein (P399L).
+No sequence change was found in PINK1 of Individuals carrying PINK1C1196T inherit the same haplotype at PINK1 locus from I-2, indicating that PINK1C1196T originates from indi- vidual I-2 in the family (Fig.
+2C).The distribution of changes in DJ-1 and PINK1 genes in the family was further veriﬁed by restriction fragment (RFLP) analysis (Fig.
+1C and D).Individuals II-1 and II-2, who are clinically diagnosed with PD, are both heterozygous for II-4 (Fig.
+1B) length analysis 1818 Human Molecular Genetics, 2006, Vol.
+15, No.11 Figure 2.
+Haplotype and expression analysis of DJ-1, parkin and PINK1.Haplotype analysis of DJ-1 (A), parkin (B) and PINK1 (C) in the family was performed with four selected STR markers for each gene.
+STR markers used in these experiments are (from top to bottom) D1S548-D1S508-D1S1612-D1S450 (DJ-1), D6S1579-D6S305-D6S1719-D6S264 (parkin) and D1S199-D1S2843-D1S2732-D1S478 (PINK1).
+(D) Expression of DJ-1, parkin and PINK1 by individuals in the family.
+Coding sequences of DJ-1, parkin and PINK1 were RT – PCR ampliﬁed from lymphocyte RNAs of each individual.An actin cDNA fragment (template quantity control) and a negative control without cDNA templates (C) were included in experiments.
+Note: a single transcript for each of DJ-1, parkin and PINK1 genes was detected clinically normal.
+Thus, in this digenic mutations DJ-1G115T and PINK1C1196T.
+In contrast, individuals with either DJ-1G115T alone (II-4) or PINK1C1196T alone (I-2) are of DJ-1G115T and PINK1C1196T are likely associated with PD pathogenesis family.
+Both DJ-1G115T and PINK1C1196T are novel mutations that are not reported in the literatures.
+DJ-1G115T and PINK1C1196T were not detected in 240 chromosomes from unrelated 120 ethnically matched patients with sporadic PD and 568 chromosomes from 284 ethnically matched clinically normal individuals, further supporting a pathological role of these two mutations in PD (data not shown).
+Nevertheless, individual II-3 also is heterozygous for DJ-1G115T and PINK1C1196T but shows no clinical PD features.
+RT – PCR detected the presence of single transcript of DJ-1, parkin and PINK1 in lymphocytes of each individual of this family (Fig.
+2D).Moreover, sequence analysis of the PCR products revealed no additional mutation within coding sequences of DJ-1, parkin and PINK1 (data not shown).
+The results suggest that a normal parkin transcript is made by each individual of the family.
+Therefore, the disease caused by DJ-1 and PINK1 mutants is likely the lack of penetrance in individual II-3.
+Similar observations have been reported in families with pathogenic a-synuclein mutations (25).
+Nevertheless, we cannot exclude possible roles of other genetic factors in preventing II-3 from develop- ing into disease.
+It is of interest to note that the affected individuals (II-1 and II-2) carry identical haplotypes that are different from their unaffected siblings at the loci of parkin and PINK1 (Fig.
+2B and C) An alanine at residue 39 of DJ-1 (DJ-1A39) is conserved among humans, monkeys, rats, mice, hamsters and zebraﬁsh, but not in Drosophila and Caenorhabditis elegans (Fig.
+3) Variation of pathogenic mutations in different species has been reported in several PD-linked genes, including DJ-1, PINK1 and a-synuclein (26 – 28).
+DJ-1A39 is located in the third b-sheet (b3) of DJ-1, in which b3 and b4 form a b-hairpin structure and participate in dimerization of DJ-1 (29,30).
+The A39S mutation may affect dimerization of DJ-1, as suggested for an L166P mutation (12,30).
+Proline 399 of PINK1 (PINK1P399) is located in the predicted kinase domain and conserved among humans, dogs, rats, mice, chicks, mosquitoes and Drosophila (Fig.
+3).It is Downloaded from https://academic.oup.com/hmg/article-abstract/15/11/1816/592222 by Universite Libre de Bruxelles user on 16 April 2018 Human Molecular Genetics, 2006, Vol.
+15, No.11 1819 Figure 3.
+Conservation analysis of DJ-1A39 and PINK1P399.DJ-1 homologs from human, monkey, hamster, rat, mouse, zebraﬁsh, Drosophila (dDJ-1.1 and dDJ-1.2) and C.
+elegans were aligned.DJ-1A39 is labeled as red (upper panel).
+PINK1 homologs from human, dog, rat, mouse, chick, mosquito and Drosophila (dPINK1) were aligned.
+PINK1P399 mutations are indicated as blue (lower panel).An asterisk indicates an identical amino acid, whereas a dot indicates a homologous amino acid across species possible that PINK1P399L has altered PINK1 kinase activity Thus, DJ-1A39 and PINK1P399 may play important func- tional roles in the respective proteins acid residuals 253 – 334, a motif located at the N-terminal part of the kinase domain Physical association of DJ-1 and PINK1 cells showed proteins immunoprecipitation SH-SY5Y neuroblastoma and DJ-1A39S co-precipitated PINK1wt Digenic inheritance of PD by DJ-1 and PINK1 mutations indicates a functional interaction between these two genes Therefore, we examined potential association of DJ-1 and PINK1 and HEK293 cells (data not shown) expressing myc-tagged DJ-1 and ﬂag-tagged PINK1 in various combinations were lysed and immunoprecipitated with a monoclonal anti-myc antibody followed by immunoblotting with a polyclonal anti- ﬂag antibody.
+Both wild-type PINK1 (PINK1wt) and PINK1P399L were co-immunoprecipitated with both wild- type DJ-1 (DJ-1wt) or DJ-1A39S proteins (Fig.
+4A, upper panel).
+Reciprocal both and DJ-1wt PINK1P399L (Fig.
+4A, a protein at the size of endogenous DJ-1 that was recognized by a monoclonal anti-DJ-1 antibody was co-precipitated with PINK1 (Fig.
+4A, lower panel), suggesting that exogen- ous PINK1 interacts with endogenous DJ-1.
+To further deﬁne the DJ-1 binding site on PINK1, we co-expressed DJ-1 with four deletion variants of PINK1 in SH-SY5Y cells (Fig.
+4B) Cell lysates were used to perform co-immunoprecipitation assay.
+A fragment containing N-terminal 253 amino acid residuals of the PINK1 failed to co-precipitate DJ-1 (Fig.
+4C and D).In contrast, a fragment containing PINK1 N-terminal robustly co-immunoprecipitated with DJ-1 (Fig.
+4C and D).More- over, DJ-1 also co-precipitated two other fragments with overlapping PINK1 amino acid residual 253 – 334.
+Together, both wild-type and mutant DJ-1 proteins can complex with either wild-type or mutant PINK1 through PINK1 amino lower panel) Interestingly, 334 amino acid residuals was DJ-1 regulates stability of PINK1 in cells To investigate functional regulation of DJ-1 and PINK1, we co-expressed DJ-1wt or DJ-1A39S with PINK1wt or PINK1P399L and observed their steady-state levels.
+Our pre- liminary studies indicate that PINK1 protein is unstable and hard to be detected by direct immunoblotting analysis without treatment of proteasome inhibitors (data not shown) We therefore analyzed steady-state level of PINK1 using immunoprecipitation followed by immunoblotting.
+PINK1 protein variants were immunoprecipitated with a monoclonal anti-ﬂag antibody from equal amount cell lysates followed by immunoblotting with a polyclonal anti-ﬂag antibody PINK1P399L was seen at consistently lower levels than PINK1wt (Fig.
+5A).The results are consistent with a recent report that PD-associated PINK1 mutant proteins are less stable than their wild-type counterpart (24).
+Expression of DJ-1wt increased the steady-state level of both PINK1wt and PINK1P399L by 50 and 40%, respectively (Fig.
+5A and B).
+In contrast, expression of DJ-1A39S reduced the steady-state levels of both PINK1wt and PINK1P399L (Fig.
+5A and B).The steady-state level of PINK1P399L was reduced 30% compared with that of PINK1wt in the presence of co-expressed DJ-1A39S (31.5 + 5%, n ¼ 3,  P , 0.05, Student’s t-test).
+Likewise, steady-state level of is also signiﬁcantly reduced with co-expressing PINK1wt DJ-1A39S (20.6 + 3%, n ¼ 3,  P , 0.05, Student’s t-test) However, the steady-state level of DJ-1wt was only slightly higher than that of DJ-1A39S (Fig.
+5A).These results indicate that DJ-1wt enhances PINK1 stability, whereas DJ-1A39S potentiates PINK1 degradation We next asked whether PINK1 was degraded by the stably pathway.
+SH-SY5Y cells ubiquitin – proteasome Downloaded from https://academic.oup.com/hmg/article-abstract/15/11/1816/592222 by Universite Libre de Bruxelles user on 16 April 2018 1820 Human Molecular Genetics, 2006, Vol.
+15, No.11 Figure 4.
+Physical association of DJ-1 and PINK1 in cells.(A) Co-immunoprecipitation of DJ-1 and PINK1.
+Upper panel: Myc-tagged wild-type DJ-1 or DJ-1A39S was co-transfected with either empty, ﬂag-tagged wild-type PINK1 or ﬂag-tagged PINK1P399L into SH-SY5Y cells.
+Cell lysates were immunopre- cipitated with an anti-myc tag antibody followed by immunoblotting with an anti-ﬂag tag antibody.
+Lower panel: ﬂag-tagged wild-type PINK1 or PINK1P399L was co-transfected with either empty, myc-tagged wild-type DJ-1 or myc-tagged DJ-1A39S into SH-SY5Y cells.
+Cell lysates were immunoprecipitated with an anti-ﬂag tag antibody followed by immunoblotting with an anti-DJ-1 antibody.
+(B) Illustration of PINK1 deletion constructs.The numbers on the right of the ﬁgure indicate amino acid composition of wild-type PINK1 (1 – 581) and 4 PINK1 deletion mutants (F1 – F4).
+The numbers shown at the right side of ﬁgure indicate the amino acid residuals included in corresponding fragment.
+Empty box indicates the kinase domain.All constructs were ﬂag-tagged at the C-termini.
+(C) Co-immunoprecipitation of DJ-1 and PINK1 deletion mutants.SH-SY5Y cells co-expressing myc-tagged DJ-1 with either control plasmid (C), ﬂag-tagged wild-type PINK1 (PINK1) or each of the ﬁve ﬂag-tagged PINK1 deletion mutants (F1 – F4) were lysed and immunoprecipitated with an anti-myc tag antibody followed by immunoblotting with an anti-ﬂag antibody (upper panel) or an anti-DJ-1 antibody (middle panel).
+Direct immunoblotting of cell lysates with an anti-ﬂag antibody are shown as the input control (lower panel).
+Note: very low levels of PINK1 F1 and F2 fragments were expressed (D) Interaction of DJ-1 and the PINK1 F3 fragment.
+Long exposure of Figure 4C (left panel) shows low expression of full-length PINK1 F3 fragment.However, this fragment is very efﬁciently co-immunoprecipitated with DJ-1 (arrow, right panel) expressing PINK1wt or DJ-1wt were treated with the pro- teasome inhibitor MG132 or with the protease inhibitors leupeptin or NH4Cl.
+PINK1 accumulation was observed in cells treated with MG132 in the presence or absence of the protein synthesis inhibitor cycloheximide.
+In contrast, little PINK1 accumulation was seen in cells treated with either leu- peptin or NH4Cl (Fig.
+6A).These results suggest that PINK1 is degraded via the proteasomal pathway.
+Interestingly, the treatments described above had little effect on DJ-1 levels in cells.
+Consistent with these ﬁndings, PINK1wt is heavily ubi- quitinated.
+However, PINK1P399L was less extensively ubi- quitinated than the wild-type protein in cells lacking MG132 treatment, likely because PINK1P399L was rapidly degraded In contrast, PINK1P399L was more ubiquitinated than PINK1wt in cells treated with MG132 (Fig.
+6B and C).The observed PINK1 ubiquitination is unlikely a detection of other ubiquitinated proteins co-precipitated with PINK1.
+In this assay, cells were lysed in 2% sodium dodecyl sulfate (SDS) followed by boiling for 10 min.
+Under such stringent conditions, minimal non-covalent protein – protein interactions are preserved.
+These results indicate that PINK1P399L is degraded more efﬁciently than PINK1wt via the ubiquitin – proteasome pathway.
+Little ubiquitination of DJ-1 was detected in cells lacking MG132 treatment.
+Interestingly, a small portion of DJ-1wt was ubiquitinated in cells treated Downloaded from https://academic.oup.com/hmg/article-abstract/15/11/1816/592222 by Universite Libre de Bruxelles user on 16 April 2018 with MG132, indicating that a small portion of DJ-1wt was ubiquitinated and degraded via proteasome pathway DJ-1wt and PINK1wt, but not the PD-associated DJ-1 and PINK1 mutants, collaboratively function against 1-methyl-4-phenylpyridinium-induced oxidative stress in various variants lines was Expression of wild-type DJ-1 but not PD-linked DJ-1mutants protects cells from death induced by oxidative stress (12,22,31–33).
+To explore the functional consequences of expression of DJ-1A39S and PINK1P399L, we established SH-SY5Y cell lines stably expressing myc-tagged DJ-1 and VSVG-tagged PINK1 com- binations.
+Expression of exogenous variants was veriﬁed by immunoblotting (Fig.
+7A).Survival of stably transfected cell challenge with þ ) for 12 h.
+As shown in 1-methyl-4-phenylpyridinium (MPP Figure 7B, exposure of control cells transfected with empty þ resulted in reduced cell viability in a dose- plasmids to MPP dependent manner.
+Consistent with previous reports (12,22), þ expression of DJ-1wt rescued cell death induced by MPP resulted in treatment.
+Likewise, expression of PINK1wt increased expressing cells PD-associated DJ-1A39S or PINK1P399L showed reduced viability compared with control cells.
+The results indicate determined following cell viability In contrast, Human Molecular Genetics, 2006, Vol.
+15, No.11 1821 Figure 6.
+PINK1 degradation via the ubiquitin– proteasome pathway (A) SH-SY5Y cells stably expressing VSVG-tagged PINK1 and myc-tagged DJ-1 treated with either solvent (C), MG132 (MG), leupeptin (Leu) or NH4Cl in the absence (2CHX) or presence (þCHX) of the protein synthesis inhibitor cycloheximide were lysed and immunoblotted to detect PINK1 (anti-VSVG) and DJ-1 (anti-myc).
+Actin was also detected to indicate equal loading.
+(B) Ubiquitination of PINK1 and DJ-1.SH-SY5Y cells were co-transfected with HA-tagged tetra-ubiquitin and ﬂag-tagged PINK1 variants (wt and P399L) or ﬂag-tagged DJ-1 variants (wt and A39S) followed by treat- ment with or without MG132.
+Cells were lysed, immunoprecipitated with anti- ﬂag (M2) beads and immunoblotted with an anti-HA monoclonal antibody (to show poly-ubiquitination, upper panel) and an anti-ﬂag polyclonal antibody (to show ubiquitination and steady-state levels of PINK1 and DJ-1, middle panel).
+Equal amounts of lysate were also immunoblotted with an anti-HA monoclonal antibody to show expression of tetra-ubiquitin (lower panel) heterozygosity in any one of these genes increases suscepti- bility to PD.
+Our ﬁndings further indicate that some of these cases likely harbor heterozygous mutations in more than one autosomal recessive PD-linked gene.
+Alternatively, epigenetic inactivation of one gene allele in combination with a heterozy- gous mutation of another PD-associated gene may also cause disease.
+More importantly, this ﬁnding provides the ﬁrst genetic evidence in human indicating functional interaction of PINK1 and DJ-1.
+The physical association of PINK1 and DJ-1 demonstrated in this study further supports this notion and suggests that these two PD-linked genes protect cell Figure 5.
+Expression of DJ-1 increases PINK1 levels in cells.(A) Equal amounts of lysates of cells transfected with PINK1, DJ-1 variants and their combinations were immunoprecipitated with an anti-ﬂag antibody (to detect PINK1), followed by detection of PINK1.
+The same lysates were immuno- blotted with anti-myc antibody, showing expression of DJ-1.
+Tubulin was detected to indicate equal loading.
+(B) Quantitation of PINK1 levels in trans- fected cells.
+The results were obtained from three independent transfections P , 0.05 compared with the control transfectants that both PINK1 and DJ-1 protects cells against stress, whereas their respective PD-associated mutants do not.
+Interestingly, co-expression of PINK1wt and DJ-1wt led to a synergistic þ -induced stress increase in cell viability against MPP (P , 0.001, Student’s t-test; to control transfection).
+On the contrary, co-expression of PD-associated DJ-1A39S and PINK1P399L mutants signiﬁcantly increased susceptibility of cells to death (P , 0.001, Student’s t-test; to control transfec- tion), suggesting that DJ-1 and PINK1 function collaboratively to protect SH-SY5Y cells against MPP -induced stress þ DISCUSSION In this study, we present, to our knowledge, the ﬁrst evidence of digenic inheritance of autosomal recessive early-onset familial forms of PD, demonstrate a physical association of DJ-1 and PINK1 proteins in the cell and reveal synergistic -induced activity of DJ-1 and PINK1 in antagonizing MPP stress.
+Moreover, show that PD-associated DJ-1A39S and PINK1L399P mutants lose their ability to protect cells against MPP -induced oxidative stress the results þ þ It is well documented that in several autosomal recessive early-onset PD cases heterozygous mutations in only one of the three autosomal recessive PD-linked genes, DJ-1, parkin and PINK, are detected (16 – 18).
+One explanation is that Downloaded from https://academic.oup.com/hmg/article-abstract/15/11/1816/592222 by Universite Libre de Bruxelles user on 16 April 2018 1822 Human Molecular Genetics, 2006, Vol.
+15, No.11 a-synuclein and LRRK2 are associated with familial form PD (3,37) The molecular pathways regulated by DJ-1 and PINK1 and also directly linked to PD pathogenesis are not known.
+Both DJ-1 and PINK1 are individually indicated to protect cells from oxidative stress.
+DJ-1 is shown to protect cells from oxi- dative stress both in transfected cells and in Drosophila (12,22,38,39).
+Inactivation of DJ-1 in mouse and Drosophila results in mitochondrial dysfunction and sensitizing to oxi- dative stress (31,38 – 40).
+In transfected cells, loss of PINK1 function also potentiates the susceptibility to oxidative stress (10,41).
+Consistent with these ﬁndings, we found that overex- pression of wild-type DJ-1 and PINK1 synergistically protect -induced cell death.
+In contrast, PD-associated DJ-1 and MPP PINK1 mutants lose the anti-stress ability and even potentiate -induced cell death.
+The increased the susceptibility to MPP sensitization of disease-associated PINK1 and DJ-1 mutants to oxidative stress may underlie a common mechanism for PD pathogenesis þ þ It remains unclear how DJ-1 and PINK1 protect neurons from undergoing oxidative stress.
+But, a potential clue may be their mitochondrial localization (10,42 – 44).
+Mitochondria are the main source of reactive oxygen and nitrogen species and are the cellular compartments critical for integration of intrinsic apoptosis pathways.
+PINK1 may play a critical role in maintain mitochondrial homeostasis.
+Reduced PINK1 protein stability or loss of function of PINK1 will therefore result in dysfunction of mitochondria, oxidative stress and eventual neuronal death.
+To support this notion, we found that PINK1 stability is decreased by PD-associated PINK1 and DJ-1 mutations It has been reported that DJ-1 protein forms homodimers (30,45).
+PD-linked mutations perturb DJ-1 dimerization, which contributes to the reduced ability of DJ-1 to combat anti-oxidative stress (34,45,46).
+We propose that PINK1 forms a complex with DJ-1, which renders PINK1 more stable and thereby potentiates PINK1’s anti-stress activity In contrast, PD-associated DJ-1 and PINK1 mutants could be either less stable than wild-type proteins or lose the ability to dimerize, resulting in reduced protection against stress and contributing to neurodegeneration seen in PD MATERIALS AND METHODS Patients and genotyping A two-generation family with autosomal recessive inherited PD was identiﬁed in Yunan, China.
+PD was clinically diag- nosed in the Department of Neurology, Xiangya Hospital of Central South University.
+After informed written consent was obtained from all participants, blood samples were collected from ﬁve genetically related individuals Genotyping was essentially performed as previously described (47).
+Brieﬂy, genomic DNA (gDNA) was isolated from peripheral blood cells.
+All exons of the parkin, PINK1 and DJ-1 genes were PCR-ampliﬁed using speciﬁc primers corresponding to the three genes.
+The PCR ampliﬁcation pro- ducts were treated with shrimp alkaline phosphatase and exo- nuclease I followed by direct sequencing using an ABI3100 sequencer.
+The gDNA corresponding to DJ-1 exon 3 (where þ (DJ-1wt), wild-type PINK1 Figure 7.
+DJ-1 and PINK1 protect cells from MPP -induced stress (A) Expression of exogenous DJ-1 variants and PINK1 variants in SH-SY5Y stable expressors.
+Cell lysates made from SH-SY5Y cells stably expressing wild-type DJ-1 (PINK1wt), DJ-1A39S, PINK1P399L, DJ-1A39S and PINK1P399L, DJ-1wt and PINK1P399L and DJ-1wt and PINK1wt, as well as vector transfected controls (C) were assayed with an anti-myc tag antibody (DJ-1) or an anti-VSVG tag antibody (PINK1) to detect expression of DJ-1 and PINK1 variants.
+As a loading control, the membrane was also probed with an anti-tubulin antibody (anti-Tub).
+To detect expression of different plasmids, cells were treated with 5 mM MG132 overnight.
+(B) Cell survival analysis of SH-SY5Y cells expressing DJ-1 and PINK1 variants.
+SH-SY5Y cells stably expressing DJ-1 or/and PINK1 variants (indicated on the right of the ﬁgure) were treated þ at various concentrations indicated on the X-axis for 12 h.
+Cell with MMP survival was shown as a percentage of untreated controls.
+The results shown in the ﬁgure were obtained from three independent experiments against PD-related insults likely through a common mechan- ism.
+PD pathogenic mutations of these genes likely disrupt the protective pathway resulting in eventual neuronal degener- ation upon stress.
+This hypothesis is consistent with a recent study ﬁnding that parkin and DJ-1 become physically associ- ated in vitro when cells undergo oxidative stress (34).
+It is also possible that other PD-associated genes are also function- ally co-ordinated in order to maintain normal neuronal func- tion and survival.
+Parkin, another gene linked to autosomal recessive early-onset familial form of PD, encodes an E3 ligase of synphilin-1, a minor O-linked glycosylated form of a-synuclein and LRRK2 (35 – 37).
+Mutations in synphilin-1, Downloaded from https://academic.oup.com/hmg/article-abstract/15/11/1816/592222 by Universite Libre de Bruxelles user on 16 April 2018 Human Molecular Genetics, 2006, Vol.
+15, No.11 1823 G115T is located) and PINK1 exon 6 (where C1196T is located) were also PCR-ampliﬁed for RFLP analysis.
+The PCR products of DJ-1 exon 3 (249 bp) ampliﬁed from the wild-type allele were cleaved by BstNI into a 127 and a 122 bp fragments, whereas the DJ-1G115T mutant allele lost the BstNI cleavage site.
+The PCR product of PINK1 exon 6 (309 bp) ampliﬁed from the wild-type allele is a 309 bp frag- ment that cannot be cleaved by SapI.
+The same fragment ampliﬁed from the PINK1C1196T mutant allele was cleaved into 177 and 132 bp fragments by SapI.
+DNA fragments were separated on 6% non-denaturing polyacrylamide gels The most likely haplotype was constructed by Cyrillic program (Electrotechnical Laboratory, Japan) To detect transcripts of DJ-1, parkin and PINK1, total RNA was isolated from immortalized lymphocytes using TRIzol reagent (Invitrogen).
+RT – PCR was done as previously described (48).
+Primers used were 50-cggaattcgccaccatggcttcc aaaagagctctg-30 (DJ-1, forward), 50-cgggatccccgtctttaagaacaa gtggagc-30 (DJ-1, reverse); 50-gggaattcatagtgtttgtcaggatcaac-30 (parkin, forward), 50-cgggatcccacgtcgaaccagtggtcccc-30 (parkin, reverse); 50-cggaattcgccaccatggcggtgcgacaggcg-30 (PINK1, forward), 50-cccaagcttcagggctgccctccatga-30 (PINK1, reverse); 50-aagtactccgtgtggatcgg-30 (b-actin, forward) and 50-aaagcc atgccaatctcatc-30 (b-actin, reverse).
+Entire coding sequences of DJ-1, parkin, and PINK1 were ampliﬁed followed by complete sequencing and agarose conjugated with these antibodies were from Sigma.
+Immunoblotting and immunoprecipitation were as previously described (49).
+Brieﬂy, cells were lysed in 1% Triton X-100 buffer (10 mM HEPES, pH 7.5, 142.5 mM KCl, 5 mM MgCl2, 1 mM EDTA) followed by centrifugation at 14 000g, 48C for 30 min.
+The resulted supernatants were determined for protein concentration.
+Equal amount of pro- teins from each sample were immunoprecipitated with antibody-conjugated beads, including anti-myc agarose, anti- ﬂag agarose and anti-VSVG agarose (Sigma) at 48C overnight with nutation.
+The beads were washed with 1% Triton X-100 buffer for four times followed by boiling for 5 min in SDS loading buffer.
+The immunoprecipitated proteins were separ- ated on 4 – 20% Tris-glycine precasted gels (Invitrogen).
+The separated proteins were electro-transferred onto Immuno-P membranes (Millipore).
+The membranes were blocked with 5% non-fat milk in phosphate-buffered saline (PBS) for 1 h, reacted with the primary antibodies diluted in 5% non-fat milk in PBS at 48C overnight with nutation, followed by cor- responding HRP-labeled secondary antibodies diluted in 5% non-fat milk and 0.1% Triton X-100 in PBS for 1 h.
+Immuno- reacted proteins were detected by ECL (Amersham) Treatment with MG132 (5 mM), leupeptin (50 mM), and NH4Cl (20 mM) was performed at 378C overnight.
+Quanti- tation was done with an Alpha Imager 2200 V5.04 and analyzed with Instat 3 (GraphPad) Sequence alignment Amino acid sequences of DJ-1 and PINK1 from different species were retrieved from NCBI, respectively.
+Alignment was done with MacVectorTM 7.2.2 (Accelrys) Cell lines and plasmids generate cDNAs (wild-type PINK1 transfectants, variants SH-SY5Y neuroblastoma cells and HEK293 cells were pur- chased from ATCC and maintained according to instruction To encoding stable and VSVG-tagged PINK1 PINK1P399L) and myc-tagged DJ-1 variants (wild-type DJ-1 and DJ-1A39S) were PCR-ampliﬁed and cloned into pIRESpuro3 plasmid and pMSCVhyg retroviral plasmid (Clontech), respectively.
+SH-SY5Y cell pools stably expres- sing VSVG-tagged PINK1 variants were generated via puro- mycin expressors were generated by further infection of PINK1 expressors with retro- viruses encoding myc-tagged DJ-1 variants and selected in hygromycin (175 mg/ml).
+For transient transfection, cDNAs encoding myc-tagged, ﬂag-tagged or VSVG-tagged PINK1 and myc-tagged, ﬂag-tagged or VSVG-tagged DJ-1 were PCR generated and subcloned into pcDNA3.1(2) plasmid (Invitrogen).
+A plasmid encoding HA-tagged ubiquitin was kindly provided by Ze’ev Ronai.
+All epitope tags were added to the C-terminus of the proteins.
+All plasmids were sequence conﬁrmed selection (1.5 mg/ml).
+Double Antibodies and immunoassays Monoclonal antibody against DJ-1 (E2.19) was purchased from Signet Laboratories.
+Antibodies against different tags Downloaded from https://academic.oup.com/hmg/article-abstract/15/11/1816/592222 by Universite Libre de Bruxelles user on 16 April 2018 Protein ubiquitination in transfected cells cells analyzed essentially as previously Ubiquitination was described (50).
+Brieﬂy, transfected with various plasmid combinations were lysed in 2% SDS buffer (2% SDS, 150 mM NaCl, 10 mM Tris – HCl, pH 8.0, 2 mM sodium orthovanadate, 50 mM sodium ﬂuoride, 1 protease inhibitors) and boiled for 10 min followed by sonication Lysates were diluted 1:10 in dilution buffer (10 mM Tris – HCl, pH 8.0, 150 mM NaCl, 2 mM EDTA, 1% Triton), incu- bated at 48C for 1 h with rotation and centrifuged at 14 000g for 30 min.
+The protein concentration of supernatants was determined by Dc protein assay (BioRad).
+Equal amounts (1 – 1.5 mg) of protein were used for immunoprecipitation Immunoprecipitated proteins were washed with washing buffer (10 mM Tris – HCl, pH 8.0, 1 M NaCl, 1 mM EDTA, 1% NP-40), boiled in SDS sample buffer and separated on SDS – PAGE.
+Ubiquitin and precipitated proteins were immu- nodetected with respective antibodies Cell viability assay SH-SY5Y cells stably expressing DJ-1 and PINK1 variants and controls transfected with empty plasmids were seeded in 96-well dishes (104 cells/well) overnight followed by treat- (Sigma) at various concentrations for ment with MMP 12 h.
+Cell viability was assayed with a CellTiter 96 MTT kit (Promega).
+Triplicates or quadruplicates were analyzed at every concentration in each assay.
+The results from three inde- pendent experiments were analyzed þ 1824 Human Molecular Genetics, 2006, Vol.
+15, No.11 ACKNOWLEDGEMENTS We thank Ze’ev Ronai for insightful discussion.
+This work is supported by grants from the National Institute of Health (Z.Z.), the Chinese Natural Science Foundation and the Chinese Ministry of Science and Technology (T.B., K.X.
+and J.-H.X.) the Alzheimer’s Disease Association (Z.Z.), Conﬂict of Interest statement.

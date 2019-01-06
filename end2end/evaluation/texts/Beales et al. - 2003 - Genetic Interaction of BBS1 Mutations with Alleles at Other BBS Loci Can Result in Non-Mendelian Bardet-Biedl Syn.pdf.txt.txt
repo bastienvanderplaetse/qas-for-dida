@@ -1,0 +1,229 @@
+Introduction Oligogenic inheritance occurs when speciﬁc alleles at more than one locus affect a genetic trait by causing and/or modifying the severity and range of a phenotype The rapidly expanding number of known disease-caus- ing genes and an improved understanding of the cellular bases of mutational mechanisms have suggested that many disorders previously thought to be monogenic are, rather, the products of the genetic interaction of a small number of loci (Badano and Katsanis 2002; Ming and Muenke 2002) Bardet-Biedl syndrome (BBS [MIM 209900]) is a clin- ically heterogeneous pleiotropic disorder characterized by progressive retinal dystrophy, central obesity, poly- Received January 14, 2003; accepted for publication February 25, 2003; electronically published April 3, 2003 Address for correspondence and reprints: Dr.
+Nicholas Katsanis, McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins Uni- versity, 600 North Wolfe Street, 2-127 Jefferson Street Building, Bal- timore, MD 21287.
+E-mail: katsanis@jhmi.edu * These two authors contributed equally to this work 䉷 2003 by The American Society of Human Genetics.
+All rights reserved 0002-9297/2003/7205-0012$15.00 dactyly, renal dysplasia, reproductive tract anomalies, and cognitive impairment (Schachat and Maumenee 1982; Green et al.
+1989).Additional features include short stature, endocrinopathies (including diabetes mel- litus and thyroid deﬁciency), and congenital heart mal- formations, as well as speech and behavioral distur- bances (Green et al.
+1989; Beales et al.1999).
+BBS is also genetically heterogeneous; on the basis of an au- tosomal recessive transmission model, seven loci have been mapped in the genome: BBS1 on 11q13 (Leppert et al.
+1994), BBS2 on 16q21 (Kwitek-Black et al 1993), BBS3 on 3p12 (Shefﬁeld et al.
+1994), BBS4 on 15q22.2–q23 (Carmi et al.
+1995), BBS5 on 2q31 (Young et al.
+1999a), BBS6 on 20p12 (Katsanis et al 2000), and BBS7 on 4q27 (Badano et al.
+2003).How- ever, the cloning of the ﬁrst BBS locus, BBS6 (Katsanis et al.
+2000; Slavotinek et al.2000), followed by mu- tational analyses on a large multiethnic cohort, implied that some mutations do not conform to a traditional model of autosomal recessive disease transmission (Be- ales et al.
+2001).After the identiﬁcation of two addi- tional BBS loci, BBS2 (Nishimura et al.
+2001) and BBS4 (Mykytyn et al.
+2001), sequence analyses showed that, in some families, a total of three mutations in two genes 1187 1188 are necessary for pathogenesis (Katsanis et al.
+2001a, 2002), thus establishing a triallelic model of disease transmission and suggesting that BBS might be a useful model to study oligogenic traits (Badano and Katsanis 2002) More recently, two new BBS genes have been cloned: BBS1 (Mykytyn et al.
+2002) and BBS7 (Badano et al 2003), each encoding a protein of unknown function but exhibiting modest similarity to the other.
+Muta- tional analysis of BBS7 suggested that this locus might also participate in non-Mendelian inheritance.
+How- ever, the reported initial analyses of BBS1 in 60 families with BBS yielded no evidence for triallelic inheritance, because of both the absence of patients with three mu- tations at two loci and the lack of asymptomatic indi- viduals with two BBS1 mutations (Mykytyn et al 2002) We performed comprehensive genetic and mutational analyses of 259 families, of various ethnicities, with BBS and describe the characteristics, frequency, and position of BBS1 mutations.
+Our data provide compelling evi- dence for the participation of BBS1 in triallelic inheri- tance and indicate that BBS can arise from the pairing of different combinations of mutations in which each locus can contribute either one or two mutant alleles at varying frequencies Patients and Methods Patients Two hundred and ﬁfty-nine families with BBS, of var- ious ethnic origins, were screened for mutations in BBS1 The diagnosis of BBS was based on established criteria requiring that four of six cardinal features be present (Anderson and Lewis 1997; Beales et al.
+1999).In several cases, the diagnosis was ascertained by local physicians and was veriﬁed through examination of medical records by one or more of us (R.A.L., P.L.B.).
+Blood was ob- tained with consent, in accordance with protocols ap- proved by the appropriate human subjects ethics com- mittees at each participating institution, and DNA was extracted as described elsewhere (Katsanis et al.
+2000) Genetic and Mutational Analysis The reported cDNA sequence of BBS1 (GenBank ac- cession number AF503941) (Mykytyn et al.
+2002) was aligned to genomic sequence from the June 2002 human genome assembly with the nucleotide-nucleotide BLAT algorithm at the University of California, Santa Cruz.
+We determined intron-exon boundaries for 17 exons, which is consistent with the published data.
+We extracted 100–300 bp of sequence ﬂanking each coding exon and designed amplicons that span each exon and both splice junctions, as described elsewhere (Katsanis et al.
+2000) Am.
+J.Hum.
+Genet.72:1187–1199, 2003 We puriﬁed the ampliﬁed PCR products from patients, relatives, and unrelated but ethnically matched controls, with either the Exo-SAP cleanup kit (USB) or the QIA- quick PCR puriﬁcation kit (Qiagen), and performed direct sequencing of the PCR products with dye-primer (Applied Biosystems) or dye-terminator (Amersham Biosciences or Applied Biosystems) chemistry.
+Sequencing was per- formed on an ABI 377 and ABI 3700 sequence analyzer (Applied Biosystems) or a MegaBACE1000 sequence an- alyzer (Amersham Biosciences) We performed genetic analyses by generating geno- types for each relevant patient or relative with ﬂuores- cent STRs and constructing haplotypes across each BBS locus, as described elsewhere (Katsanis et al.
+1999; Be- ales et al.
+2001).Microsatellite sequences were obtained from either the Genome Database or the Whitehead In- stitute Center for Genome Research Evolutionary Conservation Analyses We identiﬁed the Drosophila melanogaster, Caenor- hibditis elegans, Mus musculus, Rattus norvegicus, and Danio rerio orthologs of BBS1, BBS2, BBS4, and BBS6 through the search utility of Swissprot and Trembl with the human peptide sequence.
+The sequences were aligned with the ClustalW software to return a graphical rep- resentation of the conserved and nonconserved residues We also identiﬁed partial sequences of the Sus scrofa, Bos taurus, Xenopus laevis, and Gallus gallus orthologs of BBS6 by conducting TBLASTN searches of the BBS6 peptide sequence against the nonhuman/nonmouse EST database.
+We aligned relevant sequences with programs from the GCG v.9.0 software analysis package, as de- scribed elsewhere (Katsanis and Fisher 1998) Results Spectrum of BBS1 Mutations To determine the range and type of mutations in BBS1, we sequenced a total of 259 families of various ethnicities, which were divided into two cohorts de- pending on the laboratory responsible for collection and maintenance of DNA stocks: a U.S.
+cohort (147 families) and a U.K.
+cohort (112 families).Furthermore, because of the complex inheritance of BBS (Katsanis et al.
+2001a, 2002), we investigated all available families irrespective of previous genetic or mutational data We identiﬁed numerous alterations, which we inves- tigated further for pathogenicity by (a) segregating them with the phenotype in families; (b) ascertaining whether they might disrupt splicing; (c) evaluating whether they represented a nonconservative amino acid substitution or predicted premature termination codon; (d) investi- gating whether they were present in 200–400 unrelated, ethnically matched control chromosomes; and (e) deter- Beales et al.: Triallelic Inheritance in BBS1 Table 1 Summary of BBS1 Mutational Data For Each Cohort 1189 DATA FROM COHORT U.K U.S Combined No.
+of Families n p 112 ) ( % of All Families with BBS % of Families with BBS1 Mutations No.
+of Families n p 147 ) ( % of All Families with BBS % of Families with BBS1 Mutations No.
+of Families n p 259 ) ( % of All Families with BBS % of Families with BBS1 Mutations Mutations Two BBS1 mutations (recessive) Two BBS1 mutations and one mutation elsewhere One BBS1 mutation and two mutations elsewhere Total mutations at two loci One BBS1 mutation and linked to 11q13 One BBS1 mutation and not linked to 11q13 One BBS1 mutation and no linkage data All families with BBS1 mutations 16 4 0 4 1a 0 3 23 14.3 3.6 .0 3.6 .9 .0 2.7 20.5 69.6 17.4 .0 17.4 4.3 .0 13.0 29 2 2 4 1 2 1 37 19.7 1.4 1.4 2.7 .7 1.4 .7 25.2 78.4 5.4 5.4 10.8 2.7 5.4 2.7 45 6 2 8 2a 2 4 60 17.4 2.3 .8 3.1 .8 .8 1.5 23.2 75.0 10.0 3.3 13.3 3.3 3.3 6.7 a One arm of family PB086 has two BBS1 mutations, whereas, in a second arm, we have detected a single BBS1 mutation, despite a haplotype-based expectation for two 11q13 mutations.
+Therefore, this family was counted both as recessive and as “One BBS1 mutation and linked to 11q13.” mining the level of evolutionary conservation for each residue Overall, we detected at least one BBS1 disease-asso- ciated mutation in 60 of 259 pedigrees (23.2% of fam- ilies, 111 mutant alleles) (tables 1 and 2), despite an expectation of ∼40%–56% of disease-associated alleles, based on previous analyses of the contribution of this locus to BBS by us and others (Bruford et al.
+1997; Katsanis et al.
+1999).Of the 24 different BBS1 mutant alleles detected in our two cohorts, 2 were splice junction mutations and 5 were insertions or deletions (table 2) One of these is a 3-bp deletion eliminating the isoleucine at position 389, whereas the other four result concep- tually in a frameshift and the premature termination of translation of the encoded peptide.
+Most changes were either 1-bp transitions or transversions resulting in mis- sense substitutions ( ) or nonsense mutations in- troducing a premature stop codon ( ).
+One of the missense mutations was a contiguous 2-bp substitution, TTrAC (L503H); subsequent subcloning and sequenc- ing of each allele indicated that the two alterations lie in the same strand, occupying the second and third po- sitions in the same codon n p 9 n p 8 With the exception of the M390R mutant allele, most mutations were found at a low frequency in each cohort (table 2).
+Only one allele, D148N, was found in both the U.K.
+and U.S.patient collection, even though the prevalence of some mutations was elevated in one or the other cohort (e.g., four R146X U.S.
+alleles and three Y284fsX288 U.K.
+alleles), suggesting that each patient collection might have a distinct genetic composition.
+No- tably, BBS1 mutations were primarily detected in white families; only 2 of the 24 families of Saudi Arabian de- scent had BBS1 mutations (8%), in contrast to ∼20% of whites, indicating that BBS1 may not be the major BBS locus in this population Mapping the position of the mutations in BBS1 re- Table 2 Prevalence of BBS1 Mutations in the U.S.
+and U.K.
+Cohorts NO.
+OF MUTANT ALLELES IN COHORT MUTATION H35R K53E L75fsX98 Y113X Q128X R146X D148N E234K IVS9-3CrG Y284fsX288a Q291X G305S 389DI M390Ra R429X Y434S R440X* IVS13-2ArG R483X L503H L505fsX556 L518Q L548fsX579 E549Xa U.K.
+( n p 112 ) 1 1 0 0 0 0 2 0 0 3 0 0 0 33 0 0 2 0 0 1 0 0 0 0 U.S.
+( n p 147 ) 0 0 1 1 1 4 2 1 2 0 1 4 1 41 1 1 0 2 1 0 1 1 1 1 NOTE.—Numbers of mutant alleles are shown; therefore homozygous mutations were scored as two alleles.
+Mutations are listed in a N- to C-ter- minal order, with position “1” being the ﬁrst me- thionine in sequence AF503941 (Mykytyn et al 2002) a These mutations were also found by Mykytyn et al.
+(2002) 1190 vealed a nonuniform distribution (ﬁg.
+1), in which none of the 26 mutations lies at the extreme N or C termini of the predicted protein.
+In addition, the region extend- ing from exon 6 to exon 9 is devoid of mutations, except for a single allele, E234K M390R is the Predominant BBS1 Mutation Previous mutational analyses of a smaller patient co- hort indicated that a single missense alteration in exon 12 of BBS1, M390R, is the most common BBS1 mutant allele, accounting for 32% (38/120 mutant alleles, under the assumption of an exclusively recessive model) of all BBS mutations (Mykytyn et al.
+2002).Although the con- tribution of M390R to BBS in our cohort is lower (18%), we found the M390R allele to be the most frequent BBS1 mutation in each of our cohorts.
+In the U.S.cohort, M390R is present in 75.7% of all families with BBS1 mutations, and, in the U.K.
+cohort, we observed a slightly higher proportion of 82.6% (table 4).
+Overall, 45% of pedigrees with BBS1 mutations were homozy- gous for the G nucleotide (encoding arginine), whereas 33.3% were heterozygous.
+Independent analyses of each patient cohort also revealed a slight enrichment for M390R heterozygotes (40.5%) compared with homo- zygotes (35.1%) in the U.S.
+cohort, in contrast to the U.K.
+cohort, in which homozygotes (60.9%) are more than twice as common as heterozygotes (21.7%).
+This difference may be due, in part, to the background eth- nicity of the two family collections; in each cohort, the M390R allele was found almost exclusively in pedigrees of European origin.
+This observation, coupled with the high frequency of this allele in BBS, suggests that M390R might be an ancient founder, propagated through the population either by genetic drift or by some as-yet- unidentiﬁed selective advantage in the heterozygous state Am.
+J.Hum.
+Genet.72:1187–1199, 2003 Evaluation of Complex Inheritance in BBS1 The availability of 259 families with BBS, with as- sociated data for each of the other known loci, offered the opportunity to evaluate comprehensively the genetic contribution of BBS1 alleles to the phenotype.
+We pos- tulated that supportive evidence for the involvement of BBS1 in complex inheritance would include the follow- ing observations.
+First, patients with BBS1 mutations should have mutations at other BBS loci.
+Second, ex- amples of asymptomatic individuals who are carriers of two bona ﬁde BBS1 mutations should be present in our cohorts.
+Third, the prevalence of BBS1 mutations in- volved in triallelism might be elevated in the general population beyond a value expected under a Mendelian recessive model.
+To minimize potential scoring and pop- ulation bias for testing these predictions, each laboratory analyzed its respective cohort independently in a masked fashion and the cumulated data were shared only after the completion of the experimental phase Patients with BBS1 mutations have mutations at other BBS loci.—By performing sequence analyses for all known BBS genes, we found direct mutational evidence for non-Mendelian trait inheritance in eight families with BBS1 mutations (13.3% of all such families) (tables 1 and 3).
+Of these families, six (10% of all families with BBS1 mutations) have two mutations in BBS1 and one mutation at another locus, and two families (3.3% of all families with BBS1 mutations) present the reciprocal combination.
+Furthermore, half of these families origi- nated from the U.K.
+cohort and half from the U.S.co- hort, suggesting similar prevalences of non-Mendelian BBS in the two collections In one English pedigree, PB056, both mother and daughter are affected, which resembles a pseudodomi- nant pattern of inheritance.
+Subsequent sequencing re- vealed the presence of two M390R alleles in both pa- tients (ﬁg.
+2A).Furthermore, each affected individual Figure 1 Distribution of mutations along BBS1.
+Exons are depicted as blue bars and the position of each mutation is shown above Arrows indicate the positions of the start and termination codons, whereas asterisks indicate mutations reported previously by Mykytyn et al (2002); scale is approximate.
+The BBS1 protein has no discernible domains, with the exception of a region of similarity between residues 187–377 with BBS2 and BBS7 that potentially encodes a six-bladed b-propeller (Badano et al.
+2003) Beales et al.: Triallelic Inheritance in BBS1 has a third heterozygous M472V alteration in BBS4, inherited from the maternal grandfather, who also car- ries a heterozygous M390R allele but is unaffected Moreover, the methionine residue involved in M472V has been found, on subsequent evolutionary analysis, to be highly conserved (ﬁg.
+5).Because the father in this family was unavailable, we excluded the possibility of M390R hemizygosity in the proband or uniparental di- somy (UPD) as alternative explanations, by genotyping regional STRPs and intragenic SNPs (ﬁg.
+2A) Examples of triallelic inheritance and the involvement of mutations at two distinct loci were also found in the U.S.
+cohort.The proband in family AR396 was a com- pound heterozygote for the M390R allele and a non- sense mutation Q291X and also carries a heterozygous S236P allele in BBS6 (ﬁg.
+2B).Conversely, the Puerto Rican consanguineous family AR69 carries a heterozy- gous E234K allele in BBS1 but is excluded genetically from this locus.
+During the course of our studies, we determined that this family has inherited a homozygous T211I mutation at a highly conserved residue in BBS7 (Badano et al.
+2003) In the families described above, the third mutant allele is a missense alteration.
+As such, despite its absence from some 400 ethnically matched control chromosomes, the possibility remains that some of these alleles represent benign polymorphisms and, given the small size of ped- igrees, cosegregation of these alleles with the disorder might be argued to be coincidental.
+However, AR241, a pedigree of European descent from the U.S.
+cohort, provides compelling evidence for the requirement of mu- tant alleles at two loci.
+Both affected brothers, ⫺05 and ⫺06, are heterozygous for the M390R BBS1 mutation In addition, each sib carries two BBS2 mutant alleles: a missense R315Q mutation, which is a disease-associated residue in a Saudi Arabian family with BBS (Katsanis et al.
+2001a), and a splice junction mutation in the acceptor site of exon 2 (IVS1⫹1GrC; ﬁg.
+2C).In the unlikely event that the R315Q allele proved benign, the patients Table 4 Relative Prevalence and Distribution of the M390R Allele 1191 Table 3 Families with Mutations in BBS1 and Other Loci FAMILY 1 2 3 ALLELE HAPLOTYPE MAPPINGa E234K AR69 T211I (BBS7) T211I (BBS7) AR241 M390R IVSx2 (BBS2) R315Q (BBS2) AR396 Q291X M390R S236P (BBS6) AR710b M390R … AR729b M390R … AR768 M390R L548fsX579 PB006c M390R M390R PB009 M390R M390R PB029c M390R M390R PB056 M390R M390R 4q27 Unmapped Unclear 16q21 Not 11q13 11q13 T325P (BBS6) 11q13 BBS8? 11q13 L349W (BBS2) BBS8? 11q13 M472V (BBS4) Unclear … … a Whenever possible, families were excluded from recessive muta- tions at a particular locus by constructing extended haplotypes.
+These were centered either at the gene (when known) or the polymorphic marker with the highest LOD score and extended beyond the ﬁrst reported recombinant marker for each BBS locus b Families with one BBS1 mutation excluded from 11q13 by hap- lotype analysis.
+In family AR710, haplotype analysis across all known BBS loci is consistent with linkage to BBS2, but no mutations have been identiﬁed.
+Family AR729 has been excluded from all known BBS loci c Families in which an unaffected individual is homozygous for M390R mutations; in these instances, a mutation at a novel BBS locus is postulated (i.e., BBS8?) that may exert either a causal or a protective effect in this family still have inherited bona ﬁde mutations in both BBS1 and BBS2 Unaffected individuals with two BBS1 mutations.—A second prediction of the triallelic hypothesis is that, if mutations at two loci are necessary for pathogenesis, unaffected individuals must exist who have two muta- tions at one locus.
+This has been found previously to be true for other BBS loci (Katsanis et al.
+2001a; Katsanis et al.
+2002), but not BBS1 (Mykytyn et al.2002).
+To examine this aspect of our model, we determined the segregation of each mutant BBS1 allele.
+Although in several instances parents and/or unaffected sibs were un- DATA IN COHORT U.K U.S Combined M390R PREVALENCE No.
+of Families with BBS1 Mutations n p 23 ( ) % of All Families with BBS1 Mutations No.
+of Families with BBS1 Mutations n p 37 ( ) % of All Families with BBS1 Mutations No.
+of Families with BBS1 Mutations n p 60 ( ) % of All Families with BBS1 Mutations 14 5 19 4 60.9 21.7 82.6 17.4 13 15 28 5 35.1 40.5 75.7 13.5 27 20 47 9 45.0 33.3 78.3 15.0 No.
+of Families n p 259 ) ( % of All Families with BBS 27 20 47 9 10.4 7.7 18.1 3.5 M390R STATUS Homozygotes Heterozygotes Total M390R and mutations elsewherea a These families have also been counted as M390R homozygotes and heterozygotes, depending on the genotype of each family Beales et al.: Triallelic Inheritance in BBS1 available, we could ascertain genotypes for most of each cohort.
+Consistent with a non-Mendelian mode of dis- ease transmission, we identiﬁed two British pedigrees (PB006 and PB029) segregating two copies of M390R in the probands, in which the fathers in each case were homozygous for the common BBS1 mutation, M390R (ﬁgs.
+3A and 3B).Despite careful clinical re-evaluation of these individuals, neither parent displays any features of the BBS phenotype, and marker segregation excluded the possibility of missampling.
+This raises two possibil- ities: either (1) a third allele at an unidentiﬁed locus is necessary for pathogenesis in these two families or (2) a third allele carried by the father but not by the children confers protection against the M390R mutation Elevated M390R allele frequency in the popula- tion.—A third prediction of a multilocus causality model for BBS is that the carrier frequency of the mutations involved in complex inheritance must be greater than predicted for a recessive disorder.
+Evaluation of this pos- sibility has been difﬁcult to date, since the low frequency of the known BBS2, BBS4, BBS6, and BBS7 mutations in patients with BBS could require querying a large num- ber of healthy, unrelated individuals.
+The presence of a common M390R allele in some 18% of BBS patients, however, and the involvement of this allele in several cases of complex inheritance (tables 3 and 4) provided the opportunity to conduct this study We assayed by direct sequencing 658 unrelated con- trol chromosomes for the M390R alteration, 75% of which were of European origin.
+We detected two het- erozygous carriers, indicating that an approximate car- rier frequency in European and North American whites is ∼1:325.
+From our mutational analyses, we concluded that 10.4% of BBS patients are homozygous for this allele (table 4).
+The prevalence of BBS in North America and Europe ranges from 1:100,000 to 1:160,000 (Klein and Ammann 1969; Croft et al.
+1995; Beales et al 1997).
+Therefore, under the idealized conditions of Hardy-Weinberg equilibrium, the carrier frequency of M390R under a recessive model should range from 1: 1,000 to 1:1,200 chromosomes in the general popula- tion.
+This difference is statistically signiﬁcant, since the probability of ﬁnding two M390R mutations in 658 chromosomes by chance alone is only 2% (binomial ex- act test; ).
+From the observed carrier frequency, one would predict that, if the M390R allele always seg- regated with a monogenic phenotype, BBS would be ∼10 times more prevalent than observed (1:11,000) P p .022 1193 Discussion We report the results of a large study between two lab- oratories to screen for mutations in BBS1.
+We investi- gated 259 pedigrees of multiethnic origin, irrespective of the prior detection of mutations in other genes.
+In these families, we identiﬁed 26 different BBS1 mutant alleles, accounting for 23.2% of families in our com- bined cohort.
+The predominance of M390R as the main BBS1 mutation is striking (present in 78.3% of families with BBS1 mutations), suggesting that the M390R allele might be an ancient mutation, especially since the mu- tation is not due to a CpG dinucleotide transition.
+Fur- thermore, genetic analysis across the BBS1 locus indi- cates a common haplotype for all arginine 390–carrying chromosomes (Mykytyn et al.
+2003; authors’ unpub- lished data).
+This might reﬂect positive selective advan- tage for M390R heterozygotes or genetic drift.
+Notably, we found the arginine 390 allele almost exclusively in families of European descent, suggesting this allele might have been ﬁxed in this population Evidence that BBS1 Participates in Triallelic Inheritance Our analyses provide three independent lines of evi- dence supportive of the hypothesis that BBS1 partici- pates in triallelic inheritance.
+First, we identiﬁed several BBS1 families that segregate a total of three mutant al- leles.
+In some instances, two BBS1 alleles cosegregate with a single BBS2, BBS4, or BBS6 allele, whereas, in other cases, a single BBS1 mutation is present in the patients, in conjunction with two mutations in BBS2 or BBS7 (Badano et al.
+2003).Given the rarity of the syn- drome and the low contribution of pathogenic BBS2, BBS4, BBS6, and BBS7 alleles to BBS, the likelihood that these patients are coincidental carriers of mutations in more than one BBS genes is negligible (Katsanis et al 2001a).
+Second, we determined that, in two unrelated families, the father is in each case unaffected and ho- mozygous for the common M390R allele, indicating that two BBS1 mutations are not always sufﬁcient for path- ogenesis.
+Finally, we determined that the carrier fre- quency of the M390R allele in the general population is inconsistent with an exclusively autosomal recessive mode of inheritance.
+The 10-fold difference between the predicted and experimentally determined frequency of BBS in European populations is difﬁcult to explain as merely the result of a diagnostic or selection bias.
+A more Figure 2 Triallelic inheritance involving BBS1.
+A, Pedigree PB56, in which both the affected mother and affected daughter are M390R homozygous and also carry an M472V mutation in BBS4.
+B, Pedigree AR396, in which the affected sib carries two BBS1 mutations (M390R and Q291X) and a BBS6 mutation, S326P.
+C, Family AR241, in which the affected sibs have two BBS2 mutations (R315Q/R315Q; IVS1⫹1G) and a single BBS1 mutation (M390R).
+Dashes indicate that these individuals were either unavailable or unwilling to participate in the study 1194 Am.
+J.Hum.
+Genet.72:1187–1199, 2003 Figure 3 homozygous for the common M390R allele, as are all affected individuals.
+A third mutation has not yet been found in these two families Two M390R mutations are not sufﬁcient for pathogenesis.
+In pedigrees PB006 (A) and PB029 (B), the unaffected father is likely explanation is that the M390R allele is not always fully penetrant.
+We propose that an oligogenic mode of inheritance in BBS may account for some of the non- penetrance of M390R.
+Consistent with this hypothesis, we have determined that 15% of families with BBS1 mutations that carry at least one M390R allele exhibit non-Mendelian trait inheritance (tables 3 and 4).
+We further suggest that nonpenetrance of M390R might stem from a requirement of either a third pathogenic allele in the patients or a third protective allele in the unaffected individuals.
+Since additional BBS loci are likely to be present in the genome (150% of our pedi- grees bear no mutations in the ﬁve known and tested genes, and most can be excluded by linkage from BBS3 and BBS5, the two remaining mapped loci), these alter- native hypotheses cannot yet be evaluated fully A recent study concluded that BBS1 does not exhibit complex inheritance based on the analysis of 43 unre- lated probands with two BBS1 mutations from a cohort of 129 families with BBS (Mykytyn et al.
+2003).Our data are consistent with these observations in that BBS1 does not appear to be commonly involved in complex inheritance with the other known loci.
+In contrast to the conclusions of Mykytyn and colleagues, however, we report several examples in which mutations in BBS1 alone are insufﬁcient for pathogenesis.
+This discrepancy might be due to the difference in the relative size of the cohort in each study.
+Furthermore, our cohort is likely more genetically diverse, since the M390R allele ac- counts for 18% of mutations in our collection (versus 130% in the study by Mykytyn et al.), thereby increasing the probability of detecting more rare allele combina- tions.
+We also note, however, that some analytical as- pects presented by Mykytyn et al.
+(2003) are, a priori, incompatible with testing a hypothesis of complex in- heritance.
+First, evaluation of complex inheritance in families used to establish the presence of a BBS locus by conventional linkage is unlikely to provide useful in- formation, since the presence of complex inheritance may have precluded linkage in the ﬁrst place.
+Second, traditional examination of control chromosomes alone is insufﬁcient evidence to determine the pathogenic effect of any given allele, since mutations participating in com- plex inheritance are expected to have elevated carrier frequency in the general population.
+Finally, we note with interest that Mykytyn et al.
+reported two families with a single BBS1 mutation with no evidence for a second BBS1 allele.
+More signiﬁcantly, they report mis- sense alleles in other BBS loci, which neither represent conservative substitutions nor have been found in con- trol chromosomes but might not segregate with the dis- order.
+We have found two instances in which a third mutant allele exerts a modifying effect on the phenotype and have shown a cellular phenotype for such “nonse- gregating” third alleles (authors’ unpublished data).
+We therefore suggest that some of the mutations reported in table 2 of the recent report by Mykytyn et al.
+might be not benign polymorphisms but pathogenic mutations Prevalence and Distribution of Triallelic Inheritance in BBS From our mutational, genetic, and population data, we conclude that BBS1, like the other known BBS loci, Beales et al.: Triallelic Inheritance in BBS1 participates in both autosomal recessive and oligogenic inheritance.
+However, in contrast to some other BBS loci, the majority of BBS1 mutations appear to segregate in an autosomal recessive fashion.
+Overall, in some 75% of families with BBS1 mutations, two alleles appear suf- ﬁcient for pathogenesis (table 1).
+Comparing these data with the other BBS loci suggests that each gene has a distinct level of involvement in triallelism (ﬁg.
+4A).Al- though the numbers of families with complex mutations in BBS4 and BBS7 are too small for accurate compar- ison, it appears, on the basis of the limited data presently available, that mutations in BBS2 and BBS6 are most frequently insufﬁcient to cause disease by themselves.
+In the triallelic combinations identiﬁed to date, BBS6 con- tributes a single mutant allele three times as often as BBS2 and twice as often as BBS4 (ﬁg.
+4A).Not sur- prisingly, the most frequent BBS gene pairing is between BBS2 and BBS6 (ﬁg.
+4B), although this observation will be corroborated only as additional BBS genes are cloned and more triallelic mutation combinations are ascertained We also note that not all instances of triallelic inher- itance in BBS1 are associated with causality, but some alleles might modify the phenotype.
+We have observed two instances in which the third mutant allele potentially exerts an epistatic effect, since some but not all of the affected sibs harbor three mutant BBS alleles.
+In family PB009, all three affected sibs are homozygous for the common M390R BBS1 mutation, but two of those also have an additional L349W allele in BBS2 (table 3).
+In- triguingly, the two sibs with the three mutations exhibit substantially more-severe retinal dystrophy, suggesting that the L349W BBS2 allele might act as a severity mod- iﬁer.
+Likewise, in a second family, AR768, the presence of a third T325P mutant allele in BBS6 in addition to two BBS1 mutations (table 3) correlates with a sub- stantially more severe phenotype (authors’ unpublished data).
+Given the infrequent occurrence of such geno- types, these correlations will require further substanti- ation.
+It is notable, however, that immunohistochemical analyses have indicated that the T325P substitution has a signiﬁcantly detrimental effect on the cellular locali- zation of the BBS6 protein and is thus more likely to be a loss-of-function allele, rather than a benign variant (authors’ unpublished data) The Nature of Mutations in Triallelic Inheritance Among the oligogenic families with BBS identiﬁed to date, there is one example of alleles in which a null effect is the most probable functional outcome.
+In family AR259, a Q147X BBS6 allele is coupled to two nonsense BBS2 alleles (Y24X and a Q59X) in exons 1 and 2, respectively (Katsanis et al.
+2001a).In the present study, we have found that both the single alleles contributed 1195 by BBS1 and the single alleles from other BBS loci cou- pled to two BBS1 mutations are missense alterations.
+In some cases, the pathogenicity of such alleles can be sub- stantiated by their presence in other families, such as the triallelic M390R allele in family AR241 (ﬁg.
+2C).Oth- erwise, evolutionary and domain analyses are currently the only means of assessing the potential functional im- portance of the affected residues.
+For instance, the me- thionine 472 of BBS4, disrupted by the missense M472V mutation in family PB056, lies in the predicted 13th tetratricopeptide (TPR) motif of BBS4 (our unpublished observations) and is highly conserved during evolution (ﬁg.
+5) Is BBS1 the Only BBS Locus on 11q13? A surprising ﬁnding in our studies was the relative paucity of mutations in the BBS1 ORF.
+Genetic heter- ogeneity (HOMOG) testing and haplotype analyses have suggested that the contribution of BBS1 to BBS would range from 40% to 56% (Beales et al.
+1997; Bruford et al.
+1997; Katsanis et al.1999).
+In the present study, 20.5% of U.K.
+families and 25.2% of U.S.families have mutations in BBS1, which is signiﬁcantly different from P ! .0001 the expected values (total 23.2% vs.
+40%; ) (table 1).
+Several possibilities might account for this ap- parent discrepancy.
+First, larger deletions or insertions not detectable by sequencing could account for some of the missing mutations.
+Second, mutations at regulatory elements or cryptic splice sites would also be missed by our methodology.
+Third, the expected 40%–50% con- tribution for BBS1 might be an overestimation, espe- cially since it is based largely on data from small nuclear families.
+Fourth, there may exist additional BBS1 exons that either were missed by the initial computational as- sembly of this locus or are expressed in a narrow tem- poral window and have thus not been detected by RT- PCR.
+Finally, there might be a second BBS locus on 11q13 Genetic and mutational data suggest that the ﬁrst pos- sibility is unlikely to be a major factor, because (a) anal- ysis of BBS1 SNPs did not yield examples of hemizy- gosity and (b) in only two instances did we ﬁnd a single mutation in pedigrees whose haplotypes are consistent with linkage to 11q13.
+An alternative possibility is that of regulatory element mutations.
+Several pedigrees har- boring a single mutation at another BBS locus (families AR50, AR124, and AR238 for BBS2; family AR153 for BBS4) are predicted, by haplotype analysis, to carry two mutations on 11q13 (Katsanis et al.
+2001a, 2002) yet do not contain mutations in the BBS1 ORF.
+This is rem- iniscent of another oligogenic trait, Hirschsprung dis- ease, in which noncoding mutations in RET on chro- mosome 10q11.2 are associated genetically with mu- tations at a second locus on chromosome 9q31 (Bolk et Figure 4 Analysis of triallelism.
+A, Bar graph demonstrating the distribution of recessive and complex alleles in each of the ﬁve cloned BBS genes.
+The relative contribution of one or two alleles is also indicated.B, Pie chart depicting the prevalence of locus combinations in families with complex BBS.
+Combinations were scored irrespective of the number of alleles provided by each locus.Numbers outside each slice indicate how many families exhibit each locus combination Beales et al.: Triallelic Inheritance in BBS1 1197 Figure 5 Evolutionary analysis of mutations involved in complex inheritance.
+The conservation of each of the mutant BBS1, BBS2, BBS4, and BBS6 alleles involved in complex inheritance was examined by comparing the predicted protein sequences of all known BBS genes with orthologs and homologs from all available species.
+The region around each relevant residue is also shown.Blue represents identities, and yellow represents conservative substitutions al.
+2000).Finally, the possibility of a second BBS locus on 11q13 must be considered, similar to other instances in which two genetically unresolvable loci cause the same phenotype independently (Wang et al.
+2001; Ramoz et al.
+2002).Overall, 15% of pedigrees with haplotypes consistent with mapping to 11q13 bear no mutations in the BBS1 ORF.
+Although the mapping of any of these families to 11q13 might be fortuitous in light of the typically small pedigree size, it is unlikely that 15% of our cohort maps to 11q13 by chance (and simulta- neously has been excluded from each of the other six BBS loci) More importantly, BBS1 lies outside the previously described critical interval (Katsanis et al.
+1999; Young et al.
+1999b).Re-evaluation of the ancestral recombi- nation events indicates that of the four key families with historical recombinants at D11S913, a marker 400 kb proximal to BBS1, three bear no BBS1 coding muta- tions (AR37, AR603, and PB10 (Katsanis et al.
+1999), whereas the fourth family, PB13, is homozygous for M390R but remains genetically inconsistent (by hap- lotype analysis) with the locus, raising the possibility of complex inheritance.
+Of particular note is family AR37, since it generates a multipoint LOD score of 1.8 (the theoretical maximum) for 11q13 (peaking at PYGM) and is recombinant for BBS1, on the basis of both mi- crosatellite and exonic SNP data.
+Whether this is due to a second BBS gene or a long-range control element for BBS1 will require additional experiments BBS as a Model of Oligogenic Inheritance Oligogenic inheritance appears to be a widespread phenomenon, and examples of genetic interaction of mu- tant alleles at different loci have been reported in nu- merous species, including humans (Badano and Katsanis 1198 2002; Ming and Muenke 2002).
+Previously, we docu- mented triallelic inheritance involving BBS2, BBS4, BBS6 (Katsanis et al.
+2000, 2001b), and, more recently, BBS7 (Badano et al.
+2003).These observations may re- ﬂect functional aspects of each protein, such as the abil- ity of cellular redundancy mechanisms to rescue muta- tions at each locus.
+BBS6, a putative type II chaperonin (Stone et al.
+2000), is frequently involved in triallelism, and most families with BBS analyzed to date with mu- tations at this locus carry a single mutation (Beales et al.
+2001; Katsanis et al.2001a; Slavotinek et al.
+2002) This raises the possibility that this molecule might exert its primary effect as a modiﬁer of two mutations at an- other BBS locus Thus far, each identiﬁed BBS gene has been implicated in a complex mode of inheritance at a differing fre- quency, including BBS1.
+In vitro and in vivo dissection of the cellular and biochemical consequences of each BBS allele will be required to understand the precise contribution of each gene to the phenotype.
+Such mod- eling will improve our understanding of oligogenicity, will enhance our ability to predict the phenotype from any given genotype, and will provide genetic, molecular, and statistical tools to model traits of increasing com- plexity of transmission Acknowledgments (National We thank the families reported here, for their willing and continued cooperation in these investigations, and D.
+Cutler and A.
+McAllion, for their thoughtful critique of our manu- script.
+We sincerely thank Alan Fryer and Angela Barnicoat, for providing samples and clinical information, and Christo- pher Bell, for assistance with sequence analysis.
+This study was supported in part by National Institute of Child Health and Development Institutes of Health) grant R01 HD04260 (N.K.), the March of Dimes (N.K.
+and J.R.L.), the Foundation Fighting Blindness (J.R.L.
+and R.A.L.), National Eye Institute (National Institutes of Health) grant R01 EY13255 (J.R.L.
+and R.A.L.), the National Kidney Research Fund (B.E.H.), Research to Prevent Blindness (R.A.L.), the Wellcome Trust (P.L.B.), and the Birth Defects Foundation (A.J.R.
+and P.L.B.).R.A.L.
+is a Research to Prevent Blindness Senior Scientiﬁc Investigator.
+P.L.B.is a Wellcome Trust Senior Research Fellow Electronic-Database Information Accession numbers and URLs for data presented herein are as follows: BLAT search engine, http://genome.ucsc.edu/cgi-bin/hgBlat ?commandpstart Genome Database, http://www.gdb.org Online Mendelian Inheritance in Man (OMIM), http://www .ncbi.nlm.nih.gov/Omim/ (for BBS) Am.
+J.Hum.

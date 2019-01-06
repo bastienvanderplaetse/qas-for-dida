@@ -1,0 +1,141 @@
+Introduction Junctional epidermolysis bullosa (JEB), a genetically heterogeneous group of blistering skin diseases, can be caused by mutations in the genes encoding laminin 5 or collagen XVII, which are components of the hem- idesmosome-anchoring ﬁlament complex in the skin Here, a family with severe nonlethal JEB and with mutations in genes for both proteins was identiﬁed The index patient was compound heterozygous for the COL17A1 mutations L855X and R1226X and was heterozygous for the LAMB3 mutation R635X As a consequence, two functionally related proteins were affected.
+Absence of collagen XVII and attenu- ated laminin 5 expression resulted in rudimentary hemidesmosome structure and separation of the epi- dermis from the basement membrane, with severe skin blistering as the clinical manifestation.
+In contrast, single heterozygotes carrying either (1) one or the other of the COL17A1 null alleles or (2) a double heterozygote for a COL17A1 and a LAMB3 null allele did not have a pathological skin phenotype.
+These observations indicate that the known allelic hetero- geneity in JEB is further complicated by interactions between unlinked mutations.
+They also demonstrate that identiﬁcation of one mutation in one gene is not sufﬁcient for determination of the genetic basis of JEB in a given family Received July 15, 1999; accepted September 8, 1999; electronically published November 8, 1999 Address for correspondence and reprints: Dr.
+Leena Bruckner-Tud- erman, Department of Dermatology, University of Mu¨ nster, Von-Es- march-Strasse 56, 48149 Mu¨ nster, Federal Republic of Germany.
+E- mail: tuderma@uni-muenster.de 䉷 1999 by The American Society of Human Genetics.
+All rights reserved 0002-9297/1999/6506-0008$02.00 1530 Junctional epidermolysis bullosa (JEB) refers to a het- erogeneous group of recessively inherited disorders with skin fragility, ultrastructurally abnormal hemi- desmosomes (McMillan et al.
+1998), and separation of the epidermis from the basement membrane.
+JEB includes several subtypes, varying from lethal JEB Herlitz (MIM 226700) to mild acral affection (Gedde- Dahl and Anton-Lamprecht 1996; Bruckner-Tuder- man, in press), that are caused by mutations in at least six different genes encoding components of the hemi- desmosome-anchoring ﬁlament complex in the skin, laminin 5, a6b4 integrin, and collagen XVII (Pulk- kinen and Uitto 1999) JEB Herlitz is a severe condition that results in premature demise of the affected individuals with- in a few months of birth.
+Mutations in the three genes—LAMA3, LAMB3, and LAMC2—encoding the a3, b3, and g2 polypeptide subunits of laminin 5 underlie this subtype (Pulkkinen and Uitto 1999) Characteristically, premature termination codons in both alleles of any of these three genes signify poor prognosis as a result of absence of laminin 5 in the skin of the affected individuals.
+In contrast, rare mis- sense mutations in one or both alleles are associated with relatively mild phenotypes (McGrath et al 1996a) Generalized atrophic benign epidermolysis bullosa (GABEB [MIM 226650]) represents a nonlethal subtype with blistering, skin atrophy, alopecia, nail dystrophy, and dental anomalies.
+COL17A1 gene mutations un- derlie the majority of GABEB cases (McGrath et al 1995, 1996b, 1996c; Chavanas et al.
+1997; Gatalica et al.
+1997; Jonkman et al.1997; Schumann et al.
+1997; Floeth et al.
+1998; Darling et al.1999).
+Most of these are homozygous or heterozygous mutations leading to a premature-termination codon and absence of collagen XVII in the skin, whereas missense mutations in one or both alleles are associated mainly with acral blistering and mild skin atrophy (Schumann et al.
+1997) Laminin 5 and collagen XVII are components of the hemidesmosome-anchoring ﬁlament complex at the dermal/epidermal junction (Rousselle et al.
+1997; Floeth and Bruckner-Tuderman: Digenic Junctional Epidermolysis Bullosa 1531 Scha¨ cke et al.
+1998).This complex is pivotal for a stable association between the epidermis and the un- derlying dermis.
+It consists of (1) hemidesmosomes that extend from the intracellular space of basal ker- atinocytes to the basement membrane zone and (2) anchoring ﬁlaments—threadlike structures that ex- tend from the hemidesmosomes to the underlying lam- ina densa of the basement membrane.
+Hemidesmo- somes contain at least four proteins that display deﬁned interactions with each other, as well as with other components of the basement membrane.
+These are the cytoskeleton-associated proteins BP230 and plectin and the transmembrane components collagen XVII and a6b4 integrin (Nievers et al.
+1999).The anchoring ﬁlaments contain laminin 5, a member of the laminin family of proteins, which consists of the a3, b3, and g2 chains encoded by distinct genes LAMA3, LAMB3, and LAMC2 (Aumailley and Rous- selle 1999).
+The extracellular domain of collagen XVII is likely to contribute to the structure of the anchoring ﬁlaments, since it colocalizes with laminin 5 (Masun- aga et al.
+1997) and binds to it in vitro (Reddy et al 1998) Here we describe a family with JEB that has abnormal expression of two functionally related proteins, collagen XVII and laminin 5, that is caused by mutations in two unlinked genes.
+The absence of collagen XVII and the reduction in the amount of laminin 5 in the skin lead to a severe blistering phenotype with features of both the lethal Herlitz and the nonlethal GABEB subtypes Material and Methods Clinical and Diagnostic Features The male proband, who is now 2 years old, is a prod- uct of a nonconsanguineous union.
+The parents and two half-sisters were unaffected, and there was no family history of skin or genetic diseases.
+The proband was born with acral skin blistering and with large erosions of the feet and shins.
+Within days, the ﬁngertips were affected in a paronychia-like fashion, the mucous mem- branes were involved, and the pressure-prone areas in the back and buttocks were severely affected.
+Diagnostic electron microscopy of a postnatal skin-biopsy specimen revealed separation of the epidermis from the dermis, along the lamina lucida of the basement membrane and rudimentary hemidesmosomes.
+JEB Herlitz was sus- pected, and a subsequent mutation screening (T.
+Gedde- Dahl Jr., personal communication) revealed the presence of the heterozygous LAMB3 mutation R635X (Kivi- rikko et al.
+1996).Lethal JEB Herlitz was diagnosed However, at the age of 7 mo, the proband had normal body weight and height, generalized skin blistering with emphasis in acral areas (ﬁg.
+1), mild affection of oral Figure 1 Phenotype of the proband.
+The clinical phenotype in- cluded features of both the GABEB and JEB Herlitz subtypes.
+A, Pro- band seen, at the age of 7 mo, with generalized skin blistering but with minimal involvement of the mucous membranes and with normal body height and weight.
+B, Paronychia-like affection of the ﬁngers, as typically seen in JEB Herlitz mucosa, and no involvement of internal organs.
+In the course of the disease, the symptoms remained stable, with the blistering being more severe at trauma-exposed and pressure-prone areas.
+The lesions resolved without scarring but with a mild skin atrophy, possibly as a con- sequence of secondary inﬂammatory processes.
+Dystro- phy of all nails developed, whereas mucous membranes remained mildly affected.
+The teeth were dystrophic.A slight frontal alopecia was noted at the age of 18 mo On examination of the family members, no skin blis- tering or nail dystrophy was observed, but the mother and both half-sisters presented with dental anoma- lies—that is, enamel hypoplasia and pitting Skin-biopsy specimens were obtained from the index patient and from both parents, and blood samples for mutation analysis were obtained from affected and un- affected family members.
+This study was approved by the institutional review board for human studies at the University of Mu¨ nster, and informed consent was ob- tained from the family members before the tissue and blood samples were taken Mutation Detection Genomic DNA was isolated from peripheral blood by use of the QIAAmp Blood Kit (QIAGEN), accord- ing to the manufacturer’s instructions.
+PCR ampliﬁ- cation of COL17A1 exons 37 and 51 was performed as described elsewhere (Gatalica et al.
+1997; see also GenBank).
+The primers used for ampliﬁcation of COL17A1 exon 37 were as follows: sense primer 5(cid:1)- AGAGGTGAGAAGTGTGGCAG-3(cid:1) and antisense primer 5(cid:1)-GCAGAAGAGAGCAAGGAAGA-3(cid:1).
+The size of the PCR product was 261 bp.
+Primers used for 1532 Am.
+J.Hum.
+Genet.65:1530–1537, 1999 ampliﬁcation of COL17A1 exon 51 were as follows: sense primer 5(cid:1)-TTTCTCTCCTCCCATCACCC-3(cid:1) and antisense primer 5(cid:1)-TGTCCCTTTAAGTGCCT CCC-3(cid:1).
+The size of the PCR product was 374 bp Heteroduplex analysis was performed as described by Ganguly et al.
+(1993), and heteroduplex-forming PCR products were sequenced by an automated sequencer (Genome Express).
+The mutation screening in LAMB3 exon 14 was performed as described elsewhere (Ki- virikko et al.
+1996).The primers used for ampliﬁca- tion of the LAMB3 exon 14 were as follows: sense primer 5(cid:1)-GCTGCGACTTCTGTTATTCT-3(cid:1) and an- tisense primer 5(cid:1)-AAATGTAAGGAAGGACCAGC-3(cid:1) The size of the ampliﬁcation product was 578 bp.
+The mutation was veriﬁed by both BglII digestion and di- deoxynucleotide sequencing Northern Blotting mRNA was isolated from cultured JEB and control keratinocytes, with the use of the Oligotex Direct mRNA Minikit (QIAGEN).
+For northern blotting, 1.5 mg mRNA was separated on formaldehyde-containing agarose gels and was then capillary transferred onto a positively charged nylon membrane.
+For hybridi- zation, two probes were used—a collagen XVII cDNA (Floeth et al.
+1998) and a LAMB3 ampliﬁcation prod- uct—which were labeled by use of the digoxigenin DNA Labeling Kit (Roche Diagnostics).
+Detection was with alkaline phosphatase–labeled digoxigenin anti- bodies and with chlordioxetan phenyl phosphate CDP-Star chemiluminiscence substrate (Roche Diag- nostics).
+Densitometric analysis of the bands was quantitated with the use of the BIO PROFIL software program (Vilber Lourmat France 96) Immunodetection of Proteins Indirect immunoﬂuorescence staining of skin cryosec- tions was performed by standard techniques and with the following primary antibodies: monoclonal antibod- ies 1A8C to the intracellular domain of collagen XVII and 1D1 to the extracellular domain of collagen XVII (generously provided by Dr.
+K.Owaribe, School of In- formatics and Sciences, Nagoya, Japan), cytokeratins (Dako), BP230 (a high-titer autoantiserum from a pem- phigoid patient), a6 and b4 integrins (Gibco Life Tech- nologies), collagen IV (Dako), chain-speciﬁc antibodies to laminin 5 (a3- and b2-chain antibodies BM-165 and 6F12, respectively, which were kind gifts of Dr.
+R.Burge- son, Cutaneous Biology Research Center, Harvard Med- ical School, Cambridge, MA), g2-chain antibody GB3 (kindly provided by Dr.
+J.-P.Ortonne, University of Nice, France), and collagen VII (Bruckner-Tuderman et al 1995) Results Identiﬁcation and Veriﬁcation of Mutations Since the proband’s phenotype had features of both the JEB-Herlitz and GABEB subtypes, mutations in both LAMB3 and COL17A1 were analyzed.
+The LAMB3 mutation R635X was traced by PCR ampliﬁcation of exon 14, followed by BglII digestion of the PCR prod- ucts (Kivirikko et al.
+1996).Dideoxynucleotide sequenc- ing revealed, at nucleotide position 1903 of the LAMB3 cDNA, a CrT transition that caused a premature-ter- mination codon.
+Veriﬁcation by BglII digestion showed also that the mother was heterozygous for this mutation (ﬁg.
+2) COL17A1 mutation screening included PCR am- pliﬁcation of genomic DNA and heteroduplex analysis of the PCR products (Gatalica et al.
+1997).Broadened bands of exons 37 and 51 in conformation-sensitive gel electrophoresis suggested heteroduplex formation and, therefore, heterozygosity.
+Dideoxynucleotide se- quencing showed that the index patient was hetero- zygous for a 2669TrG transversion in exon 37, a novel nonsense mutation designated “L855X” (ﬁg.
+2) Veriﬁcation with AspI digestion demonstrated that his father and paternal grandmother were heterozygous for this mutation.
+The proband was also heterozygous for a 3781CrT transition in exon 51, which was des- ignated “R1226X” (McGrath et al.
+1995; Jonkman et al.
+1997; Schumann et al.1997).
+Veriﬁcation with TaqI digestion demonstrated that his mother and both half-sisters were heterozygous for this mutation.
+Both COL17A1 mutations caused a premature-termination codon and were not found in 150 chromosomes of asymptomatic unrelated individuals.
+The presence of the LAMB3 mutation R635X was investigated, by BglII digestion, in the genomic DNA of 16 unrelated patients with either GABEB or localized JEB and in that of 26 asymptomatic COL17A1 mutation carriers; however, it was not found in any of the samples Expression of COL17A1 and LAMB3 mRNA Northern blots with normal keratinocyte mRNA showed a strong 6-kb collagen XVII mRNA signal (ﬁg 3).
+In contrast, mRNA from the patient’s keratinocytes produced no signal, suggesting nonsense-mediated mRNA decay in these cells (Hentze and Kulozik 1999) Hybridization of the normal mRNA with a LAMB3 cDNA probe showed a strong 3.5-kb laminin 5 b3 sig- nal, but mRNA from the patient’s keratinocytes pro- duced a clearly weaker band (ﬁg.
+3).Densitometric scanning of the LAMB3 bands, in relation to the glyc- eraldehyde-phosphate-dehydrogenase signals, indica- Floeth and Bruckner-Tuderman: Digenic Junctional Epidermolysis Bullosa 1533 Figure 2 Pedigree and LAMB3 and COL17A1 mutations.
+A, Pedigree demonstrating recessive inheritance of the mutations.Areas with horizontal stripes indicate paternal COL17A1 mutations; dotted areas, maternal COL17A1 mutations; blackened areas, maternal LAMB3 mutations.
+B, Paternal COL17A1 mutation, which was novel—a heterozygous 2669 TrG transversion in exon 37—and was designated “L855X.” Veriﬁcation of the mutation by AspI digestion demonstrated that the father and the paternal grandmother were heterozygous for this mutation C, Maternal COL17A1 mutation, which was a heterozygous 3781CrT transition in exon 51 and was designated “R1226X” (McGrath et al 1995; Jonkman et al.
+1997; Schumann et al.1997).
+The mutation was also found, by TaqI digestion, in the mother’s and both the half-sisters’ DNA, but it was not found in a control or in the father.
+D, LAMB3 mutation R635X (Kivirikko et al.1996), which was veriﬁed by both BglII digestion of the PCR ampliﬁcation products of exon 14 and by dideoxynucleotide sequencing (not shown).
+In addition to the proband, the mother was heterozygous for this mutation.
+In B–D, the numbers above the agarose-gel images denote the individuals in the pedigree, and “C” denotes the control ted that the JEB cells contained 55% of the LAMB3 mRNA of control keratinocytes Collagen XVII and Laminin 5 Protein in the Skin Indirect immunoﬂuorescence staining with collagen XVII and laminin 5 antibodies showed a linear signal along the basement-membrane zone of normal skin (ﬁg.
+4A and B).In the skin of the patient, staining with different domain-speciﬁc collagen XVII antibod- ies was negative (ﬁg.
+4C), whereas staining with chain- speciﬁc antibodies to the laminin 5 a3, b3, and g2 chains showed a positive ﬂuorescent signal—but 1534 Figure 3 Northern blotting of collagen XVII and laminin 5 mRNA.
+A strong signal of the 6-kb collagen XVII mRNA was detected in control keratinocytes (left panel).
+In contrast, collagen XVII mRNA that was isolated from the JEB patient’s keratinocytes (left panel) pro- duced a negative signal, suggesting nonsense-mediated mRNA decay in these cells.
+The blot was intentionally overexposed to reveal po- tentially small amounts of mRNA in the patient’s cells.
+When laminin 5 cDNA was used for hybridization, a strong 3.5-kb laminin 5 mRNA band was seen in normal keratinocytes (right panel).
+The keratinocytes of the patient with JEB produced a clearly weaker band (right panel) GAPDH cDNA was used as a reference probe to correct for minor differences in RNA loading.
+Densitometric analysis of the laminin 5 signals indicated that the patient’s cells contained ∼55% of the laminin 5 mRNA seen in controls.
+C = control; Pat = patient weaker than that seen in controls (ﬁg.
+4D).This ﬁnd- ing, together with the northern blot signals, suggested that the JEB skin contained lower amounts of laminin 5 than did the control skin and that the synthesis of the b3 chain was not compensatorily up-regulated.
+In spontaneously blistered skin of the proband, antibod- ies to cytokeratins, BP230, and a6 and b4 integrins bound to the blister roof, and the antibodies to col- lagens IV and VII bound to the blister ﬂoor.
+This stain- ing pattern was congruent with junctional-tissue sep- aration (Hintner et al.
+1981).Immunoﬂuorescence staining patterns of the parents’ skin samples were indistinguishable from those of controls Discussion Digenic mutations have been reported in a few human diseases, such as retinitis pigmentosa (Kajiwara et al 1994; Dryja et al.
+1997), nonsyndromic hereditary hear- ing loss (Balciuniene et al 1998), and Waardenburg syn- drome type 2 and autosomal recessive ocular albinism (Morell et al.
+1997).The most extensively studied di- genic disease is retinitis pigmentosa caused by mutations in the unlinked genes ROM1, on chromosomal locus Am.
+J.Hum.
+Genet.65:1530–1537, 1999 11q, and periferin/RDS, on locus 6p, both of which en- code the polypeptide subunits of a photoreceptor protein complex.
+In Waardenburg syndrome type 2 in conjunc- tion with ocular albinism, the phenotype has been sug- gested to result from digenic interactions between a gene for the transcription factor microphthalmia-associated transcription factor and a gene, TYR, that it regulates and that encodes tyrosinase (Morell et al.
+1997) We identiﬁed digenic mutations in two unlinked genes, LAMB3 and COL17A1, in subjects with JEB.
+The for- mer gene is localized on chromosomal locus 1q32, the latter on 10q24.3.
+Homozygous or compound-hetero- zygous mutations in either gene have been known to be associated with JEB (Pulkkinen and Uitto 1999), but the present observations demonstrate that digenic interac- tions can cause additional heterogeneity.
+Similar to the ROM1 and the periferin/RDS gene products, which are polypeptide components of a transmembrane-protein complex in the retinal photoreceptors, the affected mol- ecules in JEB are structural proteins of the hemides- mosome-anchoring ﬁlament complex, an oligomeric transmembrane-protein complex in the epidermis.
+Like rom-1 and periferin/rds, laminin 5 and collagen XVII have been postulated to be functionally related (Reddy et al.
+1998), and our recent data indeed demonstrate Figure 4 Collagen XVII and laminin 5 protein expression in situ.
+Indirect immunoﬂuorescence staining of control (A and B) and JEB (C and D) skin biopsy specimens, with antibodies to collagen XVII (A and C) and laminin 5 (B and D).
+In normal skin, both collagen XVII (A) and laminin 5 (B) antibodies showed a linear ﬂuorescence at the dermal-epidermal junction.
+In the proband’s skin, collagen XVII was absent (C ), and the laminin 5 staining was attenuated (D) Floeth and Bruckner-Tuderman: Digenic Junctional Epidermolysis Bullosa 1535 that these two trimeric proteins interact noncovalently in vitro (M.
+Aumailley, K.Tasanen, and L.
+Bruckner- Tuderman, unpublished observation).
+In the absence of collagen XVII from the skin, half-normal amounts of laminin 5 seem insufﬁcient for formation of functional hemidesmosome-anchoring ﬁlament complexes.
+In anal- ogy, the periferin/RDS mutant L185P cannot form na- tivelike homotetramers on its own (Goldberg and Mol- day 1996), but it can assemble with wild-type rom-1 to form structurally normal heterotetramers.
+However, if rom-1 is also defective, a pathological phenotype results The mutation R635X is one of two known recurrent LAMB3 mutations in JEB Herlitz; the other is R42X (Kivirikko et al.
+1996).Identiﬁcation of these two pre- dominant gene defects has led to a mutation-detection strategy for JEB Herlitz that ﬁrst analyzes, by restriction- enzyme digestions, the LAMB3 gene for these two com- mon mutations and that then, if the results are negative, continues with heteroduplex scanning of the other LAMB3 exons and, ﬁnally, of the other laminin 5–en- coding genes (Pulkkinen et al.
+1997).This procedure was also followed in the case of the present proband with clinical and ultrastructural features suggestive of JEB Herlitz.
+The disclosure of the heterozygous R635X mu- tation endorsed the initial diagnosis of JEB Herlitz and led to counseling of the parents about poor prognosis and early demise of the proband.
+However, the course of the disease—that is, normal growth and lack of in- volvement of internal organs at the age of 7 mo—were not typical of JEB Herlitz.
+Subsequent antigen mapping of the skin basement-membrane zone revealed the ab- sence of collagen XVII, thus identifying a second can- didate gene Mutation screening of COL17A1 disclosed compound heterozygosity for nonsense mutations in this gene.
+Such genetic constellations are known in GABEB, but the clin- ical phenotype of the present proband was more exten- sive, showing features of both GABEB and JEB Herlitz In general, GABEB phenotypes caused by COL17A1 mutations are milder and lack paronychia-like affection of the ﬁngers and toes and severe affection of the but- tocks.
+It seems that the severe phenotype and the JEB Herlitz–like features of the present proband resulted from digenic interactions.
+Biologically, lack of collagen XVII leads to weakened hemidesmosome-cytoskeleton and hemidesmosome-anchoring ﬁlament interactions.
+In this case, the extracellular interactions are additionally severed, since laminin 5 expression is reduced to half, as indicated by reduced mRNA levels in keratinocytes and by attenuated protein expression in the skin This family also reveals a novel aspect of skin biology The mother of the proband is a double heterozygote for a null allele of both LAMB3 and of COL17A1.
+She shows that 50% reduction of the expression level of both gene products is tolerable and that it does not lead to skin fragility, if the other components of the hemides- mosome-anchoring complex are normal.
+So far, on the basis of the knowledge that single heterozygotes for non- sense mutations in JEB genes are unaffected, the hy- pothesis has been that 50% reduction in one protein of the complex does not attenuate epidermal adhesion.
+The mother now demonstrates that more-extensive biologi- cal safeguard measures exist for the protective functions of the epidermis than was previously assumed.
+In this context, the dental abnormalities of the mother and other heterozygous mutation carriers are also interest- ing.
+In the literature, enamel hypoplasia and pitting have been described in two siblings with the heterozygous COL17A1 mutation G627V (McGrath et al.
+1996c), but no reports exist on dental abnormalities in heterozygotes with mutations in the genes encoding laminin 5, in spite of the fact that laminin 5 is expressed in the ameloblast basement membrane (Aberdam et al.
+1994).Further dis- section of the qualitative and quantitative role of the individual anchoring-complex proteins in epidermal or ameloblast adhesion obviously will not be possible in humans; however, mouse models for null alleles of the genes encoding these components—such as the laminin b3 chain (Kuster et al.
+1997), the a6 (Georges-Labouesse et al.
+1996) and b4 (van der Neut et al.1996) integrins, collagen VII (Ma¨nnikko¨ et al.
+1999), or collagen XVII—will be useful for such studies This report provides a protein-level rationale for di- genic interactions of COL17A1 and LAMB3 and ex- tends the spectrum of genetic heterogeneity in JEB.
+Fur- thermore, it emphasizes that the identiﬁcation of one mutation in one gene is not sufﬁcient for determination of the genetic basis of JEB in a given family, a matter that is of utmost importance for the genetic counseling and prenatal diagnosis of affected individuals Acknowledgments The authors thank Ms.
+M.Schubert and Ms.
+A.Wissel, for excellent technical assistance.
+Dr.Tobias Gedde-Dahl, Jr., University of Oslo, Norway, is gratefully acknowledged, for haplotyping the family and for identifying the laminin b3 mutation.

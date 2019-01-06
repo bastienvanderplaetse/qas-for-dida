@@ -1,0 +1,48 @@
+Abstract In the last several years, mutations of sodium channel genes, SCN1A, SCN2A, and SCN1B, and GABAA receptor gene, GABRG2 were identiﬁed as causes of some febrile seizures related epilepsies.
+In 19 unrelated Japanese families whose probands had febrile seizures plus or epilepsy following febrile seizures plus, we identiﬁed 2 missense mutations of SCN1A to be responsible for the seizure phenotypes in two FS+ families and another mutation of SCN2A in one family.
+The combined frequency of SCN1A, SCN2A, SCN1B, SCN2B, and GABRG2 mutations in Japanese patients with FS+ was 15.8%.
+One family, which had R188W mutation in SCN2A, showed digenic inheritance, and another modiﬁer gene was thought to take part in the seizure phenotype The phenotypes of probands were FS+ in 5, FS+ and partial epilepsy in 10, FS+ and generalized epilepsy in 3, and FS+ and unclassiﬁed epilepsy in 1.
+We proposed the term epilepsy with febrile seizures plus (EFS+), because autosomal-dominant inheritance in EFS+ might be rare, and most of EFS+ display a complex pattern of inheritance, even when it appears to be an autosomal-dominant inheritance.
+There is a possibility of simultaneous involvement of multiple genes for seizure phenotypes © 2006 Elsevier B.V.
+All rights reserved Keywords: Febrile seizures plus; Febrile seizure; Na+-channel; GABAA receptor; Partial epilepsy; Severe myoclonic epilepsy of infancy 1.
+Introduction The responsible genes for certain familial epilep- sies have recently been identiﬁed.
+Genes identi- ∗ Corresponding author.
+Tel.: +81 77 582 6200; fax: +81 77 582 6304 E-mail address: ito-mccs@mx.biwa.ne.jp (M.
+Ito) 0920-1211/$ – see front matter © 2006 Elsevier B.V.
+All rights reserved doi:10.1016/j.eplepsyres.2005.11.028 ﬁed as involved in febrile seizures related epilepsy are listed in Table 1.
+Mutations in the voltage- gated Na+-channel ␣1, ␣2, and ␤1, and the gamma aminobutyric acid (GABAA) receptor ␥2 subunits genes were found as a cause of some febrile seizures related epilepsies (Wallace et al., 1998, 2001a,b; Sugawara et al., 2001a,b, 2002; Escayg et al., 2000; Claes et al., 2001; Fujiwara et al., 2003; Ohmori S200 M.
+Ito et al./ Epilepsy Research 70S (2006) S199–S205 Table 1 Responsible genes for febrile seizure related epilepsy Disorder GEFS+1 GEFS+2 SMEI Borderline SMEI ICEGTC FS+ and partial epilepsy GEFS+3 FS+ and absence SMEI Chromosome 19q13.1 2q24 2q24 2q24 2q24 2q23–q24.3 5q34 5q34 5q34 Genes (product) SCN1B (Na+-channel) SCN1A (Na+-channel) SCN1A (Na+-channel) SCN1A (Na+-channel) SCN1A (Na+-channel) SCN2A (Na+-channel) GABRG2 (GABAA receptor) GABRG2 (GABAA receptor) GABRG2 (GABAA receptor) et al., 2002; Baulac et al., 2001; Harkin et al., 2002) 3.
+Results Reference Wallace et al.
+(1998) Wallace et al.
+(2001a) Sugawara et al.
+(2001a) Escayg et al.
+(2000) Claes et al.
+(2001) Sugawara et al.
+(2002) Fujiwara et al.
+(2003) Sugawara et al.
+(2002) Ohmori et al.
+(2002) Fujiwara et al.
+(2003) Sugawara et al.
+(2001b) Baulac et al.
+(2001) Wallace et al.
+(2001b) Kananura et al.
+(2002) Harkin et al.
+(2002) 2.
+Subjects and methods In 1997, Scheffer and Berkovic originally used the term febrile seizures plus (FS+) to describe the pheno- type of individuals who have febrile seizures extending beyond 6 years of age, with or without afebrile gen- eralized tonic-clonic seizures (GTCS) (Scheffer and Berkovic, 1997) In this study, we deﬁned the term febrile seizures plus as follows.
+Individuals who demonstrate febrile seizures extending beyond 6 years of age with or with- out afebrile GTCS.
+Or, individuals under 6 years of age who demonstrate multiple febrile seizures and afebrile GTCS without epileptic discharges on EEG at the ﬁrst afebrile seizure.
+Individuals with developmental delay or neurological abnormalities at the onset of febrile seizures were excluded We analyzed 19 unrelated Japanese families whose probands had febrile seizures plus or epilepsy follow- ing febrile seizures plus.
+Neurological examination, EEG, MRI, and analysis of sodium channel genes, SCN1A, SCN2A, SCN1B, and SCN2B, and GABAA receptor gene, GABRG2 were performed in probands and available family members The clinical and genetic characteristics of probands with FS+ families are shown in Table 2.
+There were 12 males and 7 females.
+The present ages ranged from 6 years and 2 months to 18 years.
+Ages at onset of febrile seizures ranged from 6 months to 4 years and 1 month.
+Ages of offset of febrile seizures ranged from 2 years and 3 months to 13 years and 1 month.
+Febrile seizures were frequent (more than 10 times) in 9, and afebrile GTCS were frequent in 5.
+MRI was examined in 13 patients and showed no abnormalities.
+Cases A and B had disease mutations in SCN1A, and case C had a disease mutation in SCN2A.
+There were no disease mutations in SCN1B, SCN2B, and GABRG2 Ten subjects (from A to J) had partial seizures and focal epileptic discharges on EEG, and were diagnosed as having FS+ and partial epilepsy.
+Three subjects (from K to M) were diagnosed as having FS+ and gen- eralized epilepsy, because they showed afebrile GTCS beyond 6 years of age with diffuse epileptic discharges One subject (N) was diagnosed as having FS+ and unclassiﬁed epilepsy.
+Five subjects (from O to S) were diagnosed as FS+, because febrile seizures persisted beyond 6 years of age or afebrile GTCS was demon- strated.
+Most patients were treated with antiepileptic drugs, except for two patients.
+Fourteen patients have not had any seizures during the past 1-year.
+In the Table 2 Clinical and genetic characteristics of the probands with FS+ families Pt Age at onset to offset of FS Present age Sex 10 years 10 months–7 years 7 months 10 years 8 months–6 years 2 months >15 (>15) 8 years 8 months–6 years 1 month >15 (5) 9 years 1 year–4 years 2 months >15 (1) N MRI Disease mutation A1674V (SCN1A) V1417A (SCN1A) R188W (SCN2A) NF N N N No.
