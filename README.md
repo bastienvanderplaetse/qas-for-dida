@@ -1,4 +1,4 @@
-# Text-mining for DIDA publications
+# QAS for DIDA publications
 Project realised in the context of my Scientific Research Trip in the [Machine Learning Group](http://mlg.ulb.ac.be/) at the Université Libre de Bruxelles.
 
 [DIDA](http://dida.ibsquare.be/) is a novel database created by Andrea Gazzo and colleagues at [IB²](http://ibsquare.be/) in 2017. Its goal is to provide detailed information about digenic diseases, as well as as the variants and genes involved.
